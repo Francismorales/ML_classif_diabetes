@@ -14,7 +14,7 @@ Data was extracted by using web scraping, by connecting to different APIs and by
 6. National Centers for Environmental Information: https://www.ncdc.noaa.gov/
 7. Wikipedia: https://en.wikipedia.org/wiki/User:Michael_J/County_table
 
-![alt text](https://github.com/Francismorales/ML_classif_diabetes/master/images/Label_Distribution2.PNG)
+![alt text](https://github.com/Francismorales/ML_classif_diabetes/blob/master/images/Label_Distribution2.PNG)
 
 ## **Folders**:
 - **DATA**: Data files are stored on this folder. The data was obtained from multiple sources using Web scrapping, connecting to APIs, and downloading it directly from websites. 
