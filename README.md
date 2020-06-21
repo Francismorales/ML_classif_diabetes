@@ -37,11 +37,13 @@ This notebook has the step-by-step Web Scrapping process used to collect McDonal
 For the McDonald's restaurant count, the web scrapping data quality was checked using Google Maps: Places API. I wrote a couple of blog posts explaining this process: 
 
 **Web Scraping:**  https://medium.com/swlh/web-scraping-for-data-collection-d41c6505235d
+
 **Google Maps: Places API:** https://medium.com/swlh/google-maps-places-api-28b8fdf28082
 
 
 
 ### DATA
+Folder with files dowloaded from data sources. This folder is called from the **ML_classifDiabetes.ipynb**, therefore you need to make sure to have this folder and all its files saved to the directory were you run your jupyter notebook. 
 
 Data files are stored on this folder. The data was obtained from multiple sources using Web scrapping, connecting to APIs, and downloading it directly from websites. 
 
