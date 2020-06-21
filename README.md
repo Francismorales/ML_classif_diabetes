@@ -1,7 +1,7 @@
 # ML_classif_diabetes
 Machine Learning classification system to determine the level of diabetes in the population of US counties.
 
-### About the Dataset
+### ABOUT THE DATASET
 A total of **820 samples** of data with **50 variables** containing US counties economic features, demographics, geographic coordinates, weather components & food access were used for the study. Labels were defined as High/Medium/Low based on the percentages of diabetes of each county.
 
 ![alt text](https://github.com/Francismorales/ML_classif_diabetes/blob/master/images/Label_Distribution2.PNG)
@@ -18,7 +18,9 @@ List of data sources with links:
 6. National Centers for Environmental Information: https://www.ncdc.noaa.gov/
 7. Wikipedia: https://en.wikipedia.org/wiki/User:Michael_J/County_table
 
-### ML_classifDiabetes.ipynb
+## FILES & FOLDERS
+
+#### ML_classifDiabetes.ipynb
 
 This is the main jupyter notebook. Below are the sections within the notebook: 
 
@@ -28,20 +30,20 @@ This is the main jupyter notebook. Below are the sections within the notebook:
       3. Machine Learning classification algorithms: Random Forests, SVM, K-NN, AdaBoost and Gradient Boosting classifiers
       4. Results summary 
 
-### MLDiabetes_WebScraping.ipynb
+#### MLDiabetes_WebScraping.ipynb
 
 This notebook has the step-by-step Web Scrapping process used to collect McDonald's, weather & county coordinates data. 
 
 For the McDonald's restaurant count, the web scrapping data quality was checked using Google Maps: Places API. I wrote a couple of blog posts explaining this process: 
 
 **Web Scraping:**  https://medium.com/swlh/web-scraping-for-data-collection-d41c6505235d
-
 **Google Maps: Places API:** https://medium.com/swlh/google-maps-places-api-28b8fdf28082
 
 
 
-## **Folders**:
-- **DATA**: Data files are stored on this folder. The data was obtained from multiple sources using Web scrapping, connecting to APIs, and downloading it directly from websites. 
+### DATA
+
+Data files are stored on this folder. The data was obtained from multiple sources using Web scrapping, connecting to APIs, and downloading it directly from websites. 
 
 ML_classifDiabetes.ipynb has an explanation of the data source, data dowload method 
 
