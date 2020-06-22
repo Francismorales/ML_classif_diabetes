@@ -37,6 +37,7 @@ This is the main jupyter notebook. Below are the sections within the notebook:
 #### MLDiabetes_WebScraping.ipynb
 
 This notebook has the step-by-step Web Scrapping process used to collect McDonald's, weather & county coordinates data. 
+**You do not have to run this notebook to replicate the results of the main notebook as the web scrapped data was saved to the DATA folder**
 
 For the McDonald's restaurant count, the web scrapping data quality was checked using Google Maps: Places API. I wrote a couple of blog posts explaining this process: 
 
