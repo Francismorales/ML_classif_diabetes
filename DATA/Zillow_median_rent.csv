@@ -1,0 +1,2108 @@
+Date,RegionName,State,Metro,SizeRank,Zri,MoM,QoQ,YoY,ZriRecordCnt
+1/31/2020,Los Angeles County,CA,Los Angeles-Long Beach-Anaheim,0,2624,-0.0012,0.0062,0.0206,2319196
+1/31/2020,Cook County,IL,Chicago-Naperville-Elgin,1,1600,-0.0197,-0.0092,0.0052,1697863
+1/31/2020,Harris County,TX,Houston-The Woodlands-Sugar Land,2,1382,-0.0041,0.0093,0.0084,1374478
+1/31/2020,Maricopa County,AZ,Phoenix-Mesa-Scottsdale,3,1470,-0.0008,0.0145,0.0801,1529858
+1/31/2020,San Diego County,CA,San Diego-Carlsbad,4,2559,0.0053,0.0049,0.0421,912320
+1/31/2020,Orange County,CA,Los Angeles-Long Beach-Anaheim,5,2694,-0.0014,0.009,0.0074,919321
+1/31/2020,Kings County,NY,New York-Newark-Jersey City,6,2367,0.003,0.0106,0.0435,539474
+1/31/2020,Miami-Dade County,FL,Miami-Fort Lauderdale-West Palm Beach,7,1952,-0.0079,-0.0103,0.001,1115836
+1/31/2020,Dallas County,TX,Dallas-Fort Worth-Arlington,8,1476,-0.002,0.0059,0.0212,762462
+1/31/2020,Queens County,NY,New York-Newark-Jersey City,9,2134,-0.0122,-0.0035,-0.0055,700180
+1/31/2020,Riverside County,CA,Riverside-San Bernardino-Ontario,10,2081,0.0066,0.0091,0.0313,724269
+1/31/2020,San Bernardino County,CA,Riverside-San Bernardino-Ontario,11,1766,-0.003,0.0032,0.0381,628709
+1/31/2020,Clark County,NV,Las Vegas-Henderson-Paradise,12,1357,0.0001,0.0012,0.0569,835437
+1/31/2020,King County,WA,Seattle-Tacoma-Bellevue,13,2159,0.006,-0.0022,0.0261,758787
+1/31/2020,Wayne County,MI,Detroit-Warren-Dearborn,14,957,-0.0003,-0.0119,0.0036,703609
+1/31/2020,Tarrant County,TX,Dallas-Fort Worth-Arlington,15,1375,0.0002,0.0014,0.0102,667331
+1/31/2020,Santa Clara County,CA,San Jose-Sunnyvale-Santa Clara,16,3297,-0.0045,-0.0073,0.0019,508825
+1/31/2020,Broward County,FL,Miami-Fort Lauderdale-West Palm Beach,17,1661,-0.016,-0.015,-0.003,927295
+1/31/2020,Bexar County,TX,San Antonio-New Braunfels,18,1206,0.0053,0.0024,0.011,607981
+1/31/2020,New York County,NY,New York-Newark-Jersey City,19,3668,-0.0128,-0.0282,-0.0069,526679
+1/31/2020,Philadelphia County,PA,Philadelphia-Camden-Wilmington,20,1343,-0.0039,-0.0051,0.0341,555544
+1/31/2020,Alameda County,CA,San Francisco-Oakland-Hayward,21,2962,-0.0026,-0.0082,0.0009,441647
+1/31/2020,Middlesex County,MA,Boston-Cambridge-Newton,22,2410,-0.0035,-0.0262,0.0327,547659
+1/31/2020,Sacramento County,CA,Sacramento--Roseville--Arden-Arcade,23,1754,0.003,0.0116,0.05,448932
+1/31/2020,Bronx County,NY,New York-Newark-Jersey City,24,1915,0.0032,0.0102,0.0299,183542
+1/31/2020,Nassau County,NY,New York-Newark-Jersey City,25,2730,-0.0024,-0.0101,0.0026,470139
+1/31/2020,Palm Beach County,FL,Miami-Fort Lauderdale-West Palm Beach,26,1891,-0.0025,0.0042,0.0254,698247
+1/31/2020,Cuyahoga County,OH,Cleveland-Elyria,27,1001,-0.0104,-0.0461,-0.0201,474992
+1/31/2020,Hillsborough County,FL,Tampa-St. Petersburg-Clearwater,28,1429,0.0033,0.0126,0.0449,504203
+1/31/2020,Allegheny County,PA,Pittsburgh,29,1210,0.0096,0.0398,0.0557,472423
+1/31/2020,Oakland County,MI,Detroit-Warren-Dearborn,30,1544,-0.0047,-0.0162,0.0241,480936
+1/31/2020,Franklin County,OH,Columbus,31,1183,0.0009,0.002,-0.0067,420389
+1/31/2020,Hennepin County,MN,Minneapolis-St. Paul-Bloomington,32,1573,0.0103,0.0219,0.0391,373282
+1/31/2020,Orange County,FL,Orlando-Kissimmee-Sanford,33,1472,0.0016,0.0122,0.0461,470938
+1/31/2020,Fairfax County,VA,Washington-Arlington-Alexandria,34,2086,-0.0021,-0.0044,0.0298,391888
+1/31/2020,Contra Costa County,CA,San Francisco-Oakland-Hayward,35,2731,-0.0027,-0.0162,0.0165,689802
+1/31/2020,Salt Lake County,UT,Salt Lake City,36,1487,-0.0055,-0.017,0.0145,389567
+1/31/2020,Travis County,TX,Austin-Round Rock,37,1670,0.0022,0.0137,0.0485,431281
+1/31/2020,Saint Louis County,MO,St. Louis,38,1159,-0.0038,-0.006,0.0463,383124
+1/31/2020,Pima County,AZ,Tucson,39,1286,0.0069,0.0197,0.0646,329962
+1/31/2020,Montgomery County,MD,Washington-Arlington-Alexandria,40,1956,0.0019,0.006,0.0401,345301
+1/31/2020,Honolulu County,HI,Urban Honolulu,41,2321,-0.0014,-0.0064,-0.0068,313977
+1/31/2020,Westchester County,NY,New York-Newark-Jersey City,42,2283,-0.0154,-0.0083,-0.0086,152324
+1/31/2020,Milwaukee County,WI,Milwaukee-Waukesha-West Allis,43,1041,0.0105,0.0269,0.0487,166208
+1/31/2020,Fresno County,CA,Fresno,44,1339,0.003,0.0097,0.0585,243633
+1/31/2020,Shelby County,TN,Memphis,45,1024,0.0016,-0.0071,0.0268,327429
+1/31/2020,Fulton County,GA,Atlanta-Sandy Springs-Roswell,46,1623,-0.0064,-0.0022,0.0285,425956
+1/31/2020,Mecklenburg County,NC,Charlotte-Concord-Gastonia,47,1423,-0.003,0.0168,0.0568,402356
+1/31/2020,Erie County,NY,Buffalo-Cheektowaga-Niagara Falls,48,1018,0.0008,-0.0119,-0.0093,327868
+1/31/2020,DuPage County,IL,Chicago-Naperville-Elgin,49,1643,-0.0008,-0.0022,0.0184,314662
+1/31/2020,Fairfield County,CT,Bridgeport-Stamford-Norwalk,50,2031,-0.0056,-0.0044,0.0238,471162
+1/31/2020,Pinellas County,FL,Tampa-St. Petersburg-Clearwater,51,1494,0.003,0.0172,0.0517,435918
+1/31/2020,Bergen County,NJ,New York-Newark-Jersey City,52,2212,-0.0072,-0.0117,0.0031,275615
+1/31/2020,Marion County,IN,Indianapolis-Carmel-Anderson,53,1000,-0.0077,-0.0052,0.0107,312061
+1/31/2020,Wake County,NC,Raleigh,54,1316,0.0063,0.0027,0.0292,385939
+1/31/2020,Hartford County,CT,Hartford-West Hartford-East Hartford,55,1307,-0.0058,0.0002,0.0029,478647
+1/31/2020,Duval County,FL,Jacksonville,56,1251,0.0007,0.0083,0.0341,359455
+1/31/2020,Prince Georges County,MD,Washington-Arlington-Alexandria,57,1707,0.0012,0.0066,0.0044,281704
+1/31/2020,New Haven County,CT,New Haven-Milford,58,1348,0.002,0.0076,0.0118,377381
+1/31/2020,Macomb County,MI,Detroit-Warren-Dearborn,59,1214,0.0097,-0.0011,0.0126,329621
+1/31/2020,Kern County,CA,Bakersfield,60,1243,0.0137,0.0235,0.0675,239077
+1/31/2020,Ventura County,CA,Oxnard-Thousand Oaks-Ventura,61,2621,0.0001,0.0045,0.0179,239804
+1/31/2020,Middlesex County,NJ,New York-Newark-Jersey City,62,1865,-0.0007,-0.0068,-0.0041,229033
+1/31/2020,Gwinnett County,GA,Atlanta-Sandy Springs-Roswell,63,1479,0.01,0.0225,0.0358,327949
+1/31/2020,San Francisco County,CA,San Francisco-Oakland-Hayward,64,4224,-0.0012,-0.0095,-0.0069,182130
+1/31/2020,Baltimore County,MD,Baltimore-Columbia-Towson,65,1570,-0.0018,-0.0032,-0.0029,265999
+1/31/2020,Hamilton County,OH,Cincinnati,66,1206,0.002,0.0235,0.0637,270404
+1/31/2020,El Paso County,TX,El Paso,67,982,0.0238,0.0306,0.0298,247008
+1/31/2020,Montgomery County,PA,Philadelphia-Camden-Wilmington,68,1627,-0.0034,0.0092,0.0453,289704
+1/31/2020,Worcester County,MA,Worcester,69,1418,0,-0.0036,0.0039,282258
+1/31/2020,Pierce County,WA,Seattle-Tacoma-Bellevue,70,1684,0.0015,0.0096,0.055,289538
+1/31/2020,Essex County,NJ,New York-Newark-Jersey City,71,1653,-0.0063,-0.0127,0.0121,187816
+1/31/2020,Collin County,TX,Dallas-Fort Worth-Arlington,72,1538,-0.001,-0.0039,0.0019,356350
+1/31/2020,Hidalgo County,TX,McAllen-Edinburg-Mission,73,837,0.0028,0.0065,-0.0051,203698
+1/31/2020,Monroe County,NY,Rochester,74,1199,0.0124,-0.0245,-0.0171,251562
+1/31/2020,Essex County,MA,Boston-Cambridge-Newton,75,1953,0.0033,0.0139,0.0628,244410
+1/31/2020,Jefferson County,KY,Louisville/Jefferson County,76,1072,-0.0046,-0.0108,0.0172,265703
+1/31/2020,Multnomah County,OR,Portland-Vancouver-Hillsboro,77,1728,-0.0038,-0.0003,0.0229,275900
+1/31/2020,Suffolk County,MA,Boston-Cambridge-Newton,78,2786,0.0099,-0.0259,0.075,268620
+1/31/2020,Oklahoma County,OK,Oklahoma City,79,925,-0.0001,0.005,0.019,280949
+1/31/2020,San Mateo County,CA,San Francisco-Oakland-Hayward,80,3595,0.0009,-0.0055,0.0246,218275
+1/31/2020,Snohomish County,WA,Seattle-Tacoma-Bellevue,81,1875,0.002,-0.0219,0.0064,270795
+1/31/2020,Lake County,IL,Chicago-Naperville-Elgin,82,1591,0.0045,0.0067,0.0159,244365
+1/31/2020,Dekalb County,GA,Atlanta-Sandy Springs-Roswell,83,1437,0.0021,0.0194,0.0808,274592
+1/31/2020,Cobb County,GA,Atlanta-Sandy Springs-Roswell,84,1459,-0.0006,0.0086,0.0463,278805
+1/31/2020,San Joaquin County,CA,Stockton-Lodi,85,1690,0.0101,0.0145,0.063,204367
+1/31/2020,Will County,IL,Chicago-Naperville-Elgin,86,1571,0.0076,0.0144,0.0545,113608
+1/31/2020,Jackson County,MO,Kansas City,87,1044,-0.0006,0.0038,0.0227,271522
+1/31/2020,Norfolk County,MA,Boston-Cambridge-Newton,88,2450,-0.0139,-0.0105,0.0495,258193
+1/31/2020,Denton County,TX,Dallas-Fort Worth-Arlington,89,1486,0.0102,0.0194,0.0175,285109
+1/31/2020,Bernalillo County,NM,Albuquerque,90,1157,0.001,-0.0025,0.0264,218015
+1/31/2020,Jefferson County,AL,Birmingham-Hoover,91,1019,-0.0044,0.006,0.0189,248919
+1/31/2020,Hudson County,NJ,New York-Newark-Jersey City,92,2231,0.0008,-0.0029,0.0192,128890
+1/31/2020,Monmouth County,NJ,New York-Newark-Jersey City,93,2145,0.0021,-0.0001,0.0117,241680
+1/31/2020,Davidson County,TN,Nashville-Davidson--Murfreesboro--Franklin,94,1527,0.0058,0.0021,0.0294,261365
+1/31/2020,Providence County,RI,Providence-Warwick,95,1327,-0.0085,-0.0238,0.0309,198599
+1/31/2020,Bucks County,PA,Philadelphia-Camden-Wilmington,96,1752,0.0107,0.0294,0.0606,218665
+1/31/2020,El Paso County,CO,Colorado Springs,97,1476,0.0016,0.012,0.0443,262656
+1/31/2020,Baltimore City,MD,Baltimore-Columbia-Towson,98,1265,0.0071,0.0018,-0.0175,215990
+1/31/2020,Lee County,FL,Cape Coral-Fort Myers,99,1544,0.0076,0.0041,-0.0036,392932
+1/31/2020,Tulsa County,OK,Tulsa,100,928,0.0064,0.0117,0.0288,230636
+1/31/2020,Kent County,MI,Grand Rapids-Wyoming,101,1381,-0.0005,0.0156,0.0604,199324
+1/31/2020,Polk County,FL,Lakeland-Winter Haven,102,1240,-0.0037,0.0106,0.0613,233791
+1/31/2020,District of Columbia,DC,Washington-Arlington-Alexandria,103,2348,-0.0023,-0.0046,0.0114,221863
+1/31/2020,Denver County,CO,Denver-Aurora-Lakewood,104,1856,0,-0.0028,0.0292,256958
+1/31/2020,Fort Bend County,TX,Houston-The Woodlands-Sugar Land,105,1617,-0.0025,0.0008,0.0166,260201
+1/31/2020,Ocean County,NJ,New York-Newark-Jersey City,106,1732,-0.001,-0.0157,0.0206,272406
+1/31/2020,Arapahoe County,CO,Denver-Aurora-Lakewood,107,1718,0.0044,0.0065,0.0213,221806
+1/31/2020,Delaware County,PA,Philadelphia-Camden-Wilmington,108,1373,-0.0024,0.0038,0.0434,191028
+1/31/2020,Bristol County,MA,Providence-Warwick,109,1425,-0.0067,0.0271,-0.0023,178517
+1/31/2020,Johnson County,KS,Kansas City,110,1334,0.0006,0.0089,0.0398,201902
+1/31/2020,Brevard County,FL,Palm Bay-Melbourne-Titusville,111,1458,0.0006,0.0018,0.0216,269937
+1/31/2020,Summit County,OH,Akron,112,981,-0.0001,0.0036,0.0619,209179
+1/31/2020,New Castle County,DE,Philadelphia-Camden-Wilmington,113,1340,0.0145,0.0132,0.0246,187833
+1/31/2020,Anne Arundel County,MD,Baltimore-Columbia-Towson,114,1879,0.0021,0.0033,0.0245,204939
+1/31/2020,Union County,NJ,New York-Newark-Jersey City,115,1852,-0.0026,-0.0017,0.0136,145835
+1/31/2020,Montgomery County,OH,Dayton,116,932,0.0038,0.0221,0.0722,200999
+1/31/2020,Jefferson County,CO,Denver-Aurora-Lakewood,117,1692,0.0034,0.0107,0.0166,219379
+1/31/2020,Washington County,OR,Portland-Vancouver-Hillsboro,118,1600,0.0009,0.0016,-0.0037,155635
+1/31/2020,Lancaster County,PA,Lancaster,119,1198,0.0045,-0.0015,0.0235,187425
+1/31/2020,Douglas County,NE,Omaha-Council Bluffs,120,1164,0.0097,0.0026,-0.0078,179728
+1/31/2020,Utah County,UT,Provo-Orem,121,1297,-0.0027,-0.0089,0.0134,163380
+1/31/2020,Kane County,IL,Chicago-Naperville-Elgin,122,1513,0.0021,0.0095,0.0272,163595
+1/31/2020,Stanislaus County,CA,Modesto,123,1531,0.0047,0.0016,0.0478,150988
+1/31/2020,Camden County,NJ,Philadelphia-Camden-Wilmington,124,1394,0.0034,-0.0063,-0.0053,169683
+1/31/2020,Ramsey County,MN,Minneapolis-St. Paul-Bloomington,125,1392,0.0097,0.0118,0.0224,161647
+1/31/2020,Passaic County,NJ,New York-Newark-Jersey City,126,1793,0.0086,0.0098,0.0151,109517
+1/31/2020,Chester County,PA,Philadelphia-Camden-Wilmington,127,1684,-0.0161,-0.0237,0.0093,180656
+1/31/2020,Sedgwick County,KS,Wichita,128,854,0.0007,-0.0034,0.0145,180557
+1/31/2020,Lake County,IN,Chicago-Naperville-Elgin,129,1087,-0.006,-0.0169,-0.0195,184578
+1/31/2020,Plymouth County,MA,Boston-Cambridge-Newton,130,1992,0.0088,0.0447,0.0927,192102
+1/31/2020,Volusia County,FL,Deltona-Daytona Beach-Ormond Beach,131,1460,0.0014,0.006,0.0305,237254
+1/31/2020,Morris County,NJ,New York-Newark-Jersey City,132,2246,-0.001,-0.0002,0.0222,176740
+1/31/2020,Guilford County,NC,Greensboro-High Point,133,954,-0.0035,0.0238,0.0832,183067
+1/31/2020,Dane County,WI,Madison,134,1381,-0.0003,0.0043,0.0032,109834
+1/31/2020,Sonoma County,CA,Santa Rosa,135,2610,0.0001,-0.0097,-0.0263,156024
+1/31/2020,Spokane County,WA,Spokane-Spokane Valley,136,1242,-0.0078,-0.0082,0.0409,168621
+1/31/2020,Richmond County,NY,New York-Newark-Jersey City,137,2074,-0.0127,0.0161,0.0426,150419
+1/31/2020,Onondaga County,NY,Syracuse,138,1113,-0.0005,-0.0333,-0.0336,162273
+1/31/2020,Pasco County,FL,Tampa-St. Petersburg-Clearwater,139,1247,0.0089,0.0253,0.0398,211376
+1/31/2020,Hampden County,MA,Springfield,140,1257,0.0019,0.0122,0.0195,147337
+1/31/2020,Montgomery County,TX,Houston-The Woodlands-Sugar Land,141,1491,-0.0067,0.0015,0.0117,192970
+1/31/2020,Greenville County,SC,Greenville-Anderson-Mauldin,142,1179,-0.0084,0.0141,0.0584,176922
+1/31/2020,Burlington County,NJ,Philadelphia-Camden-Wilmington,143,1584,-0.0024,-0.0024,0.001,159735
+1/31/2020,Tulare County,CA,Visalia-Porterville,144,1219,0.0096,0.0394,0.0648,106126
+1/31/2020,Lucas County,OH,Toledo,145,892,-0.0023,0.0073,0.0333,157439
+1/31/2020,Adams County,CO,Denver-Aurora-Lakewood,146,1753,0.0085,0.0193,0.028,152500
+1/31/2020,East Baton Rouge Parish,LA,Baton Rouge,147,1196,0.0082,0.0199,0.004,76896
+1/31/2020,Virginia Beach City,VA,Virginia Beach-Norfolk-Newport News,148,1561,0.0038,0.0091,0.0258,171222
+1/31/2020,York County,PA,York-Hanover,149,1202,0.0175,0.0141,0.044,154770
+1/31/2020,Jefferson Parish,LA,New Orleans-Metairie,150,1129,-0.0052,-0.0222,-0.0016,7524
+1/31/2020,Knox County,TN,Knoxville,151,1167,-0.0156,0.0025,0.0295,169314
+1/31/2020,Polk County,IA,Des Moines-West Des Moines,152,1126,-0.0009,-0.0009,0.0016,164055
+1/31/2020,Clark County,WA,Portland-Vancouver-Hillsboro,153,1596,-0.004,-0.0218,0.008,159416
+1/31/2020,Santa Barbara County,CA,Santa Maria-Santa Barbara,154,2962,0.0121,0.0129,0.0589,105580
+1/31/2020,Seminole County,FL,Orlando-Kissimmee-Sanford,155,1375,-0.001,0.001,0.014,173985
+1/31/2020,Williamson County,TX,Austin-Round Rock,156,1530,0.0036,0.0121,0.0465,206593
+1/31/2020,Washoe County,NV,Reno,157,1675,0.0001,0.0045,0.0407,161533
+1/31/2020,Monterey County,CA,Salinas,158,2614,-0.0009,0.0003,0.0564,107402
+1/31/2020,Solano County,CA,Vallejo-Fairfield,159,2148,-0.0012,-0.006,0.0434,134677
+1/31/2020,Mobile County,AL,Mobile,160,896,0.0004,0.0022,0.0151,145839
+1/31/2020,Berks County,PA,Reading,161,1216,0.0067,0.0188,0.0302,137103
+1/31/2020,Cameron County,TX,Brownsville-Harlingen,162,985,-0.0073,0.0119,0.0341,121043
+1/31/2020,Prince William County,VA,Washington-Arlington-Alexandria,163,1876,0.0009,0.0036,0.0154,153483
+1/31/2020,Hillsborough County,NH,Manchester-Nashua,164,1566,0.0006,0.0124,0.0408,148859
+1/31/2020,Dakota County,MN,Minneapolis-St. Paul-Bloomington,165,1469,0.0026,0.0007,0.0245,152304
+1/31/2020,Ada County,ID,Boise City,166,1444,-0.0045,-0.0009,0.0775,180511
+1/31/2020,Waukesha County,WI,Milwaukee-Waukesha-West Allis,167,1620,0.0251,0.0363,0.0954,54971
+1/31/2020,Richland County,SC,Columbia,168,1050,0.0222,0.0231,0.0204,140143
+1/31/2020,Pulaski County,AR,Little Rock-North Little Rock-Conway,169,828,-0.0013,0.0055,0.0148,145473
+1/31/2020,Sarasota County,FL,North Port-Sarasota-Bradenton,170,1850,0.0185,0.0317,-0.0109,238196
+1/31/2020,Clackamas County,OR,Portland-Vancouver-Hillsboro,171,1711,0.0004,-0.0074,0.0158,137103
+1/31/2020,Pinal County,AZ,Phoenix-Mesa-Scottsdale,172,1331,0.0009,0.0072,0.0885,151902
+1/31/2020,Stark County,OH,Canton-Massillon,173,852,0.0054,0.0254,0.0652,143529
+1/31/2020,Orange County,NY,New York-Newark-Jersey City,174,1620,-0.0083,-0.0093,-0.0004,131743
+1/31/2020,Butler County,OH,Cincinnati,175,1069,-0.0014,0.0114,0.0102,124967
+1/31/2020,Mercer County,NJ,Trenton,176,1652,-0.0031,-0.0048,-0.0009,117892
+1/31/2020,Saint Charles County,MO,St. Louis,177,1306,0.0206,0.0547,0.0679,146621
+1/31/2020,Allen County,IN,Fort Wayne,178,1011,-0.0045,0.0245,0.0508,128638
+1/31/2020,Lane County,OR,Eugene,179,1414,0.0006,0.0015,0.0504,115003
+1/31/2020,Forsyth County,NC,Winston-Salem,180,987,0.0034,0.0325,0.1006,133500
+1/31/2020,Charleston County,SC,Charleston-North Charleston,181,1677,0.0018,-0.0021,-0.0028,166072
+1/31/2020,Lehigh County,PA,Allentown-Bethlehem-Easton,182,1373,0.0079,0.0318,0.0514,125400
+1/31/2020,Placer County,CA,Sacramento--Roseville--Arden-Arcade,183,2089,0.0037,-0.007,0.0361,145625
+1/31/2020,Washtenaw County,MI,Ann Arbor,184,1549,-0.0044,-0.0157,-0.0447,110523
+1/31/2020,Orleans Parish,LA,New Orleans-Metairie,185,1446,0.0084,-0.0078,0.0172,134455
+1/31/2020,Nueces County,TX,Corpus Christi,186,1291,-0.0085,-0.0313,-0.0195,118559
+1/31/2020,Hamilton County,TN,Chattanooga,187,1279,0.0287,0.0494,0.0677,134559
+1/31/2020,Madison County,AL,Huntsville,188,1080,0.0033,0.0279,0.0853,135307
+1/31/2020,Marion County,FL,Ocala,189,1124,-0.0065,-0.0047,0.0275,145020
+1/31/2020,Anoka County,MN,Minneapolis-St. Paul-Bloomington,190,1505,0.0039,0.0118,0.0309,125612
+1/31/2020,Somerset County,NJ,New York-Newark-Jersey City,191,2073,0.0043,0.0187,0.0132,116604
+1/31/2020,Manatee County,FL,North Port-Sarasota-Bradenton,192,1769,0.0041,0.0325,0.0448,179626
+1/31/2020,Luzerne County,PA,Scranton--Wilkes-Barre--Hazleton,193,925,-0.001,0.0154,0.0137,5810
+1/31/2020,Cumberland County,NC,Fayetteville,194,878,0.0087,0.0242,0.0282,114163
+1/31/2020,Saint Louis City,MO,St. Louis,195,899,0.0068,-0.0069,0.0338,118914
+1/31/2020,Chesterfield County,VA,Richmond,196,1402,-0.0009,-0.0008,0.009,133727
+1/31/2020,Marion County,OR,Salem,197,1430,-0.0014,-0.0034,0.0479,79413
+1/31/2020,Brazoria County,TX,Houston-The Woodlands-Sugar Land,198,1323,-0.0014,-0.0154,-0.0348,114435
+1/31/2020,Loudoun County,VA,Washington-Arlington-Alexandria,199,2103,-0.0014,-0.0131,-0.0012,142033
+1/31/2020,Rockland County,NY,New York-Newark-Jersey City,200,2368,-0.0028,0.0013,0.04,66560
+1/31/2020,Bell County,TX,Killeen-Temple,201,907,-0.0065,-0.0049,0.0428,105533
+1/31/2020,McHenry County,IL,Chicago-Naperville-Elgin,202,1457,-0.0105,-0.0157,0.0169,61671
+1/31/2020,Henrico County,VA,Richmond,203,1399,0.0067,0.0183,0.0462,133018
+1/31/2020,Davis County,UT,Ogden-Clearfield,204,1510,-0.0281,-0.0233,-0.0085,60286
+1/31/2020,Albany County,NY,Albany-Schenectady-Troy,205,1307,0.0078,0.001,0.0098,99173
+1/31/2020,Lorain County,OH,Cleveland-Elyria,206,1028,0.0074,0.036,0.0908,117165
+1/31/2020,Larimer County,CO,Fort Collins,207,1677,0.0048,0.0136,0.0374,134439
+1/31/2020,Northampton County,PA,Allentown-Bethlehem-Easton,208,1333,0.0021,0.0108,0.0344,111055
+1/31/2020,Escambia County,FL,Pensacola-Ferry Pass-Brent,209,1188,0.0026,0.0258,0.0842,122080
+1/31/2020,Dutchess County,NY,New York-Newark-Jersey City,210,1786,-0.0025,0.0066,0.0516,112436
+1/31/2020,Lake County,FL,Orlando-Kissimmee-Sanford,211,1401,0.0021,0.0258,0.065,126798
+1/31/2020,Fayette County,KY,Lexington-Fayette,212,1061,0.002,-0.0058,0.0258,106163
+1/31/2020,Winnebago County,IL,Rockford,213,935,0.0035,0.0017,0.0141,94665
+1/31/2020,Rockingham County,NH,Boston-Cambridge-Newton,214,1900,-0.0029,-0.005,0.0281,125831
+1/31/2020,Boulder County,CO,Boulder,215,1987,-0.0019,0.0156,0.021,125514
+1/31/2020,Anchorage Borough,AK,Anchorage,216,1630,0.0101,0.0096,0.0214,99115
+1/31/2020,Galveston County,TX,Houston-The Woodlands-Sugar Land,217,1377,-0.0035,-0.0125,-0.0141,118314
+1/31/2020,Gloucester County,NJ,Philadelphia-Camden-Wilmington,218,1548,0.0144,0.0271,0.0245,101680
+1/31/2020,Howard County,MD,Baltimore-Columbia-Towson,219,1885,0.0081,0.0144,0.0277,111790
+1/31/2020,Douglas County,CO,Denver-Aurora-Lakewood,220,2031,-0.005,-0.0065,0.0123,125250
+1/31/2020,Lancaster County,NE,Lincoln,221,1048,-0.0011,0.0025,0.0146,99092
+1/31/2020,Spartanburg County,SC,Spartanburg,222,1043,0.0187,0.02,0.0567,103396
+1/31/2020,Cumberland County,ME,Portland-South Portland,223,1764,-0.0109,0.002,0.0392,114175
+1/31/2020,Ingham County,MI,Lansing-East Lansing,224,1018,0.0063,0.0371,0.064,88636
+1/31/2020,Erie County,PA,Erie,225,898,0.0062,0.0326,0.0377,83769
+1/31/2020,Lubbock County,TX,Lubbock,226,988,0.0042,-0.0046,-0.0051,95528
+1/31/2020,Saint Lucie County,FL,Port St. Lucie,227,1562,0.0024,0.0061,0.0199,137032
+1/31/2020,Leon County,FL,Tallahassee,228,1067,0.0103,0.0084,0.0163,91570
+1/31/2020,Greene County,MO,Springfield,229,793,0.0071,0.0539,0.0952,100396
+1/31/2020,Hamilton County,IN,Indianapolis-Carmel-Anderson,230,1410,-0.0059,-0.0173,0.0244,121170
+1/31/2020,Atlantic County,NJ,Atlantic City-Hammonton,231,1349,0.0066,-0.0116,-0.0028,117664
+1/31/2020,New London County,CT,Norwich-New London,232,1300,-0.0012,0.0098,0.0147,108692
+1/31/2020,Saint Clair County,IL,St. Louis,233,830,0.0039,0.0188,-0.0012,93103
+1/31/2020,San Luis Obispo County,CA,San Luis Obispo-Paso Robles-Arroyo Grande,234,2400,-0.0013,-0.0015,0.0027,85850
+1/31/2020,Horry County,SC,Myrtle Beach-Conway-North Myrtle Beach,235,1238,-0.0153,-0.0287,0.0047,210565
+1/31/2020,Madison County,IL,St. Louis,236,873,-0.0009,0.0146,0.0312,100215
+1/31/2020,Osceola County,FL,Orlando-Kissimmee-Sanford,237,1497,0.002,0.0132,0.0546,138687
+1/31/2020,Dauphin County,PA,Harrisburg-Carlisle,238,1115,0.0015,0.0022,0.0437,100405
+1/31/2020,Durham County,NC,Durham-Chapel Hill,239,1320,0.0062,0.0093,0.0469,106957
+1/31/2020,Saint Joseph County,IN,South Bend-Mishawaka,240,943,-0.005,-0.0126,-0.0295,99318
+1/31/2020,Chatham County,GA,Savannah,241,1299,-0.0052,-0.0076,0.0389,100562
+1/31/2020,Ottawa County,MI,Grand Rapids-Wyoming,242,1236,-0.0129,-0.0496,-0.0278,60892
+1/31/2020,Rutherford County,TN,Nashville-Davidson--Murfreesboro--Franklin,243,1308,0.0025,0.0044,0.0196,142374
+1/31/2020,Lexington County,SC,Columbia,244,1160,-0.0057,0.0034,0.0499,95271
+1/31/2020,Santa Cruz County,CA,Santa Cruz-Watsonville,245,3116,0.0023,0.0103,0.0141,76705
+1/31/2020,Clayton County,GA,Atlanta-Sandy Springs-Roswell,246,1045,-0.0106,0.001,0.0841,91848
+1/31/2020,Merced County,CA,Merced,247,1336,-0.0015,-0.0127,0.0345,68867
+1/31/2020,Cleveland County,OK,Oklahoma City,248,1000,0.0032,0.0119,0.0126,100893
+1/31/2020,Weld County,CO,Greeley,249,1637,0.0021,-0.0052,0.0452,111001
+1/31/2020,Marin County,CA,San Francisco-Oakland-Hayward,250,3685,0.0042,0.003,0.0131,87426
+1/31/2020,Jefferson County,TX,Beaumont-Port Arthur,251,1059,-0.0032,-0.0035,0.0456,81732
+1/31/2020,Thurston County,WA,Olympia-Tumwater,252,1606,-0.0058,0.0009,0.0257,93209
+1/31/2020,Kitsap County,WA,Bremerton-Silverdale,253,1678,-0.0094,-0.0366,0.0358,93472
+1/31/2020,Kalamazoo County,MI,Kalamazoo-Portage,254,1089,-0.0052,-0.0556,-0.1057,73092
+1/31/2020,Webb County,TX,Laredo,255,1056,0.0048,-0.0024,-0.021,50816
+1/31/2020,Alachua County,FL,Gainesville,256,1190,-0.0058,0.023,0.0787,82924
+1/31/2020,Hinds County,MS,Jackson,257,918,0.0148,0.0311,0.0217,81070
+1/31/2020,Harford County,MD,Baltimore-Columbia-Towson,258,1549,0.0012,-0.0027,0.0175,92644
+1/31/2020,Yakima County,WA,Yakima,259,1167,-0.012,-0.0169,0.0064,68957
+1/31/2020,Norfolk City,VA,Virginia Beach-Norfolk-Newport News,260,1235,0.0038,0.0114,0.0273,71442
+1/31/2020,Mahoning County,OH,Youngstown-Warren-Boardman,261,724,-0.0016,-0.0054,-0.0132,91287
+1/31/2020,Buncombe County,NC,Asheville,262,1513,0.0065,0.0304,0.0462,93546
+1/31/2020,Washington County,MN,Minneapolis-St. Paul-Bloomington,263,1693,0.0062,0.0069,0.0393,95633
+1/31/2020,Cumberland County,PA,Harrisburg-Carlisle,264,1243,-0.0018,0.0077,0.0218,85179
+1/31/2020,Oneida County,NY,Utica-Rome,265,970,-0.0134,0.0009,0.0422,78567
+1/31/2020,Saint Tammany Parish,LA,New Orleans-Metairie,266,1296,0.0021,0.0138,-0.0124,106613
+1/31/2020,Frederick County,MD,Washington-Arlington-Alexandria,267,1672,0.0129,0.0305,0.038,93049
+1/31/2020,Weber County,UT,Ogden-Clearfield,268,1255,0.0128,0.0366,0.0846,87128
+1/31/2020,Lake County,OH,Cleveland-Elyria,269,1143,-0.0099,-0.0054,0.0252,91889
+1/31/2020,Montgomery County,AL,Montgomery,270,842,-0.0015,0.0196,0.0292,82500
+1/31/2020,Chesapeake City,VA,Virginia Beach-Norfolk-Newport News,271,1481,0.0018,-0.0017,0.0079,91982
+1/31/2020,Clay County,MO,Kansas City,272,1073,0.0056,0.0078,0.0111,84241
+1/31/2020,Lafayette Parish,LA,Lafayette,273,995,-0.0011,-0.0484,-0.097,79496
+1/31/2020,Benton County,AR,Fayetteville-Springdale-Rogers,274,1104,-0.0039,-0.0054,0.0084,71431
+1/31/2020,Butte County,CA,Chico,275,1585,-0.0095,-0.0097,0.1489,56284
+1/31/2020,Saratoga County,NY,Albany-Schenectady-Troy,276,1482,-0.0128,-0.033,-0.0325,85201
+1/31/2020,Jefferson County,MO,St. Louis,277,988,-0.0118,0.0061,0.0491,80868
+1/31/2020,Niagara County,NY,Buffalo-Cheektowaga-Niagara Falls,278,849,0.0018,-0.008,-0.0089,80585
+1/31/2020,Barnstable County,MA,Barnstable Town,279,1949,0.0233,-0.0117,0.0293,177175
+1/31/2020,Lackawanna County,PA,Scranton--Wilkes-Barre--Hazleton,280,1054,0.012,0.0467,0.0385,7519
+1/31/2020,Cherokee County,GA,Atlanta-Sandy Springs-Roswell,281,1488,0.002,0.0178,0.0505,99003
+1/31/2020,Warren County,OH,Cincinnati,282,1468,-0.0038,0.0378,0.049,80500
+1/31/2020,Linn County,IA,Cedar Rapids,283,927,0.0048,-0.0038,0.0094,89830
+1/31/2020,Yavapai County,AZ,Prescott,284,1506,0.0065,0.0223,0.065,93857
+1/31/2020,Trumbull County,OH,Youngstown-Warren-Boardman,285,830,0.0133,0.0567,0.0854,77890
+1/31/2020,Smith County,TX,Tyler,286,1099,0.0037,0.0307,0.0408,67617
+1/31/2020,Dona Ana County,NM,Las Cruces,287,996,0.006,0.022,0.0514,60237
+1/31/2020,Washington County,PA,Pittsburgh,288,1026,-0.0012,-0.0171,-0.0014,81221
+1/31/2020,Arlington County,VA,Washington-Arlington-Alexandria,289,2287,0.0037,0.0046,0.0251,85921
+1/31/2020,Gaston County,NC,Charlotte-Concord-Gastonia,290,1070,-0.0031,-0.0085,0.022,79579
+1/31/2020,Richmond City,VA,Richmond,291,1255,-0.0015,0.0045,0.0402,70647
+1/31/2020,Henry County,GA,Atlanta-Sandy Springs-Roswell,292,1339,-0.0048,0.0007,0.0413,89960
+1/31/2020,Washington County,AR,Fayetteville-Springdale-Rogers,293,1103,0.0201,0.0428,0.0922,81152
+1/31/2020,New Hanover County,NC,Wilmington,294,1429,-0.003,-0.0143,0.0222,98431
+1/31/2020,Union County,NC,Charlotte-Concord-Gastonia,295,1475,0.0099,0.0253,0.0651,85261
+1/31/2020,Whatcom County,WA,Bellingham,296,1645,0.007,0.0172,0.0933,76859
+1/31/2020,Champaign County,IL,Champaign-Urbana,297,1014,0.0084,0.0278,0.0108,41948
+1/31/2020,Yolo County,CA,Sacramento--Roseville--Arden-Arcade,298,1935,-0.003,-0.0002,0.0203,47694
+1/31/2020,Broome County,NY,Binghamton,299,906,0.0019,0.0046,-0.0038,64624
+1/31/2020,Richmond County,GA,Augusta-Richmond County,300,954,0.0058,0.0356,0.1357,68290
+1/31/2020,Saint Louis County,MN,Duluth,301,1016,0.0141,0.037,0.0034,71532
+1/31/2020,Mohave County,AZ,Lake Havasu City-Kingman,302,1323,0.0272,0.0183,0.1054,49143
+1/31/2020,Saginaw County,MI,Saginaw,303,756,-0.0151,0.0146,0.0164,68537
+1/31/2020,Elkhart County,IN,Elkhart-Goshen,304,894,-0.0146,-0.0245,-0.0264,60740
+1/31/2020,Sangamon County,IL,Springfield,305,823,-0.0041,0.016,0.031,2833
+1/31/2020,Clermont County,OH,Cincinnati,306,1206,0.0241,0.0325,0.0456,65206
+1/31/2020,Sussex County,DE,Salisbury,307,1515,0.0002,-0.0148,0.0057,92011
+1/31/2020,York County,ME,Portland-South Portland,308,1491,0.0084,-0.0043,0.0247,84357
+1/31/2020,Yuma County,AZ,Yuma,309,973,0.0156,0.0293,0.0702,50927
+1/31/2020,Shelby County,AL,Birmingham-Hoover,310,1205,0.0118,0.0129,0.0311,75573
+1/31/2020,Brazos County,TX,College Station-Bryan,311,1157,0.0169,0.0431,0.0063,63067
+1/31/2020,Tuscaloosa County,AL,Tuscaloosa,312,1187,0.024,0.0219,0.007,57330
+1/31/2020,Kanawha County,WV,Charleston,313,831,0.0137,0.0547,-0.0184,69540
+1/31/2020,Calcasieu Parish,LA,Lake Charles,314,1077,-0.0207,-0.0605,-0.1376,5997
+1/31/2020,Clay County,FL,Jacksonville,315,1344,-0.0047,0.0095,0.0543,72289
+1/31/2020,Saint Johns County,FL,Jacksonville,316,1807,-0.0033,-0.0038,0.0373,123910
+1/31/2020,Litchfield County,CT,Torrington,317,1290,0.0126,0.016,0.0309,101320
+1/31/2020,Muscogee County,GA,Columbus,318,834,0.0014,0.0198,0.0419,61112
+1/31/2020,Canyon County,ID,Boise City,319,1243,-0.0012,0.0036,0.0837,69807
+1/31/2020,Anderson County,SC,Greenville-Anderson-Mauldin,320,962,0.0261,0.0371,0.0656,34119
+1/31/2020,Harrison County,MS,Gulfport-Biloxi-Pascagoula,321,1079,0.0096,0.0053,0.0321,67074
+1/31/2020,Peoria County,IL,Peoria,322,826,-0.0047,-0.0206,-0.0067,70114
+1/31/2020,Hawaii County,HI,Hilo,323,1731,-0.0017,0.0069,0.014,90030
+1/31/2020,Butler County,PA,Pittsburgh,324,1005,-0.0007,-0.0253,-0.0651,7171
+1/31/2020,Williamson County,TN,Nashville-Davidson--Murfreesboro--Franklin,325,1752,-0.0087,-0.0052,0.0034,92795
+1/31/2020,Ulster County,NY,Kingston,326,1496,-0.0157,-0.0457,-0.0397,70948
+1/31/2020,Baldwin County,AL,Daphne-Fairhope-Foley,327,1364,-0.0088,-0.0189,0.01,96560
+1/31/2020,El Dorado County,CA,Sacramento--Roseville--Arden-Arcade,328,1909,-0.0152,-0.017,0.009,79134
+1/31/2020,Livingston County,MI,Detroit-Warren-Dearborn,329,1559,-0.0125,-0.0221,0.0039,58445
+1/31/2020,Okaloosa County,FL,Crestview-Fort Walton Beach-Destin,330,1497,0.0016,0.0056,0.091,96247
+1/31/2020,Newport News City,VA,Virginia Beach-Norfolk-Newport News,331,1130,-0.0012,0.0222,0.0112,55106
+1/31/2020,Vanderburgh County,IN,Evansville,332,825,-0.0083,-0.0214,0.0006,66345
+1/31/2020,Hall County,GA,Gainesville,333,1259,-0.004,-0.0108,0.0195,70460
+1/31/2020,Cabarrus County,NC,Charlotte-Concord-Gastonia,334,1260,0.0036,0.0057,0.0202,77776
+1/31/2020,Shawnee County,KS,Topeka,335,818,0.0043,-0.0007,-0.0048,63885
+1/31/2020,Berkeley County,SC,Charleston-North Charleston,336,1432,0.0088,0.0214,0.0362,56236
+1/31/2020,Onslow County,NC,Jacksonville,337,985,-0.0055,0.0053,0.0603,74962
+1/31/2020,Shasta County,CA,Redding,338,1384,0,-0.0082,0.0256,52645
+1/31/2020,Outagamie County,WI,Appleton,339,1069,-0.0238,-0.0432,0.02,26185
+1/31/2020,Forsyth County,GA,Atlanta-Sandy Springs-Roswell,340,1803,0.0051,0.0045,0.0207,92333
+1/31/2020,Benton County,WA,Kennewick-Richland,341,1363,-0.0092,-0.0056,0.0777,62088
+1/31/2020,Delaware County,OH,Columbus,342,1556,-0.0004,-0.0208,-0.0078,72735
+1/31/2020,Tippecanoe County,IN,Lafayette-West Lafayette,343,1067,-0.0046,0.0141,0.061,50930
+1/31/2020,Hernando County,FL,Tampa-St. Petersburg-Clearwater,344,1294,-0.0078,0.0274,0.0724,80225
+1/31/2020,Medina County,OH,Cleveland-Elyria,345,1336,0.0154,0.0299,0.0705,69232
+1/31/2020,Montgomery County,TN,Clarksville,346,973,0.0005,0.0142,0.0378,81105
+1/31/2020,Muskegon County,MI,Muskegon,347,848,-0.0002,0.0001,0.0361,54307
+1/31/2020,Monroe County,PA,East Stroudsburg,348,1301,-0.0009,-0.0064,0.0417,91966
+1/31/2020,McLean County,IL,Bloomington,349,743,0.0076,0.0042,-0.0439,18513
+1/31/2020,Minnehaha County,SD,Sioux Falls,350,965,0.0026,0.0128,0.0281,57724
+1/31/2020,Johnston County,NC,Raleigh,351,1235,-0.0005,0.0112,0.0329,73613
+1/31/2020,Pitt County,NC,Greenville,352,975,0.0139,0.0214,0.0462,55293
+1/31/2020,Carroll County,MD,Baltimore-Columbia-Towson,353,1554,0.0125,0.0112,0.0195,60518
+1/31/2020,Winnebago County,WI,Oshkosh-Neenah,354,904,-0.0047,-0.0029,0.0563,33945
+1/31/2020,Licking County,OH,Columbus,355,1001,-0.0284,-0.0799,-0.0263,63224
+1/31/2020,Kenosha County,WI,Chicago-Naperville-Elgin,356,1201,-0.0068,-0.0577,-0.018,54629
+1/31/2020,Kent County,RI,Providence-Warwick,357,1495,-0.0019,-0.0064,0.0176,62494
+1/31/2020,Middlesex County,CT,Hartford-West Hartford-East Hartford,358,1339,-0.0127,-0.0467,-0.0321,107032
+1/31/2020,Scott County,IA,Davenport-Moline-Rock Island,359,925,0.0142,0.0004,-0.0103,62647
+1/31/2020,Porter County,IN,Chicago-Naperville-Elgin,360,1287,0.0126,0.0264,0.0395,61218
+1/31/2020,Davidson County,NC,Winston-Salem,361,911,-0.0056,-0.0138,-0.0036,57040
+1/31/2020,Boone County,MO,Columbia,362,898,-0.0226,-0.0293,-0.0264,63171
+1/31/2020,Kent County,DE,Dover,363,1260,-0.0081,0.0002,0.0115,60776
+1/31/2020,Beaufort County,SC,Hilton Head Island-Bluffton-Beaufort,364,1783,0.0165,0.0276,0.0287,97478
+1/31/2020,Greene County,OH,Dayton,365,1175,-0.0125,-0.0335,0.0622,54878
+1/31/2020,Portage County,OH,Akron,366,1083,0.0096,-0.0288,-0.0438,51524
+1/31/2020,DeSoto County,MS,Memphis,367,1186,0.0022,0.0037,0.0212,64200
+1/31/2020,Sumner County,TN,Nashville-Davidson--Murfreesboro--Franklin,368,1374,-0.0001,0.013,0.0154,63612
+1/31/2020,Rock County,WI,Janesville-Beloit,369,955,0.0152,0.0652,0.0833,25982
+1/31/2020,Jackson County,MI,Jackson,370,897,0.0223,0.0182,0.0483,16981
+1/31/2020,Aiken County,SC,Augusta-Richmond County,371,998,-0.0085,-0.0097,0.0506,47002
+1/31/2020,Charlotte County,FL,Punta Gorda,372,1585,0.0118,0.0343,-0.018,101666
+1/31/2020,Kenton County,KY,Cincinnati,373,1167,0.0141,0.0194,0.0832,41391
+1/31/2020,Iredell County,NC,Charlotte-Concord-Gastonia,374,1243,0.0033,0.0135,0.0497,66388
+1/31/2020,Rensselaer County,NY,Albany-Schenectady-Troy,375,1089,-0.0196,-0.0719,-0.0988,52287
+1/31/2020,Pueblo County,CO,Pueblo,376,1079,-0.0118,-0.0006,0.0159,58692
+1/31/2020,Sarpy County,NE,Omaha-Council Bluffs,377,1224,-0.0012,-0.0146,-0.0498,57024
+1/31/2020,Hampshire County,MA,Springfield,378,1602,-0.0105,-0.0241,0.0073,50288
+1/31/2020,Deschutes County,OR,Bend-Redmond,379,1825,0.004,0.0274,0.0884,52218
+1/31/2020,Wyandotte County,KS,Kansas City,380,924,-0.0101,-0.02,-0.0097,55421
+1/31/2020,Hays County,TX,Austin-Round Rock,381,1422,0.0004,-0.0149,-0.0053,60499
+1/31/2020,Cumberland County,NJ,Vineland-Bridgeton,382,1228,-0.0009,0.0018,0.0166,45282
+1/31/2020,Sullivan County,TN,Kingsport-Bristol-Bristol,383,888,-0.0025,-0.034,0.0025,62864
+1/31/2020,Berrien County,MI,Niles-Benton Harbor,384,1162,-0.0179,-0.0548,0.0032,53640
+1/31/2020,Bibb County,GA,Macon-Bibb County,385,833,-0.0072,-0.0041,0.0416,56132
+1/31/2020,Maui County,HI,Kahului-Wailuku-Lahaina,386,2627,0.0001,-0.0163,-0.0591,63059
+1/31/2020,Schenectady County,NY,Albany-Schenectady-Troy,387,1134,-0.0039,-0.0185,-0.0088,55941
+1/31/2020,Catawba County,NC,Hickory-Lenoir-Morganton,388,1017,0.0057,0.034,0.0525,51476
+1/31/2020,Centre County,PA,State College,389,1419,0.0003,0.0562,0.0681,44125
+1/31/2020,Penobscot County,ME,Bangor,390,1261,0.0186,0.0226,0.091,34472
+1/31/2020,Ouachita Parish,LA,Monroe,391,912,0.0077,0.0002,-0.0551,24682
+1/31/2020,Kings County,CA,Hanford-Corcoran,392,1277,-0.0046,0.0292,0.0732,34344
+1/31/2020,Tolland County,CT,Hartford-West Hartford-East Hartford,393,1458,-0.0007,-0.0031,0.0281,55114
+1/31/2020,Santa Rosa County,FL,Pensacola-Ferry Pass-Brent,394,1461,0.0074,0.0148,0.0693,68210
+1/31/2020,Johnson County,TX,Dallas-Fort Worth-Arlington,395,1354,0.0148,0.0066,0.0403,45942
+1/31/2020,Madera County,CA,Madera,396,1342,0.0016,0.0119,0.0478,40005
+1/31/2020,Cass County,ND,Fargo,397,938,-0.0057,-0.0018,-0.0175,34698
+1/31/2020,Franklin County,PA,Chambersburg-Waynesboro,398,945,-0.0006,0.0135,-0.0139,41454
+1/31/2020,Ellis County,TX,Dallas-Fort Worth-Arlington,399,1454,-0.0101,0.0069,0.0406,60301
+1/31/2020,Sussex County,NJ,New York-Newark-Jersey City,400,1656,0.0002,0.0049,0.0037,61784
+1/31/2020,Schuylkill County,PA,Pottsville,401,801,-0.0015,-0.0005,0.0874,58797
+1/31/2020,Yellowstone County,MT,Billings,402,1145,0.0013,0.0227,0.0093,52450
+1/31/2020,Rock Island County,IL,Davenport-Moline-Rock Island,403,860,-0.0097,0.0125,0.0214,50661
+1/31/2020,Washington County,MD,Hagerstown-Martinsburg,404,1101,0.0026,0.0285,0.0421,50271
+1/31/2020,Mesa County,CO,Grand Junction,405,1293,0.0083,0.045,0.0898,59551
+1/31/2020,Charles County,MD,Washington-Arlington-Alexandria,406,1823,0.0046,0.0073,0.0054,58149
+1/31/2020,Merrimack County,NH,Concord,407,1452,-0.0113,-0.068,-0.0017,55849
+1/31/2020,Martin County,FL,Port St. Lucie,408,1742,-0.0191,-0.0232,0.0167,78406
+1/31/2020,Fairfield County,OH,Columbus,409,1308,0.0043,0.0051,0.0475,52355
+1/31/2020,Hendricks County,IN,Indianapolis-Carmel-Anderson,410,1338,0.0007,0.0063,0.0357,62996
+1/31/2020,Olmsted County,MN,Rochester,411,1284,0.0231,0.0519,0.0508,58066
+1/31/2020,Santa Fe County,NM,Santa Fe,412,1864,-0.0103,-0.0196,0.0271,56674
+1/31/2020,Cambria County,PA,Johnstown,413,659,0.0107,0.0407,0.054,34639
+1/31/2020,Paulding County,GA,Atlanta-Sandy Springs-Roswell,414,1339,-0.0028,0.0023,0.0425,63279
+1/31/2020,Randolph County,NC,Greensboro-High Point,415,733,-0.0028,-0.019,-0.0205,45403
+1/31/2020,Rankin County,MS,Jackson,416,1205,-0.0054,-0.0009,0.0432,49243
+1/31/2020,Citrus County,FL,Homosassa Springs,417,1162,0.0046,0.0043,0.0777,64790
+1/31/2020,Lee County,AL,Auburn-Opelika,418,1133,-0.0103,0.0086,0.0192,55751
+1/31/2020,Alexandria City,VA,Washington-Arlington-Alexandria,419,1900,-0.0003,-0.0227,0.0026,50908
+1/31/2020,Houston County,GA,Warner Robins,420,946,0.0064,-0.0032,0.0615,55715
+1/31/2020,Jackson County,MS,Gulfport-Biloxi-Pascagoula,421,1025,-0.0154,-0.0036,0.0033,49201
+1/31/2020,Johnson County,IN,Indianapolis-Carmel-Anderson,422,1214,-0.0009,0.0151,0.0598,55726
+1/31/2020,Kootenai County,ID,Coeur d'Alene,423,1518,-0.0047,0.0038,0.0909,71245
+1/31/2020,Rowan County,NC,Charlotte-Concord-Gastonia,424,947,-0.009,-0.005,0.0249,50001
+1/31/2020,Clark County,OH,Springfield,425,763,-0.0249,-0.007,0.0461,48997
+1/31/2020,Washington County,UT,St. George,426,1481,-0.0054,0.0056,0.0164,73331
+1/31/2020,Indian River County,FL,Sebastian-Vero Beach,427,1583,0.0068,0.0109,0.0257,79024
+1/31/2020,Monroe County,IN,Bloomington,428,1351,0.0188,0.052,0.099,43902
+1/31/2020,Hampton City,VA,Virginia Beach-Norfolk-Newport News,429,1210,-0.0033,0.007,0.0271,50239
+1/31/2020,Florence County,SC,Florence,430,1063,-0.0105,0.0096,0.0074,35307
+1/31/2020,Fayette County,PA,Pittsburgh,431,796,0.0124,0.0296,0.0276,46705
+1/31/2020,Dorchester County,SC,Charleston-North Charleston,432,1288,0.0027,0.0042,0.0386,52457
+1/31/2020,Napa County,CA,Napa,433,2897,-0.0011,-0.0054,0.0025,42448
+1/31/2020,Calhoun County,MI,Battle Creek,434,853,-0.0145,-0.032,-0.0248,4806
+1/31/2020,Tazewell County,IL,Peoria,435,866,0.0057,0.0198,0.0301,50835
+1/31/2020,Chautauqua County,NY,Jamestown-Dunkirk-Fredonia,436,824,0.0164,0.0011,-0.0695,53454
+1/31/2020,Humboldt County,CA,Eureka-Arcata-Fortuna,437,1452,-0.0171,-0.0183,-0.0028,14657
+1/31/2020,Coconino County,AZ,Flagstaff,438,1804,0.0095,0.0572,0.0825,39629
+1/31/2020,Robeson County,NC,Lumberton,439,767,-0.0048,-0.0045,0.0097,25217
+1/31/2020,Marathon County,WI,Wausau,440,839,0.0093,-0.0348,0.0106,14991
+1/31/2020,Orange County,NC,Durham-Chapel Hill,441,1410,0.0028,0.0146,0.0653,49840
+1/31/2020,Lebanon County,PA,Lebanon,442,1029,-0.0215,-0.0354,0.0123,48948
+1/31/2020,Douglas County,GA,Atlanta-Sandy Springs-Roswell,443,1282,0.005,0.0477,0.0841,51548
+1/31/2020,Washington County,WI,Milwaukee-Waukesha-West Allis,444,1054,0.0006,-0.0161,-0.0133,7653
+1/31/2020,Madison County,IN,Indianapolis-Carmel-Anderson,445,780,-0.0232,-0.0028,0.0572,51175
+1/31/2020,Rapides Parish,LA,Alexandria,446,884,0.0039,-0.0055,-0.0295,27468
+1/31/2020,Sandoval County,NM,Albuquerque,447,1304,0.0006,-0.0058,0.0585,54015
+1/31/2020,Guadalupe County,TX,San Antonio-New Braunfels,448,1375,-0.0089,-0.0089,-0.0251,51078
+1/31/2020,Taylor County,TX,Abilene,449,969,0.0115,0.0291,0.0663,48465
+1/31/2020,Wichita County,TX,Wichita Falls,450,792,-0.0045,0.0048,0.0011,41967
+1/31/2020,Cochise County,AZ,Sierra Vista-Douglas,451,924,0.0032,-0.0079,0.0418,40845
+1/31/2020,Berkshire County,MA,Pittsfield,452,1237,0.0051,-0.0183,-0.0346,55682
+1/31/2020,Black Hawk County,IA,Waterloo-Cedar Falls,453,909,-0.0087,0.0239,0.0271,51244
+1/31/2020,Johnson County,IA,Iowa City,454,1132,-0.0057,-0.0084,-0.021,57617
+1/31/2020,San Juan County,NM,Farmington,455,948,-0.007,-0.0299,-0.0448,28738
+1/31/2020,Scott County,MN,Minneapolis-St. Paul-Bloomington,456,1666,-0.0078,-0.0054,-0.0111,56422
+1/31/2020,Stafford County,VA,Washington-Arlington-Alexandria,457,1746,-0.0099,-0.0164,-0.0003,50701
+1/31/2020,Hunterdon County,NJ,New York-Newark-Jersey City,458,1982,0.0069,-0.0236,-0.0253,51661
+1/31/2020,Livingston Parish,LA,Baton Rouge,459,1174,-0.0212,-0.0378,0.0148,6576
+1/31/2020,Coweta County,GA,Atlanta-Sandy Springs-Roswell,460,1410,0.0154,0.0573,0.1052,59589
+1/31/2020,Washington County,RI,Providence-Warwick,461,1582,0.0117,0.0185,0.037,61129
+1/31/2020,Sebastian County,AR,Fort Smith,462,767,0.0194,0.0624,0.0112,23981
+1/31/2020,Wood County,OH,Toledo,463,1202,-0.0193,-0.0347,-0.0482,34461
+1/31/2020,Wright County,MN,Minneapolis-St. Paul-Bloomington,464,1341,-0.0242,-0.0071,-0.0117,48551
+1/31/2020,Comanche County,OK,Lawton,465,729,-0.0046,0.0025,-0.0065,41093
+1/31/2020,Columbia County,GA,Augusta-Richmond County,466,1280,0.0039,0.0067,0.0271,62303
+1/31/2020,Strafford County,NH,Boston-Cambridge-Newton,467,1532,-0.0123,-0.0286,0.0559,42014
+1/31/2020,Blount County,TN,Knoxville,468,1259,0.0069,0.0019,0.0677,49073
+1/31/2020,Washington County,TN,Johnson City,469,937,0.0043,0.0029,0.0539,47098
+1/31/2020,Wayne County,NC,Goldsboro,470,1040,0.0108,0.0383,-0.0212,37189
+1/31/2020,Spotsylvania County,VA,Washington-Arlington-Alexandria,471,1584,0.0124,0.0204,0.0427,43649
+1/31/2020,Kennebec County,ME,Augusta-Waterville,472,1014,-0.0024,-0.0151,0.0018,36574
+1/31/2020,Gregg County,TX,Longview,473,976,0.0177,0.022,0.0353,38258
+1/31/2020,Tangipahoa Parish,LA,Hammond,474,1027,-0.0095,-0.0242,-0.0335,39117
+1/31/2020,Potter County,TX,Amarillo,475,813,0.0016,0.024,0.001,35942
+1/31/2020,Grayson County,TX,Sherman-Denison,476,1147,-0.0021,0.0102,0,47898
+1/31/2020,Randall County,TX,Amarillo,477,878,-0.0186,-0.0147,-0.0331,49170
+1/31/2020,Morgan County,AL,Decatur,478,825,0.0032,0.0199,0.0092,40450
+1/31/2020,Pickens County,SC,Greenville-Anderson-Mauldin,479,1091,0.0006,-0.008,0.0549,39073
+1/31/2020,Boone County,KY,Cincinnati,480,1291,0.0118,0.0402,0.1002,42732
+1/31/2020,Calhoun County,AL,Anniston-Oxford-Jacksonville,481,792,0.0137,0.0212,0.0604,41602
+1/31/2020,Windham County,CT,Worcester,482,1255,-0.0037,-0.0015,0.0082,58271
+1/31/2020,Delaware County,IN,Muncie,483,874,-0.0091,0.0291,0.0338,42792
+1/31/2020,Jasper County,MO,Joplin,484,835,0.0016,-0.0097,-0.0409,46372
+1/31/2020,Bossier Parish,LA,Shreveport-Bossier City,485,1008,0.0017,-0.0097,-0.0368,42433
+1/31/2020,Parker County,TX,Dallas-Fort Worth-Arlington,486,1436,0.0045,0.0145,0.0468,39965
+1/31/2020,Skagit County,WA,Mount Vernon-Anacortes,487,1687,-0.0092,-0.0045,0.0423,43972
+1/31/2020,Clarke County,GA,Athens-Clarke County,488,1193,0.0074,0.0776,0.0885,37727
+1/31/2020,Linn County,OR,Albany,489,1413,0.019,0.0257,0.1097,34756
+1/31/2020,Mercer County,PA,Youngstown-Warren-Boardman,490,674,0.018,0.0221,0.0161,1920
+1/31/2020,Jefferson County,NY,Watertown-Fort Drum,491,1086,-0.0128,-0.0133,-0.0317,40489
+1/31/2020,Lycoming County,PA,Williamsport,492,889,-0.0036,0.0197,0.0399,36585
+1/31/2020,Canadian County,OK,Oklahoma City,493,1114,-0.0068,-0.0074,-0.0042,53948
+1/31/2020,Sheboygan County,WI,Sheboygan,494,896,-0.0146,-0.0434,-0.1598,20373
+1/31/2020,Kendall County,IL,Chicago-Naperville-Elgin,495,1590,-0.0006,0.0065,0.0229,17764
+1/31/2020,Harnett County,NC,Dunn,496,1070,0.0043,0.0022,-0.0209,46940
+1/31/2020,Wayne County,OH,Wooster,497,854,-0.0086,-0.0165,0.0392,35938
+1/31/2020,Wilson County,TN,Nashville-Davidson--Murfreesboro--Franklin,498,1571,-0.004,0.0161,0.025,51061
+1/31/2020,La Salle County,IL,Ottawa-Peru,499,961,0.0015,0.0258,0.0511,36062
+1/31/2020,Warren County,KY,Bowling Green,500,997,-0.0081,-0.0483,-0.0465,36433
+1/31/2020,Kankakee County,IL,Kankakee,501,966,-0.0237,-0.0799,0.0136,3661
+1/31/2020,Faulkner County,AR,Little Rock-North Little Rock-Conway,502,815,0.0087,0.0049,-0.0086,36142
+1/31/2020,Cache County,UT,Logan,503,1121,0.0042,0.0414,0.0712,41416
+1/31/2020,Terrebonne Parish,LA,Houma-Thibodaux,504,867,-0.0181,-0.0263,-0.0732,1260
+1/31/2020,La Porte County,IN,Michigan City-La Porte,505,960,-0.0043,0.0075,0.0404,42110
+1/31/2020,Allegan County,MI,Holland,506,1141,0.0265,0.0244,0.0524,38608
+1/31/2020,Douglas County,KS,Lawrence,507,1079,0.0057,0.0324,-0.0179,40151
+1/31/2020,Carroll County,GA,Atlanta-Sandy Springs-Roswell,508,1055,0.0173,0.0253,0.076,40002
+1/31/2020,Clark County,IN,Louisville/Jefferson County,509,1096,0.0054,0.0169,0.092,45680
+1/31/2020,Tom Green County,TX,San Angelo,510,1074,0.0277,-0.0118,-0.0395,39898
+1/31/2020,Missoula County,MT,Missoula,511,1311,-0.0014,0.0055,0.0466,35812
+1/31/2020,Lowndes County,GA,Valdosta,512,832,-0.0264,-0.0294,-0.0059,33900
+1/31/2020,Warren County,NJ,Allentown-Bethlehem-Easton,513,1562,0.0073,-0.0139,0.0262,42579
+1/31/2020,Comal County,TX,San Antonio-New Braunfels,514,1366,-0.0024,0.0129,0.0126,55389
+1/31/2020,Ontario County,NY,Rochester,515,1243,0.014,0.0429,0.012,40587
+1/31/2020,Vigo County,IN,Terre Haute,516,768,-0.0012,0.0181,0.032,36423
+1/31/2020,Bay County,MI,Bay City,517,854,0.0184,-0.0177,0.0202,19314
+1/31/2020,Eaton County,MI,Lansing-East Lansing,518,929,0.0056,0.0398,-0.0056,28782
+1/31/2020,Sumter County,SC,Sumter,519,888,0.0028,-0.0034,0.037,33841
+1/31/2020,Brunswick County,NC,Myrtle Beach-Conway-North Myrtle Beach,520,1381,-0.0251,-0.0089,0.039,81566
+1/31/2020,Ascension Parish,LA,Baton Rouge,521,1400,-0.0065,-0.0331,-0.0877,3482
+1/31/2020,Henderson County,NC,Asheville,522,1411,-0.0066,0.0054,0.0282,44315
+1/31/2020,Fayette County,GA,Atlanta-Sandy Springs-Roswell,523,1483,0.0004,-0.0045,-0.0106,45058
+1/31/2020,Allen County,OH,Lima,524,906,0.018,0.0817,0.0995,35541
+1/31/2020,Hardin County,KY,Elizabethtown-Fort Knox,525,842,0.0142,0.0267,0.0164,35729
+1/31/2020,DeKalb County,IL,Chicago-Naperville-Elgin,526,1147,-0.0139,-0.0076,0.0408,2498
+1/31/2020,Saint Marys County,MD,California-Lexington Park,527,1465,-0.0002,0.0003,-0.0022,39213
+1/31/2020,Etowah County,AL,Gadsden,528,669,-0.0122,-0.0248,-0.1044,36921
+1/31/2020,Bonneville County,ID,Idaho Falls,529,1091,-0.0132,0.0125,0.0562,40386
+1/31/2020,Berkeley County,WV,Hagerstown-Martinsburg,530,1202,0.0006,0.0113,0.0268,45989
+1/31/2020,Craven County,NC,New Bern,531,991,0.0051,0.0058,0.0168,38251
+1/31/2020,Kaufman County,TX,Dallas-Fort Worth-Arlington,532,1453,0.0001,0.0031,0.0361,39444
+1/31/2020,Miami County,OH,Dayton,533,998,0.0286,0.0076,0.0216,38277
+1/31/2020,Cowlitz County,WA,Longview,534,1175,-0.0018,-0.0091,-0.0299,33946
+1/31/2020,Walworth County,WI,Whitewater-Elkhorn,535,1298,-0.0112,-0.0153,0.0252,4456
+1/31/2020,Woodbury County,IA,Sioux City,536,908,0.0011,-0.0286,0.0158,35666
+1/31/2020,Tompkins County,NY,Ithaca,537,1464,0.0024,-0.0014,-0.0416,24586
+1/31/2020,Houston County,AL,Dothan,538,869,-0.0012,0.0007,-0.0004,36839
+1/31/2020,Ashtabula County,OH,Ashtabula,539,807,-0.0173,0.0681,0.0052,38090
+1/31/2020,Franklin County,MO,St. Louis,540,887,0.0113,0.0392,0.0947,37740
+1/31/2020,Adams County,PA,Gettysburg,541,1198,0.008,0.0441,0.0003,39519
+1/31/2020,Cecil County,MD,Philadelphia-Camden-Wilmington,542,1406,-0.0055,0.0365,0.0458,35990
+1/31/2020,Pennington County,SD,Rapid City,543,1028,-0.0273,-0.0173,-0.0363,38087
+1/31/2020,Bartow County,GA,Atlanta-Sandy Springs-Roswell,544,1143,-0.0028,0.0062,0.089,36009
+1/31/2020,Newton County,GA,Atlanta-Sandy Springs-Roswell,545,1217,0.0138,0.027,0.1029,43518
+1/31/2020,Hanover County,VA,Richmond,546,1410,-0.0139,-0.0336,-0.0608,41301
+1/31/2020,Putnam County,NY,New York-Newark-Jersey City,547,2256,-0.0145,-0.0318,0.0432,38171
+1/31/2020,Cass County,MO,Kansas City,548,1060,-0.0052,-0.0142,0.0664,43570
+1/31/2020,Yamhill County,OR,Portland-Vancouver-Hillsboro,549,1649,-0.0034,0.0102,0.0508,29662
+1/31/2020,Albemarle County,VA,Charlottesville,550,1551,0.0081,0.0192,0.0356,41964
+1/31/2020,Bradley County,TN,Cleveland,551,979,0.0101,0.0312,0.0798,35807
+1/31/2020,Nevada County,CA,Truckee-Grass Valley,552,1908,-0.0011,-0.024,-0.0143,88418
+1/31/2020,Eau Claire County,WI,Eau Claire,553,1026,-0.005,-0.0023,-0.0086,22320
+1/31/2020,Madison County,TN,Jackson,554,868,-0.0007,-0.0043,0.0093,35147
+1/31/2020,Cleveland County,NC,Shelby,555,919,0.0089,0.044,0.0569,35784
+1/31/2020,Fairbanks North Star Borough,AK,Fairbanks,556,1463,-0.0097,-0.0254,-0.035,32580
+1/31/2020,Roanoke City,VA,Roanoke,557,805,-0.0054,-0.0405,-0.0412,34794
+1/31/2020,Daviess County,KY,Owensboro,558,840,0.0038,0.033,0.0062,34646
+1/31/2020,Craighead County,AR,Jonesboro,559,888,-0.011,0.0239,-0.0052,5710
+1/31/2020,Cabell County,WV,Huntington-Ashland,560,880,0.0214,0.0743,0.0693,33477
+1/31/2020,Lafourche Parish,LA,Houma-Thibodaux,561,997,0.0029,0.0092,0.0131,16254
+1/31/2020,Floyd County,GA,Rome,562,888,0.0083,-0.0072,-0.003,34448
+1/31/2020,Monongalia County,WV,Morgantown,563,1176,-0.0048,-0.0003,0.0336,33354
+1/31/2020,Garland County,AR,Hot Springs,564,947,0.0223,0.0145,0.0357,47457
+1/31/2020,Nash County,NC,Rocky Mount,565,856,0.0119,0.0282,0.0804,31701
+1/31/2020,Flagler County,FL,Deltona-Daytona Beach-Ormond Beach,566,1435,-0.0147,-0.0189,0.0321,49560
+1/31/2020,Portsmouth City,VA,Virginia Beach-Norfolk-Newport News,567,1180,0.0036,0.0191,0.0433,33528
+1/31/2020,Madison County,MS,Jackson,568,1316,0.0125,-0.0323,-0.0089,38164
+1/31/2020,Sutter County,CA,Yuba City,569,1540,0.0034,0.05,0.0926,26218
+1/31/2020,Dougherty County,GA,Albany,570,700,0.0126,0.0232,-0.0073,28647
+1/31/2020,Northumberland County,PA,Sunbury,571,664,-0.0134,0.0084,-0.1492,1699
+1/31/2020,Montgomery County,VA,Blacksburg-Christiansburg-Radford,572,1354,-0.0003,0.0374,0.1278,28263
+1/31/2020,Wayne County,NY,Rochester,573,993,0.0169,0.0501,-0.0639,35460
+1/31/2020,Rockingham County,NC,Greensboro-High Point,574,731,0.0215,0.0306,-0.0099,32385
+1/31/2020,Pottawattamie County,IA,Omaha-Council Bluffs,575,911,0.0096,-0.0221,0.0295,2106
+1/31/2020,Marshall County,AL,Albertville,576,914,-0.0064,-0.0077,0.0364,31152
+1/31/2020,Lauderdale County,AL,Florence-Muscle Shoals,577,869,0.0053,0.0424,0.0867,32937
+1/31/2020,Orangeburg County,SC,Orangeburg,578,849,0.0076,0.0258,0.0055,26640
+1/31/2020,Roanoke County,VA,Roanoke,579,1157,-0.0017,0.0139,0.0121,36943
+1/31/2020,Laramie County,WY,Cheyenne,580,1222,-0.0094,0.0027,0.1123,35230
+1/31/2020,Lawrence County,PA,New Castle,581,751,0.0214,0.0341,0.0338,35032
+1/31/2020,Carver County,MN,Minneapolis-St. Paul-Bloomington,582,1654,-0.0011,-0.0038,0.0356,37076
+1/31/2020,Flathead County,MT,Kalispell,583,1509,0.0105,0.0046,0.012,43957
+1/31/2020,Campbell County,KY,Cincinnati,584,1128,0.0024,0.0279,0.0648,29801
+1/31/2020,Story County,IA,Ames,585,963,0.0062,0.0646,0.0379,24879
+1/31/2020,Gallatin County,MT,Bozeman,586,1708,0.005,-0.0403,-0.0256,49911
+1/31/2020,Platte County,MO,Kansas City,587,1154,-0.0069,-0.0247,-0.0026,34814
+1/31/2020,Buchanan County,MO,St. Joseph,588,763,-0.0019,-0.0096,0.0173,31924
+1/31/2020,Grant County,WA,Moses Lake,589,1125,0.0012,-0.0036,0.042,21901
+1/31/2020,Grafton County,NH,Claremont-Lebanon,590,1586,-0.0003,-0.0409,0.0573,50087
+1/31/2020,Matanuska Susitna Borough,AK,Anchorage,591,1350,-0.0197,-0.0109,-0.0172,46693
+1/31/2020,Chemung County,NY,Elmira,592,920,0.0209,0.0086,-0.0375,30373
+1/31/2020,Dodge County,WI,Beaver Dam,593,928,0.0108,-0.0123,0.0252,1410
+1/31/2020,Calvert County,MD,Washington-Arlington-Alexandria,594,1756,-0.0015,-0.019,0.0086,35537
+1/31/2020,Sherburne County,MN,Minneapolis-St. Paul-Bloomington,595,1378,-0.0101,-0.0028,0.0131,12134
+1/31/2020,Lapeer County,MI,Detroit-Warren-Dearborn,596,905,0.0123,0.0307,0.0492,4921
+1/31/2020,Moore County,NC,Pinehurst-Southern Pines,597,1297,-0.0006,0.0053,0.0067,44464
+1/31/2020,Grand Traverse County,MI,Traverse City,598,1373,-0.0118,-0.0079,-0.0131,43090
+1/31/2020,Rogers County,OK,Tulsa,599,978,-0.0255,-0.0725,-0.0277,32687
+1/31/2020,Angelina County,TX,Lufkin,600,994,0.0123,-0.0253,-0.0527,25699
+1/31/2020,Muskingum County,OH,Zanesville,601,817,0.0079,0.023,-0.0073,29112
+1/31/2020,Benton County,OR,Corvallis,602,1663,-0.0008,-0.0362,0.0317,25922
+1/31/2020,Rockdale County,GA,Atlanta-Sandy Springs-Roswell,603,1211,-0.0001,0.0117,0.1121,34321
+1/31/2020,Suffolk City,VA,Virginia Beach-Norfolk-Newport News,604,1367,0.0053,-0.0126,0.0178,36288
+1/31/2020,Saint Croix County,WI,Minneapolis-St. Paul-Bloomington,605,1388,-0.0248,-0.0439,-0.0039,4340
+1/31/2020,Walton County,GA,Atlanta-Sandy Springs-Roswell,606,1254,0.003,-0.0045,0.0203,35208
+1/31/2020,Jefferson County,WI,Watertown-Fort Atkinson,607,992,-0.0137,0.0227,0.0141,1722
+1/31/2020,Midland County,MI,Midland,608,1043,-0.0007,-0.0111,0.0498,41337
+1/31/2020,Saint Clair County,AL,Birmingham-Hoover,609,1223,-0.0025,-0.0068,0.0388,26056
+1/31/2020,Madison County,KY,Richmond-Berea,610,860,0.0015,0.0369,0.0464,9623
+1/31/2020,Lee County,MS,Tupelo,611,951,0.0031,-0.0169,-0.0325,2773
+1/31/2020,Newport County,RI,Providence-Warwick,612,2037,-0.0057,-0.0063,0.054,38873
+1/31/2020,Bannock County,ID,Pocatello,613,830,-0.0056,0.0156,0.0223,27733
+1/31/2020,Howard County,IN,Kokomo,614,761,-0.0156,-0.0039,0.0257,32393
+1/31/2020,Josephine County,OR,Grants Pass,615,1457,-0.0119,0.0361,0.1106,30138
+1/31/2020,Talladega County,AL,Talladega-Sylacauga,616,857,-0.0024,0.0419,0.0069,21961
+1/31/2020,Clinton County,NY,Plattsburgh,617,1649,0.0041,-0.017,0.0615,25962
+1/31/2020,Orange County,TX,Beaumont-Port Arthur,618,1125,0.0002,-0.0096,-0.0325,26675
+1/31/2020,Vermilion County,IL,Danville,619,562,0.0042,-0.0104,-0.0991,1409
+1/31/2020,Manitowoc County,WI,Manitowoc,620,744,0.0203,-0.0014,-0.0484,21279
+1/31/2020,Maury County,TN,Nashville-Davidson--Murfreesboro--Franklin,621,1216,-0.0002,-0.0287,0.0011,35803
+1/31/2020,Cullman County,AL,Cullman,622,993,0.0177,0.091,0.0272,26814
+1/31/2020,Lauderdale County,MS,Meridian,623,883,0.0064,-0.012,0.0306,1201
+1/31/2020,Cayuga County,NY,Auburn,624,902,-0.0195,-0.0239,-0.1421,27777
+1/31/2020,Glynn County,GA,Brunswick,625,1548,0.0033,0.006,-0.002,40180
+1/31/2020,Elmore County,AL,Montgomery,626,999,-0.0087,-0.0073,-0.0558,29490
+1/31/2020,Raleigh County,WV,Beckley,627,832,-0.0083,-0.0027,0.0209,28021
+1/31/2020,Island County,WA,Oak Harbor,628,1677,-0.0023,0.0031,0.0462,35119
+1/31/2020,Rockwall County,TX,Dallas-Fort Worth-Arlington,629,1776,0.0065,0.0149,0.0333,38931
+1/31/2020,Frederick County,VA,Winchester,630,1407,-0.0107,-0.0063,0.025,34039
+1/31/2020,Lincoln County,NC,Charlotte-Concord-Gastonia,631,1282,0.005,0.0088,0.0464,30108
+1/31/2020,Somerset County,PA,Somerset,632,783,0.0134,0.0645,0.0203,27648
+1/31/2020,Sullivan County,NY,,633,1265,-0.0197,-0.0607,-0.0161,41050
+1/31/2020,Christian County,MO,Springfield,634,942,0.0052,0.0418,0.0577,35721
+1/31/2020,Kosciusko County,IN,Warsaw,635,1159,-0.005,-0.0427,0.0153,31424
+1/31/2020,Cheshire County,NH,Keene,636,1403,0.0133,0.0246,-0.0014,29055
+1/31/2020,White County,AR,Searcy,637,775,0.0234,0.0473,0.1196,24699
+1/31/2020,Valencia County,NM,Albuquerque,638,1030,-0.0118,-0.0303,-0.0157,22052
+1/31/2020,Rockingham County,VA,Harrisonburg,639,1205,0.0018,0.0182,0.0729,28407
+1/31/2020,Leavenworth County,KS,Kansas City,640,1040,0.0208,0.0329,-0.0415,27077
+1/31/2020,Cole County,MO,Jefferson City,641,706,-0.0161,-0.0335,-0.0455,27030
+1/31/2020,Umatilla County,OR,Hermiston-Pendleton,642,1120,-0.0256,0.0208,0.0235,19463
+1/31/2020,Cape Girardeau County,MO,Cape Girardeau,643,884,-0.0139,0.0181,0.0425,26367
+1/31/2020,Lynchburg City,VA,Lynchburg,644,875,-0.007,-0.0058,-0.0363,25512
+1/31/2020,Natrona County,WY,Casper,645,1055,0.0075,0.0391,0.1144,27864
+1/31/2020,Polk County,OR,Salem,646,1439,-0.0156,-0.0221,-0.0036,25707
+1/31/2020,Coryell County,TX,Killeen-Temple,647,875,-0.0087,-0.0124,0.0631,21632
+1/31/2020,Forrest County,MS,Hattiesburg,648,812,-0.0127,-0.0307,-0.0264,22702
+1/31/2020,Putnam County,FL,Palatka,649,902,-0.0043,-0.0122,-0.0218,19189
+1/31/2020,Bullitt County,KY,Louisville/Jefferson County,650,1160,0.0124,0.0253,0.0415,17112
+1/31/2020,Bastrop County,TX,Austin-Round Rock,651,1390,-0.0023,0.0358,0.041,22982
+1/31/2020,Christian County,KY,Clarksville,652,834,0.0049,0.0631,0.0478,11626
+1/31/2020,Augusta County,VA,Staunton-Waynesboro,653,1241,-0.0012,-0.0145,-0.0168,29308
+1/31/2020,Surry County,NC,Mount Airy,654,1139,0.0089,-0.0144,0.0145,22959
+1/31/2020,Madison County,NY,Syracuse,655,1154,-0.0259,0.0215,0.0508,25923
+1/31/2020,Nassau County,FL,Jacksonville,656,1690,0.0007,-0.0089,0.0702,35935
+1/31/2020,Monroe County,FL,Key West,657,3105,-0.0001,0.0008,-0.0667,46306
+1/31/2020,Wagoner County,OK,Tulsa,658,1080,-0.0231,-0.0107,0.0235,28023
+1/31/2020,Grays Harbor County,WA,Aberdeen,659,1162,-0.0156,0.0007,0.147,31411
+1/31/2020,Chelan County,WA,Wenatchee,660,1481,-0.0195,-0.028,-0.0098,28679
+1/31/2020,Putnam County,TN,Cookeville,661,945,-0.0076,0.0141,-0.0013,25742
+1/31/2020,Yuba County,CA,Yuba City,662,1411,-0.0144,-0.0172,0.0749,21310
+1/31/2020,Aroostook County,ME,,663,1070,-0.0279,-0.023,0.0443,12185
+1/31/2020,Apache County,AZ,,664,1329,-0.0043,-0.0155,0.0313,7718
+1/31/2020,Clallam County,WA,Port Angeles,665,1500,-0.0092,-0.0089,0.0545,30619
+1/31/2020,Riley County,KS,Manhattan,666,1042,0.0151,0.0528,-0.0034,21826
+1/31/2020,De Kalb County,AL,Fort Payne,667,847,0.0146,-0.0093,-0.0128,19104
+1/31/2020,Muskogee County,OK,Muskogee,668,627,0.0096,0.0205,-0.0563,20832
+1/31/2020,Belmont County,OH,Wheeling,669,1008,-0.0161,-0.0514,-0.045,22341
+1/31/2020,Bulloch County,GA,Statesboro,670,915,0.0138,0.0317,-0.0149,23056
+1/31/2020,Hancock County,IN,Indianapolis-Carmel-Anderson,671,1254,0.0199,0.034,0.053,29818
+1/31/2020,Creek County,OK,Tulsa,672,870,-0.0271,-0.0226,0.01,21748
+1/31/2020,Jefferson County,OH,Weirton-Steubenville,673,710,-0.0045,-0.0113,0.0484,18186
+1/31/2020,Pottawatomie County,OK,Shawnee,674,832,0.0026,0.0162,0.0148,23141
+1/31/2020,Barrow County,GA,Atlanta-Sandy Springs-Roswell,675,1260,-0.0055,0.0082,0.0235,30336
+1/31/2020,Harrison County,WV,Clarksburg,676,922,-0.0132,-0.0468,-0.017,26646
+1/31/2020,Armstrong County,PA,Pittsburgh,677,992,-0.0126,-0.0141,0.1219,25467
+1/31/2020,Wayne County,IN,Richmond,678,809,-0.0021,-0.0064,0.0658,24914
+1/31/2020,Morgan County,IN,Indianapolis-Carmel-Anderson,679,1096,0.0211,0.0247,0.1442,26749
+1/31/2020,Walker County,GA,Chattanooga,680,989,0.0069,0.0234,0.0811,24008
+1/31/2020,Darlington County,SC,Florence,681,1013,0.0064,0.0054,-0.0049,20439
+1/31/2020,Walker County,TX,Huntsville,682,1015,-0.0052,-0.0192,0.0046,11785
+1/31/2020,Rutherford County,NC,Forest City,683,1127,0.0129,-0.0008,0.0054,32774
+1/31/2020,Jones County,MS,Laurel,684,711,-0.0166,-0.0249,-0.1572,1178
+1/31/2020,Columbia County,FL,Lake City,685,1148,0.0062,0.0305,0.0473,16699
+1/31/2020,Columbia County,PA,Bloomsburg-Berwick,686,863,-0.0108,-0.0066,-0.1368,16487
+1/31/2020,Troup County,GA,LaGrange,687,975,0.001,0.0337,0.1605,25463
+1/31/2020,James City County,VA,Virginia Beach-Norfolk-Newport News,688,1615,0.0018,0.0019,0.0209,37403
+1/31/2020,Grand Forks County,ND,Grand Forks,689,938,0.0007,0.002,0.0429,19398
+1/31/2020,Marion County,OH,Marion,690,912,0.0131,-0.0066,0.0476,24612
+1/31/2020,Carteret County,NC,Morehead City,691,1264,-0.0272,-0.0538,-0.0005,45616
+1/31/2020,Williamson County,IL,Carbondale-Marion,692,736,-0.0229,0.0055,-0.0138,26321
+1/31/2020,Robertson County,TN,Nashville-Davidson--Murfreesboro--Franklin,693,1296,-0.0043,-0.0088,0.0738,25975
+1/31/2020,Dallas County,IA,Des Moines-West Des Moines,694,1233,0.005,0.0063,0.0436,38696
+1/31/2020,Salem County,NJ,Philadelphia-Camden-Wilmington,695,1172,0.0056,0.0075,0.003,22654
+1/31/2020,Warren County,NY,Glens Falls,696,1313,0.0256,-0.0187,-0.0878,33422
+1/31/2020,Harrison County,TX,Marshall,697,908,-0.0129,-0.0053,-0.0192,23237
+1/31/2020,York County,VA,Virginia Beach-Norfolk-Newport News,698,1491,-0.0246,-0.0262,-0.0161,25381
+1/31/2020,Saint Francois County,MO,Farmington,699,716,-0.0212,-0.0393,-0.1029,23275
+1/31/2020,Carbon County,PA,Allentown-Bethlehem-Easton,700,981,-0.0088,-0.0276,-0.0441,34716
+1/31/2020,Fauquier County,VA,Washington-Arlington-Alexandria,701,1641,-0.0214,-0.0232,0.0158,27237
+1/31/2020,Pike County,KY,,702,808,0.0022,-0.0061,-0.0045,19513
+1/31/2020,San Patricio County,TX,Corpus Christi,703,1272,-0.0139,-0.0046,-0.0643,23155
+1/31/2020,Lake County,CA,Clearlake,704,1424,0.0005,-0.0001,-0.0084,30288
+1/31/2020,Nacogdoches County,TX,Nacogdoches,705,959,-0.0063,0.0345,-0.0317,5112
+1/31/2020,Reno County,KS,Hutchinson,706,782,0.0043,0.0163,-0.0149,23715
+1/31/2020,Spalding County,GA,Atlanta-Sandy Springs-Roswell,707,883,0.0231,0.054,0.0247,24482
+1/31/2020,Blue Earth County,MN,Mankato-North Mankato,708,1265,0.0169,0.0856,0.0691,21671
+1/31/2020,Catoosa County,GA,Chattanooga,709,1079,-0.0103,0.0102,0.0953,26319
+1/31/2020,Otero County,NM,Alamogordo,710,904,-0.0187,-0.0418,-0.0663,20633
+1/31/2020,Pittsylvania County,VA,Danville,711,1102,0.0055,-0.0241,0.0011,20969
+1/31/2020,Tehama County,CA,Red Bluff,712,1235,-0.0061,-0.0386,0.0731,19138
+1/31/2020,Liberty County,GA,Hinesville,713,975,0.0004,0.015,0.045,23764
+1/31/2020,Sampson County,NC,,714,1008,0.001,0.0254,0.0618,15727
+1/31/2020,Lewis and Clark County,MT,Helena,715,1221,-0.006,0.0167,-0.0044,25853
+1/31/2020,Montcalm County,MI,Grand Rapids-Wyoming,716,886,0.021,0.0221,0.0099,1832
+1/31/2020,Columbia County,NY,Hudson,717,1583,-0.0275,-0.0795,-0.0257,29976
+1/31/2020,Chippewa County,WI,Eau Claire,718,962,0.0047,-0.0458,0.015,4148
+1/31/2020,Sauk County,WI,Baraboo,719,907,-0.0118,0.0189,-0.0346,2453
+1/31/2020,Crawford County,AR,Fort Smith,720,752,-0.0265,0.0031,-0.0019,13892
+1/31/2020,Kershaw County,SC,Columbia,721,1146,-0.0155,-0.0235,-0.0536,15208
+1/31/2020,Ward County,ND,Minot,722,891,-0.0133,-0.0308,-0.0532,3616
+1/31/2020,Saint Joseph County,MI,Sturgis,723,968,0.0012,-0.0048,0.0339,14179
+1/31/2020,Tipton County,TN,Memphis,724,1059,0.0133,0.0123,0.042,21856
+1/31/2020,Starr County,TX,Rio Grande City,725,1169,-0.0021,0.0045,0.0126,7129
+1/31/2020,Sandusky County,OH,Fremont,726,987,0.0015,-0.0039,0.0383,21958
+1/31/2020,Knox County,OH,Mount Vernon,727,957,0.0137,0.0041,0.0363,22960
+1/31/2020,Mason County,WA,Shelton,728,1410,-0.002,0.0238,0.0599,21790
+1/31/2020,Garfield County,OK,Enid,729,852,0.0036,0.0085,-0.0175,23560
+1/31/2020,Oldham County,KY,Louisville/Jefferson County,730,1458,-0.0186,-0.0286,-0.023,20663
+1/31/2020,Jackson County,IL,Carbondale-Marion,731,696,0.0124,0.0003,-0.0948,15807
+1/31/2020,Georgetown County,SC,Georgetown,732,1407,-0.0041,-0.0282,-0.0568,24821
+1/31/2020,Belknap County,NH,Laconia,733,1353,-0.0048,-0.0162,-0.0156,33969
+1/31/2020,Genesee County,NY,Batavia,734,1321,0.0019,-0.0216,-0.0062,20064
+1/31/2020,Lowndes County,MS,Columbus,735,899,0.0097,0.0098,-0.0257,2515
+1/31/2020,Warrick County,IN,Evansville,736,1102,0.0007,0.0042,0.0324,23419
+1/31/2020,Barry County,MI,Grand Rapids-Wyoming,737,1069,-0.0184,-0.0271,-0.0316,21189
+1/31/2020,Wise County,TX,Dallas-Fort Worth-Arlington,738,1365,-0.0001,0.0593,0.0716,19428
+1/31/2020,Haywood County,NC,Asheville,739,1197,-0.0065,0,-0.001,28963
+1/31/2020,Clay County,MN,Fargo,740,1027,-0.005,0.0404,0.0672,8266
+1/31/2020,Laurel County,KY,London,741,869,0.0079,0.0193,0.0216,17264
+1/31/2020,Walla Walla County,WA,Walla Walla,742,1256,-0.0115,-0.0615,0.0357,19660
+1/31/2020,Hall County,NE,Grand Island,743,956,-0.0034,-0.0383,-0.0632,18776
+1/31/2020,Tooele County,UT,Salt Lake City,744,1369,0.0122,0.0341,0.002,21672
+1/31/2020,Columbus County,NC,,745,1135,0.0048,0.0423,0.0875,14948
+1/31/2020,Lee County,NC,Sanford,746,992,0.0238,0.0593,0.0561,22228
+1/31/2020,Oxford County,ME,,747,1248,0.017,0.0888,-0.0158,11131
+1/31/2020,Carter County,TN,Johnson City,748,822,-0.0121,0.0281,-0.0251,19549
+1/31/2020,Pike County,PA,New York-Newark-Jersey City,749,1322,-0.0019,-0.0068,0.0169,45761
+1/31/2020,Blount County,AL,Birmingham-Hoover,750,925,0.009,-0.0368,-0.0023,16596
+1/31/2020,Otter Tail County,MN,Fergus Falls,751,861,-0.0143,-0.0124,-0.0864,31930
+1/31/2020,Columbia County,WI,Madison,752,1013,0.0092,0.0119,0.0045,4366
+1/31/2020,Windsor County,VT,Claremont-Lebanon,753,1443,-0.0252,-0.024,-0.0122,7389
+1/31/2020,Boone County,IN,Indianapolis-Carmel-Anderson,754,1391,0.0062,0.023,0.0202,24345
+1/31/2020,Edgecombe County,NC,Rocky Mount,755,610,-0.0018,-0.0104,-0.0319,16894
+1/31/2020,Marion County,WV,Fairmont,756,848,-0.0033,0.0662,0.0292,23133
+1/31/2020,Garfield County,CO,Glenwood Springs,757,1959,0.0135,0.0052,0.0318,20052
+1/31/2020,Cumberland County,TN,Crossville,758,1076,-0.0265,-0.0143,0.0421,23913
+1/31/2020,Broomfield County,CO,Denver-Aurora-Lakewood,759,1830,0.0008,-0.0093,-0.0073,18160
+1/31/2020,Pearl River County,MS,Picayune,760,908,-0.0091,-0.0031,-0.0158,21047
+1/31/2020,Lamar County,MS,Hattiesburg,761,999,0.0118,0.0022,-0.0134,20554
+1/31/2020,Saline County,KS,Salina,762,811,-0.0089,0.0308,-0.0261,19825
+1/31/2020,Fulton County,NY,Gloversville,763,912,-0.0062,-0.0775,-0.1779,21963
+1/31/2020,Kenai Peninsula Borough,AK,,764,1313,0.0266,0.0086,0.0057,28187
+1/31/2020,Tuolumne County,CA,Sonora,765,1416,-0.016,-0.0247,-0.0006,47683
+1/31/2020,Carson City,NV,Carson City,766,1279,0.0076,-0.0338,-0.0837,16578
+1/31/2020,San Benito County,CA,San Jose-Sunnyvale-Santa Clara,767,2381,0.0182,-0.0599,-0.0317,10653
+1/31/2020,Walton County,FL,Crestview-Fort Walton Beach-Destin,768,1949,0.0008,-0.0283,0.0303,43585
+1/31/2020,Campbell County,VA,Lynchburg,769,868,-0.0024,0.0041,-0.0254,18932
+1/31/2020,Hardin County,TX,Beaumont-Port Arthur,770,1130,-0.0159,0.0119,0.0238,17520
+1/31/2020,Autauga County,AL,Montgomery,771,1133,0.0012,-0.0122,0.1309,18575
+1/31/2020,Colbert County,AL,Florence-Muscle Shoals,772,832,-0.0148,0.003,-0.0255,20802
+1/31/2020,Maverick County,TX,Eagle Pass,773,959,-0.0154,-0.0426,-0.1182,9865
+1/31/2020,Boone County,IL,Rockford,774,1155,-0.022,-0.028,-0.0125,18805
+1/31/2020,Chisago County,MN,Minneapolis-St. Paul-Bloomington,775,1414,0.0058,0.0391,-0.0115,20674
+1/31/2020,Gila County,AZ,Payson,776,1146,0.0051,-0.0438,-0.0918,24073
+1/31/2020,Jefferson County,WV,Washington-Arlington-Alexandria,777,1380,0.0001,0.0101,0.0305,23511
+1/31/2020,Rusk County,TX,Longview,778,1237,-0.0059,-0.0051,-0.001,14503
+1/31/2020,Jackson County,AL,Scottsboro,779,923,0.0025,0.0146,0.0149,16767
+1/31/2020,Russell County,AL,Columbus,780,863,-0.0007,0.037,0.0233,18919
+1/31/2020,Knox County,IL,Galesburg,781,936,-0.0291,-0.0203,-0.0245,20427
+1/31/2020,Wayne County,PA,,782,1127,0.0003,-0.0108,-0.0691,25299
+1/31/2020,Coffee County,TN,Tullahoma-Manchester,783,1014,-0.0158,-0.0511,-0.0471,18975
+1/31/2020,Van Zandt County,TX,,784,1103,0.0065,0.022,-0.0606,20256
+1/31/2020,Grady County,OK,Oklahoma City,785,926,0.0052,0.0394,0.0816,17838
+1/31/2020,Vernon Parish,LA,Fort Polk South,786,761,-0.0014,0.0051,-0.0098,1005
+1/31/2020,Cass County,MI,South Bend-Mishawaka,787,989,0.0201,-0.0149,-0.0177,3497
+1/31/2020,Pulaski County,MO,Fort Leonard Wood,788,892,0.0137,0.0202,0.0463,13392
+1/31/2020,Effingham County,GA,Savannah,789,1114,-0.002,-0.0214,-0.0348,24229
+1/31/2020,Pender County,NC,Wilmington,790,1362,0.0151,0.0643,0.0764,21249
+1/31/2020,Eagle County,CO,Edwards,791,3287,-0.016,-0.0069,0.0112,33542
+1/31/2020,Saint Martin Parish,LA,Lafayette,792,909,-0.0138,-0.0428,-0.1501,16032
+1/31/2020,Lyon County,NV,Fernley,793,1501,-0.0063,-0.0017,0.0444,18121
+1/31/2020,Taney County,MO,Branson,794,903,-0.0143,-0.01,-0.0347,24478
+1/31/2020,Franklin County,NY,Malone,795,1469,-0.0136,-0.0279,0.0304,16126
+1/31/2020,Worcester County,MD,Salisbury,796,1392,0.0195,-0.0079,0.0361,59078
+1/31/2020,Jefferson County,TN,Morristown,797,1003,-0.006,-0.0408,-0.0149,20583
+1/31/2020,La Plata County,CO,Durango,798,1610,-0.0086,-0.0262,-0.0215,25293
+1/31/2020,Grant County,WI,Platteville,799,870,-0.007,0.0064,-0.0231,1815
+1/31/2020,Watauga County,NC,Boone,800,1323,-0.016,-0.0438,0.062,30941
+1/31/2020,Washington County,OK,Bartlesville,801,891,0.0077,-0.0117,0.0894,19955
+1/31/2020,Crittenden County,AR,Memphis,802,762,0.0012,-0.0016,-0.0972,15515
+1/31/2020,Cherokee County,TX,Jacksonville,803,1293,0.0197,0.0199,0.1833,9109
+1/31/2020,Camden County,GA,St. Marys,804,1074,-0.0055,-0.0181,0.0243,22742
+1/31/2020,Dale County,AL,Ozark,805,818,-0.0025,0.0144,-0.0693,15566
+1/31/2020,Montgomery County,NY,Amsterdam,806,894,0.0084,0.0367,-0.0388,17884
+1/31/2020,Grundy County,IL,Chicago-Naperville-Elgin,807,1171,-0.0115,-0.0078,-0.0054,16654
+1/31/2020,Dearborn County,IN,Cincinnati,808,1019,-0.0282,-0.0219,0.0519,18633
+1/31/2020,Coffee County,AL,Enterprise,809,995,0.0229,0.0363,0.0857,20852
+1/31/2020,Lamar County,TX,Paris,810,860,0.0274,0.0075,-0.1397,8656
+1/31/2020,Bedford County,PA,,811,1018,0.0027,-0.0432,-0.0075,23358
+1/31/2020,Kerr County,TX,Kerrville,812,1351,0.0137,0.0074,-0.0251,13785
+1/31/2020,Boyd County,KY,Huntington-Ashland,813,847,-0.0207,-0.0219,-0.0346,13325
+1/31/2020,Franklin County,KY,Frankfort,814,835,-0.0045,0.0254,-0.0116,11697
+1/31/2020,Clinton County,IA,Clinton,815,667,-0.0288,-0.0318,-0.0315,9164
+1/31/2020,Allegany County,NY,,816,1297,0.0014,-0.011,0.0327,18254
+1/31/2020,Elko County,NV,Elko,817,1248,-0.0025,-0.0062,0.0119,12314
+1/31/2020,Warren County,MS,Vicksburg,818,857,0.0219,-0.0316,-0.1398,17015
+1/31/2020,Jessamine County,KY,Lexington-Fayette,819,1107,0.0258,0.0627,0.0249,11628
+1/31/2020,Loudon County,TN,Knoxville,820,1488,-0.0052,0.0419,0.1441,21029
+1/31/2020,Newaygo County,MI,,821,918,-0.0095,-0.028,-0.0059,2204
+1/31/2020,Laurens County,GA,Dublin,822,960,0.0162,0.0106,0.0937,15109
+1/31/2020,Curry County,NM,Clovis,823,855,-0.001,0.0057,-0.0878,4838
+1/31/2020,Delaware County,NY,,824,1531,-0.0136,-0.0227,0.0653,20601
+1/31/2020,Carroll County,NH,,825,1420,-0.0124,-0.0498,-0.0566,39613
+1/31/2020,Macoupin County,IL,St. Louis,826,896,-0.0121,-0.0011,-0.0069,1125
+1/31/2020,Beaufort County,NC,Washington,827,1070,0.0005,-0.0014,-0.0125,19150
+1/31/2020,Franklin County,VT,Burlington-South Burlington,828,1634,0.0075,0.0217,0.0485,4846
+1/31/2020,Oktibbeha County,MS,Starkville,829,904,0.0162,-0.0291,0.0076,2605
+1/31/2020,Noble County,IN,Kendallville,830,924,-0.0179,-0.0045,0.0114,16304
+1/31/2020,Osage County,OK,Tulsa,831,911,0.0156,-0.0135,-0.0158,15364
+1/31/2020,Stokes County,NC,Winston-Salem,832,1162,0.0082,-0.0141,0.0365,14346
+1/31/2020,Scott County,KY,Lexington-Fayette,833,1086,-0.0283,-0.0156,0.0256,13161
+1/31/2020,Douglas County,NV,Gardnerville Ranchos,834,1824,-0.0208,-0.0233,0.0203,23505
+1/31/2020,Hoke County,NC,Fayetteville,835,1117,-0.0041,0.0049,0.0512,19095
+1/31/2020,Hopkins County,KY,Madisonville,836,799,0.0093,0.0005,0.0069,15252
+1/31/2020,Lincoln Parish,LA,Ruston,837,914,-0.0064,-0.0503,-0.0639,12676
+1/31/2020,Chesterfield County,SC,,838,990,0.0017,-0.0013,-0.0244,5912
+1/31/2020,Mifflin County,PA,Lewistown,839,989,0.0031,0.0241,0.0805,11252
+1/31/2020,Richmond County,NC,Rockingham,840,959,0.0188,0.0238,0.0353,15361
+1/31/2020,Kay County,OK,Ponca City,841,685,0.0086,-0.0316,-0.0988,16468
+1/31/2020,Henderson County,KY,Evansville,842,852,-0.0014,0.024,0.0314,14296
+1/31/2020,Warren County,IA,Des Moines-West Des Moines,843,1086,-0.0188,-0.0324,-0.0526,19839
+1/31/2020,Goodhue County,MN,Red Wing,844,1022,-0.0289,-0.0143,-0.1766,2872
+1/31/2020,Iron County,UT,Cedar City,845,1057,-0.002,-0.0205,0.0047,5729
+1/31/2020,Lawrence County,IN,Bedford,846,904,-0.0045,-0.0221,0.0119,18255
+1/31/2020,Buffalo County,NE,Kearney,847,1196,0.0184,-0.0272,0.0245,15704
+1/31/2020,Fayette County,WV,Beckley,848,756,-0.001,-0.0014,-0.0134,17748
+1/31/2020,Lincoln County,OR,Newport,849,1569,0.0158,0.0392,0.0749,25744
+1/31/2020,Medina County,TX,San Antonio-New Braunfels,850,1314,0.0184,0.0114,0.0238,12538
+1/31/2020,Perry County,PA,Harrisburg-Carlisle,851,891,-0.0005,-0.0525,-0.1583,15998
+1/31/2020,Auglaize County,OH,Wapakoneta,852,963,-0.004,-0.0002,0.0484,15974
+1/31/2020,Huntingdon County,PA,Huntingdon,853,968,0.0047,0.0022,0.019,13472
+1/31/2020,Logan County,OH,Bellefontaine,854,939,0.0049,-0.0008,0.0238,17960
+1/31/2020,Pittsburg County,OK,McAlester,855,799,0.0089,-0.0421,-0.001,16188
+1/31/2020,Baldwin County,GA,Milledgeville,856,933,0.0122,0.0318,0.0792,15272
+1/31/2020,Calaveras County,CA,,857,1594,0.0017,0.0195,0.0383,25375
+1/31/2020,Colquitt County,GA,Moultrie,858,1018,-0.0035,-0.0006,0.0173,6726
+1/31/2020,Vance County,NC,Henderson,859,811,0.0049,0.0198,0.0051,13243
+1/31/2020,Polk County,TX,,860,1065,0.0242,-0.012,-0.1326,20325
+1/31/2020,Tazewell County,VA,Bluefield,861,1080,-0.0271,-0.0341,0.0212,14684
+1/31/2020,Bedford County,TN,Shelbyville,862,1135,0.0082,0.0005,0.0336,16857
+1/31/2020,Stephens County,OK,Duncan,863,618,-0.0036,-0.0265,-0.0511,16966
+1/31/2020,McDowell County,NC,Marion,864,1113,-0.0083,0.0089,-0.0081,11414
+1/31/2020,Union County,PA,Lewisburg,865,1153,0.0254,-0.0269,-0.0141,13700
+1/31/2020,Brown County,OH,Cincinnati,866,981,0.0116,0.0127,0.0435,9476
+1/31/2020,Lincoln County,SD,Sioux Falls,867,1199,0.0033,0.0333,-0.0208,8118
+1/31/2020,Whitman County,WA,Pullman,868,1251,0.0085,0.014,-0.0269,11840
+1/31/2020,Monroe County,WI,,869,924,0.0065,0.0405,0.064,1506
+1/31/2020,Monroe County,TN,,870,994,-0.0095,-0.0588,-0.0162,14768
+1/31/2020,Beltrami County,MN,Bemidji,871,1036,0.0114,-0.0331,-0.0615,16411
+1/31/2020,Shelby County,IN,Indianapolis-Carmel-Anderson,872,877,-0.0229,-0.0466,-0.0699,17378
+1/31/2020,Callaway County,MO,Jefferson City,873,772,-0.0168,0.0045,-0.0204,17057
+1/31/2020,Polk County,WI,,874,1076,0.0108,0.0703,0.0722,4000
+1/31/2020,Douglas County,WI,Duluth,875,992,0.0023,-0.0051,0.0682,2293
+1/31/2020,Cerro Gordo County,IA,Mason City,876,759,-0.0022,-0.0115,0.0712,15918
+1/31/2020,Camden County,MO,,877,933,-0.0086,-0.0586,-0.0435,44766
+1/31/2020,Nye County,NV,Pahrump,878,1149,0.0034,0.0224,0.0121,12006
+1/31/2020,Hancock County,MS,Gulfport-Biloxi-Pascagoula,879,938,-0.0121,-0.0718,-0.0783,18502
+1/31/2020,Dallas County,AL,Selma,880,805,0.0056,0.0099,0.0303,12219
+1/31/2020,Sweetwater County,WY,Rock Springs,881,909,-0.0086,-0.06,-0.0078,12232
+1/31/2020,Chilton County,AL,Birmingham-Hoover,882,946,-0.0054,-0.0043,0.0054,12436
+1/31/2020,Highland County,OH,,883,943,0.0029,-0.0179,0.0231,14439
+1/31/2020,Charlottesville City,VA,Charlottesville,884,1600,0.0134,0.029,0.029,15113
+1/31/2020,Miller County,AR,Texarkana,885,809,0.0089,0.0502,-0.0063,13608
+1/31/2020,McKean County,PA,Bradford,886,893,0.0156,-0.0198,0.003,13684
+1/31/2020,Nelson County,KY,Bardstown,887,921,0.0072,0.0113,-0.0069,16646
+1/31/2020,Susquehanna County,PA,,888,1121,0.0099,0.0136,0.009,3045
+1/31/2020,Waller County,TX,Houston-The Woodlands-Sugar Land,889,1333,0.0176,0.0361,0.0424,12056
+1/31/2020,Sanilac County,MI,,890,861,-0.0049,-0.019,-0.0005,3714
+1/31/2020,Danville City,VA,Danville,891,666,-0.0222,-0.0115,-0.0414,13404
+1/31/2020,Habersham County,GA,Cornelia,892,1310,-0.0095,0.0171,0.041,14680
+1/31/2020,Orleans County,NY,Rochester,893,1268,-0.0091,-0.0273,-0.0065,14381
+1/31/2020,Butler County,MO,Poplar Bluff,894,750,-0.0078,-0.0179,-0.0011,16042
+1/31/2020,Burnet County,TX,,895,1263,-0.0278,0.0222,0.0028,20138
+1/31/2020,Muscatine County,IA,Muscatine,896,757,0.001,-0.0035,-0.027,15350
+1/31/2020,Fulton County,OH,Toledo,897,1011,0.0081,0.0108,0.0481,12284
+1/31/2020,Wayne County,WV,Huntington-Ashland,898,800,0.0075,0.002,-0.0088,14315
+1/31/2020,Bryan County,OK,Durant,899,901,0.022,0.0335,-0.0082,10732
+1/31/2020,Jackson County,IN,Seymour,900,996,0.0055,-0.023,0.0358,15090
+1/31/2020,Holmes County,OH,,901,977,0.0189,0.0021,-0.0235,11657
+1/31/2020,Preble County,OH,,902,1025,-0.0087,0.0017,0.0375,14540
+1/31/2020,De Kalb County,IN,Auburn,903,897,-0.028,0.0171,0.0115,14864
+1/31/2020,Pettis County,MO,Sedalia,904,749,-0.0292,-0.0343,0.0279,17860
+1/31/2020,Wyoming County,NY,,905,1356,-0.0007,-0.0275,0.0154,14843
+1/31/2020,Greene County,AR,Paragould,906,748,0.0175,0.0153,-0.0325,7272
+1/31/2020,Shelby County,KY,Louisville/Jefferson County,907,1102,-0.009,0.0135,0.0505,8828
+1/31/2020,Clinton County,OH,Wilmington,908,967,-0.0068,-0.011,0.0237,12488
+1/31/2020,Shenandoah County,VA,,909,906,-0.0028,0.0037,-0.1122,19758
+1/31/2020,Tioga County,PA,,910,1113,0.0169,0.0346,0.0979,16550
+1/31/2020,Shawano County,WI,Shawano,911,989,-0.0214,0.0063,0.0491,2650
+1/31/2020,Lawrence County,TN,Lawrenceburg,912,1028,0.0282,0.0396,0.0736,14560
+1/31/2020,Marinette County,WI,Marinette,913,912,0.0143,0.0414,0.0496,1762
+1/31/2020,Union County,AR,El Dorado,914,809,0.0296,0.0083,0.0319,12937
+1/31/2020,Tallapoosa County,AL,Alexander City,915,963,0.003,0.015,0.0052,19203
+1/31/2020,Suwannee County,FL,,916,1342,0.0112,0.0125,0.0226,9016
+1/31/2020,Delaware County,OK,,917,962,0.0113,0.0401,0.0768,13825
+1/31/2020,Polk County,GA,Cedartown,918,1195,0.0099,0.0086,0.0667,14648
+1/31/2020,Ottawa County,OH,Port Clinton,919,1159,-0.0106,-0.0129,0.0192,23913
+1/31/2020,Wharton County,TX,El Campo,920,1193,0.0123,0.0041,-0.0514,11785
+1/31/2020,Mayes County,OK,,921,907,0.0222,-0.0048,-0.0053,10772
+1/31/2020,Davie County,NC,Winston-Salem,922,1266,0.0019,0.0149,0.0271,15019
+1/31/2020,Okanogan County,WA,,923,1461,0.0153,0.0162,0.0927,14640
+1/31/2020,Franklin County,TN,Tullahoma-Manchester,924,1028,-0.0073,0.0203,0.0461,16666
+1/31/2020,Pierce County,WI,Minneapolis-St. Paul-Bloomington,925,1145,0.0064,0.0043,0.1038,2778
+1/31/2020,Kittitas County,WA,Ellensburg,926,1378,-0.0053,-0.0335,-0.0232,18058
+1/31/2020,Bonner County,ID,Sandpoint,927,1353,-0.0117,-0.0481,0.0585,24105
+1/31/2020,Mercer County,OH,Celina,928,1049,0.0109,0.0033,0.0346,14265
+1/31/2020,Levy County,FL,,929,1324,0.0053,0.0051,0.0495,9589
+1/31/2020,Campbell County,TN,Knoxville,930,960,-0.0184,-0.0342,0.0094,15195
+1/31/2020,Pasquotank County,NC,Elizabeth City,931,947,-0.0094,0.0101,0.0513,16474
+1/31/2020,Marshall County,IA,Marshalltown,932,863,0.0182,0.025,-0.0007,13979
+1/31/2020,Howell County,MO,West Plains,933,816,-0.0144,-0.0061,0.0138,3715
+1/31/2020,Jackson County,NC,Cullowhee,934,1001,-0.0082,-0.031,-0.1298,13748
+1/31/2020,Rio Arriba County,NM,Española,935,1150,0.0063,-0.036,-0.014,1499
+1/31/2020,Ravalli County,MT,,936,1206,0.0259,-0.0045,0.0742,19415
+1/31/2020,Fremont County,WY,Riverton,937,984,0.0033,0.0661,0.0859,11882
+1/31/2020,Champaign County,OH,Urbana,938,988,-0.0041,-0.0075,0.0174,14731
+1/31/2020,Okmulgee County,OK,Tulsa,939,831,-0.0019,-0.0158,0.0211,11854
+1/31/2020,Okeechobee County,FL,Okeechobee,940,1371,0.0044,0.0265,-0.0078,9160
+1/31/2020,Warren County,TN,McMinnville,941,578,-0.01,-0.0662,-0.2275,13670
+1/31/2020,Knox County,ME,,942,1403,-0.0041,-0.016,0.0372,16472
+1/31/2020,Murray County,GA,Dalton,943,1203,-0.004,0.0029,0.073,10511
+1/31/2020,Person County,NC,Durham-Chapel Hill,944,1058,0.0211,0.0344,-0.0232,13149
+1/31/2020,Floyd County,KY,,945,800,0.0071,-0.0257,-0.027,6363
+1/31/2020,Marion County,IL,Centralia,946,905,-0.0074,-0.0233,-0.0219,1399
+1/31/2020,Essex County,NY,,947,1724,-0.002,-0.0118,0.0297,22468
+1/31/2020,Upshur County,TX,Longview,948,1361,0.0165,0.0407,0.0826,7140
+1/31/2020,Clinton County,PA,Lock Haven,949,906,-0.0114,-0.0094,-0.004,14051
+1/31/2020,Scott County,MO,Sikeston,950,829,0.0178,0.0282,0.0395,9515
+1/31/2020,Mower County,MN,Austin,951,764,-0.0016,-0.0249,-0.0767,15733
+1/31/2020,Hendry County,FL,Clewiston,952,1353,0.0064,-0.0013,-0.0324,7927
+1/31/2020,Cheatham County,TN,Nashville-Davidson--Murfreesboro--Franklin,953,1338,0.0022,-0.0234,0.0559,16058
+1/31/2020,Defiance County,OH,Defiance,954,947,0.0052,0.0031,0.0357,14585
+1/31/2020,Cass County,IN,Logansport,955,814,-0.0236,-0.015,0.0146,13647
+1/31/2020,Livingston County,IL,Pontiac,956,1154,0.0199,0.0314,0.1013,12512
+1/31/2020,Colleton County,SC,,957,1226,0.0005,-0.0122,-0.0027,8532
+1/31/2020,Jefferson County,IL,Mount Vernon,958,1008,-0.0069,-0.0086,0.0137,1445
+1/31/2020,Waldo County,ME,,959,1220,-0.0021,-0.0115,-0.0354,6873
+1/31/2020,Greene County,PA,,960,972,-0.0068,-0.0245,0.0083,1065
+1/31/2020,Lawrence County,MO,,961,841,-0.0021,0.0452,0.0602,14704
+1/31/2020,Chippewa County,MI,Sault Ste. Marie,962,868,-0.0188,-0.0235,0.0103,1738
+1/31/2020,Knox County,IN,Vincennes,963,884,0.0055,0.0034,0.0461,13379
+1/31/2020,Cooke County,TX,Gainesville,964,1298,-0.0039,0.0049,-0.0342,12642
+1/31/2020,Douglas County,WA,Wenatchee,965,1566,-0.0013,-0.0391,-0.0323,12712
+1/31/2020,Fayette County,TN,Memphis,966,1301,-0.0289,-0.0475,0.0931,15612
+1/31/2020,Yadkin County,NC,Winston-Salem,967,1073,0.0123,-0.0185,0.0493,4811
+1/31/2020,Amador County,CA,,968,1367,-0.0159,-0.0688,-0.0418,15717
+1/31/2020,Caldwell County,TX,Austin-Round Rock,969,1289,0.012,0.0378,0.0038,10024
+1/31/2020,Putnam County,IN,Indianapolis-Carmel-Anderson,970,991,-0.0009,-0.0411,0.003,13050
+1/31/2020,Erath County,TX,Stephenville,971,1078,-0.0009,-0.0207,-0.0143,12274
+1/31/2020,Manassas City,VA,Washington-Arlington-Alexandria,972,1703,0.0063,0.0183,0.0325,14112
+1/31/2020,Isanti County,MN,Minneapolis-St. Paul-Bloomington,973,1367,0.0005,0.0117,0.0299,15614
+1/31/2020,Talbot County,MD,Easton,974,1583,-0.0203,-0.0162,0.0065,17048
+1/31/2020,Covington County,AL,,975,914,0.0278,0.0321,0.0442,13490
+1/31/2020,Clinton County,IL,St. Louis,976,1091,-0.0067,-0.0294,0.0398,13837
+1/31/2020,Oconto County,WI,Green Bay,977,913,-0.014,0.0203,0.0243,1276
+1/31/2020,Williams County,OH,,978,914,0.0235,0.0028,0.0266,14741
+1/31/2020,Warren County,VA,Washington-Arlington-Alexandria,979,1162,-0.0198,-0.0125,-0.0437,14462
+1/31/2020,Madison County,ID,Rexburg,980,1001,-0.0176,-0.0178,0.0217,7436
+1/31/2020,Newberry County,SC,Newberry,981,1199,0.0154,-0.0058,0.0916,5417
+1/31/2020,Pontotoc County,OK,Ada,982,809,0.029,0.0252,0,12637
+1/31/2020,Latah County,ID,Moscow,983,943,-0.0043,-0.0387,-0.062,1144
+1/31/2020,Calloway County,KY,Murray,984,877,-0.0103,-0.0347,-0.023,4868
+1/31/2020,Huntington County,IN,Huntington,985,868,0.02,0.0091,0.0117,14491
+1/31/2020,Graves County,KY,Mayfield,986,818,-0.0259,-0.0286,-0.0061,8278
+1/31/2020,Delta County,MI,Escanaba,987,979,0.011,0.034,0.0273,6675
+1/31/2020,Fulton County,IL,Canton,988,927,0.0198,0.017,0.0008,1011
+1/31/2020,Alcorn County,MS,Corinth,989,909,-0.0133,-0.0003,0.0626,10790
+1/31/2020,Clatsop County,OR,Astoria,990,1519,0.0013,0.0021,0.0143,20109
+1/31/2020,Monroe County,MS,,991,867,0.0023,0.0253,0.0319,9280
+1/31/2020,Greenup County,KY,Huntington-Ashland,992,866,-0.0038,0.004,-0.0247,7868
+1/31/2020,Miami County,IN,Peru,993,825,-0.0016,-0.0021,0.0181,12364
+1/31/2020,Boone County,AR,Harrison,994,871,-0.0034,-0.0014,-0.0215,5928
+1/31/2020,Coshocton County,OH,Coshocton,995,894,0.0022,-0.011,-0.0027,13645
+1/31/2020,Gloucester County,VA,Virginia Beach-Norfolk-Newport News,996,1229,-0.0172,-0.0414,-0.0343,17927
+1/31/2020,Jasper County,IA,Newton,997,921,0.0072,0.0187,-0.024,14505
+1/31/2020,Addison County,VT,,998,1650,-0.004,0.0051,0.0359,1628
+1/31/2020,Finney County,KS,Garden City,999,975,0.0091,0.0213,0.0127,10111
+1/31/2020,Logan County,WV,Logan,1000,758,-0.0044,-0.0237,-0.0304,10225
+1/31/2020,Dodge County,NE,Fremont,1001,959,-0.0025,0.0041,0.0376,13863
+1/31/2020,Independence County,AR,Batesville,1002,807,-0.0155,0.0373,-0.0213,5319
+1/31/2020,Houghton County,MI,Houghton,1003,961,-0.0107,0.0021,-0.0599,1497
+1/31/2020,Steele County,MN,Owatonna,1004,1151,-0.0068,0.0138,0.0071,14054
+1/31/2020,Summit County,UT,Summit Park,1005,2689,-0.0097,-0.0524,-0.0483,35173
+1/31/2020,Ware County,GA,Waycross,1006,1014,0.0208,0.0196,0.121,12645
+1/31/2020,Cowley County,KS,Arkansas City-Winfield,1007,784,-0.0045,-0.0239,0.0274,13168
+1/31/2020,Albany County,WY,Laramie,1008,1069,-0.0084,0.0276,0.0847,12119
+1/31/2020,Hale County,TX,Plainview,1009,1121,-0.0062,-0.0376,0.0311,2791
+1/31/2020,Webster County,MO,Springfield,1010,865,0.0072,0.0266,0.0767,15663
+1/31/2020,Scotland County,NC,Laurinburg,1011,985,0.025,0.0959,-0.0626,9376
+1/31/2020,Perry County,OH,Columbus,1012,853,0.0123,0.0138,0.0345,10521
+1/31/2020,Lee County,IL,Dixon,1013,748,0.0055,0.0098,-0.0395,13527
+1/31/2020,Oneida County,WI,,1014,887,0.0277,0.0333,-0.0653,2838
+1/31/2020,Saint Bernard Parish,LA,New Orleans-Metairie,1015,1009,0.0009,-0.0004,-0.0569,1220
+1/31/2020,Lee County,IA,Fort Madison-Keokuk,1016,808,0.0068,0.011,-0.0227,13371
+1/31/2020,Prince George County,VA,Richmond,1017,1309,-0.013,-0.0211,-0.008,10809
+1/31/2020,Jasper County,TX,,1018,1245,0.003,-0.0052,0.0082,3880
+1/31/2020,Cocke County,TN,Newport,1019,938,-0.0156,-0.0416,0.0215,12469
+1/31/2020,Whitley County,KY,London,1020,870,0.0102,0.0073,0.0249,4335
+1/31/2020,Wapello County,IA,Ottumwa,1021,796,0.0094,-0.0041,-0.0284,13327
+1/31/2020,Clark County,KY,Lexington-Fayette,1022,929,0.0274,0.0647,-0.0322,12408
+1/31/2020,Barry County,MO,,1023,868,-0.0012,0.0103,0.0675,12992
+1/31/2020,Morgan County,IL,Jacksonville,1024,977,0.0006,0.0123,0.0418,4338
+1/31/2020,Greenbrier County,WV,,1025,881,-0.0063,0.0221,0.0373,16264
+1/31/2020,Montgomery County,KS,Coffeyville,1026,779,0.0127,-0.0011,0.0144,13823
+1/31/2020,Carlton County,MN,Duluth,1027,1321,0.0019,-0.0117,0.0037,1946
+1/31/2020,Isle of Wight County,VA,Virginia Beach-Norfolk-Newport News,1028,1304,-0.0109,0.0007,-0.0185,16419
+1/31/2020,Bladen County,NC,,1029,988,-0.0104,-0.0067,0.0422,9592
+1/31/2020,Hopkins County,TX,Sulphur Springs,1030,1251,-0.0149,-0.0014,-0.0177,22515
+1/31/2020,Hill County,TX,,1031,1315,-0.0034,0.0319,0.0436,7015
+1/31/2020,Howard County,TX,Big Spring,1032,1199,0.0166,-0.0159,-0.0166,12708
+1/31/2020,Clarendon County,SC,,1033,997,-0.0015,-0.0313,-0.0083,11749
+1/31/2020,Madison County,NE,Norfolk,1034,932,0.0053,0.0663,-0.0245,11764
+1/31/2020,De Soto County,FL,Arcadia,1035,1388,0.0118,0.0143,-0.0012,7337
+1/31/2020,Morrow County,OH,Columbus,1036,1029,0.0011,-0.0393,0.0148,11389
+1/31/2020,Panola County,MS,,1037,912,-0.002,0.0328,-0.0054,9025
+1/31/2020,Harvey County,KS,Wichita,1038,849,0.03,-0.0036,-0.0273,12503
+1/31/2020,McClain County,OK,Oklahoma City,1039,1110,0.0176,0.0144,0.0939,9550
+1/31/2020,Putnam County,OH,,1040,982,-0.0106,-0.0051,0.0475,7516
+1/31/2020,Lincoln County,ME,,1041,1372,-0.0181,-0.0322,0.0078,12504
+1/31/2020,Williamsburg County,SC,,1042,1089,-0.0218,-0.0126,0.0301,9325
+1/31/2020,Adams County,IN,Decatur,1043,958,-0.0147,-0.0716,0.0619,11023
+1/31/2020,Geary County,KS,Junction City,1044,842,-0.0022,0.0173,-0.0352,10551
+1/31/2020,Lawrence County,AL,Decatur,1045,866,-0.0006,-0.0074,-0.0589,9092
+1/31/2020,Lincoln County,OK,Oklahoma City,1046,863,0.0108,0.008,0.01,10879
+1/31/2020,Effingham County,IL,Effingham,1047,1124,-0.001,-0.0062,0.0454,11995
+1/31/2020,Chambers County,AL,Valley,1048,875,0.0209,0.0235,0.0294,13249
+1/31/2020,Macon County,NC,,1049,1236,-0.0064,-0.0179,0.0046,24309
+1/31/2020,Dare County,NC,Kill Devil Hills,1050,1569,0.0198,0.0589,0.1084,42120
+1/31/2020,Fannin County,TX,Bonham,1051,1218,0.0102,-0.0357,-0.03,11605
+1/31/2020,Ford County,KS,Dodge City,1052,841,0.0012,0.0051,0.0248,9459
+1/31/2020,Washington County,TX,Brenham,1053,1369,0.0198,0.0578,0.1138,10531
+1/31/2020,Sioux County,IA,,1054,948,0.0199,0.0217,0.0021,11313
+1/31/2020,Preston County,WV,Morgantown,1055,896,0.008,0.0169,-0.0036,13023
+1/31/2020,Gibson County,IN,,1056,981,0.0132,-0.0067,0.0845,13254
+1/31/2020,Jasper County,IN,Chicago-Naperville-Elgin,1057,1116,-0.0076,0.0079,0.0741,11730
+1/31/2020,Kendall County,TX,San Antonio-New Braunfels,1058,1722,0.0056,0.0226,0.0666,13786
+1/31/2020,Lafayette County,MO,Kansas City,1059,857,0.0007,0.0271,0.0324,14671
+1/31/2020,Marion County,IA,Pella,1060,941,0.0049,0.0091,-0.0845,12737
+1/31/2020,Jackson County,OH,Jackson,1061,946,0.0286,-0.0035,0.034,10690
+1/31/2020,Morrison County,MN,,1062,1328,0.0287,0.0352,0.0651,14587
+1/31/2020,Greene County,IN,,1063,858,-0.01,-0.0093,0.0323,12519
+1/31/2020,Louisa County,VA,,1064,1405,0.0171,0.0142,0.0212,14936
+1/31/2020,McCurtain County,OK,,1065,811,0.003,-0.0054,-0.0093,8163
+1/31/2020,Botetourt County,VA,Roanoke,1066,1244,0.0123,-0.0114,-0.0002,15770
+1/31/2020,Huron County,MI,,1067,858,-0.0067,-0.027,-0.009,1730
+1/31/2020,Caroline County,MD,,1068,1432,0.009,0.0142,-0.0042,11451
+1/31/2020,Coos County,NH,Berlin,1069,1302,-0.0103,-0.0217,0.1057,18906
+1/31/2020,Taos County,NM,Taos,1070,1200,-0.0074,-0.0199,0.0061,3089
+1/31/2020,Hot Spring County,AR,Malvern,1071,850,0.0109,0.0421,0.0864,10678
+1/31/2020,Wabash County,IN,Wabash,1072,865,0.0025,0.0005,0.0102,12103
+1/31/2020,Sumter County,GA,Americus,1073,998,0.007,-0.0193,0.0409,9510
+1/31/2020,Oconee County,GA,Athens-Clarke County,1074,1464,-0.0219,-0.0246,-0.0036,18435
+1/31/2020,Miami County,KS,Kansas City,1075,1023,0.0186,0.0171,-0.0265,13346
+1/31/2020,Schoharie County,NY,Albany-Schenectady-Troy,1076,1525,-0.0085,-0.0162,0.0398,10828
+1/31/2020,Mecklenburg County,VA,,1077,1048,0.0096,0.0463,0.1111,16143
+1/31/2020,Emmet County,MI,,1078,1085,-0.022,-0.0344,-0.0208,3048
+1/31/2020,McDonough County,IL,Macomb,1079,726,0.0032,0.0258,-0.0255,8515
+1/31/2020,Uintah County,UT,Vernal,1080,868,-0.0108,0.0193,0.0147,10240
+1/31/2020,Jefferson County,IN,Madison,1081,911,-0.0028,-0.029,0.025,11755
+1/31/2020,Petersburg City,VA,Richmond,1082,946,-0.0018,-0.0034,0.0259,12320
+1/31/2020,Titus County,TX,Mount Pleasant,1083,1255,-0.006,-0.0129,-0.014,9072
+1/31/2020,Henry County,TN,Paris,1084,964,0.0223,0.0392,0.0551,11736
+1/31/2020,Leflore County,MS,Greenwood,1085,884,-0.0119,-0.016,0.0022,8685
+1/31/2020,Platte County,NE,Columbus,1086,930,0.0011,-0.0313,-0.1558,11523
+1/31/2020,Claiborne County,TN,,1087,944,-0.0148,-0.0134,0.0267,11919
+1/31/2020,Smyth County,VA,,1088,908,-0.0157,-0.0815,-0.0056,10400
+1/31/2020,Hardin County,OH,,1089,910,0.0046,-0.0186,0.0243,8421
+1/31/2020,Harris County,GA,Columbus,1090,1287,-0.012,0.0043,0.0418,14258
+1/31/2020,Brookings County,SD,Brookings,1091,947,-0.0185,0.0284,-0.0339,10274
+1/31/2020,Knox County,KY,London,1092,821,-0.0197,-0.0248,0.0041,7828
+1/31/2020,Bee County,TX,Beeville,1093,1283,0.0024,-0.0053,0.0184,2305
+1/31/2020,Ottawa County,OK,Miami,1094,816,-0.0006,0.0013,0.0358,10087
+1/31/2020,Rhea County,TN,Dayton,1095,948,-0.0252,-0.0286,0.0076,10967
+1/31/2020,Obion County,TN,Union City,1096,908,0.0026,0.0287,0.0927,11193
+1/31/2020,Franklin County,AL,,1097,812,-0.0053,-0.0407,-0.0559,10405
+1/31/2020,Daviess County,IN,Washington,1098,938,-0.013,-0.0243,0.0632,10949
+1/31/2020,Muhlenberg County,KY,Central City,1099,818,0.0097,0.0102,0.0035,5266
+1/31/2020,Juneau Borough,AK,Juneau,1100,1885,-0.0201,-0.002,0.047,9554
+1/31/2020,Caledonia County,VT,,1101,1365,0.0123,-0.019,-0.0313,1954
+1/31/2020,Polk County,MO,Springfield,1102,854,0.0058,0.0592,0.0564,12785
+1/31/2020,Delta County,CO,,1103,1518,0.0075,0.0049,0.0495,7975
+1/31/2020,Clare County,MI,,1104,848,-0.0014,0.0077,0.0147,2540
+1/31/2020,Marion County,AL,,1105,813,-0.0107,-0.0241,-0.0224,9165
+1/31/2020,Franklin County,ME,,1106,1251,0.0175,0.0216,0.0256,7761
+1/31/2020,Marshall County,TN,Lewisburg,1107,1129,-0.0048,-0.0014,-0.0103,12000
+1/31/2020,Cass County,TX,,1108,1135,-0.0084,0.0054,0.0057,10784
+1/31/2020,Logan County,IL,Lincoln,1109,921,0.0018,-0.0003,-0.0199,1043
+1/31/2020,Bryan County,GA,Savannah,1110,1337,-0.0052,-0.0071,-0.0185,16795
+1/31/2020,Montgomery County,IL,,1111,925,0.0078,0.025,0.044,1730
+1/31/2020,Wayne County,GA,Jesup,1112,951,0.0057,0.0094,0.0277,8409
+1/31/2020,Garrett County,MD,,1113,977,0.0024,0.0157,-0.1261,16147
+1/31/2020,Stoddard County,MO,,1114,822,0.0112,0.049,0.0135,11565
+1/31/2020,Lumpkin County,GA,,1115,1211,-0.0102,-0.0321,-0.0416,12410
+1/31/2020,Jefferson County,WA,,1116,1672,0.0041,0.004,0.0373,15247
+1/31/2020,Pine County,MN,,1117,1391,-0.0058,0.0134,0.0315,10313
+1/31/2020,Iroquois County,IL,,1118,1211,-0.0132,-0.0224,-0.0271,1510
+1/31/2020,Caddo County,OK,,1119,799,0.0049,0.0431,0.0191,8852
+1/31/2020,Alpena County,MI,Alpena,1120,854,-0.0009,0.0025,-0.0101,1688
+1/31/2020,Grant County,NM,Silver City,1121,885,0.0256,0.0439,0.0707,6535
+1/31/2020,Giles County,TN,,1122,1125,0.019,0.0592,0.0713,11165
+1/31/2020,Sunflower County,MS,Indianola,1123,808,-0.0002,0.0039,-0.0015,7289
+1/31/2020,Copiah County,MS,Jackson,1124,805,0.0035,0.0198,-0.0452,8358
+1/31/2020,Pickens County,GA,Atlanta-Sandy Springs-Roswell,1125,1342,-0.0067,-0.013,0.0232,15908
+1/31/2020,Randolph County,WV,Elkins,1126,854,0.0001,0.0093,-0.0302,11530
+1/31/2020,San Miguel County,NM,Las Vegas,1127,1134,-0.0209,-0.0044,0.0231,1479
+1/31/2020,Harlan County,KY,,1128,805,-0.0048,-0.0206,0.0299,8334
+1/31/2020,Wythe County,VA,,1129,1105,0.0227,0.0086,0.0326,10301
+1/31/2020,Jackson County,WV,,1130,833,0.0034,-0.0064,-0.0079,8961
+1/31/2020,McPherson County,KS,McPherson,1131,935,0.0121,0.0003,-0.0149,11124
+1/31/2020,Sheridan County,WY,Sheridan,1132,1073,-0.0192,-0.0228,0.0605,14401
+1/31/2020,Fayette County,OH,Washington Court House,1133,936,-0.0071,-0.0026,0.004,10995
+1/31/2020,Union County,SC,Spartanburg,1134,1124,0.0077,0.0092,0.0933,2079
+1/31/2020,Orange County,VT,Claremont-Lebanon,1135,1438,-0.0047,-0.0263,-0.0141,1601
+1/31/2020,Tate County,MS,Memphis,1136,969,-0.0137,-0.0186,-0.017,7793
+1/31/2020,Carroll County,OH,Canton-Massillon,1137,904,-0.0109,-0.0099,0.0403,9597
+1/31/2020,Ripley County,IN,,1138,906,-0.0129,-0.0394,0.0005,13673
+1/31/2020,Haralson County,GA,Atlanta-Sandy Springs-Roswell,1139,1204,0.0064,0.0282,0.0746,9224
+1/31/2020,Lake County,MT,,1140,1050,-0.0119,-0.0363,-0.0989,12432
+1/31/2020,Van Wert County,OH,Van Wert,1141,947,-0.0081,0.0082,0.0436,7969
+1/31/2020,Lincoln County,WI,Merrill,1142,975,0.0134,0.0603,0.04,1370
+1/31/2020,Perry County,KY,,1143,790,0.0207,-0.0003,-0.0085,2685
+1/31/2020,Mason County,MI,Ludington,1144,884,-0.0033,0.0417,-0.0439,1840
+1/31/2020,Bell County,KY,Middlesborough,1145,839,0.0067,-0.0217,0.0016,4408
+1/31/2020,Jones County,GA,Macon-Bibb County,1146,1116,-0.0074,0.0104,0.0332,8663
+1/31/2020,Meade County,KY,Elizabethtown-Fort Knox,1147,865,0.0047,-0.0004,-0.0009,1982
+1/31/2020,Cass County,MN,Brainerd,1148,1252,0.0057,0.0401,0.0703,12714
+1/31/2020,Jennings County,IN,North Vernon,1149,924,0.0024,-0.0219,0.0225,8755
+1/31/2020,Carroll County,TN,,1150,921,0.0227,0.0575,0.0435,9897
+1/31/2020,Ellis County,KS,Hays,1151,880,0.0056,0.0208,-0.0428,10931
+1/31/2020,Boyle County,KY,Danville,1152,946,0.0051,0.0136,0.0083,5856
+1/31/2020,Gilmer County,GA,,1153,1310,0.017,0.0023,0.0503,19653
+1/31/2020,Scott County,MS,,1154,897,0.0175,0.0046,-0.0392,6600
+1/31/2020,Washington County,IN,Louisville/Jefferson County,1155,973,0.0009,-0.024,0.0248,9057
+1/31/2020,Saint Francis County,AR,Forrest City,1156,707,-0.0101,-0.0284,-0.0349,6083
+1/31/2020,Marion County,TN,Chattanooga,1157,1072,0.0014,-0.0017,0.0185,10105
+1/31/2020,Henry County,OH,,1158,956,-0.0048,-0.0151,0.0177,10319
+1/31/2020,Mineral County,WV,Cumberland,1159,898,0.0089,0.0272,0.0054,11893
+1/31/2020,Park County,WY,,1160,1070,0.0033,0.0134,-0.0139,12860
+1/31/2020,Glenn County,CA,,1161,1835,-0.0018,0.0097,0.0911,7727
+1/31/2020,Madison County,GA,Athens-Clarke County,1162,1265,0.0244,0.0205,0.0402,9902
+1/31/2020,Palo Pinto County,TX,Mineral Wells,1163,1147,-0.0095,-0.0217,-0.0239,11394
+1/31/2020,Powhatan County,VA,Richmond,1164,1518,-0.0025,0.0046,0.0287,12387
+1/31/2020,Dinwiddie County,VA,Richmond,1165,1237,0.0005,-0.0117,0.0302,9831
+1/31/2020,Morehouse Parish,LA,Bastrop,1166,922,0.0083,-0.0332,-0.1014,7735
+1/31/2020,Decatur County,GA,Bainbridge,1167,1094,0.0043,-0.0151,0.0978,9670
+1/31/2020,Door County,WI,,1168,942,-0.0131,-0.0033,0.0037,4963
+1/31/2020,Henderson County,TN,,1169,972,0.0152,0.0469,0.1065,9128
+1/31/2020,Hardee County,FL,Wauchula,1170,1369,0.0255,0.0173,-0.0103,5584
+1/31/2020,Carter County,KY,,1171,815,-0.0218,-0.0216,-0.0642,5463
+1/31/2020,Peach County,GA,Warner Robins,1172,1101,-0.0002,-0.0112,0.0698,9373
+1/31/2020,Garvin County,OK,,1173,775,-0.0007,0.0028,-0.0014,9069
+1/31/2020,Morton County,ND,Bismarck,1174,1086,-0.0078,-0.0217,-0.1296,1457
+1/31/2020,Custer County,OK,Weatherford,1175,771,-0.0041,-0.0244,-0.113,8273
+1/31/2020,Barbour County,AL,Eufaula,1176,891,-0.0174,0.0088,-0.0101,6154
+1/31/2020,Carroll County,AR,,1177,874,-0.0128,-0.015,-0.0365,12091
+1/31/2020,Cherokee County,NC,,1178,1174,-0.0092,0.0057,0.0228,17807
+1/31/2020,Mason County,WV,Point Pleasant,1179,826,0.0142,0.015,-0.0061,9919
+1/31/2020,Hardeman County,TN,,1180,897,0.0058,0.0108,0.0184,8174
+1/31/2020,Orleans County,VT,,1181,1357,0.013,-0.0273,0.0283,2650
+1/31/2020,Codington County,SD,Watertown,1182,992,0.0072,-0.0145,-0.0102,10257
+1/31/2020,Toombs County,GA,Vidalia,1183,991,-0.0002,-0.011,0.0148,8584
+1/31/2020,Upson County,GA,Thomaston,1184,999,-0.0115,-0.0067,0.0804,9685
+1/31/2020,White County,GA,,1185,1362,-0.0032,0.0349,0.0573,12011
+1/31/2020,Baker County,FL,Jacksonville,1186,1356,-0.0002,0.0093,0.0462,6224
+1/31/2020,Lewis County,NY,,1187,1409,-0.0139,-0.0109,0.011,10601
+1/31/2020,Elmore County,ID,Mountain Home,1188,1021,0.014,-0.0162,0.0185,9686
+1/31/2020,Edgefield County,SC,Augusta-Richmond County,1189,1183,0.0227,0.0042,0.0526,6539
+1/31/2020,Anson County,NC,,1190,988,0.0188,0.0239,0.078,7276
+1/31/2020,Clay County,IN,Terre Haute,1191,896,0.0015,-0.0089,0.0281,9868
+1/31/2020,Mingo County,WV,,1192,748,0.0095,0.0133,-0.054,6015
+1/31/2020,Logan County,KY,,1193,861,-0.0089,0.002,0.0212,9283
+1/31/2020,Geneva County,AL,Dothan,1194,894,0.0151,0.0381,0.0346,10293
+1/31/2020,Juneau County,WI,,1195,938,-0.013,0.0175,0.0158,2190
+1/31/2020,Grimes County,TX,,1196,1379,0.0118,-0.0021,0.0132,5475
+1/31/2020,Oceana County,MI,,1197,924,0.0033,-0.002,-0.0126,1888
+1/31/2020,Montgomery County,KY,Mount Sterling,1198,922,0.0048,-0.013,0.0299,4598
+1/31/2020,Somerset County,MD,Salisbury,1199,1330,-0.006,0.0429,0.0486,8121
+1/31/2020,Jackson County,OK,Altus,1200,785,0.0024,-0.063,-0.0213,9320
+1/31/2020,Monroe County,GA,Macon-Bibb County,1201,1099,-0.0082,-0.0052,0.0311,9159
+1/31/2020,Uvalde County,TX,Uvalde,1202,1217,0.0146,-0.0123,-0.0141,7488
+1/31/2020,Boone County,IA,Boone,1203,761,-0.0093,0.0101,-0.0071,10528
+1/31/2020,Nicholas County,WV,,1204,810,-0.0103,-0.0266,-0.0254,10123
+1/31/2020,Winchester City,VA,Winchester,1205,1178,0.0029,-0.0031,0.0175,8800
+1/31/2020,Randolph County,IN,,1206,860,-0.0105,-0.0134,0.0338,10094
+1/31/2020,Dickinson County,MI,Iron Mountain,1207,931,0.0023,0.0057,0.0157,10083
+1/31/2020,Cheboygan County,MI,,1208,932,-0.0183,0.0147,-0.0449,1872
+1/31/2020,Coahoma County,MS,Clarksdale,1209,813,-0.0197,0.0029,-0.056,6234
+1/31/2020,Mille Lacs County,MN,Minneapolis-St. Paul-Bloomington,1210,1243,-0.0141,-0.0145,0.0041,8848
+1/31/2020,Benton County,IA,Cedar Rapids,1211,868,0,0.0223,-0.0027,10210
+1/31/2020,McNairy County,TN,,1212,967,0.012,0.0389,0.0673,9705
+1/31/2020,Hardin County,TN,,1213,982,0.0198,0.0334,0.0421,13618
+1/31/2020,Chattooga County,GA,Summerville,1214,1022,0.0044,-0.009,0.0844,8287
+1/31/2020,Texas County,MO,,1215,852,0.007,0.0502,0.0679,9431
+1/31/2020,Franklin County,KS,Ottawa,1216,892,-0.0044,-0.0223,-0.0356,10023
+1/31/2020,Cherokee County,AL,,1217,892,0.0142,0.0227,0.0336,7831
+1/31/2020,Cleburne County,AR,,1218,908,-0.0095,-0.0163,-0.017,14430
+1/31/2020,Posey County,IN,Evansville,1219,954,-0.0028,-0.0165,0.018,9662
+1/31/2020,Brown County,MN,New Ulm,1220,1227,-0.0048,-0.0045,0.0027,9707
+1/31/2020,Iosco County,MI,,1221,866,-0.0191,-0.0239,-0.0378,1971
+1/31/2020,Clarke County,AL,,1222,920,-0.0046,0.0031,0.0312,8035
+1/31/2020,Grayson County,KY,,1223,807,0.0068,-0.0055,-0.0052,1173
+1/31/2020,Decatur County,IN,Greensburg,1224,961,-0.0041,-0.0629,-0.0266,9896
+1/31/2020,Gladwin County,MI,,1225,861,0.0035,0.0086,0.0041,2398
+1/31/2020,Fluvanna County,VA,Charlottesville,1226,1443,0.0161,0.0093,0.045,11342
+1/31/2020,Adair County,MO,Kirksville,1227,728,0.0027,-0.0045,-0.0991,9441
+1/31/2020,Audrain County,MO,Mexico,1228,837,0.0282,0.0109,-0.0003,9758
+1/31/2020,Tattnall County,GA,,1229,996,-0.0005,-0.0146,0.0302,5817
+1/31/2020,Seminole County,OK,,1230,833,0.0161,0.0386,0.06,7895
+1/31/2020,Shelby County,TX,,1231,1183,-0.0033,-0.0032,0.01,6169
+1/31/2020,Meade County,SD,Rapid City,1232,1007,-0.0059,0.0109,-0.064,6820
+1/31/2020,Abbeville County,SC,Greenwood,1233,1035,0.0106,0.0066,0.0583,7556
+1/31/2020,Randolph County,MO,Moberly,1234,864,-0.0061,-0.0064,0.0213,8821
+1/31/2020,Yates County,NY,Rochester,1235,1375,-0.0279,-0.0574,-0.0163,9854
+1/31/2020,Tillamook County,OR,,1236,1587,0.0054,0.0186,0.0428,17807
+1/31/2020,Cass County,NE,Omaha-Council Bluffs,1237,1110,0.008,-0.004,-0.0073,10583
+1/31/2020,Hart County,GA,,1238,1235,0.0076,0.025,0.0419,10820
+1/31/2020,Wasco County,OR,The Dalles,1239,1405,-0.0115,0.0637,0.0079,9271
+1/31/2020,Washington County,MO,,1240,759,-0.0006,0.0129,-0.0041,5943
+1/31/2020,Luna County,NM,Deming,1241,830,-0.0062,-0.0028,-0.0339,1484
+1/31/2020,Grady County,GA,,1242,1091,0.0126,0.0185,0.0159,7030
+1/31/2020,Plymouth County,IA,Sioux City,1243,947,0.0088,-0.0329,-0.0496,9427
+1/31/2020,Todd County,MN,,1244,1134,0.0257,0.0349,0.0804,4608
+1/31/2020,Churchill County,NV,Fallon,1245,1425,-0.0039,0.0017,0.0275,6573
+1/31/2020,Gillespie County,TX,Fredericksburg,1246,1381,-0.0032,-0.08,-0.0769,9257
+1/31/2020,Salem City,VA,Roanoke,1247,968,-0.0025,0.0153,-0.0244,8967
+1/31/2020,Milam County,TX,,1248,1212,-0.0002,0.0028,-0.0182,4325
+1/31/2020,Miller County,MO,,1249,848,-0.0022,-0.0102,-0.0032,10772
+1/31/2020,Lincoln County,KY,Danville,1250,881,-0.0065,0.0148,0.0235,3207
+1/31/2020,Grant County,KY,Cincinnati,1251,1009,0.0229,0.0845,0.1117,6535
+1/31/2020,White County,IN,,1252,945,0.0092,-0.0092,0.0423,12831
+1/31/2020,Juniata County,PA,,1253,997,0.0052,0.0131,-0.0022,6377
+1/31/2020,Boone County,WV,Charleston,1254,755,-0.003,-0.0054,-0.0392,6754
+1/31/2020,Columbia County,AR,Magnolia,1255,866,0.0215,0.0891,-0.0042,6145
+1/31/2020,Taylor County,KY,Campbellsville,1256,907,0.0168,0.014,0.0094,4538
+1/31/2020,Martin County,NC,,1257,929,-0.0175,0.0123,0.0266,8904
+1/31/2020,Winston County,AL,,1258,920,0.0065,0.0004,-0.0048,7647
+1/31/2020,Dawson County,NE,Lexington,1259,933,0.0046,-0.0003,-0.0833,7808
+1/31/2020,Fredericksburg City,VA,Washington-Arlington-Alexandria,1260,1295,0.0011,0.0124,0.0592,8302
+1/31/2020,Fayette County,IN,Connersville,1261,797,0.0003,-0.0045,0.0322,9224
+1/31/2020,Bremer County,IA,Waterloo-Cedar Falls,1262,889,-0.0089,-0.0181,-0.0274,9721
+1/31/2020,Upshur County,WV,,1263,865,-0.0145,-0.0124,-0.0108,9661
+1/31/2020,Sabine Parish,LA,,1264,888,-0.0203,-0.0309,-0.0512,6001
+1/31/2020,Scott County,IN,Louisville/Jefferson County,1265,903,0.0079,-0.0081,0.0151,8008
+1/31/2020,Sumner County,KS,Wichita,1266,782,-0.0018,0.0112,0.0172,10174
+1/31/2020,Lawrence County,SD,Spearfish,1267,953,-0.0004,-0.0027,-0.0208,12798
+1/31/2020,Page County,VA,,1268,1290,-0.0197,-0.0398,0.0303,9866
+1/31/2020,Hampshire County,WV,Winchester,1269,973,0.016,0.0208,-0.0095,12182
+1/31/2020,Fairfield County,SC,Columbia,1270,1102,0.0273,0.0007,-0.0114,1367
+1/31/2020,Ohio County,KY,,1271,823,0.0086,0.0076,0.0238,2066
+1/31/2020,Panola County,TX,,1272,1308,0.0118,0.0157,0.0145,7308
+1/31/2020,Wyoming County,WV,,1273,722,0.0136,0.0091,-0.0403,6586
+1/31/2020,Meigs County,OH,,1274,928,0.0223,-0.0061,0.0293,5042
+1/31/2020,Staunton City,VA,Staunton-Waynesboro,1275,1188,0.0094,0.0558,0.0749,7503
+1/31/2020,Houston County,TX,,1276,1223,0.0009,0.0021,-0.0069,6886
+1/31/2020,Caswell County,NC,,1277,995,0.0109,0.002,-0.0015,7733
+1/31/2020,Fannin County,GA,,1278,1336,-0.0053,-0.0055,0.0505,22545
+1/31/2020,Butts County,GA,Atlanta-Sandy Springs-Roswell,1279,1028,0.0058,-0.0113,-0.0252,7571
+1/31/2020,King George County,VA,,1280,1451,-0.005,0.0235,0.0244,9000
+1/31/2020,Currituck County,NC,Virginia Beach-Norfolk-Newport News,1281,1344,-0.0282,-0.0125,0.013,19194
+1/31/2020,Wasatch County,UT,Heber,1282,2245,-0.0019,0.0076,0.0524,16715
+1/31/2020,Osceola County,MI,,1283,875,-0.0104,0.0245,-0.0075,1859
+1/31/2020,Mitchell County,GA,,1284,985,0.0047,-0.0277,0.0261,6086
+1/31/2020,Ray County,MO,Kansas City,1285,857,0.0038,0.0108,0.0039,10631
+1/31/2020,Crisp County,GA,Cordele,1286,960,-0.013,-0.0223,-0.0016,6787
+1/31/2020,Limestone County,TX,,1287,1140,-0.0124,-0.0133,-0.0117,6527
+1/31/2020,Saline County,MO,Marshall,1288,861,0.0129,0.0207,0.0121,1566
+1/31/2020,Nodaway County,MO,Maryville,1289,894,0.0271,0.0676,0.1194,8269
+1/31/2020,Prince Edward County,VA,,1290,1206,-0.0154,-0.0177,-0.0252,1237
+1/31/2020,Starke County,IN,,1291,962,-0.0011,-0.0396,0.0046,10005
+1/31/2020,Johnson County,KY,,1292,823,0.0106,0.0074,-0.0267,5328
+1/31/2020,Teller County,CO,Colorado Springs,1293,1591,-0.0045,0.0128,0.0827,13394
+1/31/2020,Rowan County,KY,,1294,867,0.0157,-0.0077,0.0155,4030
+1/31/2020,Meeker County,MN,,1295,1177,0.0277,0.0818,0.0512,4068
+1/31/2020,Aransas County,TX,Corpus Christi,1296,1538,0.0033,0.0674,0.0769,10174
+1/31/2020,Elbert County,CO,Denver-Aurora-Lakewood,1297,2052,-0.0268,-0.0122,0.0228,9508
+1/31/2020,Monroe County,AL,,1298,901,-0.0017,-0.0027,-0.0333,6561
+1/31/2020,Plaquemines Parish,LA,New Orleans-Metairie,1299,1206,-0.01,0.0028,-0.0953,3018
+1/31/2020,Clark County,AR,Arkadelphia,1300,846,-0.0026,-0.0129,0.0156,1764
+1/31/2020,Jersey County,IL,St. Louis,1301,988,0.0084,0.0074,0.0747,8157
+1/31/2020,Seward County,KS,Liberal,1302,778,-0.002,-0.0059,-0.0156,5568
+1/31/2020,Bibb County,AL,Birmingham-Hoover,1303,905,0.0013,-0.0161,-0.0829,3813
+1/31/2020,Randolph County,AL,,1304,882,-0.0033,0.0195,0.0133,8536
+1/31/2020,Union Parish,LA,Monroe,1305,994,-0.0247,-0.0299,-0.0775,7072
+1/31/2020,Adair County,OK,,1306,817,0.0079,0.0072,0.0201,4569
+1/31/2020,Grainger County,TN,Knoxville,1307,932,-0.0197,-0.0317,0.0295,7929
+1/31/2020,Payette County,ID,Ontario,1308,1149,0.0099,0.005,0.1121,8145
+1/31/2020,Wyandot County,OH,,1309,929,-0.0076,0.0002,0.011,5968
+1/31/2020,Hempstead County,AR,Hope,1310,834,0.0176,0.0218,0.0569,7055
+1/31/2020,Emanuel County,GA,,1311,986,0.0143,0.0088,0.0291,6878
+1/31/2020,Hopewell City,VA,Richmond,1312,892,-0.0181,-0.0271,0.0328,8413
+1/31/2020,Taylor County,FL,,1313,1253,-0.0193,-0.0041,0.08,5758
+1/31/2020,Fairfax City,VA,Washington-Arlington-Alexandria,1314,2061,-0.0004,-0.0302,0.0027,8632
+1/31/2020,Williams County,ND,Williston,1315,1294,-0.011,-0.0149,-0.0049,3054
+1/31/2020,Mahaska County,IA,Oskaloosa,1316,881,0.0064,0.0239,-0.0202,8515
+1/31/2020,Jerome County,ID,Twin Falls,1317,1087,0.006,0.0174,0.0481,6301
+1/31/2020,Curry County,OR,Brookings,1318,1481,-0.0013,0.0224,0.0271,7875
+1/31/2020,Shelby County,IL,,1319,1054,0.0149,0.0052,-0.0145,7570
+1/31/2020,Logan County,AR,,1320,758,0.0004,0.0092,0.007,3614
+1/31/2020,Hood River County,OR,Hood River,1321,1689,-0.0023,-0.0029,0.0001,5924
+1/31/2020,Gage County,NE,Beatrice,1322,914,-0.0027,-0.0021,-0.0286,8208
+1/31/2020,Rockbridge County,VA,,1323,1284,-0.0014,0.0067,0.0553,10271
+1/31/2020,Macon County,TN,Nashville-Davidson--Murfreesboro--Franklin,1324,953,-0.0235,-0.0286,0.0098,7905
+1/31/2020,Yell County,AR,Russellville,1325,802,0.0017,0.0269,0.0112,2836
+1/31/2020,Hutchinson County,TX,Borger,1326,967,-0.0038,-0.0459,-0.0829,2922
+1/31/2020,Fayette County,IL,,1327,917,-0.0012,-0.0023,0.0116,1050
+1/31/2020,McDowell County,WV,,1328,695,0.016,0.0234,-0.0182,6838
+1/31/2020,Saint James Parish,LA,New Orleans-Metairie,1329,1155,0.0017,-0.0212,-0.0676,6402
+1/31/2020,Northampton County,NC,Roanoke Rapids,1330,1004,0.007,0.0192,0.0275,7387
+1/31/2020,Franklin County,GA,,1331,1219,0.0272,0.0496,0.0542,8223
+1/31/2020,Meriwether County,GA,Atlanta-Sandy Springs-Roswell,1332,1056,-0.0013,-0.0216,0.0251,8158
+1/31/2020,Grenada County,MS,Grenada,1333,913,-0.0108,-0.0639,-0.054,7806
+1/31/2020,McDuffie County,GA,Augusta-Richmond County,1334,1115,-0.0013,-0.014,0.0316,5839
+1/31/2020,Ashley County,AR,,1335,809,0.0215,-0.0012,0.0326,7162
+1/31/2020,Dodge County,GA,,1336,983,0.0213,0.0207,0.0775,5476
+1/31/2020,Tyler County,TX,,1337,1210,-0.012,-0.0131,-0.0024,4417
+1/31/2020,Newton County,MS,,1338,925,0.0251,0.0334,-0.0184,4781
+1/31/2020,Lincoln County,WV,Huntington-Ashland,1339,804,0.0041,0.0151,0.0108,5482
+1/31/2020,Leelanau County,MI,Traverse City,1340,1113,-0.0013,0.0056,-0.0342,2616
+1/31/2020,Washington County,IA,Iowa City,1341,928,0.0121,0.0133,-0.0048,9044
+1/31/2020,Ogemaw County,MI,,1342,860,-0.0044,-0.0096,-0.0101,1731
+1/31/2020,Labette County,KS,Parsons,1343,760,0.0027,0.0126,0.0575,9493
+1/31/2020,Cherokee County,KS,,1344,830,0.0255,-0.0082,0.039,7752
+1/31/2020,Owen County,IN,Bloomington,1345,970,0.0044,-0.0333,0.0134,8148
+1/31/2020,Sullivan County,IN,Terre Haute,1346,832,-0.0034,0.0077,0.0282,6976
+1/31/2020,Macon County,AL,,1347,808,-0.0009,-0.0003,-0.1025,2684
+1/31/2020,Colusa County,CA,,1348,1965,0.0043,0.0374,0.1227,6513
+1/31/2020,Calhoun County,TX,Port Lavaca,1349,1278,0.0054,0.0022,0.0056,8915
+1/31/2020,Nobles County,MN,Worthington,1350,1156,0.0287,0.0961,0.1877,2608
+1/31/2020,Blaine County,ID,Hailey,1351,1454,0.0006,0.0043,0.0485,16451
+1/31/2020,Greene County,NC,,1352,1042,0.026,0.0361,0.0582,4829
+1/31/2020,Union County,GA,,1353,1332,0.0033,-0.009,0.0389,16424
+1/31/2020,Mercer County,KY,,1354,911,0.0029,0.0221,0.0169,4078
+1/31/2020,Bertie County,NC,,1355,1066,-0.0163,0.0048,0.0526,1069
+1/31/2020,Conway County,AR,,1356,804,0.0004,0.007,0.026,7439
+1/31/2020,Jay County,IN,,1357,828,-0.0028,-0.0058,0.0691,7717
+1/31/2020,Putnam County,GA,,1358,1278,0.0132,0.0013,0.0203,12873
+1/31/2020,Washington County,GA,,1359,965,0.0073,-0.0077,0.0192,5514
+1/31/2020,Vernon County,MO,,1360,814,-0.0157,-0.0147,0.0431,8289
+1/31/2020,Uinta County,WY,Evanston,1361,1005,0.016,0.0246,-0.0545,6115
+1/31/2020,Hampton County,SC,,1362,1245,-0.0044,-0.0368,-0.0305,1718
+1/31/2020,Winneshiek County,IA,,1363,1000,0.0032,-0.0068,0.0432,7103
+1/31/2020,Marengo County,AL,,1364,906,0.0033,0.0007,-0.0257,5628
+1/31/2020,Dakota County,NE,Sioux City,1365,955,0.002,0.0238,-0.0503,5610
+1/31/2020,Waynesboro City,VA,Staunton-Waynesboro,1366,1013,-0.0066,-0.0052,0.013,8628
+1/31/2020,Warren County,NC,,1367,1165,0.0006,0.0139,0.0853,7624
+1/31/2020,Buchanan County,IA,,1368,921,0.0079,0.0312,0.0229,8234
+1/31/2020,Spencer County,IN,,1369,908,-0.0029,-0.0163,0.0388,7793
+1/31/2020,Butler County,AL,,1370,873,0.0136,-0.0197,-0.054,3957
+1/31/2020,Pacific County,WA,,1371,1328,0.0017,-0.0314,0.0249,12604
+1/31/2020,Fayette County,IA,,1372,761,-0.0089,-0.0173,-0.0349,8624
+1/31/2020,Adams County,WI,,1373,940,-0.0229,-0.0087,0.0254,2837
+1/31/2020,Colorado County,TX,,1374,1274,0.0114,-0.015,0.0138,6636
+1/31/2020,Fulton County,IN,,1375,886,-0.0045,-0.0375,-0.004,7902
+1/31/2020,Carroll County,IA,Carroll,1376,919,0.0113,0.0015,-0.0061,8735
+1/31/2020,Wayne County,KY,,1377,834,-0.0122,-0.0026,0.0181,6846
+1/31/2020,Sevier County,UT,,1378,1209,0.0049,-0.0017,0.0297,7327
+1/31/2020,Saunders County,NE,Omaha-Council Bluffs,1379,1101,-0.0139,-0.0021,0.0007,8186
+1/31/2020,Madison County,NC,Asheville,1380,1182,0.0075,-0.0214,0.0033,9011
+1/31/2020,Clinton County,MO,Kansas City,1381,853,-0.0191,-0.0115,-0.0038,9293
+1/31/2020,Polk County,AR,,1382,846,-0.0064,0.0016,0.0315,7965
+1/31/2020,Texas County,OK,Guymon,1383,899,0.0058,-0.0012,0.0477,4279
+1/31/2020,Jones County,IA,Cedar Rapids,1384,874,-0.0019,0.0269,0.0302,6304
+1/31/2020,Clay County,MS,West Point,1385,873,-0.0168,0.0192,0.0108,6684
+1/31/2020,Kewaunee County,WI,Green Bay,1386,1025,-0.0099,-0.0256,0.0769,1161
+1/31/2020,Morgan County,MO,,1387,818,-0.0255,-0.0027,-0.0103,3736
+1/31/2020,Lincoln County,NM,Ruidoso,1388,1072,0.0245,-0.0104,-0.0336,15308
+1/31/2020,La Paz County,AZ,,1389,1317,0.0136,0.0372,0.0725,3591
+1/31/2020,Jackson County,WI,,1390,907,-0.0068,0.0286,0.0074,1088
+1/31/2020,Hubbard County,MN,,1391,1238,0.0113,0.02,-0.0103,13255
+1/31/2020,Buena Vista County,IA,Storm Lake,1392,861,0.0008,0.0014,-0.0096,8008
+1/31/2020,McIntosh County,OK,,1393,880,0.0032,-0.0029,0.0284,9031
+1/31/2020,Washington County,NE,Omaha-Council Bluffs,1394,1017,0.0202,-0.0186,-0.0961,6212
+1/31/2020,Kent County,MD,,1395,1635,0.0046,0.0237,0.0164,8883
+1/31/2020,Carroll County,IN,Lafayette-West Lafayette,1396,936,-0.0023,-0.0288,0.039,8519
+1/31/2020,Henry County,IA,,1397,861,0.015,0.0175,-0.0224,6663
+1/31/2020,Dodge County,MN,Rochester,1398,1289,0.0057,0.0006,-0.0115,7724
+1/31/2020,Woodward County,OK,Woodward,1399,816,0.0032,-0.0105,-0.0391,6456
+1/31/2020,Minidoka County,ID,Burley,1400,953,-0.0031,0.0001,0.0559,6167
+1/31/2020,Breckinridge County,KY,,1401,887,0.0069,0.0042,0.0271,4009
+1/31/2020,Bourbon County,KY,Lexington-Fayette,1402,1027,-0.0063,-0.0303,0.0268,2388
+1/31/2020,Langlade County,WI,,1403,933,-0.0161,0.0548,0.0279,1013
+1/31/2020,Allen County,KY,Bowling Green,1404,863,0,-0.0098,-0.0041,3377
+1/31/2020,Holmes County,FL,,1405,1222,0.0001,0.0036,0.0355,5173
+1/31/2020,Saluda County,SC,Columbia,1406,1077,-0.0036,-0.0034,0.065,5827
+1/31/2020,Jackson County,IA,,1407,882,-0.0148,0.0133,-0.0003,8033
+1/31/2020,Roosevelt County,NM,Portales,1408,669,0.01,0.0121,-0.0465,4308
+1/31/2020,Orange County,IN,,1409,883,-0.003,-0.0209,0.0107,6856
+1/31/2020,Marion County,KY,,1410,899,0.0161,0.0267,0.0099,2606
+1/31/2020,Gonzales County,TX,,1411,1313,0.0173,0.0208,0.0203,4675
+1/31/2020,Dickinson County,KS,,1412,849,0.005,0.0067,-0.0522,9200
+1/31/2020,Pickens County,AL,Tuscaloosa,1413,873,0.0119,-0.0314,0.0048,5218
+1/31/2020,Montague County,TX,,1414,1195,-0.0075,-0.0433,-0.0215,6049
+1/31/2020,Lincoln County,MT,,1415,1131,-0.0171,-0.0413,0.0231,9484
+1/31/2020,Paulding County,OH,,1416,906,0.0276,0.0391,0.0889,6984
+1/31/2020,Tishomingo County,MS,,1417,946,0.0089,-0.0079,-0.0316,8111
+1/31/2020,Covington County,MS,,1418,909,-0.0006,-0.0058,-0.0059,4831
+1/31/2020,Attala County,MS,,1419,916,0.0056,0.0442,0.0183,5880
+1/31/2020,Perry County,IN,,1420,904,-0.0241,-0.0085,0.0595,6917
+1/31/2020,Llano County,TX,,1421,1373,-0.0211,0.0256,-0.0141,11538
+1/31/2020,Berrien County,GA,,1422,1002,0.0106,-0.0007,0.0064,5242
+1/31/2020,Lavaca County,TX,,1423,1297,0.0033,-0.0243,-0.0134,6161
+1/31/2020,Madison County,FL,,1424,1253,-0.01,-0.0037,0.0466,5147
+1/31/2020,Smith County,TN,Nashville-Davidson--Murfreesboro--Franklin,1425,1008,-0.0118,-0.0173,-0.0163,7131
+1/31/2020,Waseca County,MN,,1426,1240,0.0092,0.0266,0.0248,6483
+1/31/2020,Jefferson County,KS,Topeka,1427,915,-0.0202,-0.039,-0.0595,7810
+1/31/2020,Union County,TN,Knoxville,1428,1008,-0.0096,-0.033,0.0208,6356
+1/31/2020,Benton County,MO,,1429,752,-0.0059,0.018,0.0283,9416
+1/31/2020,Green Lake County,WI,,1430,984,-0.0063,-0.0236,-0.0007,1285
+1/31/2020,Perry County,MO,,1431,869,0.0043,0.022,0.0389,7477
+1/31/2020,New Madrid County,MO,,1432,786,0.0263,0.0238,0.0037,6994
+1/31/2020,Poweshiek County,IA,,1433,931,0.0057,0.0133,-0.0328,8080
+1/31/2020,Otero County,CO,,1434,1435,0.0178,0.0398,0.1414,7979
+1/31/2020,Haywood County,TN,Brownsville,1435,929,0.0161,0.017,0.0679,6368
+1/31/2020,Pierce County,GA,Waycross,1436,1049,-0.0197,0.0141,0.0383,4849
+1/31/2020,Adams County,WA,Othello,1437,1302,-0.0225,-0.0316,0.0038,3345
+1/31/2020,Dekalb County,TN,,1438,993,-0.0248,-0.0467,-0.0123,8554
+1/31/2020,Adair County,KY,,1439,876,0.01,0.0073,-0.0002,4451
+1/31/2020,Eastland County,TX,,1440,1184,0.0052,0.0004,0.0066,7000
+1/31/2020,Southampton County,VA,,1441,1256,-0.0061,-0.0185,0.0144,7069
+1/31/2020,Young County,TX,,1442,1140,-0.0243,-0.0186,-0.0017,6744
+1/31/2020,Inyo County,CA,,1443,2007,0.0276,0.0193,0.0501,9480
+1/31/2020,Humphreys County,TN,,1444,992,0.0234,0.0525,0.0692,6766
+1/31/2020,Pike County,MO,,1445,821,0.0251,0.0053,-0.0243,6725
+1/31/2020,Drew County,AR,,1446,799,0.0275,0.0144,0.0275,5316
+1/31/2020,Cedar County,IA,,1447,996,0.0015,0.0064,-0.0156,7327
+1/31/2020,Patrick County,VA,,1448,1062,0.0091,-0.0606,-0.0309,1108
+1/31/2020,New Kent County,VA,Richmond,1449,1430,-0.0032,-0.0096,0.0245,10749
+1/31/2020,Brantley County,GA,Brunswick,1450,1030,0.0149,0.0183,0.0174,5320
+1/31/2020,Greene County,VA,Charlottesville,1451,1476,0.0092,-0.0003,0.0457,7738
+1/31/2020,Banks County,GA,,1452,1328,0.0064,0.029,0.0677,5397
+1/31/2020,Schuyler County,NY,,1453,1446,-0.0266,-0.0573,0.0116,7489
+1/31/2020,Lamar County,GA,Atlanta-Sandy Springs-Roswell,1454,1029,-0.0032,-0.0133,-0.0012,6114
+1/31/2020,Unicoi County,TN,Johnson City,1455,935,-0.0165,-0.0409,0.0099,7528
+1/31/2020,McCreary County,KY,,1456,814,-0.0066,-0.0022,0.0126,3242
+1/31/2020,Montour County,PA,Bloomsburg-Berwick,1457,992,-0.0066,-0.0439,-0.083,6331
+1/31/2020,Mariposa County,CA,,1458,1738,0.0003,0.0029,0.045,4266
+1/31/2020,Johnson County,TN,,1459,886,-0.0263,-0.0619,-0.0465,6423
+1/31/2020,Appling County,GA,,1460,995,0.027,0.0292,0.0996,5077
+1/31/2020,Bosque County,TX,,1461,1250,0.0124,0.0113,0.0308,7266
+1/31/2020,Hart County,KY,,1462,861,0.0069,0.0191,0.029,3837
+1/31/2020,Sainte Genevieve County,MO,,1463,887,0.0109,0.0308,0.0717,1411
+1/31/2020,Clayton County,IA,,1464,854,-0.0137,-0.0122,0.0041,7803
+1/31/2020,Franklin County,AR,,1465,777,-0.0059,0.0074,-0.0047,4748
+1/31/2020,Lincoln County,WY,,1466,1209,-0.0063,0.0417,0.0284,9416
+1/31/2020,Jackson County,AR,,1467,759,0.003,0.0077,-0.0448,5778
+1/31/2020,Randolph County,AR,,1468,804,0.0142,0.0054,-0.0307,6768
+1/31/2020,Los Alamos County,NM,Los Alamos,1469,1313,-0.0181,-0.0036,0.0311,8117
+1/31/2020,Cross County,AR,,1470,769,-0.0059,0.0177,-0.0409,5973
+1/31/2020,Pike County,GA,Atlanta-Sandy Springs-Roswell,1471,1166,-0.0022,-0.0002,0.0402,6851
+1/31/2020,Morgan County,GA,Atlanta-Sandy Springs-Roswell,1472,1375,0.0118,0.0312,0.0564,7734
+1/31/2020,Grant County,AR,Little Rock-North Little Rock-Conway,1473,884,0.0005,-0.0142,-0.0288,2084
+1/31/2020,Chaffee County,CO,,1474,1703,0.0092,0.0128,0.069,7691
+1/31/2020,Avery County,NC,,1475,1129,0.0012,-0.0084,-0.023,15384
+1/31/2020,Bond County,IL,St. Louis,1476,1001,0.0217,0.0195,0.0314,5884
+1/31/2020,Tama County,IA,,1477,876,0.002,0.0083,-0.0318,7386
+1/31/2020,Delaware County,IA,,1478,860,-0.0128,0.0296,-0.0217,6872
+1/31/2020,Ben Hill County,GA,Fitzgerald,1479,955,0.0009,-0.0341,0.0103,5454
+1/31/2020,Cooper County,MO,,1480,859,0.0138,-0.0068,0.0125,6621
+1/31/2020,Washington County,AL,,1481,960,0.0023,0.0408,0.0807,2794
+1/31/2020,Russell County,KY,,1482,837,0.0106,0.0014,-0.0013,3136
+1/31/2020,Morgan County,WV,,1483,942,-0.0046,-0.0053,-0.0242,10919
+1/31/2020,Piscataquis County,ME,,1484,1123,-0.0227,-0.0403,0.0459,4401
+1/31/2020,Hardin County,IA,,1485,775,-0.0024,0.0016,-0.0137,8355
+1/31/2020,Gaines County,TX,,1486,1358,-0.0266,-0.0167,0.0245,1355
+1/31/2020,Benzie County,MI,Traverse City,1487,1055,-0.0113,0.0003,-0.0197,4176
+1/31/2020,Westmoreland County,VA,,1488,1253,0.0083,0.0361,0.0105,8761
+1/31/2020,Colonial Heights City,VA,Richmond,1489,1191,0.002,-0.0329,-0.005,6886
+1/31/2020,Beadle County,SD,Huron,1490,903,0.0125,0.0015,0.0018,5149
+1/31/2020,Rush County,IN,,1491,886,0.0011,-0.0199,-0.0015,7002
+1/31/2020,Chickasaw County,MS,,1492,950,0.0149,0.0278,-0.0091,4873
+1/31/2020,Parke County,IN,,1493,919,-0.0064,-0.0254,0.0547,6398
+1/31/2020,Henry County,AL,Dothan,1494,901,-0.0149,0.0191,0.0313,6574
+1/31/2020,Van Buren County,AR,,1495,790,0.0092,0.0156,0.0215,7840
+1/31/2020,Sharp County,AR,,1496,777,0.0021,-0.0101,-0.0008,8261
+1/31/2020,Fayette County,AL,,1497,781,-0.0216,-0.0192,-0.0591,5369
+1/31/2020,Fountain County,IN,,1498,897,-0.0054,-0.0274,0.0412,6655
+1/31/2020,Frio County,TX,,1499,1212,0.0222,-0.0071,-0.0186,2019
+1/31/2020,Cook County,GA,,1500,968,-0.0008,0.0016,0.0307,5146
+1/31/2020,Burleson County,TX,College Station-Bryan,1501,1229,-0.0073,-0.0144,-0.0163,6089
+1/31/2020,Kalkaska County,MI,Traverse City,1502,864,-0.023,0.0094,-0.0256,2240
+1/31/2020,Pitkin County,CO,Glenwood Springs,1503,11110,0.0115,0.0076,-0.2021,14388
+1/31/2020,Chester County,TN,Jackson,1504,1053,0.0164,0.045,0.0965,5610
+1/31/2020,Crawford County,IA,,1505,888,0.0183,0.0184,0.0073,5989
+1/31/2020,Sevier County,AR,,1506,854,0.0216,0.0491,0.0855,4429
+1/31/2020,Rockcastle County,KY,Richmond-Berea,1507,807,0.0121,0.0055,-0.0251,2749
+1/31/2020,Bates County,MO,Kansas City,1508,832,-0.0227,0.0009,0.0213,5898
+1/31/2020,Hughes County,SD,Pierre,1509,935,0.0223,0.0428,0.0344,5089
+1/31/2020,Wayne County,TN,,1510,972,0.0086,0.0329,0.0365,5102
+1/31/2020,Gilchrist County,FL,Gainesville,1511,1384,-0.0047,-0.0127,0.0701,3173
+1/31/2020,Jefferson County,GA,,1512,930,0.0041,-0.0124,-0.0406,5077
+1/31/2020,Atchison County,KS,Atchison,1513,861,0.0206,0.0189,0.0096,6666
+1/31/2020,Scurry County,TX,Snyder,1514,1283,0.0077,0.004,0.0444,5552
+1/31/2020,Garrard County,KY,,1515,870,-0.0067,0.0027,0.0009,3687
+1/31/2020,Taylor County,WV,Clarksburg,1516,881,0.0051,0.023,-0.0014,6500
+1/31/2020,Jefferson County,IA,Fairfield,1517,857,0.0252,0.0412,0.0195,6759
+1/31/2020,Polk County,TN,Cleveland,1518,971,-0.0192,-0.0115,0.033,6070
+1/31/2020,Leon County,TX,,1519,1256,-0.0247,0.0239,0.0233,6961
+1/31/2020,Dallas County,MO,Springfield,1520,781,-0.0152,0.0165,0.0251,7141
+1/31/2020,Seward County,NE,Lincoln,1521,994,-0.003,-0.0047,-0.0438,5536
+1/31/2020,Gem County,ID,Boise City,1522,1263,0.0032,0.0074,0.0367,10668
+1/31/2020,Clay County,IA,Spencer,1523,879,0.0103,0.0028,0.0027,7107
+1/31/2020,Dickinson County,IA,Spirit Lake,1524,1083,0.0061,-0.0708,-0.0441,13044
+1/31/2020,Marion County,AR,,1525,880,-0.0066,-0.0383,-0.0161,2666
+1/31/2020,Dade County,GA,Chattanooga,1526,1195,-0.0283,0.0028,0.0459,5913
+1/31/2020,Robertson County,TX,College Station-Bryan,1527,1279,-0.0266,-0.0186,0.0256,2054
+1/31/2020,Lee County,TX,,1528,1378,0.01,0.014,0.0455,4548
+1/31/2020,Barbour County,WV,,1529,851,0.0103,0.0383,0.0274,7057
+1/31/2020,Pawnee County,OK,Tulsa,1530,882,0,-0.0073,0.0259,5175
+1/31/2020,Dewitt County,IL,Bloomington,1531,1022,0.0128,-0.0028,0.0232,6116
+1/31/2020,Sawyer County,WI,,1532,980,-0.0009,0.0492,0.0492,2632
+1/31/2020,Humboldt County,NV,Winnemucca,1533,1336,0.0073,0.0153,0.0469,3517
+1/31/2020,Neosho County,KS,,1534,785,0.0079,0.0155,0.0357,6592
+1/31/2020,Telfair County,GA,,1535,964,0.0159,0.0211,0.0306,3613
+1/31/2020,Benton County,TN,,1536,937,0.0146,0.0714,0.0801,6155
+1/31/2020,Pike County,IL,,1537,1032,-0.0161,-0.0538,0.0107,5278
+1/31/2020,Dixie County,FL,,1538,1229,-0.0178,-0.002,0.012,3908
+1/31/2020,Lewis County,WV,,1539,858,-0.0073,-0.0002,0.0056,7487
+1/31/2020,Iowa County,IA,,1540,949,0.0043,0.0029,0.0003,6619
+1/31/2020,Clark County,IL,,1541,1209,0.008,-0.0161,0.0273,4611
+1/31/2020,Floyd County,IA,,1542,791,0.0053,0.0126,-0.0167,6771
+1/31/2020,Osage County,KS,Topeka,1543,835,-0.0012,-0.0228,-0.024,7111
+1/31/2020,Rabun County,GA,,1544,1276,0.003,-0.0022,0.0362,13646
+1/31/2020,Brooks County,GA,Valdosta,1545,1018,-0.0105,-0.0167,0.0237,5460
+1/31/2020,Kanabec County,MN,,1546,1399,-0.0003,0.0143,0.0175,6387
+1/31/2020,Vermillion County,IN,Terre Haute,1547,851,-0.0035,-0.0435,0.0379,6207
+1/31/2020,Park County,CO,Denver-Aurora-Lakewood,1548,1778,0.001,0.0054,0.0397,14205
+1/31/2020,Aitkin County,MN,,1549,1311,0.0071,0.0101,0.0143,11957
+1/31/2020,Clay County,AR,,1550,828,0.016,0.0031,-0.0288,1236
+1/31/2020,Redwood County,MN,,1551,1001,0.0272,0.0566,-0.0166,3143
+1/31/2020,Greene County,GA,,1552,1227,0.0243,0.0299,0.0428,10493
+1/31/2020,Casey County,KY,,1553,812,-0.0091,0.0165,0.0121,4118
+1/31/2020,Tipton County,IN,,1554,989,-0.014,-0.0323,0.0407,5961
+1/31/2020,King William County,VA,Richmond,1555,1391,0.0009,-0.0017,0.0429,7424
+1/31/2020,Page County,IA,,1556,838,0.0201,0.0286,-0.0634,5922
+1/31/2020,Washburn County,WI,,1557,1014,0.0135,0.075,0.0627,3428
+1/31/2020,Dickenson County,VA,Big Stone Gap,1558,951,-0.0061,-0.034,-0.0189,3885
+1/31/2020,Arenac County,MI,,1559,860,-0.0115,-0.0034,0.0104,1609
+1/31/2020,Harrison County,OH,,1560,858,0.0106,-0.0022,0.0227,4982
+1/31/2020,Gulf County,FL,Panama City,1561,1398,0.0023,0.0227,0.0647,7655
+1/31/2020,Nottoway County,VA,,1562,1095,0.0157,0.0237,-0.0032,4878
+1/31/2020,Marshall County,OK,,1563,845,0.0241,0.0091,0.0221,5696
+1/31/2020,San Juan County,WA,,1564,1772,-0.0036,-0.0345,-0.0149,11059
+1/31/2020,Otoe County,NE,,1565,1061,0.0029,-0.0139,0.0059,6551
+1/31/2020,Madison County,AR,Fayetteville-Springdale-Rogers,1566,827,0.0133,0.0038,-0.0041,6313
+1/31/2020,Madison County,IA,Des Moines-West Des Moines,1567,929,-0.0023,0.0047,-0.0774,6875
+1/31/2020,Hamilton County,IA,,1568,915,0.0136,0.0041,-0.0168,6245
+1/31/2020,Dent County,MO,,1569,816,-0.0034,0.0356,0.0619,6216
+1/31/2020,Roseau County,MN,,1570,798,0.009,-0.0196,-0.0182,1036
+1/31/2020,Moniteau County,MO,Jefferson City,1571,922,-0.0278,-0.0027,0.0312,4480
+1/31/2020,Mitchell County,NC,,1572,1122,0.0021,-0.014,0.0065,6088
+1/31/2020,Macon County,MO,,1573,853,0.0127,0.0361,0.0092,6113
+1/31/2020,Kossuth County,IA,,1574,854,0.0111,-0.0101,0.0188,6676
+1/31/2020,Union County,FL,,1575,1338,-0.0092,-0.0314,0.0065,2513
+1/31/2020,Pecos County,TX,,1576,1245,0.0026,-0.0029,0.0447,3317
+1/31/2020,Gooding County,ID,,1577,1047,0.0164,0.02,0.061,4209
+1/31/2020,Burnett County,WI,,1578,1007,-0.0032,0.052,0.0638,1575
+1/31/2020,Henry County,KY,Louisville/Jefferson County,1579,1076,0.0054,-0.0011,0.0505,3699
+1/31/2020,Marquette County,WI,,1580,928,-0.0208,0.0073,0.0042,1273
+1/31/2020,Tallahatchie County,MS,,1581,873,-0.0001,-0.002,-0.0038,3147
+1/31/2020,Gunnison County,CO,,1582,1643,0.0089,0.0124,0.0658,22231
+1/31/2020,Brown County,IN,Indianapolis-Carmel-Anderson,1583,1200,-0.0019,-0.0065,0.0131,8596
+1/31/2020,Gasconade County,MO,,1584,856,0.0112,0.0124,0.0409,6838
+1/31/2020,Choctaw County,OK,,1585,800,0.0087,0.002,0.02,3567
+1/31/2020,Livingston County,MO,,1586,846,-0.0084,-0.0073,0.0044,5822
+1/31/2020,Bourbon County,KS,,1587,824,0.0219,0.022,0.035,5913
+1/31/2020,Mills County,IA,Omaha-Council Bluffs,1588,937,-0.0064,0.0198,-0.0547,5757
+1/31/2020,Morgan County,OH,,1589,867,-0.0003,-0.014,0.0126,5575
+1/31/2020,Kingfisher County,OK,,1590,1003,0.0029,0.0037,0.0551,4747
+1/31/2020,Craig County,OK,,1591,909,0.0057,-0.031,0.0167,5121
+1/31/2020,Nelson County,VA,Charlottesville,1592,1249,-0.0143,0.0046,0.0028,10465
+1/31/2020,Bayfield County,WI,,1593,936,-0.0229,0.0249,0.0139,1375
+1/31/2020,Appomattox County,VA,Lynchburg,1594,1126,0.0156,0.0366,-0.0126,7730
+1/31/2020,Cleburne County,AL,,1595,928,-0.0149,0.0212,0.0698,3978
+1/31/2020,Harrison County,IA,Omaha-Council Bluffs,1596,925,0.0052,-0.0086,-0.032,6268
+1/31/2020,Roane County,WV,,1597,841,0.0144,0.0186,0.0129,6111
+1/31/2020,Dooly County,GA,,1598,976,-0.0092,-0.0038,-0.0142,1886
+1/31/2020,Oglethorpe County,GA,Athens-Clarke County,1599,1222,0.0149,0.0185,0.0219,5579
+1/31/2020,Pendleton County,KY,Cincinnati,1600,957,-0.008,-0.0054,0.0058,3357
+1/31/2020,Butler County,IA,,1601,873,0.0016,0.0064,0.0093,6372
+1/31/2020,Missaukee County,MI,Cadillac,1602,885,-0.0208,-0.0043,-0.0101,1014
+1/31/2020,Moultrie County,IL,,1603,1035,0.0011,-0.016,0.0188,3832
+1/31/2020,Fulton County,PA,,1604,997,0.0135,-0.0291,-0.0449,4400
+1/31/2020,Grand County,CO,,1605,1876,-0.0246,-0.0248,-0.0071,22782
+1/31/2020,Karnes County,TX,,1606,1225,0.027,-0.0121,0.0135,3226
+1/31/2020,Chowan County,NC,,1607,1058,0.0234,0.0191,-0.0064,6123
+1/31/2020,Andrews County,TX,Andrews,1608,1367,0.002,-0.0015,0.062,5801
+1/31/2020,Rusk County,WI,,1609,999,0.0069,0.0572,0.0331,1164
+1/31/2020,Macon County,GA,,1610,978,0.018,0.0081,-0.0411,3415
+1/31/2020,Estill County,KY,,1611,856,0.0126,0.0041,0.0169,3774
+1/31/2020,Noble County,OH,,1612,850,-0.0203,-0.0159,-0.0096,2403
+1/31/2020,Monroe County,OH,,1613,894,-0.0014,0.0056,0.02,5134
+1/31/2020,Calhoun County,FL,,1614,1195,-0.0216,0.0032,0.0159,3501
+1/31/2020,Screven County,GA,,1615,1052,0.027,0.0241,0.0398,4190
+1/31/2020,Crockett County,TN,Jackson,1616,945,0.0153,0.0482,0.0655,5496
+1/31/2020,Trinity County,TX,Huntsville,1617,1180,0.0086,-0.0007,-0.0006,5012
+1/31/2020,Lamar County,AL,,1618,831,0,0.0118,-0.0086,3764
+1/31/2020,Braxton County,WV,,1619,852,0.0056,0.021,0.0132,5075
+1/31/2020,Long County,GA,Hinesville,1620,986,0.0153,0.0178,-0.0155,5755
+1/31/2020,Newton County,TX,Beaumont-Port Arthur,1621,1186,0.0224,-0.0038,0.0053,4122
+1/31/2020,Greene County,MS,,1622,954,0.0136,0.0445,0.0115,1849
+1/31/2020,Union County,SD,Sioux City,1623,1102,-0.0151,-0.0299,0.0232,4614
+1/31/2020,O Brien County,IA,,1624,826,0.0173,-0.0298,-0.0304,5966
+1/31/2020,McIntosh County,GA,Brunswick,1625,1228,0.0088,0.0257,0.0123,5485
+1/31/2020,Allamakee County,IA,,1626,856,-0.0122,0.0017,-0.0009,6373
+1/31/2020,Manassas Park City,VA,Washington-Arlington-Alexandria,1627,1696,-0.0004,0.0013,0.0066,5193
+1/31/2020,Newton County,IN,Chicago-Naperville-Elgin,1628,924,-0.0088,-0.0229,0.018,5594
+1/31/2020,Mono County,CA,,1629,2066,0.0036,-0.0132,-0.0123,13023
+1/31/2020,Saline County,NE,,1630,687,-0.0043,-0.009,-0.1741,4462
+1/31/2020,Larue County,KY,Elizabethtown-Fort Knox,1631,866,0.0119,0.0234,0.0155,6185
+1/31/2020,Atoka County,OK,,1632,856,0.0174,0.0282,0.0821,3168
+1/31/2020,Lincoln County,AR,Pine Bluff,1633,762,0.0051,-0.0019,0.0273,2749
+1/31/2020,Sequatchie County,TN,Chattanooga,1634,1015,-0.0208,-0.0056,0.0257,5833
+1/31/2020,Ripley County,MO,,1635,855,0.0064,0.0411,0.041,1173
+1/31/2020,Jackson County,TX,,1636,1289,-0.0121,-0.0127,-0.0036,4604
+1/31/2020,Crawford County,MI,,1637,958,0.005,0.0273,0.0485,7078
+1/31/2020,Williamsburg City,VA,Virginia Beach-Norfolk-Newport News,1638,1413,0.0115,-0.0195,-0.0048,5565
+1/31/2020,Hardy County,WV,,1639,901,0.0035,0.0217,0.0149,6945
+1/31/2020,Zapata County,TX,Zapata,1640,1052,0.0173,-0.0058,0.0014,3502
+1/31/2020,Hughes County,OK,,1641,770,-0.0069,-0.0219,0.0202,4700
+1/31/2020,Cedar County,MO,,1642,789,-0.0102,0.0186,-0.0037,7193
+1/31/2020,Cass County,IA,,1643,860,0.0116,0.0095,-0.0245,6210
+1/31/2020,Summers County,WV,,1644,759,-0.0117,-0.0052,-0.0487,6089
+1/31/2020,Morgan County,KY,,1645,837,0.0203,0.0233,0.005,1887
+1/31/2020,Crenshaw County,AL,,1646,857,0.0007,-0.0101,0.0205,4009
+1/31/2020,Jasper County,GA,Atlanta-Sandy Springs-Roswell,1647,1179,0.0108,0.0264,0.0785,5560
+1/31/2020,Osage County,MO,Jefferson City,1648,808,-0.0008,0.0172,0.046,4718
+1/31/2020,Breathitt County,KY,,1649,749,0.0023,0.0165,-0.0167,1008
+1/31/2020,Converse County,WY,,1650,1014,-0.0039,-0.0089,0.0421,4848
+1/31/2020,Cannon County,TN,Nashville-Davidson--Murfreesboro--Franklin,1651,1066,-0.0008,-0.0281,0.0356,4763
+1/31/2020,Moffat County,CO,Craig,1652,1713,0.0043,0.0301,0.0999,4810
+1/31/2020,Howard County,AR,,1653,833,0.0149,0.0172,0.0441,4053
+1/31/2020,Trinity County,CA,,1654,1720,-0.0277,-0.0386,-0.0446,2784
+1/31/2020,Izard County,AR,,1655,777,0.0017,-0.011,-0.0254,4686
+1/31/2020,Douglas County,MO,,1656,808,-0.0013,0.0009,0.0356,2308
+1/31/2020,York County,NE,,1657,916,0.0298,-0.004,-0.0947,4743
+1/31/2020,Madison County,TX,,1658,1298,-0.0091,0.0145,0.0197,2089
+1/31/2020,Cass County,IL,,1659,980,0.0163,0.0457,-0.0029,4192
+1/31/2020,Kodiak Island Borough,AK,,1660,1446,-0.0117,-0.0084,-0.0273,3532
+1/31/2020,Callahan County,TX,Abilene,1661,1208,0.0124,0.0117,0.0075,4734
+1/31/2020,Monroe County,WV,,1662,827,0.0015,0.0146,-0.0426,5675
+1/31/2020,Murray County,OK,,1663,861,-0.0025,0.0072,0.0506,2677
+1/31/2020,Ketchikan Gateway Borough,AK,Ketchikan,1664,1437,-0.0133,-0.0465,-0.0255,4588
+1/31/2020,Jackson County,KS,Topeka,1665,869,-0.0176,-0.0561,-0.0165,4885
+1/31/2020,Perquimans County,NC,Elizabeth City,1666,1123,0.0022,0.0059,-0.0348,4272
+1/31/2020,Vinton County,OH,,1667,874,-0.0203,-0.008,0.0306,3527
+1/31/2020,Pulaski County,IN,,1668,885,-0.0043,-0.0314,0.0073,5573
+1/31/2020,Allen County,KS,,1669,788,0.0039,0.0108,0.003,5436
+1/31/2020,Stewart County,TN,,1670,1020,0.025,0.0301,0.0674,5505
+1/31/2020,Madison County,VA,,1671,1383,0.0037,-0.0033,0.0393,5261
+1/31/2020,Goshen County,WY,,1672,943,0.0141,0.0301,0.0318,5046
+1/31/2020,Fremont County,ID,Rexburg,1673,1124,0.0218,0.0324,0.0844,8677
+1/31/2020,Conecuh County,AL,,1674,850,0.009,0.0162,0.0048,3731
+1/31/2020,Washington County,NC,,1675,1020,0.0066,-0.0031,0.018,5379
+1/31/2020,Little River County,AR,Texarkana,1676,825,0.0218,0.0289,0.0396,4530
+1/31/2020,Pamlico County,NC,New Bern,1677,1136,-0.0091,0.0032,0.0263,6384
+1/31/2020,Bleckley County,GA,,1678,1054,0.0115,0.0182,0.0473,4142
+1/31/2020,Pend Oreille County,WA,Spokane-Spokane Valley,1679,1442,0.0023,0.0192,0.0639,2929
+1/31/2020,Caldwell County,KY,,1680,794,0.007,-0.0354,-0.0327,1320
+1/31/2020,Morris County,TX,,1681,1133,-0.0027,-0.0074,-0.0378,3925
+1/31/2020,DeKalb County,MO,St. Joseph,1682,881,-0.0181,0.0006,0.0281,3347
+1/31/2020,Appanoose County,IA,,1683,789,0.0167,0.0206,-0.0369,4923
+1/31/2020,Glades County,FL,,1684,1360,-0.0002,0.0004,-0.0135,2668
+1/31/2020,Bledsoe County,TN,,1685,983,-0.0265,-0.0309,-0.0011,4072
+1/31/2020,Big Horn County,MT,,1686,1006,-0.01,-0.0445,-0.0626,1720
+1/31/2020,Red River County,TX,,1687,1123,-0.0076,0.0104,-0.0438,4314
+1/31/2020,Pike County,IN,Jasper,1688,810,-0.0108,0.0165,0.015,4941
+1/31/2020,Franklin County,ID,Logan,1689,1093,0.0066,-0.0247,0.0509,4858
+1/31/2020,Haskell County,OK,,1690,821,0.0089,0.0158,0.0134,3662
+1/31/2020,Blackford County,IN,,1691,841,-0.0086,-0.0304,0.0035,3913
+1/31/2020,Shoshone County,ID,,1692,1061,0.0134,0.0012,0.0574,6341
+1/31/2020,Linn County,MO,,1693,771,-0.0052,-0.0356,-0.0697,5500
+1/31/2020,Amelia County,VA,Richmond,1694,1234,-0.0096,-0.0175,0.0024,4131
+1/31/2020,Yalobusha County,MS,,1695,866,-0.0028,-0.0028,-0.0158,4536
+1/31/2020,Marion County,KS,,1696,833,0.003,0.0073,0.0191,5465
+1/31/2020,Crawford County,GA,Macon-Bibb County,1697,1150,0.0134,0.0023,0.0308,5118
+1/31/2020,Powell County,KY,,1698,857,0.0145,0.0097,-0.0001,3721
+1/31/2020,Johnson County,IL,,1699,992,0.0142,-0.0312,0.0022,3246
+1/31/2020,Union County,IA,,1700,806,0.008,0.0192,-0.0466,5653
+1/31/2020,Jefferson Davis County,MS,,1701,853,0.0126,0.0251,-0.0692,3984
+1/31/2020,Todd County,KY,,1702,905,-0.018,-0.0223,0.0077,1546
+1/31/2020,Grundy County,IA,Waterloo-Cedar Falls,1703,903,-0.0101,0.0013,0.018,5403
+1/31/2020,Chickasaw County,IA,,1704,770,-0.0059,0.0011,-0.0144,4961
+1/31/2020,Camp County,TX,,1705,1226,0.0132,-0.016,-0.0274,4396
+1/31/2020,Stone County,AR,,1706,821,0.0114,-0.0005,-0.0109,5030
+1/31/2020,Falls Church City,VA,Washington-Arlington-Alexandria,1707,2269,0.0125,-0.0013,0.0185,4795
+1/31/2020,Northumberland County,VA,,1708,1393,-0.0157,-0.0122,0.0224,2219
+1/31/2020,Perry County,MS,Hattiesburg,1709,951,0.0224,0.0482,-0.0244,2669
+1/31/2020,Fulton County,AR,,1710,779,0.0163,-0.003,-0.0151,4664
+1/31/2020,Greensville County,VA,,1711,1080,0.0289,-0.0031,-0.0356,2718
+1/31/2020,Gates County,NC,Virginia Beach-Norfolk-Newport News,1712,1120,-0.0167,0.007,0.0023,2496
+1/31/2020,Okfuskee County,OK,,1713,787,0.0027,-0.0078,0.022,3309
+1/31/2020,Charlton County,GA,,1714,956,-0.0025,-0.0018,-0.0261,2482
+1/31/2020,Shelby County,IA,,1715,921,0.0066,0.0095,-0.0059,5043
+1/31/2020,Lewis County,TN,,1716,964,0.0141,0.0295,0.0736,3963
+1/31/2020,Edmonson County,KY,Bowling Green,1717,866,0,-0.0043,0.0084,3875
+1/31/2020,Poquoson City,VA,Virginia Beach-Norfolk-Newport News,1718,1496,0.0047,0.0131,-0.0118,5370
+1/31/2020,Sussex County,VA,Richmond,1719,1051,-0.0064,0.0066,-0.0179,3002
+1/31/2020,Cherokee County,IA,,1720,804,0.0056,-0.0301,-0.0363,5092
+1/31/2020,Pulaski County,GA,Warner Robins,1721,994,0.0084,0.0158,0.089,2944
+1/31/2020,Sierra County,NM,,1722,833,-0.012,-0.0425,-0.0717,4413
+1/31/2020,Blaine County,OK,,1723,887,0.0085,-0.0163,0.0279,1538
+1/31/2020,Grant County,WV,,1724,901,0.0027,0.0234,-0.0136,4536
+1/31/2020,Heard County,GA,Atlanta-Sandy Springs-Roswell,1725,1186,0.0138,0.0332,0.0856,3683
+1/31/2020,Iron County,MI,,1726,922,0.0049,0.0266,0.0125,3064
+1/31/2020,Decatur County,TN,,1727,938,0.016,0.0412,0.0579,5622
+1/31/2020,Meigs County,TN,,1728,1089,-0.0021,-0.0126,0.0299,3724
+1/31/2020,Washington County,KY,,1729,880,-0.0091,0.0028,0.0173,3319
+1/31/2020,Cottonwood County,MN,,1730,1069,0.0227,0.0707,0.0444,1364
+1/31/2020,Zavala County,TX,,1731,1117,0.0296,0.012,0.0246,2719
+1/31/2020,Wilcox County,AL,,1732,909,-0.0079,0.0113,0.0485,2137
+1/31/2020,Big Horn County,WY,,1733,956,-0.0158,-0.029,0.0091,4674
+1/31/2020,Jackson County,TN,Cookeville,1734,962,-0.0179,-0.0047,0.0283,4438
+1/31/2020,Washita County,OK,,1735,784,-0.0174,-0.0089,0.0176,3911
+1/31/2020,West Carroll Parish,LA,,1736,935,-0.0131,0.0047,-0.0432,4041
+1/31/2020,Bath County,KY,Mount Sterling,1737,884,0.0136,0.0209,0.0312,3354
+1/31/2020,Fergus County,MT,,1738,1127,-0.011,-0.0014,0.1031,4671
+1/31/2020,Lyon County,IA,,1739,907,0.0187,-0.0173,-0.01,4542
+1/31/2020,Pushmataha County,OK,,1740,785,0.0029,-0.0174,0.0351,2763
+1/31/2020,Noble County,OK,,1741,848,0.0074,-0.0198,0.0131,3876
+1/31/2020,Franklin County,FL,,1742,1422,-0.0095,-0.0097,0.0113,7909
+1/31/2020,Coosa County,AL,Talladega-Sylacauga,1743,933,0.0139,0.0004,-0.0821,3326
+1/31/2020,Lake County,MI,,1744,854,-0.0092,0.0114,0.0128,1923
+1/31/2020,Live Oak County,TX,,1745,1255,-0.0133,-0.0124,0.004,1979
+1/31/2020,Owyhee County,ID,Boise City,1746,1234,0.0046,0.0133,0.1143,3446
+1/31/2020,Bradley County,AR,,1747,757,0.0024,0.0044,0.0171,3946
+1/31/2020,Sanders County,MT,,1748,1192,-0.0036,-0.0152,0.0097,5444
+1/31/2020,Jefferson County,MT,Helena,1749,1233,-0.0041,-0.0191,-0.0112,5092
+1/31/2020,Lancaster County,VA,,1750,1443,-0.0003,0.0091,0.0236,7785
+1/31/2020,Louisa County,IA,,1751,844,-0.0045,0.011,0.0067,4599
+1/31/2020,Hancock County,IA,,1752,811,0.0128,-0.012,0.0093,4731
+1/31/2020,Leslie County,KY,,1753,753,0.0023,0.0191,-0.0192,1816
+1/31/2020,Lowndes County,AL,Montgomery,1754,887,0.0188,0.0271,0.0364,2880
+1/31/2020,Pike County,AR,,1755,766,0.0017,0.003,0.0097,2494
+1/31/2020,Green County,KY,,1756,854,0.0173,0.045,0.0254,2193
+1/31/2020,Watonwan County,MN,,1757,1093,0.0159,-0.031,-0.0344,3522
+1/31/2020,Morrow County,OR,Hermiston-Pendleton,1758,1475,0.0146,0.0815,0.1209,3499
+1/31/2020,Latimer County,OK,,1759,776,0.0022,0.0103,0.0382,2525
+1/31/2020,Essex County,VA,,1760,1358,-0.0061,-0.0089,0.0226,4837
+1/31/2020,Mackinac County,MI,,1761,910,-0.0068,-0.0062,-0.0367,1855
+1/31/2020,Bacon County,GA,,1762,994,0.0206,0.0035,0.0405,2786
+1/31/2020,Barnes County,ND,,1763,821,0.0264,0.0385,-0.0255,1683
+1/31/2020,Skamania County,WA,Portland-Vancouver-Hillsboro,1764,1663,0.002,-0.0071,0.0221,3832
+1/31/2020,Red Willow County,NE,,1765,888,0.0132,-0.0037,-0.0355,3857
+1/31/2020,Early County,GA,,1766,1042,0.0056,-0.0182,0.0775,3507
+1/31/2020,Evans County,GA,,1767,992,-0.0028,-0.0121,-0.058,2879
+1/31/2020,Candler County,GA,,1768,1084,0.017,0.0267,0.0514,2945
+1/31/2020,Pope County,MN,,1769,1211,0.0203,0.0669,0.1333,4807
+1/31/2020,Boundary County,ID,,1770,1266,-0.0039,0.0146,0.0853,4161
+1/31/2020,Monroe County,KY,,1771,830,-0.0016,0.0126,0.0208,1606
+1/31/2020,Middlesex County,VA,,1772,1458,0.0053,0.0023,0.0117,7070
+1/31/2020,Johnston County,OK,,1773,777,0.005,-0.0112,0.0072,2432
+1/31/2020,Guthrie County,IA,Des Moines-West Des Moines,1774,877,-0.0029,0.0033,-0.018,5762
+1/31/2020,Alcona County,MI,,1775,904,-0.007,-0.0221,0.0143,2030
+1/31/2020,Custer County,NE,,1776,882,0.0209,-0.0274,-0.0104,3289
+1/31/2020,Montgomery County,MS,,1777,860,0.0052,0.0298,-0.0199,3465
+1/31/2020,Bullock County,AL,,1778,849,0.0027,0.0131,0.0157,2149
+1/31/2020,Rains County,TX,,1779,1377,0.0069,0.0295,0.0435,3190
+1/31/2020,Oregon County,MO,,1780,790,-0.0118,0.009,0.0197,4754
+1/31/2020,Lake County,MN,,1781,1349,0.0248,0.0565,0.0367,5918
+1/31/2020,Owen County,KY,,1782,944,-0.0056,-0.0039,0.0418,2850
+1/31/2020,Sabine County,TX,,1783,1137,0.0067,0.0024,-0.0207,3646
+1/31/2020,Carroll County,KY,,1784,983,-0.0058,0.019,0.0722,2115
+1/31/2020,Tunica County,MS,Memphis,1785,878,-0.0024,-0.0211,-0.0238,1948
+1/31/2020,Mitchell County,IA,,1786,859,0.0043,-0.0108,0.0047,4565
+1/31/2020,Clay County,TX,Wichita Falls,1787,1160,-0.0217,-0.0106,-0.001,3194
+1/31/2020,Montgomery County,IA,,1788,747,-0.0006,-0.0081,-0.1147,4153
+1/31/2020,Crawford County,IN,,1789,845,0.0069,-0.0013,0.0158,4764
+1/31/2020,Franklin County,IA,,1790,770,-0.004,-0.0293,-0.0513,4414
+1/31/2020,Iron County,MO,,1791,791,0.0019,0.0375,0.0432,3770
+1/31/2020,Switzerland County,IN,,1792,907,-0.018,-0.0332,0.0509,3799
+1/31/2020,Franklin County,TX,,1793,1399,0.0034,-0.0137,-0.0279,3593
+1/31/2020,Wilkes County,GA,,1794,1192,0.012,0.0523,0.0436,3767
+1/31/2020,Clay County,NC,,1795,1204,-0.0049,0.0311,0.0222,8635
+1/31/2020,Lincoln County,WA,,1796,1492,0.0141,0.0014,0.0814,1173
+1/31/2020,Nowata County,OK,,1797,868,0.0146,0.0313,0.0304,3277
+1/31/2020,Colfax County,NE,,1798,898,-0.0087,-0.0477,-0.0873,3403
+1/31/2020,Keokuk County,IA,,1799,801,0.0154,0.0179,-0.0164,4247
+1/31/2020,Blanco County,TX,,1800,1365,-0.0074,-0.0072,0.0228,4345
+1/31/2020,Towns County,GA,,1801,1269,0.0076,-0.0192,0.0348,9584
+1/31/2020,Kemper County,MS,Meridian,1802,898,0.0181,0.0196,0.0246,1461
+1/31/2020,Ritchie County,WV,,1803,851,0.0105,0.0062,0.0124,3648
+1/31/2020,Perry County,AR,Little Rock-North Little Rock-Conway,1804,823,0.0114,0.0363,0.0428,3469
+1/31/2020,Holt County,NE,,1805,864,0.0133,0.0336,-0.0362,3386
+1/31/2020,Martin County,IN,,1806,833,-0.0051,-0.0077,0.0191,3862
+1/31/2020,Emmet County,IA,,1807,767,-0.0059,-0.0359,-0.0225,4341
+1/31/2020,Clinton County,KY,,1808,861,0.0013,0.0105,0.0367,2759
+1/31/2020,Parmer County,TX,,1809,1185,0.0021,-0.0206,0.0394,1880
+1/31/2020,Webster County,MS,,1810,864,-0.0041,0.0011,-0.017,3360
+1/31/2020,Ochiltree County,TX,,1811,1106,0.0039,-0.0067,0.0186,2110
+1/31/2020,Lewis County,MO,Quincy,1812,789,0.0023,0.0397,-0.0187,2428
+1/31/2020,Nemaha County,KS,,1813,848,0.0105,-0.0082,0.0012,3935
+1/31/2020,Nantucket County,MA,,1814,2767,-0.0076,-0.0579,-0.0259,9923
+1/31/2020,Teton County,ID,Jackson,1815,1416,0.0254,0.0612,0.0881,5889
+1/31/2020,Ralls County,MO,Hannibal,1816,945,-0.0055,0.0253,0.0382,4294
+1/31/2020,Howard County,MO,,1817,894,0.0121,0.0384,0.0233,3575
+1/31/2020,Butte County,SD,,1818,980,-0.016,0.0079,-0.0145,1166
+1/31/2020,Metcalfe County,KY,Glasgow,1819,814,-0.0196,-0.0208,-0.0171,2656
+1/31/2020,Rice County,KS,,1820,740,-0.0109,-0.0235,-0.0106,4463
+1/31/2020,Lanier County,GA,Valdosta,1821,1031,0.0168,0.0143,0.024,2981
+1/31/2020,Cumberland County,VA,,1822,1218,-0.0253,-0.0023,0.0222,3377
+1/31/2020,Yuma County,CO,,1823,1615,-0.01,-0.0188,0.0552,2866
+1/31/2020,White Pine County,NV,,1824,1263,0.0106,-0.014,0.0227,3531
+1/31/2020,Cheyenne County,NE,,1825,869,0.0002,-0.0136,-0.0681,4036
+1/31/2020,Dimmit County,TX,,1826,1164,0.0022,-0.0081,0.0509,2062
+1/31/2020,Brown County,KS,,1827,850,0.021,0.0117,0.0113,4096
+1/31/2020,Camden County,NC,Elizabeth City,1828,1251,-0.0231,-0.0276,-0.0051,4892
+1/31/2020,Johnson County,GA,Dublin,1829,982,0.0077,0.0008,0.0422,2548
+1/31/2020,Valley County,ID,,1830,1295,-0.0022,-0.0094,0.0573,12312
+1/31/2020,Humboldt County,IA,,1831,802,-0.0094,-0.0261,-0.0389,4098
+1/31/2020,Saint Clair County,MO,,1832,781,0.0016,0.0052,0,4192
+1/31/2020,Richland County,MT,,1833,1223,0.0173,0.0144,0.2117,3015
+1/31/2020,Ozark County,MO,,1834,859,0.0045,0.0188,0.0671,3094
+1/31/2020,Calhoun County,IA,,1835,809,0.0241,0.0007,-0.0167,4512
+1/31/2020,Linn County,KS,Kansas City,1836,871,0.0141,0.034,0.0748,4729
+1/31/2020,Pratt County,KS,,1837,797,-0.0057,0.0136,0.0269,4081
+1/31/2020,Stephens County,TX,,1838,1218,0.0039,0.0052,0.0064,1987
+1/31/2020,Hickory County,MO,,1839,809,-0.0127,0.016,0.0503,3535
+1/31/2020,Howard County,IA,,1840,848,-0.002,0.0181,0.0647,3837
+1/31/2020,Wilkinson County,GA,,1841,932,0.0129,-0.008,-0.0108,3284
+1/31/2020,Irwin County,GA,,1842,1045,-0.0014,-0.0066,0.0492,3025
+1/31/2020,McLean County,KY,Owensboro,1843,839,-0.0275,-0.0257,0.0015,1361
+1/31/2020,Livingston County,KY,Paducah,1844,818,-0.0188,-0.0129,0.0012,2547
+1/31/2020,Montgomery County,AR,,1845,798,-0.0219,0.0024,0.022,4062
+1/31/2020,Morgan County,UT,Ogden-Clearfield,1846,1533,0.001,-0.0155,0.0158,3079
+1/31/2020,Kiowa County,OK,,1847,753,-0.0201,0.0049,0.0255,3775
+1/31/2020,Marshall County,MN,,1848,904,-0.0093,-0.0185,-0.0717,1320
+1/31/2020,Hancock County,GA,Milledgeville,1849,975,0.0032,-0.0186,-0.0167,3626
+1/31/2020,Caldwell County,MO,Kansas City,1850,886,-0.0028,0.0122,0.0562,3609
+1/31/2020,Love County,OK,,1851,865,-0.0005,-0.0332,0.0079,3301
+1/31/2020,Palo Alto County,IA,,1852,844,0.02,0.0127,0.0252,4169
+1/31/2020,Clay County,WV,Charleston,1853,807,-0.0037,0.0073,0.02,3111
+1/31/2020,Greene County,IA,,1854,871,0.0097,0.0125,0.0133,4098
+1/31/2020,Terrell County,GA,Albany,1855,988,0.004,-0.0139,0.0041,3269
+1/31/2020,Crittenden County,KY,,1856,828,-0.0135,0.0005,0.0268,2419
+1/31/2020,Deer Lodge County,MT,,1857,943,-0.0289,0.0082,0.0232,4059
+1/31/2020,Clarke County,IA,,1858,861,0.0193,0.0289,-0.033,3614
+1/31/2020,Benewah County,ID,,1859,1136,0.0156,0.0014,0.0609,1673
+1/31/2020,Wilcox County,GA,,1860,973,0.0176,0.0137,0.0651,1945
+1/31/2020,Richmond County,VA,,1861,1315,-0.011,0.0265,0.0393,2639
+1/31/2020,Beaverhead County,MT,,1862,1232,0.0105,-0.0175,0.0025,3702
+1/31/2020,Monona County,IA,,1863,857,0.0193,0.0158,0.0097,4108
+1/31/2020,Rosebud County,MT,,1864,1128,0.0071,0.0336,0.0299,1524
+1/31/2020,Brewster County,TX,,1865,1311,0.0043,-0.0256,-0.0274,2659
+1/31/2020,Tyler County,WV,,1866,857,0.0022,0.0149,0.0208,3780
+1/31/2020,Dawes County,NE,,1867,901,0.0039,-0.0056,-0.0521,3164
+1/31/2020,Maries County,MO,,1868,884,0.0081,0.0478,0.0386,2909
+1/31/2020,Webster County,WV,,1869,797,0.0078,0.0213,-0.0309,3373
+1/31/2020,Hamilton County,NE,Grand Island,1870,1016,0.0034,-0.039,-0.0037,3599
+1/31/2020,Montgomery County,GA,Vidalia,1871,1060,0.0233,0.0175,0.0723,2429
+1/31/2020,Stillwater County,MT,,1872,1197,-0.0079,-0.0306,0.0118,4336
+1/31/2020,Archer County,TX,Wichita Falls,1873,1172,-0.0014,0.0159,-0.0348,2978
+1/31/2020,Greene County,AL,,1874,935,-0.0024,0.0097,0.0615,1657
+1/31/2020,Jack County,TX,,1875,1224,-0.0052,-0.0155,-0.0052,1242
+1/31/2020,Quay County,NM,,1876,869,-0.023,-0.0568,-0.154,3484
+1/31/2020,Twiggs County,GA,Macon-Bibb County,1877,955,0.0096,0.0397,0.0385,2810
+1/31/2020,Nevada County,AR,Hope,1878,769,-0.0015,0.0118,0.0238,3089
+1/31/2020,Mathews County,VA,Virginia Beach-Norfolk-Newport News,1879,1363,0.0005,0.0066,0.0213,2002
+1/31/2020,Dawson County,MT,,1880,1078,-0.0179,-0.0033,0.0728,3105
+1/31/2020,McLean County,ND,,1881,912,0.0189,0.0243,-0.0072,3043
+1/31/2020,Harrison County,MO,,1882,764,-0.0077,-0.071,-0.0491,3481
+1/31/2020,Turner County,GA,,1883,921,0.012,0.0216,0.0497,2608
+1/31/2020,Lucas County,IA,,1884,858,0.0001,0.0327,-0.0105,3198
+1/31/2020,Coleman County,TX,,1885,1173,0.0048,0.0184,0.0582,1092
+1/31/2020,Woods County,OK,,1886,764,-0.0189,-0.0135,-0.0397,3531
+1/31/2020,Lafayette County,FL,,1887,1427,0.0011,-0.0226,0.0132,1780
+1/31/2020,Graham County,NC,,1888,1188,0.0211,0.0114,0.0333,4476
+1/31/2020,Benton County,IN,Lafayette-West Lafayette,1889,894,-0.0037,-0.0231,0.0313,3480
+1/31/2020,Cedar County,NE,,1890,857,-0.02,-0.0604,-0.0602,3447
+1/31/2020,Monroe County,MO,,1891,856,0.0116,0.0285,0.0478,3732
+1/31/2020,Clearwater County,ID,,1892,1167,0.012,-0.0059,0.0794,3264
+1/31/2020,Davis County,IA,Ottumwa,1893,884,0.0265,0.0432,0.0223,3010
+1/31/2020,Seminole County,GA,,1894,1033,0.0113,0.0075,0.0796,3417
+1/31/2020,Pocahontas County,WV,,1895,853,0.0083,0.0196,0.0061,9277
+1/31/2020,Prairie County,AR,,1896,766,0.0018,0.031,0.0162,3015
+1/31/2020,Knox County,NE,,1897,864,0.0198,0.0103,-0.0498,3068
+1/31/2020,Gilmer County,WV,,1898,840,0.0261,0.0432,0.0435,2630
+1/31/2020,Cleveland County,AR,Pine Bluff,1899,797,-0.0064,-0.058,0.011,2648
+1/31/2020,Platte County,WY,,1900,1088,0.0185,0.0374,0.1078,3741
+1/31/2020,Oscoda County,MI,,1901,813,-0.022,-0.0195,-0.0088,1036
+1/31/2020,Coffey County,KS,,1902,787,0.0006,-0.0032,0.033,3585
+1/31/2020,Franklin City,VA,,1903,1220,-0.0228,0.0098,0.03,3500
+1/31/2020,Johnson County,WY,,1904,1015,0.0074,0.0124,0.0396,3389
+1/31/2020,Hancock County,KY,Owensboro,1905,904,0.0176,0.0121,0.0202,1773
+1/31/2020,Choctaw County,MS,,1906,921,0.021,0.0611,0.0179,2223
+1/31/2020,Clay County,KS,,1907,821,0.02,-0.0178,-0.0251,3814
+1/31/2020,Washakie County,WY,,1908,884,-0.0178,-0.0044,-0.0137,3221
+1/31/2020,Hamilton County,TX,,1909,1162,0.0171,0.0051,0.015,2586
+1/31/2020,Warren County,IN,,1910,943,-0.0012,-0.0268,0.0468,3295
+1/31/2020,Somervell County,TX,Dallas-Fort Worth-Arlington,1911,1375,0.0004,0.023,0.0337,2955
+1/31/2020,Shannon County,MO,,1912,762,-0.0041,0.0172,0.0279,3394
+1/31/2020,Daviess County,MO,,1913,797,-0.0086,-0.0446,-0.0543,3410
+1/31/2020,Butler County,NE,,1914,914,-0.0122,-0.056,-0.0166,3428
+1/31/2020,Keith County,NE,,1915,887,0.001,-0.002,-0.0317,3762
+1/31/2020,Liberty County,FL,,1916,1214,-0.0277,0.0006,0.0458,1678
+1/31/2020,Richardson County,NE,,1917,873,0.0029,0.0257,0.0077,3635
+1/31/2020,Turner County,SD,Sioux Falls,1918,1002,0.0107,-0.0066,0.0334,2850
+1/31/2020,Newton County,AR,Harrison,1919,827,0.0074,-0.0018,0.0339,1540
+1/31/2020,Lyon County,KY,,1920,866,-0.0227,-0.039,-0.0486,1601
+1/31/2020,Conejos County,CO,,1921,1503,0.0227,0.0525,0.1484,3007
+1/31/2020,Ballard County,KY,Paducah,1922,832,-0.0116,-0.0196,-0.0211,2156
+1/31/2020,Custer County,SD,Rapid City,1923,1018,-0.0194,-0.0331,-0.0316,4521
+1/31/2020,Doddridge County,WV,Clarksburg,1924,873,0.0137,0.0188,0.0256,2949
+1/31/2020,Searcy County,AR,,1925,792,0.0072,0.017,0.0001,2275
+1/31/2020,Dallas County,AR,,1926,818,0.0146,0.0207,0.0734,1243
+1/31/2020,Anderson County,KS,,1927,857,0.0016,0.0014,0.0558,3611
+1/31/2020,Lincoln County,GA,Augusta-Richmond County,1928,1301,0.003,0.0464,0.1099,3366
+1/31/2020,Tillman County,OK,,1929,702,0.0129,-0.0133,-0.0079,3259
+1/31/2020,Monroe County,IA,,1930,871,0.0066,0.0135,-0.0233,2945
+1/31/2020,Doniphan County,KS,St. Joseph,1931,851,0.0068,-0.0006,0.0177,2791
+1/31/2020,Lemhi County,ID,,1932,1190,0.0023,0.0242,0.1287,4267
+1/31/2020,Perry County,TN,,1933,958,0.025,0.0494,0.0572,3037
+1/31/2020,Thomas County,KS,,1934,821,0.0213,0.0162,-0.0143,3015
+1/31/2020,Dade County,MO,,1935,784,0.0029,0.0224,0.0352,2417
+1/31/2020,Clay County,TN,,1936,933,-0.025,-0.0153,0.0332,3071
+1/31/2020,Kingman County,KS,Wichita,1937,774,-0.0059,-0.0065,0.0038,3853
+1/31/2020,Swisher County,TX,,1938,1018,-0.0259,-0.0326,-0.0211,1715
+1/31/2020,Grant County,KS,,1939,926,-0.0033,0.0214,0.071,2093
+1/31/2020,Presidio County,TX,,1940,1216,-0.0223,0.0183,-0.073,2169
+1/31/2020,Power County,ID,,1941,1053,-0.0063,-0.018,-0.0116,1785
+1/31/2020,Randolph County,GA,,1942,950,0.0165,0.0049,0.0268,2354
+1/31/2020,Pendleton County,WV,,1943,897,0.0117,0.0363,-0.0596,4580
+1/31/2020,Madison County,MT,,1944,1273,0.0005,-0.0392,-0.0349,5906
+1/31/2020,Adair County,IA,,1945,884,0.0212,0.0143,-0.0096,3264
+1/31/2020,Lafayette County,AR,,1946,751,-0.0028,0.0465,-0.0533,2911
+1/31/2020,Calhoun County,WV,,1947,825,0.0074,-0.0017,0.0133,2703
+1/31/2020,Pleasants County,WV,,1948,875,0.0103,0.0049,0.0287,2849
+1/31/2020,Van Buren County,IA,,1949,829,0.0142,0.0208,-0.0078,3493
+1/31/2020,Jefferson County,NE,,1950,863,-0.0044,-0.0235,-0.0285,3386
+1/31/2020,Major County,OK,,1951,841,-0.0068,-0.0023,-0.0003,2737
+1/31/2020,Union County,IN,Cincinnati,1952,885,-0.0165,-0.0399,0.0804,2971
+1/31/2020,Fremont County,IA,,1953,846,0.0158,0.0296,-0.0268,3373
+1/31/2020,Wheeler County,GA,,1954,972,0.0287,0.0459,0.0832,1130
+1/31/2020,Refugio County,TX,,1955,1231,-0.025,-0.0199,-0.0006,2780
+1/31/2020,Rappahannock County,VA,Washington-Arlington-Alexandria,1956,1634,0.0198,0.0214,0.0251,4450
+1/31/2020,Valley County,MT,,1957,1037,-0.0049,0.0306,0.0866,2978
+1/31/2020,San Miguel County,CO,,1958,1850,-0.0061,-0.0408,-0.0038,7599
+1/31/2020,Henderson County,IL,Burlington,1959,982,0.0288,0.0098,-0.01,2403
+1/31/2020,Pocahontas County,IA,,1960,726,0.004,-0.0134,-0.0616,3487
+1/31/2020,Woodruff County,AR,,1961,720,0.0166,0.0221,-0.0682,2590
+1/31/2020,Goliad County,TX,Victoria,1962,1423,0.0029,0.0101,0.0458,1499
+1/31/2020,Weston County,WY,,1963,1051,0.025,0.0654,0.0895,2275
+1/31/2020,Nicholas County,KY,,1964,869,-0.0218,-0.0343,-0.0285,1339
+1/31/2020,Ida County,IA,,1965,802,0.0113,0.0067,-0.0327,2318
+1/31/2020,Crook County,WY,,1966,1100,0.0288,0.0468,0.1263,2654
+1/31/2020,Wabaunsee County,KS,Topeka,1967,908,-0.0197,-0.0732,0.0037,3134
+1/31/2020,Lexington City,VA,,1968,1217,-0.0074,0.0236,0.0593,2217
+1/31/2020,Boise County,ID,Boise City,1969,1252,-0.0011,0.0023,0.055,4638
+1/31/2020,Powell County,MT,,1970,1081,-0.009,-0.0056,0.0075,2476
+1/31/2020,Wallowa County,OR,,1971,1493,0.021,0.072,0.095,2318
+1/31/2020,Pawnee County,KS,,1972,802,0.0184,0.011,0.0053,2688
+1/31/2020,Russell County,KS,,1973,839,-0.0001,-0.0066,0.0066,3645
+1/31/2020,King and Queen County,VA,,1974,1275,-0.0227,-0.0368,0.0033,3181
+1/31/2020,Thurston County,NE,,1975,941,-0.0017,-0.0143,-0.0165,1279
+1/31/2020,Treutlen County,GA,,1976,978,0.0165,0.0313,0.0336,1853
+1/31/2020,Burt County,NE,,1977,1017,-0.0095,-0.0016,0.0149,2942
+1/31/2020,Cameron Parish,LA,Lake Charles,1978,1193,0.0124,0.0125,-0.009,2413
+1/31/2020,Clinch County,GA,,1979,929,0.0029,-0.0266,-0.0368,1662
+1/31/2020,Pershing County,NV,,1980,1301,-0.0121,-0.0136,0.0204,1037
+1/31/2020,Gentry County,MO,,1981,810,-0.0028,0.0305,0.025,2794
+1/31/2020,Sullivan County,MO,,1982,751,-0.0021,0.0385,0.016,1332
+1/31/2020,Huerfano County,CO,,1983,1484,0.0125,0.0451,0.1143,4337
+1/31/2020,Calhoun County,GA,,1984,949,0.0207,-0.0287,-0.0706,1494
+1/31/2020,Greenwood County,KS,,1985,780,-0.0037,-0.0078,0.0227,3523
+1/31/2020,Antelope County,NE,,1986,854,-0.0063,-0.0337,-0.0364,2752
+1/31/2020,Rio Blanco County,CO,,1987,1749,0.0023,-0.005,0.0498,2879
+1/31/2020,Beaver County,UT,,1988,1206,0.0104,0.0128,0.0131,3212
+1/31/2020,Clay County,NE,,1989,900,0.0172,-0.0067,-0.0282,2611
+1/31/2020,Ellsworth County,KS,,1990,840,-0.0026,-0.016,0.0596,2841
+1/31/2020,Blaine County,MT,,1991,1114,0.0053,0.036,0.0994,1198
+1/31/2020,Kearney County,NE,Kearney,1992,959,0.0029,0.0346,0.0032,2505
+1/31/2020,Moody County,SD,,1993,979,0.0026,-0.003,-0.0097,2403
+1/31/2020,Jefferson County,OK,,1994,756,0.0226,0.0308,0.0345,2307
+1/31/2020,Osceola County,IA,,1995,790,0.0246,0.0133,0.0838,2268
+1/31/2020,Sullivan County,PA,,1996,1107,-0.0142,0.0365,0.0446,3011
+1/31/2020,Spink County,SD,,1997,939,-0.0053,0.023,-0.0164,2496
+1/31/2020,Wayne County,IA,,1998,855,0.0222,0.0492,0.0288,2885
+1/31/2020,Shelby County,MO,,1999,840,0.0063,-0.0008,0.0204,2536
+1/31/2020,Mitchell County,KS,,2000,760,0.0054,-0.0134,-0.0345,2778
+1/31/2020,Moore County,TN,Tullahoma-Manchester,2001,1093,-0.0139,-0.0242,0.0263,2549
+1/31/2020,Taylor County,IA,,2002,818,0.0173,0.0276,-0.0277,2842
+1/31/2020,Howard County,NE,Grand Island,2003,989,-0.012,-0.0485,-0.0539,2535
+1/31/2020,Greer County,OK,,2004,781,0.0075,0.0309,0.0437,2196
+1/31/2020,Cotton County,OK,Lawton,2005,777,-0.0003,-0.0236,0.0284,2032
+1/31/2020,Pondera County,MT,,2006,1140,-0.0187,-0.0221,0.0457,1847
+1/31/2020,Ohio County,IN,Cincinnati,2007,1035,-0.0034,0.0529,-0.0207,2198
+1/31/2020,Miller County,GA,,2008,1055,0.0069,-0.0051,0.052,2058
+1/31/2020,Audubon County,IA,,2009,855,0.0017,-0.0009,-0.0271,2911
+1/31/2020,Ottawa County,KS,Salina,2010,902,0.0102,0.0082,0.0286,2619
+1/31/2020,Teton County,MT,,2011,1132,-0.0132,-0.0175,0.0679,1776
+1/31/2020,Stewart County,GA,,2012,909,-0.0145,-0.0176,-0.0065,1375
+1/31/2020,Harper County,KS,,2013,715,-0.0169,-0.0028,0.0053,3248
+1/31/2020,Gray County,KS,,2014,970,0.0114,0.0168,0.0654,2103
+1/31/2020,Coal County,OK,,2015,793,0.0248,0.0103,0.0471,1510
+1/31/2020,Morris County,KS,,2016,803,0.0116,-0.0092,-0.0223,3167
+1/31/2020,Haskell County,TX,,2017,1070,0.0153,-0.0325,-0.0873,2213
+1/31/2020,Fillmore County,NE,,2018,880,0.0055,-0.0155,-0.0333,2509
+1/31/2020,Chouteau County,MT,,2019,1193,0.0017,0.0243,0.0872,1775
+1/31/2020,Hyde County,NC,,2020,1052,0.0212,0.0453,0.052,2314
+1/31/2020,Lander County,NV,,2021,1276,-0.0063,-0.0286,0.0225,1187
+1/31/2020,Stevens County,KS,,2022,872,0.0038,0.0065,0.0214,1633
+1/31/2020,Wirt County,WV,Parkersburg-Vienna,2023,773,0.0077,0.0072,0.0035,2011
+1/31/2020,Cherry County,NE,,2024,822,-0.0097,-0.0059,-0.062,1783
+1/31/2020,Beaver County,OK,,2025,848,-0.0048,0.0011,0.0004,1756
+1/31/2020,McCook County,SD,Sioux Falls,2026,963,0.0108,0.0315,0.0294,1883
+1/31/2020,Broadwater County,MT,,2027,1204,-0.0035,-0.0073,0.0444,2229
+1/31/2020,Sheridan County,NE,,2028,841,-0.0011,0.0017,-0.0535,1912
+1/31/2020,Lincoln County,CO,,2029,1601,0.0011,0.0222,0.0801,1699
+1/31/2020,Gilpin County,CO,Denver-Aurora-Lakewood,2030,1631,-0.0024,-0.0041,-0.0211,3724
+1/31/2020,Walworth County,SD,,2031,750,0.0042,0.0053,-0.0842,1912
+1/31/2020,Polk County,NE,,2032,889,0.0012,-0.0274,-0.0169,2303
+1/31/2020,Scott County,IL,Jacksonville,2033,859,0.0101,0.0353,0.0409,1075
+1/31/2020,Lincoln County,NV,,2034,1267,-0.01,-0.0188,0.015,1388
+1/31/2020,Johnson County,NE,,2035,954,-0.0112,-0.0163,0.0245,1978
+1/31/2020,Cook County,MN,,2036,1349,0.0089,0.0267,0.048,3009
+1/31/2020,Ringgold County,IA,,2037,780,0.0032,-0.0142,-0.0594,1936
+1/31/2020,Carlisle County,KY,,2038,818,-0.0255,-0.0535,-0.03,1321
+1/31/2020,Morrill County,NE,,2039,876,-0.0011,-0.0081,-0.0341,1797
+1/31/2020,Schley County,GA,Americus,2040,1066,-0.0034,-0.0185,0.0544,1287
+1/31/2020,Republic County,KS,,2041,788,0.0293,0.0279,0.0144,2590
+1/31/2020,Scott County,KS,,2042,767,-0.0095,-0.0046,-0.0267,1891
+1/31/2020,Holt County,MO,,2043,820,0.0214,0.0519,0.0787,1624
+1/31/2020,Hamilton County,NY,,2044,1603,-0.0128,-0.0396,-0.0249,5629
+1/31/2020,Dewey County,OK,,2045,812,-0.0083,0.0273,0.0057,1702
+1/31/2020,Martin County,TX,Midland,2046,1358,-0.0221,-0.0109,0.0271,1311
+1/31/2020,Mineral County,NV,,2047,1258,0.0067,-0.0022,0.013,1517
+1/31/2020,Bath County,VA,,2048,1245,0.0064,-0.0079,0.0541,2634
+1/31/2020,Kimble County,TX,,2049,1247,0.023,0.0188,-0.0237,1335
+1/31/2020,Meade County,KS,,2050,768,-0.0109,0.0047,-0.0044,1714
+1/31/2020,Musselshell County,MT,,2051,1064,0.0217,0.0581,0.0542,1757
+1/31/2020,Grant County,OK,,2052,831,-0.0087,-0.0114,0.0212,1127
+1/31/2020,Nuckolls County,NE,,2053,899,0.0054,0.0146,0.0075,1931
+1/31/2020,Stafford County,KS,,2054,792,0.0093,0.0168,0.0147,2142
+1/31/2020,Ouray County,CO,,2055,1757,0.0097,-0.0024,0.0395,3430
+1/31/2020,Tyrrell County,NC,Kill Devil Hills,2056,1036,0.0034,-0.002,0.0065,1392
+1/31/2020,Custer County,ID,,2057,1138,-0.0059,-0.0122,0.1259,3464
+1/31/2020,Oneida County,ID,,2058,1091,0.0207,0.0035,0.0173,1735
+1/31/2020,Valley County,NE,,2059,876,0.0121,-0.0111,-0.0265,1305
+1/31/2020,Phillips County,MT,,2060,960,-0.0053,0.0188,0.0147,1453
+1/31/2020,Mineral County,MT,,2061,1153,-0.0044,-0.0409,-0.0035,1668
+1/31/2020,Ellis County,OK,,2062,836,0.0044,-0.0033,-0.0021,1772
+1/31/2020,Knox County,MO,,2063,788,0.0097,-0.0048,-0.0109,1316
+1/31/2020,Adams County,IA,,2064,809,0.0183,0.013,-0.0023,1898
+1/31/2020,Storey County,NV,Reno,2065,1541,0.0081,0.0107,0.0447,1525
+1/31/2020,Kearny County,KS,Garden City,2066,859,0.0031,0.0158,0.0766,1230
+1/31/2020,Smith County,KS,,2067,787,0.0287,0.019,0.0094,2051
+1/31/2020,Kimball County,NE,,2068,839,-0.0047,-0.0269,-0.055,1590
+1/31/2020,Lewis County,ID,,2069,1162,-0.0104,0.043,0.0998,1512
+1/31/2020,Webster County,NE,,2070,904,0.0035,0.0118,0.0242,1633
+1/31/2020,Mercer County,MO,,2071,775,-0.014,-0.0519,-0.0416,1820
+1/31/2020,Nance County,NE,,2072,873,-0.0035,-0.0223,-0.0634,1462
+1/31/2020,Crockett County,TX,,2073,1194,0.0014,-0.0012,-0.0769,1204
+1/31/2020,Harper County,OK,,2074,735,-0.0125,0.0121,-0.019,1227
+1/31/2020,Chautauqua County,KS,,2075,775,-0.0013,0.023,0.0902,1917
+1/31/2020,Sweet Grass County,MT,,2076,1258,0.0076,-0.0005,0.0099,1619
+1/31/2020,Hand County,SD,,2077,904,-0.0008,0.0223,-0.0473,1306
+1/31/2020,Harlan County,NE,,2078,813,-0.0149,-0.0402,-0.027,1385
+1/31/2020,Shackelford County,TX,,2079,1220,0.0038,0.0239,0.066,1111
+1/31/2020,Woodson County,KS,,2080,735,0.0003,-0.0035,0.0334,1752
+1/31/2020,Rush County,KS,,2081,763,0.0021,-0.0062,0.0379,1675
+1/31/2020,Lincoln County,KS,,2082,799,0.0225,0.038,0.05,1838
+1/31/2020,Sierra County,CA,,2083,1692,0.003,0.0232,0.105,2045
+1/31/2020,Morton County,KS,,2084,796,-0.0098,0.0179,-0.004,1142
+1/31/2020,Sherman County,NE,,2085,829,-0.0007,-0.0019,-0.0026,1357
+1/31/2020,Brown County,NE,,2086,909,0.0174,0.0087,0.0131,1358
+1/31/2020,Ness County,KS,,2087,783,-0.0008,0.0159,0.0309,1468
+1/31/2020,Granite County,MT,,2088,1069,-0.0029,0.0448,0.0935,1730
+1/31/2020,Edwards County,KS,,2089,759,0.0049,0.0138,0.0328,1502
+1/31/2020,Trego County,KS,,2090,780,0.005,0.0043,0.0264,2038
+1/31/2020,Perkins County,SD,,2091,856,0.0031,0.0467,-0.0765,1351
+1/31/2020,Harmon County,OK,,2092,738,-0.0024,-0.0165,0.0374,1094
+1/31/2020,Elk County,KS,,2093,711,-0.0078,0.0137,-0.0279,1659
+1/31/2020,Chase County,KS,,2094,802,0.0121,0.0083,0.0564,1431
+1/31/2020,Pawnee County,NE,,2095,944,-0.0261,-0.0318,-0.002,1286
+1/31/2020,Logan County,KS,,2096,798,0.0139,0.0198,-0.003,1356
+1/31/2020,Gove County,KS,,2097,805,0.0133,0.014,0.0177,1304
+1/31/2020,Graham County,KS,,2098,795,0.0137,-0.0035,-0.0046,1321
+1/31/2020,Sheridan County,KS,,2099,821,0.0154,0.007,-0.0215,1832
+1/31/2020,Kiowa County,KS,,2100,795,-0.0101,0.0126,-0.0219,1015
+1/31/2020,Greeley County,NE,,2101,860,0.0031,-0.0028,-0.0472,1029
+1/31/2020,Highland County,VA,,2102,1281,0.0107,0.0066,0.0499,1521
+1/31/2020,Dolores County,CO,,2103,1465,0.0231,0.0312,0.087,1259
+1/31/2020,Garden County,NE,,2104,857,0.0118,0.0051,-0.0368,1042
+1/31/2020,Gilliam County,OR,,2105,1445,-0.0117,0.0595,0.0801,1230
+1/31/2020,Alpine County,CA,,2106,1899,-0.0098,-0.0113,-0.0055,1203

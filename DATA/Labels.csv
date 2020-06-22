@@ -1,0 +1,3227 @@
+County,State,Diabetic Level
+Autauga County,Alabama,Medium
+Baldwin County,Alabama,Medium
+Barbour County,Alabama,High
+Bibb County,Alabama,High
+Blount County,Alabama,High
+Bullock County,Alabama,High
+Butler County,Alabama,High
+Calhoun County,Alabama,High
+Chambers County,Alabama,High
+Cherokee County,Alabama,High
+Chilton County,Alabama,High
+Choctaw County,Alabama,High
+Clarke County,Alabama,High
+Clay County,Alabama,Medium
+Cleburne County,Alabama,Medium
+Coffee County,Alabama,High
+Colbert County,Alabama,High
+Conecuh County,Alabama,High
+Coosa County,Alabama,High
+Covington County,Alabama,High
+Crenshaw County,Alabama,High
+Cullman County,Alabama,High
+Dale County,Alabama,High
+Dallas County,Alabama,High
+Dekalb County,Alabama,Medium
+Elmore County,Alabama,High
+Escambia County,Alabama,High
+Etowah County,Alabama,High
+Fayette County,Alabama,High
+Franklin County,Alabama,High
+Geneva County,Alabama,High
+Greene County,Alabama,Medium
+Hale County,Alabama,High
+Henry County,Alabama,High
+Houston County,Alabama,High
+Jackson County,Alabama,High
+Jefferson County,Alabama,High
+Lamar County,Alabama,High
+Lauderdale County,Alabama,High
+Lawrence County,Alabama,High
+Lee County,Alabama,Medium
+Limestone County,Alabama,High
+Lowndes County,Alabama,Medium
+Macon County,Alabama,High
+Madison County,Alabama,High
+Marengo County,Alabama,High
+Marion County,Alabama,High
+Marshall County,Alabama,Medium
+Mobile County,Alabama,High
+Monroe County,Alabama,High
+Montgomery County,Alabama,High
+Morgan County,Alabama,Medium
+Perry County,Alabama,High
+Pickens County,Alabama,High
+Pike County,Alabama,High
+Randolph County,Alabama,High
+Russell County,Alabama,High
+Shelby County,Alabama,Medium
+St. Clair County,Alabama,High
+Sumter County,Alabama,High
+Talladega County,Alabama,High
+Tallapoosa County,Alabama,High
+Tuscaloosa County,Alabama,High
+Walker County,Alabama,High
+Washington County,Alabama,High
+Wilcox County,Alabama,High
+Winston County,Alabama,High
+Aleutians East Borough,Alaska,High
+Aleutians West Census Area,Alaska,Medium
+Anchorage Municipality,Alaska,Low
+Bethel Census Area,Alaska,Low
+Bristol Bay Borough,Alaska,High
+Denali Borough,Alaska,Low
+Dillingham Census Area,Alaska,Medium
+Fairbanks North Star Borough,Alaska,Low
+Haines Borough,Alaska,Low
+Hoonah-Angoon Census Area,Alaska,Medium
+Juneau City and Borough,Alaska,Low
+Kenai Peninsula Borough,Alaska,Low
+Ketchikan Gateway Borough,Alaska,Low
+Kodiak Island Borough,Alaska,Low
+Kusilvak Census Area,Alaska,Low
+Lake and Peninsula Borough,Alaska,Medium
+Matanuska-Susitna Borough,Alaska,Medium
+Nome Census Area,Alaska,Low
+North Slope Borough,Alaska,Low
+Northwest Arctic Borough,Alaska,High
+Petersburg Census Area,Alaska,Low
+Prince of Wales - Outer Ketchikan,Alaska,High
+Prince of Wales-Hyder Censu,Alaska,High
+Sitka City and Borough,Alaska,Low
+Skagway Municipality,Alaska,Low
+Skagway-Hoonah-Angoon,Alaska,High
+Southeast Fairbanks Census Area,Alaska,Medium
+Valdez-Cordova Census Area,Alaska,Medium
+Wade Hampton Census Area,Alaska,High
+Wrangell City and Borough,Alaska,Medium
+Wrangell-Petersburg Census Area,Alaska,High
+Yakutat City and Borough,Alaska,Low
+Yukon-Koyukuk Census Area,Alaska,Low
+Apache County,Arizona,High
+Cochise County,Arizona,Low
+Coconino County,Arizona,Low
+Gila County,Arizona,High
+Graham County,Arizona,Medium
+Greenlee County,Arizona,Medium
+La Paz County,Arizona,Medium
+Maricopa County,Arizona,Low
+Mohave County,Arizona,Medium
+Navajo County,Arizona,High
+Pima County,Arizona,Low
+Pinal County,Arizona,Medium
+Santa Cruz County,Arizona,Low
+Yavapai County,Arizona,Low
+Yuma County,Arizona,High
+Arkansas County,Arkansas,High
+Ashley County,Arkansas,High
+Baxter County,Arkansas,High
+Benton County,Arkansas,Medium
+Boone County,Arkansas,High
+Bradley County,Arkansas,High
+Calhoun County,Arkansas,High
+Carroll County,Arkansas,Low
+Chicot County,Arkansas,Low
+Clark County,Arkansas,High
+Clay County,Arkansas,High
+Cleburne County,Arkansas,Low
+Cleveland County,Arkansas,High
+Columbia County,Arkansas,High
+Conway County,Arkansas,High
+Craighead County,Arkansas,High
+Crawford County,Arkansas,High
+Crittenden County,Arkansas,High
+Cross County,Arkansas,High
+Dallas County,Arkansas,Low
+Desha County,Arkansas,Medium
+Drew County,Arkansas,High
+Faulkner County,Arkansas,Medium
+Franklin County,Arkansas,Medium
+Fulton County,Arkansas,Medium
+Garland County,Arkansas,High
+Grant County,Arkansas,High
+Greene County,Arkansas,High
+Hempstead County,Arkansas,High
+Hot Spring County,Arkansas,High
+Howard County,Arkansas,Medium
+Independence County,Arkansas,High
+Izard County,Arkansas,Medium
+Jackson County,Arkansas,High
+Jefferson County,Arkansas,High
+Johnson County,Arkansas,Medium
+Lafayette County,Arkansas,High
+Lawrence County,Arkansas,Low
+Lee County,Arkansas,High
+Lincoln County,Arkansas,High
+Little River County,Arkansas,High
+Logan County,Arkansas,High
+Lonoke County,Arkansas,High
+Madison County,Arkansas,Medium
+Marion County,Arkansas,High
+Miller County,Arkansas,Medium
+Mississippi County,Arkansas,High
+Monroe County,Arkansas,High
+Montgomery County,Arkansas,High
+Nevada County,Arkansas,High
+Newton County,Arkansas,Low
+Ouachita County,Arkansas,High
+Perry County,Arkansas,High
+Phillips County,Arkansas,High
+Pike County,Arkansas,High
+Poinsett County,Arkansas,High
+Polk County,Arkansas,Medium
+Pope County,Arkansas,Medium
+Prairie County,Arkansas,High
+Pulaski County,Arkansas,Medium
+Randolph County,Arkansas,High
+Saline County,Arkansas,Medium
+Scott County,Arkansas,High
+Searcy County,Arkansas,High
+Sebastian County,Arkansas,Medium
+Sevier County,Arkansas,High
+Sharp County,Arkansas,High
+St. Francis County,Arkansas,High
+Stone County,Arkansas,High
+Union County,Arkansas,High
+Van Buren County,Arkansas,High
+Washington County,Arkansas,Medium
+White County,Arkansas,High
+Woodruff County,Arkansas,High
+Yell County,Arkansas,High
+Alameda County,California,Low
+Alpine County,California,Low
+Amador County,California,Medium
+Butte County,California,Medium
+Calaveras County,California,Low
+Colusa County,California,High
+Contra Costa County,California,Low
+Del Norte County,California,Medium
+El Dorado County,California,Low
+Fresno County,California,Medium
+Glenn County,California,Medium
+Humboldt County,California,Low
+Imperial County,California,Medium
+Inyo County,California,Low
+Kern County,California,Medium
+Kings County,California,Medium
+Lake County,California,Medium
+Lassen County,California,High
+Los Angeles County,California,Low
+Madera County,California,High
+Marin County,California,Low
+Mariposa County,California,Low
+Mendocino County,California,Low
+Merced County,California,High
+Modoc County,California,High
+Mono County,California,Low
+Monterey County,California,Low
+Napa County,California,Low
+Nevada County,California,Low
+Orange County,California,Low
+Placer County,California,Low
+Plumas County,California,Low
+Riverside County,California,Medium
+Sacramento County,California,Medium
+San Benito County,California,Low
+San Bernardino County,California,Medium
+San Diego County,California,Low
+San Francisco County,California,Low
+San Joaquin County,California,Medium
+San Luis Obispo County,California,Low
+San Mateo County,California,Low
+Santa Barbara County,California,Low
+Santa Clara County,California,Low
+Santa Cruz County,California,Low
+Shasta County,California,Medium
+Sierra County,California,Low
+Siskiyou County,California,Medium
+Solano County,California,Medium
+Sonoma County,California,Low
+Stanislaus County,California,Medium
+Sutter County,California,Medium
+Tehama County,California,Low
+Trinity County,California,Low
+Tulare County,California,Medium
+Tuolumne County,California,Low
+Ventura County,California,Low
+Yolo County,California,Low
+Yuba County,California,High
+Adams County,Colorado,Low
+Alamosa County,Colorado,Low
+Arapahoe County,Colorado,Low
+Archuleta County,Colorado,Low
+Baca County,Colorado,High
+Bent County,Colorado,Low
+Boulder County,Colorado,Low
+Broomfield County,Colorado,Low
+Chaffee County,Colorado,Low
+Cheyenne County,Colorado,Medium
+Clear Creek County,Colorado,Low
+Conejos County,Colorado,Low
+Costilla County,Colorado,Medium
+Crowley County,Colorado,Low
+Custer County,Colorado,Low
+Delta County,Colorado,Low
+Denver County,Colorado,Low
+Dolores County,Colorado,Low
+Douglas County,Colorado,Low
+Eagle County,Colorado,Low
+El Paso County,Colorado,Low
+Elbert County,Colorado,Low
+Fremont County,Colorado,Low
+Garfield County,Colorado,Low
+Gilpin County,Colorado,Low
+Grand County,Colorado,Low
+Gunnison County,Colorado,Low
+Hinsdale County,Colorado,Low
+Huerfano County,Colorado,Low
+Jackson County,Colorado,Low
+Jefferson County,Colorado,Low
+Kiowa County,Colorado,Low
+Kit Carson County,Colorado,Low
+La Plata County,Colorado,Low
+Lake County,Colorado,Low
+Larimer County,Colorado,Low
+Las Animas County,Colorado,Low
+Lincoln County,Colorado,Low
+Logan County,Colorado,Medium
+Mesa County,Colorado,Low
+Mineral County,Colorado,Low
+Moffat County,Colorado,Low
+Montezuma County,Colorado,Medium
+Montrose County,Colorado,Low
+Morgan County,Colorado,Medium
+Otero County,Colorado,Medium
+Ouray County,Colorado,Low
+Park County,Colorado,Low
+Phillips County,Colorado,Medium
+Pitkin County,Colorado,Low
+Prowers County,Colorado,Medium
+Pueblo County,Colorado,Low
+Rio Blanco County,Colorado,Low
+Rio Grande County,Colorado,Low
+Routt County,Colorado,Low
+Saguache County,Colorado,Medium
+San Juan County,Colorado,Low
+San Miguel County,Colorado,Low
+Sedgwick County,Colorado,Medium
+Summit County,Colorado,Low
+Teller County,Colorado,Low
+Washington County,Colorado,Medium
+Weld County,Colorado,Low
+Yuma County,Colorado,Low
+Fairfield County,Connecticut,Low
+Hartford County,Connecticut,Medium
+Litchfield County,Connecticut,Low
+Middlesex County,Connecticut,Low
+New Haven County,Connecticut,Medium
+New London County,Connecticut,Low
+Tolland County,Connecticut,Low
+Windham County,Connecticut,Medium
+Kent County,Delaware,High
+New Castle County,Delaware,Medium
+Sussex County,Delaware,Medium
+District Of Columbia,District of Columbia,Medium
+Alachua County,Florida,Medium
+Baker County,Florida,High
+Bay County,Florida,Medium
+Bradford County,Florida,Medium
+Brevard County,Florida,Medium
+Broward County,Florida,Low
+Calhoun County,Florida,High
+Charlotte County,Florida,Low
+Citrus County,Florida,Medium
+Clay County,Florida,Medium
+Collier County,Florida,Low
+Columbia County,Florida,High
+Desoto County,Florida,High
+Dixie County,Florida,High
+Duval County,Florida,Medium
+Escambia County,Florida,High
+Flagler County,Florida,Medium
+Franklin County,Florida,Medium
+Gadsden County,Florida,High
+Gilchrist County,Florida,High
+Glades County,Florida,High
+Gulf County,Florida,Medium
+Hamilton County,Florida,High
+Hardee County,Florida,High
+Hendry County,Florida,Medium
+Hernando County,Florida,High
+Highlands County,Florida,Medium
+Hillsborough County,Florida,Medium
+Holmes County,Florida,High
+Indian River County,Florida,Medium
+Jackson County,Florida,High
+Jefferson County,Florida,Medium
+Lafayette County,Florida,High
+Lake County,Florida,Medium
+Lee County,Florida,Low
+Leon County,Florida,Medium
+Levy County,Florida,Medium
+Liberty County,Florida,High
+Madison County,Florida,High
+Manatee County,Florida,Low
+Marion County,Florida,High
+Martin County,Florida,Low
+Miami-Dade County,Florida,Low
+Monroe County,Florida,Low
+Nassau County,Florida,Medium
+Okaloosa County,Florida,Medium
+Okeechobee County,Florida,High
+Orange County,Florida,Medium
+Osceola County,Florida,Medium
+Palm Beach County,Florida,Low
+Pasco County,Florida,Medium
+Pinellas County,Florida,Low
+Polk County,Florida,High
+Putnam County,Florida,High
+Santa Rosa County,Florida,Medium
+Sarasota County,Florida,Low
+Seminole County,Florida,Medium
+St. Johns County,Florida,Low
+St. Lucie County,Florida,Medium
+Sumter County,Florida,Medium
+Suwannee County,Florida,Medium
+Taylor County,Florida,High
+Union County,Florida,High
+Volusia County,Florida,Medium
+Wakulla County,Florida,Low
+Walton County,Florida,Medium
+Washington County,Florida,High
+Appling County,Georgia,High
+Atkinson County,Georgia,High
+Bacon County,Georgia,High
+Baker County,Georgia,High
+Baldwin County,Georgia,Medium
+Banks County,Georgia,Medium
+Barrow County,Georgia,High
+Bartow County,Georgia,High
+Ben Hill County,Georgia,High
+Berrien County,Georgia,High
+Bibb County,Georgia,High
+Bleckley County,Georgia,Low
+Brantley County,Georgia,Low
+Brooks County,Georgia,Medium
+Bryan County,Georgia,Medium
+Bulloch County,Georgia,High
+Burke County,Georgia,High
+Butts County,Georgia,High
+Calhoun County,Georgia,High
+Camden County,Georgia,High
+Candler County,Georgia,Medium
+Carroll County,Georgia,High
+Catoosa County,Georgia,High
+Charlton County,Georgia,High
+Chatham County,Georgia,Medium
+Chattahoochee County,Georgia,Medium
+Chattooga County,Georgia,Medium
+Cherokee County,Georgia,Medium
+Clarke County,Georgia,Low
+Clay County,Georgia,High
+Clayton County,Georgia,High
+Clinch County,Georgia,High
+Cobb County,Georgia,Low
+Coffee County,Georgia,Medium
+Colquitt County,Georgia,High
+Columbia County,Georgia,Medium
+Cook County,Georgia,High
+Coweta County,Georgia,Medium
+Crawford County,Georgia,High
+Crisp County,Georgia,High
+Dade County,Georgia,High
+Dawson County,Georgia,High
+Decatur County,Georgia,High
+Dekalb County,Georgia,Medium
+Dodge County,Georgia,High
+Dooly County,Georgia,High
+Dougherty County,Georgia,High
+Douglas County,Georgia,Medium
+Early County,Georgia,High
+Echols County,Georgia,Medium
+Effingham County,Georgia,Medium
+Elbert County,Georgia,Low
+Emanuel County,Georgia,High
+Evans County,Georgia,Low
+Fannin County,Georgia,Medium
+Fayette County,Georgia,Medium
+Floyd County,Georgia,High
+Forsyth County,Georgia,Low
+Franklin County,Georgia,High
+Fulton County,Georgia,Low
+Gilmer County,Georgia,High
+Glascock County,Georgia,High
+Glynn County,Georgia,High
+Gordon County,Georgia,High
+Grady County,Georgia,High
+Greene County,Georgia,Medium
+Gwinnett County,Georgia,Medium
+Habersham County,Georgia,Low
+Hall County,Georgia,High
+Hancock County,Georgia,High
+Haralson County,Georgia,Low
+Harris County,Georgia,High
+Hart County,Georgia,Low
+Heard County,Georgia,High
+Henry County,Georgia,High
+Houston County,Georgia,Medium
+Irwin County,Georgia,High
+Jackson County,Georgia,Medium
+Jasper County,Georgia,Medium
+Jeff Davis County,Georgia,High
+Jefferson County,Georgia,High
+Jenkins County,Georgia,High
+Johnson County,Georgia,High
+Jones County,Georgia,High
+Lamar County,Georgia,High
+Lanier County,Georgia,High
+Laurens County,Georgia,High
+Lee County,Georgia,High
+Liberty County,Georgia,High
+Lincoln County,Georgia,High
+Long County,Georgia,Medium
+Lowndes County,Georgia,High
+Lumpkin County,Georgia,Medium
+Macon County,Georgia,High
+Madison County,Georgia,High
+Marion County,Georgia,High
+Mcduffie County,Georgia,High
+Mcintosh County,Georgia,High
+Meriwether County,Georgia,High
+Miller County,Georgia,High
+Mitchell County,Georgia,Medium
+Monroe County,Georgia,Medium
+Montgomery County,Georgia,Low
+Morgan County,Georgia,Medium
+Murray County,Georgia,High
+Muscogee County,Georgia,High
+Newton County,Georgia,High
+Oconee County,Georgia,Low
+Oglethorpe County,Georgia,Medium
+Paulding County,Georgia,High
+Peach County,Georgia,High
+Pickens County,Georgia,Medium
+Pierce County,Georgia,High
+Pike County,Georgia,Low
+Polk County,Georgia,High
+Pulaski County,Georgia,High
+Putnam County,Georgia,High
+Quitman County,Georgia,High
+Rabun County,Georgia,High
+Randolph County,Georgia,Medium
+Richmond County,Georgia,High
+Rockdale County,Georgia,High
+Schley County,Georgia,Low
+Screven County,Georgia,Medium
+Seminole County,Georgia,Low
+Spalding County,Georgia,High
+Stephens County,Georgia,Medium
+Stewart County,Georgia,High
+Sumter County,Georgia,High
+Talbot County,Georgia,High
+Taliaferro County,Georgia,High
+Tattnall County,Georgia,High
+Taylor County,Georgia,Low
+Telfair County,Georgia,High
+Terrell County,Georgia,High
+Thomas County,Georgia,High
+Tift County,Georgia,Medium
+Toombs County,Georgia,High
+Towns County,Georgia,Low
+Treutlen County,Georgia,Low
+Troup County,Georgia,Medium
+Turner County,Georgia,High
+Twiggs County,Georgia,High
+Union County,Georgia,Medium
+Upson County,Georgia,Medium
+Walker County,Georgia,High
+Walton County,Georgia,Medium
+Ware County,Georgia,Medium
+Warren County,Georgia,High
+Washington County,Georgia,High
+Wayne County,Georgia,Medium
+Webster County,Georgia,Medium
+Wheeler County,Georgia,Medium
+White County,Georgia,High
+Whitfield County,Georgia,High
+Wilcox County,Georgia,High
+Wilkes County,Georgia,High
+Wilkinson County,Georgia,Medium
+Worth County,Georgia,High
+Hawaii County,Hawaii,Medium
+Honolulu County,Hawaii,Medium
+Kalawao County,Hawaii,Low
+Kauai County,Hawaii,Low
+Maui County,Hawaii,Medium
+Ada County,Idaho,Low
+Adams County,Idaho,Low
+Bannock County,Idaho,Medium
+Bear Lake County,Idaho,Low
+Benewah County,Idaho,Low
+Bingham County,Idaho,Medium
+Blaine County,Idaho,Low
+Boise County,Idaho,Medium
+Bonner County,Idaho,Low
+Bonneville County,Idaho,Medium
+Boundary County,Idaho,Low
+Butte County,Idaho,Low
+Camas County,Idaho,Low
+Canyon County,Idaho,Medium
+Caribou County,Idaho,Medium
+Cassia County,Idaho,Medium
+Clark County,Idaho,Low
+Clearwater County,Idaho,Medium
+Custer County,Idaho,Low
+Elmore County,Idaho,Medium
+Franklin County,Idaho,Low
+Fremont County,Idaho,Medium
+Gem County,Idaho,Medium
+Gooding County,Idaho,Medium
+Idaho County,Idaho,Low
+Jefferson County,Idaho,Medium
+Jerome County,Idaho,Low
+Kootenai County,Idaho,Low
+Latah County,Idaho,Low
+Lemhi County,Idaho,Low
+Lewis County,Idaho,Medium
+Lincoln County,Idaho,Medium
+Madison County,Idaho,Medium
+Minidoka County,Idaho,High
+Nez Perce County,Idaho,Low
+Oneida County,Idaho,Low
+Owyhee County,Idaho,High
+Payette County,Idaho,Medium
+Power County,Idaho,High
+Shoshone County,Idaho,Low
+Teton County,Idaho,Low
+Twin Falls County,Idaho,Low
+Valley County,Idaho,Low
+Washington County,Idaho,Medium
+Adams County,Illinois,Medium
+Alexander County,Illinois,Low
+Bond County,Illinois,Low
+Boone County,Illinois,Low
+Brown County,Illinois,Low
+Bureau County,Illinois,Medium
+Calhoun County,Illinois,Low
+Carroll County,Illinois,Low
+Cass County,Illinois,Low
+Champaign County,Illinois,Medium
+Christian County,Illinois,High
+Clark County,Illinois,Low
+Clay County,Illinois,Low
+Clinton County,Illinois,High
+Coles County,Illinois,Medium
+Cook County,Illinois,Medium
+Crawford County,Illinois,Medium
+Cumberland County,Illinois,High
+De Witt County,Illinois,Medium
+Dekalb County,Illinois,Low
+Douglas County,Illinois,Low
+Dupage County,Illinois,Low
+Edgar County,Illinois,Low
+Edwards County,Illinois,Low
+Effingham County,Illinois,Medium
+Fayette County,Illinois,Medium
+Ford County,Illinois,Low
+Franklin County,Illinois,Low
+Fulton County,Illinois,Low
+Gallatin County,Illinois,High
+Greene County,Illinois,Medium
+Grundy County,Illinois,Low
+Hamilton County,Illinois,High
+Hancock County,Illinois,Low
+Hardin County,Illinois,Low
+Henderson County,Illinois,Medium
+Henry County,Illinois,Medium
+Iroquois County,Illinois,Low
+Jackson County,Illinois,Low
+Jasper County,Illinois,Low
+Jefferson County,Illinois,Low
+Jersey County,Illinois,High
+Jo Daviess County,Illinois,Low
+Johnson County,Illinois,Low
+Kane County,Illinois,Medium
+Kankakee County,Illinois,Medium
+Kendall County,Illinois,Low
+Knox County,Illinois,High
+Lake County,Illinois,Low
+Lasalle County,Illinois,High
+Lawrence County,Illinois,High
+Lee County,Illinois,Low
+Livingston County,Illinois,Medium
+Logan County,Illinois,High
+Macon County,Illinois,High
+Macoupin County,Illinois,High
+Madison County,Illinois,Medium
+Marion County,Illinois,High
+Marshall County,Illinois,Medium
+Mason County,Illinois,Medium
+Massac County,Illinois,High
+Mcdonough County,Illinois,Medium
+Mchenry County,Illinois,Medium
+Mclean County,Illinois,Medium
+Menard County,Illinois,Low
+Mercer County,Illinois,Medium
+Monroe County,Illinois,Low
+Montgomery County,Illinois,Medium
+Morgan County,Illinois,High
+Moultrie County,Illinois,Low
+Ogle County,Illinois,Low
+Peoria County,Illinois,Medium
+Perry County,Illinois,Medium
+Piatt County,Illinois,High
+Pike County,Illinois,Low
+Pope County,Illinois,Low
+Pulaski County,Illinois,High
+Putnam County,Illinois,Low
+Randolph County,Illinois,High
+Richland County,Illinois,Medium
+Rock Island County,Illinois,High
+Saline County,Illinois,Medium
+Sangamon County,Illinois,Medium
+Schuyler County,Illinois,High
+Scott County,Illinois,High
+Shelby County,Illinois,Medium
+St. Clair County,Illinois,Medium
+Stark County,Illinois,Low
+Stephenson County,Illinois,Low
+Tazewell County,Illinois,Medium
+Union County,Illinois,Low
+Vermilion County,Illinois,High
+Wabash County,Illinois,Medium
+Warren County,Illinois,High
+Washington County,Illinois,Medium
+Wayne County,Illinois,High
+White County,Illinois,Low
+Whiteside County,Illinois,Low
+Will County,Illinois,Medium
+Williamson County,Illinois,Medium
+Winnebago County,Illinois,Medium
+Woodford County,Illinois,Medium
+Adams County,Indiana,Medium
+Allen County,Indiana,Medium
+Bartholomew County,Indiana,Medium
+Benton County,Indiana,High
+Blackford County,Indiana,High
+Boone County,Indiana,Medium
+Brown County,Indiana,Low
+Carroll County,Indiana,Medium
+Cass County,Indiana,High
+Clark County,Indiana,Medium
+Clay County,Indiana,High
+Clinton County,Indiana,High
+Crawford County,Indiana,High
+Daviess County,Indiana,Medium
+Dearborn County,Indiana,Low
+Decatur County,Indiana,Medium
+Dekalb County,Indiana,Low
+Delaware County,Indiana,Medium
+Dubois County,Indiana,Medium
+Elkhart County,Indiana,Medium
+Fayette County,Indiana,Medium
+Floyd County,Indiana,High
+Fountain County,Indiana,High
+Franklin County,Indiana,Medium
+Fulton County,Indiana,Low
+Gibson County,Indiana,Medium
+Grant County,Indiana,High
+Greene County,Indiana,Medium
+Hamilton County,Indiana,Low
+Hancock County,Indiana,Medium
+Harrison County,Indiana,Medium
+Hendricks County,Indiana,Medium
+Henry County,Indiana,High
+Howard County,Indiana,High
+Huntington County,Indiana,High
+Jackson County,Indiana,High
+Jasper County,Indiana,Medium
+Jay County,Indiana,High
+Jefferson County,Indiana,Medium
+Jennings County,Indiana,High
+Johnson County,Indiana,Medium
+Knox County,Indiana,High
+Kosciusko County,Indiana,High
+Lagrange County,Indiana,Medium
+Lake County,Indiana,Medium
+Laporte County,Indiana,Medium
+Lawrence County,Indiana,High
+Madison County,Indiana,High
+Marion County,Indiana,High
+Marshall County,Indiana,Medium
+Martin County,Indiana,Low
+Miami County,Indiana,Medium
+Monroe County,Indiana,Low
+Montgomery County,Indiana,High
+Morgan County,Indiana,Medium
+Newton County,Indiana,High
+Noble County,Indiana,Medium
+Ohio County,Indiana,Low
+Orange County,Indiana,Medium
+Owen County,Indiana,High
+Parke County,Indiana,Low
+Perry County,Indiana,Medium
+Pike County,Indiana,High
+Porter County,Indiana,Medium
+Posey County,Indiana,Medium
+Pulaski County,Indiana,Low
+Putnam County,Indiana,Medium
+Randolph County,Indiana,Medium
+Ripley County,Indiana,Medium
+Rush County,Indiana,Medium
+Scott County,Indiana,High
+Shelby County,Indiana,High
+Spencer County,Indiana,Low
+St. Joseph County,Indiana,Medium
+Starke County,Indiana,Low
+Steuben County,Indiana,Low
+Sullivan County,Indiana,High
+Switzerland County,Indiana,High
+Tippecanoe County,Indiana,Low
+Tipton County,Indiana,High
+Union County,Indiana,High
+Vanderburgh County,Indiana,Medium
+Vermillion County,Indiana,High
+Vigo County,Indiana,Medium
+Wabash County,Indiana,Medium
+Warren County,Indiana,Medium
+Warrick County,Indiana,High
+Washington County,Indiana,High
+Wayne County,Indiana,High
+Wells County,Indiana,Medium
+White County,Indiana,Medium
+Whitley County,Indiana,High
+Adair County,Iowa,Medium
+Adams County,Iowa,Medium
+Allamakee County,Iowa,Low
+Appanoose County,Iowa,High
+Audubon County,Iowa,Low
+Benton County,Iowa,Medium
+Black Hawk County,Iowa,Medium
+Boone County,Iowa,Low
+Bremer County,Iowa,Low
+Buchanan County,Iowa,Low
+Buena Vista County,Iowa,Low
+Butler County,Iowa,Medium
+Calhoun County,Iowa,Medium
+Carroll County,Iowa,Low
+Cass County,Iowa,Low
+Cedar County,Iowa,Low
+Cerro Gordo County,Iowa,Medium
+Cherokee County,Iowa,Medium
+Chickasaw County,Iowa,Low
+Clarke County,Iowa,Medium
+Clay County,Iowa,Medium
+Clayton County,Iowa,Low
+Clinton County,Iowa,Medium
+Crawford County,Iowa,Medium
+Dallas County,Iowa,Low
+Davis County,Iowa,Medium
+Decatur County,Iowa,High
+Delaware County,Iowa,Low
+Des Moines County,Iowa,Medium
+Dickinson County,Iowa,Medium
+Dubuque County,Iowa,Low
+Emmet County,Iowa,Low
+Fayette County,Iowa,Medium
+Floyd County,Iowa,Low
+Franklin County,Iowa,High
+Fremont County,Iowa,Low
+Greene County,Iowa,High
+Grundy County,Iowa,Low
+Guthrie County,Iowa,Low
+Hamilton County,Iowa,Medium
+Hancock County,Iowa,Low
+Hardin County,Iowa,Medium
+Harrison County,Iowa,High
+Henry County,Iowa,Low
+Howard County,Iowa,Low
+Humboldt County,Iowa,Low
+Ida County,Iowa,Low
+Iowa County,Iowa,Low
+Jackson County,Iowa,Low
+Jasper County,Iowa,High
+Jefferson County,Iowa,Low
+Johnson County,Iowa,Low
+Jones County,Iowa,Low
+Keokuk County,Iowa,Low
+Kossuth County,Iowa,Low
+Lee County,Iowa,Medium
+Linn County,Iowa,Low
+Louisa County,Iowa,Low
+Lucas County,Iowa,High
+Lyon County,Iowa,High
+Madison County,Iowa,Medium
+Mahaska County,Iowa,Medium
+Marion County,Iowa,Medium
+Marshall County,Iowa,Medium
+Mills County,Iowa,Low
+Mitchell County,Iowa,Low
+Monona County,Iowa,Medium
+Monroe County,Iowa,Medium
+Montgomery County,Iowa,Medium
+Muscatine County,Iowa,Low
+Obrien County,Iowa,Low
+Osceola County,Iowa,Low
+Page County,Iowa,High
+Palo Alto County,Iowa,Medium
+Plymouth County,Iowa,Low
+Pocahontas County,Iowa,Low
+Polk County,Iowa,Low
+Pottawattamie County,Iowa,Medium
+Poweshiek County,Iowa,Low
+Ringgold County,Iowa,Low
+Sac County,Iowa,Low
+Scott County,Iowa,Medium
+Shelby County,Iowa,Medium
+Sioux County,Iowa,Low
+Story County,Iowa,Low
+Tama County,Iowa,Low
+Taylor County,Iowa,Medium
+Union County,Iowa,High
+Van Buren County,Iowa,Low
+Wapello County,Iowa,High
+Warren County,Iowa,Medium
+Washington County,Iowa,Medium
+Wayne County,Iowa,High
+Webster County,Iowa,Medium
+Winnebago County,Iowa,Low
+Winneshiek County,Iowa,Low
+Woodbury County,Iowa,Low
+Worth County,Iowa,High
+Wright County,Iowa,Low
+Allen County,Kansas,High
+Anderson County,Kansas,Medium
+Atchison County,Kansas,Medium
+Barber County,Kansas,Low
+Barton County,Kansas,Medium
+Bourbon County,Kansas,Medium
+Brown County,Kansas,Medium
+Butler County,Kansas,Medium
+Chase County,Kansas,Low
+Chautauqua County,Kansas,Medium
+Cherokee County,Kansas,High
+Cheyenne County,Kansas,Low
+Clark County,Kansas,Medium
+Clay County,Kansas,Low
+Cloud County,Kansas,Low
+Coffey County,Kansas,Medium
+Comanche County,Kansas,Low
+Cowley County,Kansas,Medium
+Crawford County,Kansas,Medium
+Decatur County,Kansas,Medium
+Dickinson County,Kansas,Medium
+Doniphan County,Kansas,Medium
+Douglas County,Kansas,Low
+Edwards County,Kansas,High
+Elk County,Kansas,High
+Ellis County,Kansas,Low
+Ellsworth County,Kansas,Medium
+Finney County,Kansas,Medium
+Ford County,Kansas,Medium
+Franklin County,Kansas,Low
+Geary County,Kansas,High
+Gove County,Kansas,Medium
+Graham County,Kansas,High
+Grant County,Kansas,Low
+Gray County,Kansas,Low
+Greeley County,Kansas,Low
+Greenwood County,Kansas,Medium
+Hamilton County,Kansas,High
+Harper County,Kansas,Medium
+Harvey County,Kansas,Low
+Haskell County,Kansas,Low
+Hodgeman County,Kansas,High
+Jackson County,Kansas,Medium
+Jefferson County,Kansas,Medium
+Jewell County,Kansas,Medium
+Johnson County,Kansas,Low
+Kearny County,Kansas,Medium
+Kingman County,Kansas,Medium
+Kiowa County,Kansas,Low
+Labette County,Kansas,Medium
+Lane County,Kansas,High
+Leavenworth County,Kansas,Medium
+Lincoln County,Kansas,Low
+Linn County,Kansas,Medium
+Logan County,Kansas,Medium
+Lyon County,Kansas,Medium
+Marion County,Kansas,Low
+Marshall County,Kansas,Medium
+Mcpherson County,Kansas,Medium
+Meade County,Kansas,High
+Miami County,Kansas,Medium
+Mitchell County,Kansas,Low
+Montgomery County,Kansas,Medium
+Morris County,Kansas,Medium
+Morton County,Kansas,Low
+Nemaha County,Kansas,Low
+Neosho County,Kansas,High
+Ness County,Kansas,Low
+Norton County,Kansas,Medium
+Osage County,Kansas,Low
+Osborne County,Kansas,High
+Ottawa County,Kansas,Medium
+Pawnee County,Kansas,High
+Phillips County,Kansas,Low
+Pottawatomie County,Kansas,Medium
+Pratt County,Kansas,Low
+Rawlins County,Kansas,Low
+Reno County,Kansas,Medium
+Republic County,Kansas,Low
+Rice County,Kansas,Medium
+Riley County,Kansas,Low
+Rooks County,Kansas,Medium
+Rush County,Kansas,Low
+Russell County,Kansas,Medium
+Saline County,Kansas,Medium
+Scott County,Kansas,Low
+Sedgwick County,Kansas,Medium
+Seward County,Kansas,Low
+Shawnee County,Kansas,Medium
+Sheridan County,Kansas,Low
+Sherman County,Kansas,High
+Smith County,Kansas,Low
+Stafford County,Kansas,High
+Stanton County,Kansas,Low
+Stevens County,Kansas,Medium
+Sumner County,Kansas,Medium
+Thomas County,Kansas,Low
+Trego County,Kansas,Medium
+Wabaunsee County,Kansas,Low
+Wallace County,Kansas,Medium
+Washington County,Kansas,Low
+Wichita County,Kansas,Medium
+Wilson County,Kansas,High
+Woodson County,Kansas,Low
+Wyandotte County,Kansas,High
+Adair County,Kentucky,High
+Allen County,Kentucky,Medium
+Anderson County,Kentucky,High
+Ballard County,Kentucky,High
+Barren County,Kentucky,Medium
+Bath County,Kentucky,Medium
+Bell County,Kentucky,High
+Boone County,Kentucky,Medium
+Bourbon County,Kentucky,Medium
+Boyd County,Kentucky,High
+Boyle County,Kentucky,High
+Bracken County,Kentucky,Low
+Breathitt County,Kentucky,High
+Breckinridge County,Kentucky,Medium
+Bullitt County,Kentucky,High
+Butler County,Kentucky,Medium
+Caldwell County,Kentucky,High
+Calloway County,Kentucky,Medium
+Campbell County,Kentucky,Medium
+Carlisle County,Kentucky,Medium
+Carroll County,Kentucky,Medium
+Carter County,Kentucky,High
+Casey County,Kentucky,High
+Christian County,Kentucky,Medium
+Clark County,Kentucky,Medium
+Clay County,Kentucky,High
+Clinton County,Kentucky,High
+Crittenden County,Kentucky,Low
+Cumberland County,Kentucky,High
+Daviess County,Kentucky,Medium
+Edmonson County,Kentucky,High
+Elliott County,Kentucky,High
+Estill County,Kentucky,High
+Fayette County,Kentucky,Medium
+Fleming County,Kentucky,Medium
+Floyd County,Kentucky,High
+Franklin County,Kentucky,Medium
+Fulton County,Kentucky,Medium
+Gallatin County,Kentucky,High
+Garrard County,Kentucky,High
+Grant County,Kentucky,High
+Graves County,Kentucky,Medium
+Grayson County,Kentucky,High
+Green County,Kentucky,Medium
+Greenup County,Kentucky,High
+Hancock County,Kentucky,High
+Hardin County,Kentucky,High
+Harlan County,Kentucky,High
+Harrison County,Kentucky,Low
+Hart County,Kentucky,Low
+Henderson County,Kentucky,High
+Henry County,Kentucky,Medium
+Hickman County,Kentucky,Medium
+Hopkins County,Kentucky,High
+Jackson County,Kentucky,High
+Jefferson County,Kentucky,Medium
+Jessamine County,Kentucky,Medium
+Johnson County,Kentucky,High
+Kenton County,Kentucky,Medium
+Knott County,Kentucky,High
+Knox County,Kentucky,Medium
+Larue County,Kentucky,Medium
+Laurel County,Kentucky,High
+Lawrence County,Kentucky,High
+Lee County,Kentucky,Medium
+Leslie County,Kentucky,High
+Letcher County,Kentucky,High
+Lewis County,Kentucky,Medium
+Lincoln County,Kentucky,High
+Livingston County,Kentucky,Low
+Logan County,Kentucky,Low
+Lyon County,Kentucky,Medium
+Madison County,Kentucky,Medium
+Magoffin County,Kentucky,High
+Marion County,Kentucky,Medium
+Marshall County,Kentucky,Medium
+Martin County,Kentucky,High
+Mason County,Kentucky,Medium
+Mccracken County,Kentucky,Medium
+Mccreary County,Kentucky,High
+Mclean County,Kentucky,High
+Meade County,Kentucky,High
+Menifee County,Kentucky,High
+Mercer County,Kentucky,High
+Metcalfe County,Kentucky,Medium
+Monroe County,Kentucky,High
+Montgomery County,Kentucky,High
+Morgan County,Kentucky,Medium
+Muhlenberg County,Kentucky,Medium
+Nelson County,Kentucky,Medium
+Nicholas County,Kentucky,High
+Ohio County,Kentucky,Medium
+Oldham County,Kentucky,Low
+Owen County,Kentucky,High
+Owsley County,Kentucky,Medium
+Pendleton County,Kentucky,Low
+Perry County,Kentucky,High
+Pike County,Kentucky,High
+Powell County,Kentucky,High
+Pulaski County,Kentucky,High
+Robertson County,Kentucky,High
+Rockcastle County,Kentucky,Medium
+Rowan County,Kentucky,High
+Russell County,Kentucky,Medium
+Scott County,Kentucky,Low
+Shelby County,Kentucky,Medium
+Simpson County,Kentucky,Medium
+Spencer County,Kentucky,High
+Taylor County,Kentucky,Medium
+Todd County,Kentucky,Medium
+Trigg County,Kentucky,Medium
+Trimble County,Kentucky,High
+Union County,Kentucky,High
+Warren County,Kentucky,Low
+Washington County,Kentucky,High
+Wayne County,Kentucky,Medium
+Webster County,Kentucky,Medium
+Whitley County,Kentucky,Medium
+Wolfe County,Kentucky,Medium
+Woodford County,Kentucky,Low
+Acadia Parish,Louisiana,Medium
+Allen Parish,Louisiana,High
+Ascension Parish,Louisiana,High
+Assumption Parish,Louisiana,High
+Avoyelles Parish,Louisiana,High
+Beauregard Parish,Louisiana,High
+Bienville Parish,Louisiana,High
+Bossier Parish,Louisiana,Medium
+Caddo Parish,Louisiana,Medium
+Calcasieu Parish,Louisiana,Medium
+Caldwell Parish,Louisiana,High
+Cameron Parish,Louisiana,High
+Catahoula Parish,Louisiana,High
+Claiborne Parish,Louisiana,High
+Concordia Parish,Louisiana,High
+De Soto Parish,Louisiana,High
+East Baton Rouge Parish,Louisiana,Medium
+East Carroll Parish,Louisiana,High
+East Feliciana Parish,Louisiana,High
+Evangeline Parish,Louisiana,High
+Franklin Parish,Louisiana,High
+Grant Parish,Louisiana,High
+Iberia Parish,Louisiana,High
+Iberville Parish,Louisiana,High
+Jackson Parish,Louisiana,Medium
+Jefferson Davis Parish,Louisiana,Medium
+Jefferson Parish,Louisiana,High
+Lafayette Parish,Louisiana,Medium
+Lafourche Parish,Louisiana,High
+Lasalle Parish,Louisiana,High
+Lincoln Parish,Louisiana,Medium
+Livingston Parish,Louisiana,Medium
+Madison Parish,Louisiana,High
+Morehouse Parish,Louisiana,High
+Natchitoches Parish,Louisiana,High
+Orleans Parish,Louisiana,Medium
+Ouachita Parish,Louisiana,High
+Plaquemines Parish,Louisiana,High
+Pointe Coupee Parish,Louisiana,Medium
+Rapides Parish,Louisiana,High
+Red River Parish,Louisiana,High
+Richland Parish,Louisiana,High
+Sabine Parish,Louisiana,Medium
+St. Bernard Parish,Louisiana,High
+St. Charles Parish,Louisiana,Medium
+St. Helena Parish,Louisiana,Medium
+St. James Parish,Louisiana,Low
+St. John The Baptist Parish,Louisiana,Medium
+St. Landry Parish,Louisiana,High
+St. Martin Parish,Louisiana,High
+St. Mary Parish,Louisiana,High
+St. Tammany Parish,Louisiana,Medium
+Tangipahoa Parish,Louisiana,Medium
+Tensas Parish,Louisiana,High
+Terrebonne Parish,Louisiana,Medium
+Union Parish,Louisiana,High
+Vermilion Parish,Louisiana,Medium
+Vernon Parish,Louisiana,High
+Washington Parish,Louisiana,High
+Webster Parish,Louisiana,High
+West Baton Rouge Parish,Louisiana,Medium
+West Carroll Parish,Louisiana,High
+West Feliciana Parish,Louisiana,Low
+Winn Parish,Louisiana,High
+Androscoggin County,Maine,Medium
+Aroostook County,Maine,Medium
+Cumberland County,Maine,Low
+Franklin County,Maine,Low
+Hancock County,Maine,Low
+Kennebec County,Maine,Low
+Knox County,Maine,Low
+Lincoln County,Maine,Low
+Oxford County,Maine,Low
+Penobscot County,Maine,Medium
+Piscataquis County,Maine,Low
+Sagadahoc County,Maine,Low
+Somerset County,Maine,Medium
+Waldo County,Maine,Low
+Washington County,Maine,Medium
+York County,Maine,Low
+Allegany County,Maryland,High
+Anne Arundel County,Maryland,Medium
+Baltimore City,Maryland,High
+Baltimore County,Maryland,Medium
+Calvert County,Maryland,Medium
+Caroline County,Maryland,Medium
+Carroll County,Maryland,Low
+Cecil County,Maryland,Medium
+Charles County,Maryland,Medium
+Dorchester County,Maryland,High
+Frederick County,Maryland,Low
+Garrett County,Maryland,Medium
+Harford County,Maryland,Medium
+Howard County,Maryland,Low
+Kent County,Maryland,Medium
+Montgomery County,Maryland,Low
+Prince George's County,Maryland,High
+Queen Annes County,Maryland,Low
+Somerset County,Maryland,High
+St. Mary's County,Maryland,Medium
+Talbot County,Maryland,Medium
+Washington County,Maryland,High
+Wicomico County,Maryland,Medium
+Worcester County,Maryland,Medium
+Barnstable County,Massachusetts,Low
+Berkshire County,Massachusetts,Low
+Bristol County,Massachusetts,Medium
+Dukes County,Massachusetts,Low
+Essex County,Massachusetts,Low
+Franklin County,Massachusetts,Medium
+Hampden County,Massachusetts,Medium
+Hampshire County,Massachusetts,Low
+Middlesex County,Massachusetts,Low
+Nantucket County,Massachusetts,Low
+Norfolk County,Massachusetts,Low
+Plymouth County,Massachusetts,Medium
+Suffolk County,Massachusetts,Medium
+Worcester County,Massachusetts,Low
+Alcona County,Michigan,Low
+Alger County,Michigan,Medium
+Allegan County,Michigan,Low
+Alpena County,Michigan,Medium
+Antrim County,Michigan,Low
+Arenac County,Michigan,High
+Baraga County,Michigan,High
+Barry County,Michigan,High
+Bay County,Michigan,Low
+Benzie County,Michigan,Medium
+Berrien County,Michigan,Medium
+Branch County,Michigan,Medium
+Calhoun County,Michigan,High
+Cass County,Michigan,High
+Charlevoix County,Michigan,Medium
+Cheboygan County,Michigan,High
+Chippewa County,Michigan,Medium
+Clare County,Michigan,High
+Clinton County,Michigan,Medium
+Crawford County,Michigan,Medium
+Delta County,Michigan,Medium
+Dickinson County,Michigan,Medium
+Eaton County,Michigan,Low
+Emmet County,Michigan,Low
+Genesee County,Michigan,High
+Gladwin County,Michigan,High
+Gogebic County,Michigan,Medium
+Grand Traverse County,Michigan,Low
+Gratiot County,Michigan,Medium
+Hillsdale County,Michigan,Medium
+Houghton County,Michigan,Low
+Huron County,Michigan,Medium
+Ingham County,Michigan,Medium
+Ionia County,Michigan,High
+Iosco County,Michigan,High
+Iron County,Michigan,Low
+Isabella County,Michigan,Medium
+Jackson County,Michigan,Medium
+Kalamazoo County,Michigan,Medium
+Kalkaska County,Michigan,High
+Kent County,Michigan,Medium
+Keweenaw County,Michigan,Low
+Lake County,Michigan,Low
+Lapeer County,Michigan,Medium
+Leelanau County,Michigan,Low
+Lenawee County,Michigan,Medium
+Livingston County,Michigan,Low
+Luce County,Michigan,Low
+Mackinac County,Michigan,High
+Macomb County,Michigan,Medium
+Manistee County,Michigan,Low
+Marquette County,Michigan,Medium
+Mason County,Michigan,High
+Mecosta County,Michigan,Low
+Menominee County,Michigan,Medium
+Midland County,Michigan,Medium
+Missaukee County,Michigan,Medium
+Monroe County,Michigan,Medium
+Montcalm County,Michigan,Medium
+Montmorency County,Michigan,High
+Muskegon County,Michigan,Medium
+Newaygo County,Michigan,Low
+Oakland County,Michigan,Low
+Oceana County,Michigan,High
+Ogemaw County,Michigan,High
+Ontonagon County,Michigan,Low
+Osceola County,Michigan,Medium
+Oscoda County,Michigan,High
+Otsego County,Michigan,Medium
+Ottawa County,Michigan,Low
+Presque Isle County,Michigan,Medium
+Roscommon County,Michigan,Medium
+Saginaw County,Michigan,Medium
+Sanilac County,Michigan,Medium
+Schoolcraft County,Michigan,High
+Shiawassee County,Michigan,Medium
+St. Clair County,Michigan,Low
+St. Joseph County,Michigan,High
+Tuscola County,Michigan,Low
+Van Buren County,Michigan,High
+Washtenaw County,Michigan,Low
+Wayne County,Michigan,Medium
+Wexford County,Michigan,Medium
+Aitkin County,Minnesota,Medium
+Anoka County,Minnesota,Low
+Becker County,Minnesota,Low
+Beltrami County,Minnesota,Medium
+Benton County,Minnesota,Medium
+Big Stone County,Minnesota,Low
+Blue Earth County,Minnesota,Low
+Brown County,Minnesota,Low
+Carlton County,Minnesota,Low
+Carver County,Minnesota,Low
+Cass County,Minnesota,Medium
+Chippewa County,Minnesota,Medium
+Chisago County,Minnesota,Low
+Clay County,Minnesota,Low
+Clearwater County,Minnesota,Low
+Cook County,Minnesota,Low
+Cottonwood County,Minnesota,High
+Crow Wing County,Minnesota,Low
+Dakota County,Minnesota,Low
+Dodge County,Minnesota,Medium
+Douglas County,Minnesota,Low
+Faribault County,Minnesota,Low
+Fillmore County,Minnesota,Low
+Freeborn County,Minnesota,Low
+Goodhue County,Minnesota,Low
+Grant County,Minnesota,Medium
+Hennepin County,Minnesota,Low
+Houston County,Minnesota,Low
+Hubbard County,Minnesota,Low
+Isanti County,Minnesota,Medium
+Itasca County,Minnesota,Medium
+Jackson County,Minnesota,Low
+Kanabec County,Minnesota,Low
+Kandiyohi County,Minnesota,Low
+Kittson County,Minnesota,Medium
+Koochiching County,Minnesota,Low
+Lac Qui Parle County,Minnesota,Low
+Lake County,Minnesota,Low
+Lake Of The Woods County,Minnesota,High
+Le Sueur County,Minnesota,Low
+Lincoln County,Minnesota,Medium
+Lyon County,Minnesota,Medium
+Mahnomen County,Minnesota,Medium
+Marshall County,Minnesota,Medium
+Martin County,Minnesota,Medium
+Mcleod County,Minnesota,Low
+Meeker County,Minnesota,Medium
+Mille Lacs County,Minnesota,Medium
+Morrison County,Minnesota,Medium
+Mower County,Minnesota,Medium
+Murray County,Minnesota,Low
+Nicollet County,Minnesota,Low
+Nobles County,Minnesota,Medium
+Norman County,Minnesota,Low
+Olmsted County,Minnesota,Low
+Otter Tail County,Minnesota,Low
+Pennington County,Minnesota,Low
+Pine County,Minnesota,Medium
+Pipestone County,Minnesota,Low
+Polk County,Minnesota,Low
+Pope County,Minnesota,Low
+Ramsey County,Minnesota,Low
+Red Lake County,Minnesota,Low
+Redwood County,Minnesota,Medium
+Renville County,Minnesota,Medium
+Rice County,Minnesota,Low
+Rock County,Minnesota,Low
+Roseau County,Minnesota,Medium
+Scott County,Minnesota,Low
+Sherburne County,Minnesota,Low
+Sibley County,Minnesota,Low
+St. Louis County,Minnesota,Low
+Stearns County,Minnesota,Low
+Steele County,Minnesota,Low
+Stevens County,Minnesota,Medium
+Swift County,Minnesota,Medium
+Todd County,Minnesota,Medium
+Traverse County,Minnesota,Medium
+Wabasha County,Minnesota,Low
+Wadena County,Minnesota,Low
+Waseca County,Minnesota,Low
+Washington County,Minnesota,Low
+Watonwan County,Minnesota,Medium
+Wilkin County,Minnesota,High
+Winona County,Minnesota,Low
+Wright County,Minnesota,Low
+Yellow Medicine County,Minnesota,Medium
+Adams County,Mississippi,Medium
+Alcorn County,Mississippi,High
+Amite County,Mississippi,High
+Attala County,Mississippi,High
+Benton County,Mississippi,High
+Bolivar County,Mississippi,Medium
+Calhoun County,Mississippi,High
+Carroll County,Mississippi,High
+Chickasaw County,Mississippi,Medium
+Choctaw County,Mississippi,High
+Claiborne County,Mississippi,High
+Clarke County,Mississippi,High
+Clay County,Mississippi,High
+Coahoma County,Mississippi,High
+Copiah County,Mississippi,High
+Covington County,Mississippi,High
+Desoto County,Mississippi,Medium
+Forrest County,Mississippi,Medium
+Franklin County,Mississippi,High
+George County,Mississippi,High
+Greene County,Mississippi,Medium
+Grenada County,Mississippi,High
+Hancock County,Mississippi,Medium
+Harrison County,Mississippi,Medium
+Hinds County,Mississippi,High
+Holmes County,Mississippi,High
+Humphreys County,Mississippi,High
+Issaquena County,Mississippi,Low
+Itawamba County,Mississippi,High
+Jackson County,Mississippi,High
+Jasper County,Mississippi,High
+Jefferson County,Mississippi,High
+Jefferson Davis County,Mississippi,High
+Jones County,Mississippi,High
+Kemper County,Mississippi,High
+Lafayette County,Mississippi,High
+Lamar County,Mississippi,High
+Lauderdale County,Mississippi,High
+Lawrence County,Mississippi,High
+Leake County,Mississippi,High
+Lee County,Mississippi,High
+Leflore County,Mississippi,High
+Lincoln County,Mississippi,High
+Lowndes County,Mississippi,High
+Madison County,Mississippi,Low
+Marion County,Mississippi,High
+Marshall County,Mississippi,High
+Monroe County,Mississippi,High
+Montgomery County,Mississippi,High
+Neshoba County,Mississippi,High
+Newton County,Mississippi,High
+Noxubee County,Mississippi,High
+Oktibbeha County,Mississippi,Medium
+Panola County,Mississippi,High
+Pearl River County,Mississippi,High
+Perry County,Mississippi,High
+Pike County,Mississippi,High
+Pontotoc County,Mississippi,High
+Prentiss County,Mississippi,High
+Quitman County,Mississippi,High
+Rankin County,Mississippi,High
+Scott County,Mississippi,High
+Sharkey County,Mississippi,Medium
+Simpson County,Mississippi,High
+Smith County,Mississippi,Medium
+Stone County,Mississippi,High
+Sunflower County,Mississippi,High
+Tallahatchie County,Mississippi,High
+Tate County,Mississippi,High
+Tippah County,Mississippi,High
+Tishomingo County,Mississippi,High
+Tunica County,Mississippi,Medium
+Union County,Mississippi,Medium
+Walthall County,Mississippi,High
+Warren County,Mississippi,High
+Washington County,Mississippi,High
+Wayne County,Mississippi,High
+Webster County,Mississippi,Medium
+Wilkinson County,Mississippi,High
+Winston County,Mississippi,Medium
+Yalobusha County,Mississippi,High
+Yazoo County,Mississippi,High
+Adair County,Missouri,Low
+Andrew County,Missouri,Medium
+Atchison County,Missouri,High
+Audrain County,Missouri,High
+Barry County,Missouri,Medium
+Barton County,Missouri,High
+Bates County,Missouri,Medium
+Benton County,Missouri,Low
+Bollinger County,Missouri,High
+Boone County,Missouri,Low
+Buchanan County,Missouri,Medium
+Butler County,Missouri,High
+Caldwell County,Missouri,High
+Callaway County,Missouri,High
+Camden County,Missouri,Medium
+Cape Girardeau County,Missouri,High
+Carroll County,Missouri,High
+Carter County,Missouri,Low
+Cass County,Missouri,Medium
+Cedar County,Missouri,Low
+Chariton County,Missouri,Medium
+Christian County,Missouri,Medium
+Clark County,Missouri,High
+Clay County,Missouri,Medium
+Clinton County,Missouri,High
+Cole County,Missouri,Medium
+Cooper County,Missouri,Low
+Crawford County,Missouri,High
+Dade County,Missouri,High
+Dallas County,Missouri,Medium
+Daviess County,Missouri,Low
+Dekalb County,Missouri,High
+Dent County,Missouri,Medium
+Douglas County,Missouri,High
+Dunklin County,Missouri,High
+Franklin County,Missouri,High
+Gasconade County,Missouri,Medium
+Gentry County,Missouri,High
+Greene County,Missouri,Medium
+Grundy County,Missouri,Medium
+Harrison County,Missouri,Low
+Henry County,Missouri,Medium
+Hickory County,Missouri,Low
+Holt County,Missouri,High
+Howard County,Missouri,Low
+Howell County,Missouri,High
+Iron County,Missouri,Medium
+Jackson County,Missouri,Medium
+Jasper County,Missouri,Medium
+Jefferson County,Missouri,High
+Johnson County,Missouri,Medium
+Knox County,Missouri,High
+Laclede County,Missouri,High
+Lafayette County,Missouri,Medium
+Lawrence County,Missouri,Medium
+Lewis County,Missouri,High
+Lincoln County,Missouri,High
+Linn County,Missouri,High
+Livingston County,Missouri,High
+Macon County,Missouri,Low
+Madison County,Missouri,High
+Maries County,Missouri,High
+Marion County,Missouri,High
+Mcdonald County,Missouri,Low
+Mercer County,Missouri,Low
+Miller County,Missouri,Low
+Mississippi County,Missouri,High
+Moniteau County,Missouri,Medium
+Monroe County,Missouri,Medium
+Montgomery County,Missouri,Medium
+Morgan County,Missouri,Low
+New Madrid County,Missouri,High
+Newton County,Missouri,Medium
+Nodaway County,Missouri,Medium
+Oregon County,Missouri,Low
+Osage County,Missouri,High
+Ozark County,Missouri,Low
+Pemiscot County,Missouri,High
+Perry County,Missouri,Low
+Pettis County,Missouri,High
+Phelps County,Missouri,Medium
+Pike County,Missouri,High
+Platte County,Missouri,Medium
+Polk County,Missouri,Medium
+Pulaski County,Missouri,Medium
+Putnam County,Missouri,Medium
+Ralls County,Missouri,Low
+Randolph County,Missouri,High
+Ray County,Missouri,High
+Reynolds County,Missouri,Medium
+Ripley County,Missouri,High
+Saline County,Missouri,Medium
+Schuyler County,Missouri,Medium
+Scotland County,Missouri,Low
+Scott County,Missouri,High
+Shannon County,Missouri,Medium
+Shelby County,Missouri,Low
+St. Charles County,Missouri,Low
+St. Clair County,Missouri,Medium
+St. Francois County,Missouri,Medium
+St. Louis City,Missouri,Medium
+St. Louis County,Missouri,Medium
+Ste. Genevieve County,Missouri,Medium
+Stoddard County,Missouri,High
+Stone County,Missouri,Medium
+Sullivan County,Missouri,High
+Taney County,Missouri,Low
+Texas County,Missouri,High
+Vernon County,Missouri,Low
+Warren County,Missouri,Low
+Washington County,Missouri,Medium
+Wayne County,Missouri,Medium
+Webster County,Missouri,High
+Worth County,Missouri,High
+Wright County,Missouri,High
+Beaverhead County,Montana,Low
+Big Horn County,Montana,High
+Blaine County,Montana,High
+Broadwater County,Montana,Low
+Carbon County,Montana,Low
+Carter County,Montana,Medium
+Cascade County,Montana,Low
+Chouteau County,Montana,Low
+Custer County,Montana,Medium
+Daniels County,Montana,High
+Dawson County,Montana,Low
+Deer Lodge County,Montana,High
+Fallon County,Montana,Low
+Fergus County,Montana,Medium
+Flathead County,Montana,Low
+Gallatin County,Montana,Low
+Garfield County,Montana,Medium
+Glacier County,Montana,High
+Golden Valley County,Montana,Low
+Granite County,Montana,Low
+Hill County,Montana,Medium
+Jefferson County,Montana,Low
+Judith Basin County,Montana,Low
+Lake County,Montana,Low
+Lewis And Clark County,Montana,Low
+Liberty County,Montana,High
+Lincoln County,Montana,Low
+Madison County,Montana,Low
+Mccone County,Montana,Low
+Meagher County,Montana,Low
+Mineral County,Montana,Low
+Missoula County,Montana,Low
+Musselshell County,Montana,Low
+Park County,Montana,Low
+Petroleum County,Montana,Low
+Phillips County,Montana,Low
+Pondera County,Montana,Medium
+Powder River County,Montana,Low
+Powell County,Montana,Medium
+Prairie County,Montana,Low
+Ravalli County,Montana,Low
+Richland County,Montana,Low
+Roosevelt County,Montana,High
+Rosebud County,Montana,Medium
+Sanders County,Montana,Low
+Sheridan County,Montana,Low
+Silver Bow County,Montana,Low
+Stillwater County,Montana,Low
+Sweet Grass County,Montana,Low
+Teton County,Montana,Low
+Toole County,Montana,Low
+Treasure County,Montana,Low
+Valley County,Montana,Medium
+Wheatland County,Montana,Low
+Wibaux County,Montana,Low
+Yellowstone County,Montana,Low
+Adams County,Nebraska,Medium
+Antelope County,Nebraska,Low
+Arthur County,Nebraska,Low
+Banner County,Nebraska,Low
+Blaine County,Nebraska,Low
+Boone County,Nebraska,Low
+Box Butte County,Nebraska,Medium
+Boyd County,Nebraska,High
+Brown County,Nebraska,Low
+Buffalo County,Nebraska,Low
+Burt County,Nebraska,Low
+Butler County,Nebraska,Low
+Cass County,Nebraska,Medium
+Cedar County,Nebraska,Low
+Chase County,Nebraska,Low
+Cherry County,Nebraska,Low
+Cheyenne County,Nebraska,Low
+Clay County,Nebraska,Low
+Colfax County,Nebraska,Low
+Cuming County,Nebraska,Low
+Custer County,Nebraska,Low
+Dakota County,Nebraska,Medium
+Dawes County,Nebraska,Low
+Dawson County,Nebraska,Medium
+Deuel County,Nebraska,Medium
+Dixon County,Nebraska,Low
+Dodge County,Nebraska,Medium
+Douglas County,Nebraska,Medium
+Dundy County,Nebraska,Low
+Fillmore County,Nebraska,Medium
+Franklin County,Nebraska,Low
+Frontier County,Nebraska,Medium
+Furnas County,Nebraska,Low
+Gage County,Nebraska,Medium
+Garden County,Nebraska,Medium
+Garfield County,Nebraska,Low
+Gosper County,Nebraska,Low
+Grant County,Nebraska,Low
+Greeley County,Nebraska,Low
+Hall County,Nebraska,Medium
+Hamilton County,Nebraska,Low
+Harlan County,Nebraska,Low
+Hayes County,Nebraska,Low
+Hitchcock County,Nebraska,Low
+Holt County,Nebraska,Low
+Hooker County,Nebraska,Low
+Howard County,Nebraska,Medium
+Jefferson County,Nebraska,Low
+Johnson County,Nebraska,Low
+Kearney County,Nebraska,Low
+Keith County,Nebraska,Low
+Keya Paha County,Nebraska,Medium
+Kimball County,Nebraska,Medium
+Knox County,Nebraska,Low
+Lancaster County,Nebraska,Low
+Lincoln County,Nebraska,Medium
+Logan County,Nebraska,Medium
+Loup County,Nebraska,Low
+Madison County,Nebraska,Medium
+Mcpherson County,Nebraska,High
+Merrick County,Nebraska,High
+Morrill County,Nebraska,Medium
+Nance County,Nebraska,Medium
+Nemaha County,Nebraska,Medium
+Nuckolls County,Nebraska,Low
+Otoe County,Nebraska,Medium
+Pawnee County,Nebraska,Low
+Perkins County,Nebraska,Low
+Phelps County,Nebraska,Low
+Pierce County,Nebraska,Medium
+Platte County,Nebraska,Low
+Polk County,Nebraska,Low
+Red Willow County,Nebraska,Low
+Richardson County,Nebraska,Low
+Rock County,Nebraska,High
+Saline County,Nebraska,Medium
+Sarpy County,Nebraska,Medium
+Saunders County,Nebraska,Medium
+Scotts Bluff County,Nebraska,Medium
+Seward County,Nebraska,Low
+Sheridan County,Nebraska,Medium
+Sherman County,Nebraska,Low
+Sioux County,Nebraska,Low
+Stanton County,Nebraska,Low
+Thayer County,Nebraska,Low
+Thomas County,Nebraska,Low
+Thurston County,Nebraska,High
+Valley County,Nebraska,Low
+Washington County,Nebraska,Medium
+Wayne County,Nebraska,Medium
+Webster County,Nebraska,Low
+Wheeler County,Nebraska,Low
+York County,Nebraska,Medium
+Carson City,Nevada,Medium
+Churchill County,Nevada,Low
+Clark County,Nevada,Medium
+Douglas County,Nevada,Low
+Elko County,Nevada,Medium
+Esmeralda County,Nevada,Low
+Eureka County,Nevada,Low
+Humboldt County,Nevada,Low
+Lander County,Nevada,High
+Lincoln County,Nevada,Low
+Lyon County,Nevada,Medium
+Mineral County,Nevada,Medium
+Nye County,Nevada,Medium
+Pershing County,Nevada,Low
+Storey County,Nevada,Medium
+Washoe County,Nevada,Low
+White Pine County,Nevada,Low
+Belknap County,New Hampshire,Low
+Carroll County,New Hampshire,Low
+Cheshire County,New Hampshire,Low
+Coos County,New Hampshire,Medium
+Grafton County,New Hampshire,Low
+Hillsborough County,New Hampshire,Low
+Merrimack County,New Hampshire,Low
+Rockingham County,New Hampshire,Low
+Strafford County,New Hampshire,Medium
+Sullivan County,New Hampshire,Low
+Atlantic County,New Jersey,Medium
+Bergen County,New Jersey,Low
+Burlington County,New Jersey,Medium
+Camden County,New Jersey,Medium
+Cape May County,New Jersey,Low
+Cumberland County,New Jersey,Medium
+Essex County,New Jersey,Medium
+Gloucester County,New Jersey,Medium
+Hudson County,New Jersey,Low
+Hunterdon County,New Jersey,Low
+Mercer County,New Jersey,Low
+Middlesex County,New Jersey,Medium
+Monmouth County,New Jersey,Low
+Morris County,New Jersey,Low
+Ocean County,New Jersey,Low
+Passaic County,New Jersey,Low
+Salem County,New Jersey,High
+Somerset County,New Jersey,Low
+Sussex County,New Jersey,Low
+Union County,New Jersey,Low
+Warren County,New Jersey,Low
+Bernalillo County,New Mexico,Low
+Catron County,New Mexico,Low
+Chaves County,New Mexico,Medium
+Cibola County,New Mexico,High
+Colfax County,New Mexico,Medium
+Curry County,New Mexico,Low
+De Baca County,New Mexico,High
+Dona Ana County,New Mexico,Low
+Eddy County,New Mexico,Medium
+Grant County,New Mexico,Low
+Guadalupe County,New Mexico,Medium
+Harding County,New Mexico,Low
+Hidalgo County,New Mexico,Low
+Lea County,New Mexico,Medium
+Lincoln County,New Mexico,Medium
+Los Alamos County,New Mexico,Low
+Luna County,New Mexico,Medium
+Mckinley County,New Mexico,High
+Mora County,New Mexico,Medium
+Otero County,New Mexico,Medium
+Quay County,New Mexico,Low
+Rio Arriba County,New Mexico,Low
+Roosevelt County,New Mexico,Low
+San Juan County,New Mexico,High
+San Miguel County,New Mexico,High
+Sandoval County,New Mexico,Low
+Santa Fe County,New Mexico,Low
+Sierra County,New Mexico,Medium
+Socorro County,New Mexico,High
+Taos County,New Mexico,Low
+Torrance County,New Mexico,Low
+Union County,New Mexico,Medium
+Valencia County,New Mexico,Medium
+Albany County,New York,Low
+Allegany County,New York,Medium
+Bronx County,New York,High
+Broome County,New York,Medium
+Cattaraugus County,New York,Medium
+Cayuga County,New York,Medium
+Chautauqua County,New York,Medium
+Chemung County,New York,Medium
+Chenango County,New York,Medium
+Clinton County,New York,Medium
+Columbia County,New York,Low
+Cortland County,New York,Medium
+Delaware County,New York,Low
+Dutchess County,New York,Low
+Erie County,New York,Medium
+Essex County,New York,Medium
+Franklin County,New York,Medium
+Fulton County,New York,Medium
+Genesee County,New York,Medium
+Greene County,New York,Low
+Hamilton County,New York,Low
+Herkimer County,New York,Medium
+Jefferson County,New York,High
+Kings County,New York,Medium
+Lewis County,New York,Medium
+Livingston County,New York,Medium
+Madison County,New York,Low
+Monroe County,New York,Low
+Montgomery County,New York,Medium
+Nassau County,New York,Low
+New York County,New York,Low
+Niagara County,New York,Medium
+Oneida County,New York,High
+Onondaga County,New York,Medium
+Ontario County,New York,Medium
+Orange County,New York,Medium
+Orleans County,New York,High
+Oswego County,New York,Medium
+Otsego County,New York,Low
+Putnam County,New York,Low
+Queens County,New York,Medium
+Rensselaer County,New York,Low
+Richmond County,New York,Medium
+Rockland County,New York,Low
+Saratoga County,New York,Low
+Schenectady County,New York,Medium
+Schoharie County,New York,Medium
+Schuyler County,New York,Medium
+Seneca County,New York,Medium
+St. Lawrence County,New York,Medium
+Steuben County,New York,Medium
+Suffolk County,New York,Low
+Sullivan County,New York,Medium
+Tioga County,New York,Medium
+Tompkins County,New York,Low
+Ulster County,New York,Low
+Warren County,New York,Low
+Washington County,New York,Medium
+Wayne County,New York,Medium
+Westchester County,New York,Low
+Wyoming County,New York,Medium
+Yates County,New York,High
+Alamance County,North Carolina,Medium
+Alexander County,North Carolina,High
+Alleghany County,North Carolina,Low
+Anson County,North Carolina,High
+Ashe County,North Carolina,High
+Avery County,North Carolina,High
+Beaufort County,North Carolina,Low
+Bertie County,North Carolina,High
+Bladen County,North Carolina,High
+Brunswick County,North Carolina,Medium
+Buncombe County,North Carolina,Low
+Burke County,North Carolina,Low
+Cabarrus County,North Carolina,Medium
+Caldwell County,North Carolina,High
+Camden County,North Carolina,Medium
+Carteret County,North Carolina,Low
+Caswell County,North Carolina,Low
+Catawba County,North Carolina,Medium
+Chatham County,North Carolina,Medium
+Cherokee County,North Carolina,Medium
+Chowan County,North Carolina,High
+Clay County,North Carolina,Low
+Cleveland County,North Carolina,High
+Columbus County,North Carolina,High
+Craven County,North Carolina,High
+Cumberland County,North Carolina,High
+Currituck County,North Carolina,Low
+Dare County,North Carolina,Low
+Davidson County,North Carolina,High
+Davie County,North Carolina,High
+Duplin County,North Carolina,High
+Durham County,North Carolina,Low
+Edgecombe County,North Carolina,High
+Forsyth County,North Carolina,Medium
+Franklin County,North Carolina,Low
+Gaston County,North Carolina,Medium
+Gates County,North Carolina,High
+Graham County,North Carolina,Low
+Granville County,North Carolina,Medium
+Greene County,North Carolina,Medium
+Guilford County,North Carolina,Medium
+Halifax County,North Carolina,High
+Harnett County,North Carolina,High
+Haywood County,North Carolina,Medium
+Henderson County,North Carolina,Low
+Hertford County,North Carolina,High
+Hoke County,North Carolina,High
+Hyde County,North Carolina,High
+Iredell County,North Carolina,Medium
+Jackson County,North Carolina,Low
+Johnston County,North Carolina,Medium
+Jones County,North Carolina,High
+Lee County,North Carolina,Medium
+Lenoir County,North Carolina,High
+Lincoln County,North Carolina,Medium
+Macon County,North Carolina,Medium
+Madison County,North Carolina,Low
+Martin County,North Carolina,Medium
+Mcdowell County,North Carolina,Medium
+Mecklenburg County,North Carolina,Medium
+Mitchell County,North Carolina,High
+Montgomery County,North Carolina,High
+Moore County,North Carolina,Medium
+Nash County,North Carolina,High
+New Hanover County,North Carolina,Low
+Northampton County,North Carolina,High
+Onslow County,North Carolina,Medium
+Orange County,North Carolina,Low
+Pamlico County,North Carolina,High
+Pasquotank County,North Carolina,Medium
+Pender County,North Carolina,High
+Perquimans County,North Carolina,High
+Person County,North Carolina,Low
+Pitt County,North Carolina,Medium
+Polk County,North Carolina,Medium
+Randolph County,North Carolina,Medium
+Richmond County,North Carolina,High
+Robeson County,North Carolina,High
+Rockingham County,North Carolina,High
+Rowan County,North Carolina,High
+Rutherford County,North Carolina,Medium
+Sampson County,North Carolina,High
+Scotland County,North Carolina,High
+Stanly County,North Carolina,Low
+Stokes County,North Carolina,Medium
+Surry County,North Carolina,High
+Swain County,North Carolina,Medium
+Transylvania County,North Carolina,Low
+Tyrrell County,North Carolina,Medium
+Union County,North Carolina,Low
+Vance County,North Carolina,Low
+Wake County,North Carolina,Low
+Warren County,North Carolina,Low
+Washington County,North Carolina,High
+Watauga County,North Carolina,Low
+Wayne County,North Carolina,High
+Wilkes County,North Carolina,Medium
+Wilson County,North Carolina,High
+Yadkin County,North Carolina,Medium
+Yancey County,North Carolina,High
+Adams County,North Dakota,Medium
+Barnes County,North Dakota,Low
+Benson County,North Dakota,Medium
+Billings County,North Dakota,Low
+Bottineau County,North Dakota,Low
+Bowman County,North Dakota,Low
+Burke County,North Dakota,Low
+Burleigh County,North Dakota,Low
+Cass County,North Dakota,Low
+Cavalier County,North Dakota,Low
+Dickey County,North Dakota,Medium
+Divide County,North Dakota,Low
+Dunn County,North Dakota,Medium
+Eddy County,North Dakota,Medium
+Emmons County,North Dakota,Low
+Foster County,North Dakota,Low
+Golden Valley County,North Dakota,Medium
+Grand Forks County,North Dakota,Medium
+Grant County,North Dakota,Medium
+Griggs County,North Dakota,Medium
+Hettinger County,North Dakota,Low
+Kidder County,North Dakota,Low
+Lamoure County,North Dakota,Low
+Logan County,North Dakota,Low
+Mchenry County,North Dakota,Low
+Mcintosh County,North Dakota,Low
+Mckenzie County,North Dakota,Medium
+Mclean County,North Dakota,Low
+Mercer County,North Dakota,Medium
+Morton County,North Dakota,Low
+Mountrail County,North Dakota,Medium
+Nelson County,North Dakota,Low
+Oliver County,North Dakota,Low
+Pembina County,North Dakota,Medium
+Pierce County,North Dakota,Low
+Ramsey County,North Dakota,Medium
+Ransom County,North Dakota,High
+Renville County,North Dakota,Low
+Richland County,North Dakota,Low
+Rolette County,North Dakota,High
+Sargent County,North Dakota,Medium
+Sheridan County,North Dakota,Low
+Sioux County,North Dakota,High
+Slope County,North Dakota,Low
+Stark County,North Dakota,Low
+Steele County,North Dakota,Medium
+Stutsman County,North Dakota,Medium
+Towner County,North Dakota,Low
+Traill County,North Dakota,Medium
+Walsh County,North Dakota,Low
+Ward County,North Dakota,Medium
+Wells County,North Dakota,Low
+Williams County,North Dakota,Medium
+Adams County,Ohio,High
+Allen County,Ohio,Medium
+Ashland County,Ohio,Medium
+Ashtabula County,Ohio,High
+Athens County,Ohio,High
+Auglaize County,Ohio,Medium
+Belmont County,Ohio,Medium
+Brown County,Ohio,Medium
+Butler County,Ohio,Medium
+Carroll County,Ohio,Medium
+Champaign County,Ohio,Medium
+Clark County,Ohio,High
+Clermont County,Ohio,Medium
+Clinton County,Ohio,High
+Columbiana County,Ohio,Medium
+Coshocton County,Ohio,Medium
+Crawford County,Ohio,Low
+Cuyahoga County,Ohio,Medium
+Darke County,Ohio,Low
+Defiance County,Ohio,High
+Delaware County,Ohio,Low
+Erie County,Ohio,Medium
+Fairfield County,Ohio,Low
+Fayette County,Ohio,High
+Franklin County,Ohio,Medium
+Fulton County,Ohio,Medium
+Gallia County,Ohio,High
+Geauga County,Ohio,Low
+Greene County,Ohio,Medium
+Guernsey County,Ohio,Medium
+Hamilton County,Ohio,Medium
+Hancock County,Ohio,Medium
+Hardin County,Ohio,High
+Harrison County,Ohio,Medium
+Henry County,Ohio,Low
+Highland County,Ohio,High
+Hocking County,Ohio,High
+Holmes County,Ohio,Medium
+Huron County,Ohio,Medium
+Jackson County,Ohio,High
+Jefferson County,Ohio,High
+Knox County,Ohio,High
+Lake County,Ohio,Low
+Lawrence County,Ohio,High
+Licking County,Ohio,Medium
+Logan County,Ohio,Low
+Lorain County,Ohio,Medium
+Lucas County,Ohio,High
+Madison County,Ohio,High
+Mahoning County,Ohio,Medium
+Marion County,Ohio,High
+Medina County,Ohio,Medium
+Meigs County,Ohio,High
+Mercer County,Ohio,Medium
+Miami County,Ohio,Medium
+Monroe County,Ohio,High
+Montgomery County,Ohio,Medium
+Morgan County,Ohio,High
+Morrow County,Ohio,High
+Muskingum County,Ohio,High
+Noble County,Ohio,Medium
+Ottawa County,Ohio,Medium
+Paulding County,Ohio,Low
+Perry County,Ohio,Medium
+Pickaway County,Ohio,High
+Pike County,Ohio,High
+Portage County,Ohio,Medium
+Preble County,Ohio,Medium
+Putnam County,Ohio,Low
+Richland County,Ohio,Medium
+Ross County,Ohio,High
+Sandusky County,Ohio,Medium
+Scioto County,Ohio,High
+Seneca County,Ohio,Medium
+Shelby County,Ohio,Medium
+Stark County,Ohio,Medium
+Summit County,Ohio,Medium
+Trumbull County,Ohio,Medium
+Tuscarawas County,Ohio,Medium
+Union County,Ohio,Medium
+Van Wert County,Ohio,High
+Vinton County,Ohio,High
+Warren County,Ohio,Medium
+Washington County,Ohio,High
+Wayne County,Ohio,High
+Williams County,Ohio,Medium
+Wood County,Ohio,Medium
+Wyandot County,Ohio,High
+Adair County,Oklahoma,High
+Alfalfa County,Oklahoma,Low
+Atoka County,Oklahoma,High
+Beaver County,Oklahoma,Medium
+Beckham County,Oklahoma,High
+Blaine County,Oklahoma,High
+Bryan County,Oklahoma,Medium
+Caddo County,Oklahoma,Medium
+Canadian County,Oklahoma,Medium
+Carter County,Oklahoma,Medium
+Cherokee County,Oklahoma,High
+Choctaw County,Oklahoma,Medium
+Cimarron County,Oklahoma,Low
+Cleveland County,Oklahoma,Medium
+Coal County,Oklahoma,High
+Comanche County,Oklahoma,Medium
+Cotton County,Oklahoma,Low
+Craig County,Oklahoma,Low
+Creek County,Oklahoma,Medium
+Custer County,Oklahoma,High
+Delaware County,Oklahoma,Medium
+Dewey County,Oklahoma,Low
+Ellis County,Oklahoma,Low
+Garfield County,Oklahoma,Medium
+Garvin County,Oklahoma,High
+Grady County,Oklahoma,Medium
+Grant County,Oklahoma,Medium
+Greer County,Oklahoma,Medium
+Harmon County,Oklahoma,Low
+Harper County,Oklahoma,Low
+Haskell County,Oklahoma,Medium
+Hughes County,Oklahoma,High
+Jackson County,Oklahoma,Medium
+Jefferson County,Oklahoma,Low
+Johnston County,Oklahoma,High
+Kay County,Oklahoma,High
+Kingfisher County,Oklahoma,High
+Kiowa County,Oklahoma,High
+Latimer County,Oklahoma,High
+Le Flore County,Oklahoma,High
+Lincoln County,Oklahoma,High
+Logan County,Oklahoma,High
+Love County,Oklahoma,High
+Major County,Oklahoma,Low
+Marshall County,Oklahoma,High
+Mayes County,Oklahoma,Medium
+Mcclain County,Oklahoma,Medium
+Mccurtain County,Oklahoma,High
+Mcintosh County,Oklahoma,High
+Murray County,Oklahoma,Medium
+Muskogee County,Oklahoma,High
+Noble County,Oklahoma,Medium
+Nowata County,Oklahoma,High
+Okfuskee County,Oklahoma,High
+Oklahoma County,Oklahoma,Medium
+Okmulgee County,Oklahoma,High
+Osage County,Oklahoma,Medium
+Ottawa County,Oklahoma,High
+Pawnee County,Oklahoma,High
+Payne County,Oklahoma,Medium
+Pittsburg County,Oklahoma,High
+Pontotoc County,Oklahoma,High
+Pottawatomie County,Oklahoma,High
+Pushmataha County,Oklahoma,Medium
+Roger Mills County,Oklahoma,High
+Rogers County,Oklahoma,Medium
+Seminole County,Oklahoma,High
+Sequoyah County,Oklahoma,High
+Stephens County,Oklahoma,High
+Texas County,Oklahoma,Medium
+Tillman County,Oklahoma,High
+Tulsa County,Oklahoma,Medium
+Wagoner County,Oklahoma,High
+Washington County,Oklahoma,High
+Washita County,Oklahoma,Medium
+Woods County,Oklahoma,Medium
+Woodward County,Oklahoma,Medium
+Baker County,Oregon,Medium
+Benton County,Oregon,Low
+Clackamas County,Oregon,Low
+Clatsop County,Oregon,Low
+Columbia County,Oregon,Medium
+Coos County,Oregon,Medium
+Crook County,Oregon,High
+Curry County,Oregon,Low
+Deschutes County,Oregon,Low
+Douglas County,Oregon,Medium
+Gilliam County,Oregon,High
+Grant County,Oregon,Low
+Harney County,Oregon,Medium
+Hood River County,Oregon,Low
+Jackson County,Oregon,Medium
+Jefferson County,Oregon,High
+Josephine County,Oregon,Medium
+Klamath County,Oregon,Medium
+Lake County,Oregon,High
+Lane County,Oregon,Low
+Lincoln County,Oregon,Low
+Linn County,Oregon,Medium
+Malheur County,Oregon,Low
+Marion County,Oregon,Medium
+Morrow County,Oregon,High
+Multnomah County,Oregon,Low
+Polk County,Oregon,Medium
+Sherman County,Oregon,Low
+Tillamook County,Oregon,Low
+Umatilla County,Oregon,High
+Union County,Oregon,Low
+Wallowa County,Oregon,Low
+Wasco County,Oregon,Low
+Washington County,Oregon,Low
+Wheeler County,Oregon,High
+Yamhill County,Oregon,Medium
+Adams County,Pennsylvania,Low
+Allegheny County,Pennsylvania,Low
+Armstrong County,Pennsylvania,Medium
+Beaver County,Pennsylvania,Medium
+Bedford County,Pennsylvania,Medium
+Berks County,Pennsylvania,Medium
+Blair County,Pennsylvania,High
+Bradford County,Pennsylvania,Medium
+Bucks County,Pennsylvania,Low
+Butler County,Pennsylvania,Low
+Cambria County,Pennsylvania,High
+Cameron County,Pennsylvania,Low
+Carbon County,Pennsylvania,Low
+Centre County,Pennsylvania,Low
+Chester County,Pennsylvania,Low
+Clarion County,Pennsylvania,High
+Clearfield County,Pennsylvania,Medium
+Clinton County,Pennsylvania,Low
+Columbia County,Pennsylvania,High
+Crawford County,Pennsylvania,Medium
+Cumberland County,Pennsylvania,Medium
+Dauphin County,Pennsylvania,Medium
+Delaware County,Pennsylvania,Medium
+Elk County,Pennsylvania,Low
+Erie County,Pennsylvania,Low
+Fayette County,Pennsylvania,High
+Forest County,Pennsylvania,Low
+Franklin County,Pennsylvania,Medium
+Fulton County,Pennsylvania,High
+Greene County,Pennsylvania,Medium
+Huntingdon County,Pennsylvania,High
+Indiana County,Pennsylvania,Medium
+Jefferson County,Pennsylvania,Medium
+Juniata County,Pennsylvania,Medium
+Lackawanna County,Pennsylvania,Medium
+Lancaster County,Pennsylvania,Low
+Lawrence County,Pennsylvania,Medium
+Lebanon County,Pennsylvania,Medium
+Lehigh County,Pennsylvania,Medium
+Luzerne County,Pennsylvania,Medium
+Lycoming County,Pennsylvania,Medium
+Mckean County,Pennsylvania,Medium
+Mercer County,Pennsylvania,Medium
+Mifflin County,Pennsylvania,High
+Monroe County,Pennsylvania,Low
+Montgomery County,Pennsylvania,Low
+Montour County,Pennsylvania,Low
+Northampton County,Pennsylvania,Medium
+Northumberland County,Pennsylvania,Medium
+Perry County,Pennsylvania,Low
+Philadelphia County,Pennsylvania,Medium
+Pike County,Pennsylvania,Medium
+Potter County,Pennsylvania,Low
+Schuylkill County,Pennsylvania,High
+Snyder County,Pennsylvania,Low
+Somerset County,Pennsylvania,Medium
+Sullivan County,Pennsylvania,High
+Susquehanna County,Pennsylvania,Medium
+Tioga County,Pennsylvania,Medium
+Union County,Pennsylvania,Low
+Venango County,Pennsylvania,High
+Warren County,Pennsylvania,Low
+Washington County,Pennsylvania,Medium
+Wayne County,Pennsylvania,Medium
+Westmoreland County,Pennsylvania,Medium
+Wyoming County,Pennsylvania,Medium
+York County,Pennsylvania,Medium
+Adjuntas Municipio,Puerto Rico,High
+Aguada Municipio,Puerto Rico,High
+Aguadilla Municipio,Puerto Rico,High
+Aguas Buenas Municipio,Puerto Rico,High
+Aibonito Municipio,Puerto Rico,High
+Arecibo Municipio,Puerto Rico,High
+Arroyo Municipio,Puerto Rico,High
+Añasco Municipio,Puerto Rico,High
+Barceloneta Municipio,Puerto Rico,High
+Barranquitas Municipio,Puerto Rico,High
+Bayamón Municipio,Puerto Rico,High
+Cabo Rojo Municipio,Puerto Rico,High
+Caguas Municipio,Puerto Rico,High
+Camuy Municipio,Puerto Rico,High
+Canóvanas Municipio,Puerto Rico,High
+Carolina Municipio,Puerto Rico,High
+Cataño Municipio,Puerto Rico,High
+Cayey Municipio,Puerto Rico,High
+Ceiba Municipio,Puerto Rico,High
+Ciales Municipio,Puerto Rico,High
+Cidra Municipio,Puerto Rico,High
+Coamo Municipio,Puerto Rico,High
+Comerío Municipio,Puerto Rico,High
+Corozal Municipio,Puerto Rico,High
+Culebra Municipio,Puerto Rico,High
+Dorado Municipio,Puerto Rico,High
+Fajardo Municipio,Puerto Rico,High
+Florida Municipio,Puerto Rico,High
+Guayama Municipio,Puerto Rico,High
+Guayanilla Municipio,Puerto Rico,High
+Guaynabo Municipio,Puerto Rico,Medium
+Gurabo Municipio,Puerto Rico,High
+Guánica Municipio,Puerto Rico,High
+Hatillo Municipio,Puerto Rico,High
+Hormigueros Municipio,Puerto Rico,High
+Humacao Municipio,Puerto Rico,High
+Isabela Municipio,Puerto Rico,High
+Jayuya Municipio,Puerto Rico,High
+Juana Díaz Municipio,Puerto Rico,High
+Juncos Municipio,Puerto Rico,High
+Lajas Municipio,Puerto Rico,High
+Lares Municipio,Puerto Rico,High
+Las Marías Municipio,Puerto Rico,High
+Las Piedras Municipio,Puerto Rico,High
+Loíza Municipio,Puerto Rico,High
+Luquillo Municipio,Puerto Rico,High
+Manatí Municipio,Puerto Rico,High
+Maricao Municipio,Puerto Rico,High
+Maunabo Municipio,Puerto Rico,High
+Mayagüez Municipio,Puerto Rico,High
+Moca Municipio,Puerto Rico,High
+Morovis Municipio,Puerto Rico,High
+Naguabo Municipio,Puerto Rico,High
+Naranjito Municipio,Puerto Rico,High
+Orocovis Municipio,Puerto Rico,High
+Patillas Municipio,Puerto Rico,High
+Peñuelas Municipio,Puerto Rico,High
+Ponce Municipio,Puerto Rico,High
+Quebradillas Municipio,Puerto Rico,High
+Rincón Municipio,Puerto Rico,High
+Río Grande Municipio,Puerto Rico,High
+Sabana Grande Municipio,Puerto Rico,High
+Salinas Municipio,Puerto Rico,High
+San Germán Municipio,Puerto Rico,High
+San Juan Municipio,Puerto Rico,High
+San Lorenzo Municipio,Puerto Rico,High
+San Sebastián Municipio,Puerto Rico,High
+Santa Isabel Municipio,Puerto Rico,High
+Toa Alta Municipio,Puerto Rico,High
+Toa Baja Municipio,Puerto Rico,High
+Trujillo Alto Municipio,Puerto Rico,High
+Utuado Municipio,Puerto Rico,High
+Vega Alta Municipio,Puerto Rico,High
+Vega Baja Municipio,Puerto Rico,High
+Vieques Municipio,Puerto Rico,High
+Villalba Municipio,Puerto Rico,High
+Yabucoa Municipio,Puerto Rico,High
+Yauco Municipio,Puerto Rico,High
+Bristol County,Rhode Island,Low
+Kent County,Rhode Island,Medium
+Newport County,Rhode Island,Low
+Providence County,Rhode Island,Medium
+Washington County,Rhode Island,Low
+Abbeville County,South Carolina,High
+Aiken County,South Carolina,High
+Allendale County,South Carolina,High
+Anderson County,South Carolina,High
+Bamberg County,South Carolina,High
+Barnwell County,South Carolina,High
+Beaufort County,South Carolina,Low
+Berkeley County,South Carolina,High
+Calhoun County,South Carolina,High
+Charleston County,South Carolina,Medium
+Cherokee County,South Carolina,High
+Chester County,South Carolina,High
+Chesterfield County,South Carolina,High
+Clarendon County,South Carolina,High
+Colleton County,South Carolina,High
+Darlington County,South Carolina,High
+Dillon County,South Carolina,High
+Dorchester County,South Carolina,Medium
+Edgefield County,South Carolina,High
+Fairfield County,South Carolina,High
+Florence County,South Carolina,High
+Georgetown County,South Carolina,High
+Greenville County,South Carolina,Medium
+Greenwood County,South Carolina,High
+Hampton County,South Carolina,High
+Horry County,South Carolina,Medium
+Jasper County,South Carolina,High
+Kershaw County,South Carolina,Medium
+Lancaster County,South Carolina,High
+Laurens County,South Carolina,Medium
+Lee County,South Carolina,High
+Lexington County,South Carolina,Medium
+Marion County,South Carolina,High
+Marlboro County,South Carolina,High
+Mccormick County,South Carolina,High
+Newberry County,South Carolina,High
+Oconee County,South Carolina,Medium
+Orangeburg County,South Carolina,High
+Pickens County,South Carolina,Medium
+Richland County,South Carolina,Medium
+Saluda County,South Carolina,High
+Spartanburg County,South Carolina,Medium
+Sumter County,South Carolina,High
+Union County,South Carolina,High
+Williamsburg County,South Carolina,High
+York County,South Carolina,Medium
+Aurora County,South Dakota,High
+Beadle County,South Dakota,Low
+Bennett County,South Dakota,High
+Bon Homme County,South Dakota,Medium
+Brookings County,South Dakota,Low
+Brown County,South Dakota,Medium
+Brule County,South Dakota,Low
+Buffalo County,South Dakota,High
+Butte County,South Dakota,Medium
+Campbell County,South Dakota,Low
+Charles Mix County,South Dakota,Low
+Clark County,South Dakota,Low
+Clay County,South Dakota,Medium
+Codington County,South Dakota,Low
+Corson County,South Dakota,High
+Custer County,South Dakota,High
+Davison County,South Dakota,Low
+Day County,South Dakota,Low
+Deuel County,South Dakota,Medium
+Dewey County,South Dakota,High
+Douglas County,South Dakota,Medium
+Edmunds County,South Dakota,Low
+Fall River County,South Dakota,Low
+Faulk County,South Dakota,Low
+Grant County,South Dakota,Low
+Gregory County,South Dakota,Low
+Haakon County,South Dakota,Medium
+Hamlin County,South Dakota,Low
+Hand County,South Dakota,Low
+Hanson County,South Dakota,Medium
+Harding County,South Dakota,Low
+Hughes County,South Dakota,Low
+Hutchinson County,South Dakota,Low
+Hyde County,South Dakota,Low
+Jackson County,South Dakota,High
+Jerauld County,South Dakota,High
+Jones County,South Dakota,Medium
+Kingsbury County,South Dakota,Low
+Lake County,South Dakota,Low
+Lawrence County,South Dakota,Low
+Lincoln County,South Dakota,Low
+Lyman County,South Dakota,Medium
+Marshall County,South Dakota,Medium
+Mccook County,South Dakota,Low
+Mcpherson County,South Dakota,Low
+Meade County,South Dakota,Low
+Mellette County,South Dakota,High
+Miner County,South Dakota,Medium
+Minnehaha County,South Dakota,Low
+Moody County,South Dakota,Medium
+Oglala Lakota County,South Dakota,High
+Pennington County,South Dakota,Low
+Perkins County,South Dakota,Low
+Potter County,South Dakota,Low
+Roberts County,South Dakota,High
+Sanborn County,South Dakota,Medium
+Shannon County,South Dakota,High
+Spink County,South Dakota,High
+Stanley County,South Dakota,Medium
+Sully County,South Dakota,Low
+Todd County,South Dakota,High
+Tripp County,South Dakota,Low
+Turner County,South Dakota,Low
+Union County,South Dakota,Medium
+Walworth County,South Dakota,Medium
+Yankton County,South Dakota,Low
+Ziebach County,South Dakota,High
+Anderson County,Tennessee,Medium
+Bedford County,Tennessee,Medium
+Benton County,Tennessee,Medium
+Bledsoe County,Tennessee,Medium
+Blount County,Tennessee,Medium
+Bradley County,Tennessee,High
+Campbell County,Tennessee,High
+Cannon County,Tennessee,Medium
+Carroll County,Tennessee,Medium
+Carter County,Tennessee,High
+Cheatham County,Tennessee,Medium
+Chester County,Tennessee,High
+Claiborne County,Tennessee,High
+Clay County,Tennessee,Low
+Cocke County,Tennessee,High
+Coffee County,Tennessee,High
+Crockett County,Tennessee,Medium
+Cumberland County,Tennessee,Medium
+Davidson County,Tennessee,Medium
+Decatur County,Tennessee,High
+Dekalb County,Tennessee,High
+Dickson County,Tennessee,High
+Dyer County,Tennessee,High
+Fayette County,Tennessee,Low
+Fentress County,Tennessee,High
+Franklin County,Tennessee,High
+Gibson County,Tennessee,High
+Giles County,Tennessee,Medium
+Grainger County,Tennessee,Medium
+Greene County,Tennessee,High
+Grundy County,Tennessee,High
+Hamblen County,Tennessee,High
+Hamilton County,Tennessee,High
+Hancock County,Tennessee,High
+Hardeman County,Tennessee,High
+Hardin County,Tennessee,Medium
+Hawkins County,Tennessee,High
+Haywood County,Tennessee,High
+Henderson County,Tennessee,High
+Henry County,Tennessee,High
+Hickman County,Tennessee,High
+Houston County,Tennessee,Medium
+Humphreys County,Tennessee,Low
+Jackson County,Tennessee,Medium
+Jefferson County,Tennessee,High
+Johnson County,Tennessee,Medium
+Knox County,Tennessee,Medium
+Lake County,Tennessee,Medium
+Lauderdale County,Tennessee,High
+Lawrence County,Tennessee,High
+Lewis County,Tennessee,High
+Lincoln County,Tennessee,Medium
+Loudon County,Tennessee,High
+Macon County,Tennessee,High
+Madison County,Tennessee,High
+Marion County,Tennessee,High
+Marshall County,Tennessee,Medium
+Maury County,Tennessee,Medium
+Mcminn County,Tennessee,Medium
+Mcnairy County,Tennessee,High
+Meigs County,Tennessee,High
+Monroe County,Tennessee,Medium
+Montgomery County,Tennessee,High
+Moore County,Tennessee,Medium
+Morgan County,Tennessee,High
+Obion County,Tennessee,High
+Overton County,Tennessee,Medium
+Perry County,Tennessee,High
+Pickett County,Tennessee,High
+Polk County,Tennessee,High
+Putnam County,Tennessee,Medium
+Rhea County,Tennessee,High
+Roane County,Tennessee,High
+Robertson County,Tennessee,Medium
+Rutherford County,Tennessee,Medium
+Scott County,Tennessee,Medium
+Sequatchie County,Tennessee,Medium
+Sevier County,Tennessee,High
+Shelby County,Tennessee,Medium
+Smith County,Tennessee,High
+Stewart County,Tennessee,Medium
+Sullivan County,Tennessee,High
+Sumner County,Tennessee,Low
+Tipton County,Tennessee,High
+Trousdale County,Tennessee,Low
+Unicoi County,Tennessee,High
+Union County,Tennessee,High
+Van Buren County,Tennessee,Medium
+Warren County,Tennessee,High
+Washington County,Tennessee,Medium
+Wayne County,Tennessee,High
+Weakley County,Tennessee,Medium
+White County,Tennessee,High
+Williamson County,Tennessee,Low
+Wilson County,Tennessee,Medium
+Anderson County,Texas,Medium
+Andrews County,Texas,Low
+Angelina County,Texas,High
+Aransas County,Texas,High
+Archer County,Texas,Medium
+Armstrong County,Texas,Low
+Atascosa County,Texas,High
+Austin County,Texas,Medium
+Bailey County,Texas,Low
+Bandera County,Texas,Low
+Bastrop County,Texas,Medium
+Baylor County,Texas,Medium
+Bee County,Texas,High
+Bell County,Texas,High
+Bexar County,Texas,Medium
+Blanco County,Texas,Medium
+Borden County,Texas,High
+Bosque County,Texas,Low
+Bowie County,Texas,High
+Brazoria County,Texas,Medium
+Brazos County,Texas,Medium
+Brewster County,Texas,Medium
+Briscoe County,Texas,Low
+Brooks County,Texas,Medium
+Brown County,Texas,Medium
+Burleson County,Texas,Low
+Burnet County,Texas,High
+Caldwell County,Texas,Medium
+Calhoun County,Texas,High
+Callahan County,Texas,Medium
+Cameron County,Texas,Medium
+Camp County,Texas,High
+Carson County,Texas,Low
+Cass County,Texas,High
+Castro County,Texas,High
+Chambers County,Texas,Low
+Cherokee County,Texas,High
+Childress County,Texas,High
+Clay County,Texas,High
+Cochran County,Texas,High
+Coke County,Texas,Low
+Coleman County,Texas,High
+Collin County,Texas,Medium
+Collingsworth County,Texas,Low
+Colorado County,Texas,Low
+Comal County,Texas,Low
+Comanche County,Texas,High
+Concho County,Texas,Low
+Cooke County,Texas,Low
+Coryell County,Texas,Medium
+Cottle County,Texas,High
+Crane County,Texas,Low
+Crockett County,Texas,Low
+Crosby County,Texas,Low
+Culberson County,Texas,High
+Dallam County,Texas,Low
+Dallas County,Texas,Low
+Dawson County,Texas,High
+Deaf Smith County,Texas,Low
+Delta County,Texas,Low
+Denton County,Texas,Medium
+Dewitt County,Texas,High
+Dickens County,Texas,Low
+Dimmit County,Texas,Low
+Donley County,Texas,Medium
+Duval County,Texas,Medium
+Eastland County,Texas,Low
+Ector County,Texas,Low
+Edwards County,Texas,Medium
+El Paso County,Texas,Medium
+Ellis County,Texas,High
+Erath County,Texas,High
+Falls County,Texas,High
+Fannin County,Texas,Low
+Fayette County,Texas,High
+Fisher County,Texas,Low
+Floyd County,Texas,Low
+Foard County,Texas,Low
+Fort Bend County,Texas,Low
+Franklin County,Texas,Medium
+Freestone County,Texas,High
+Frio County,Texas,Low
+Gaines County,Texas,Low
+Galveston County,Texas,Medium
+Garza County,Texas,Low
+Gillespie County,Texas,Low
+Glasscock County,Texas,Medium
+Goliad County,Texas,Low
+Gonzales County,Texas,High
+Gray County,Texas,Medium
+Grayson County,Texas,Medium
+Gregg County,Texas,Medium
+Grimes County,Texas,High
+Guadalupe County,Texas,Medium
+Hale County,Texas,Low
+Hall County,Texas,Medium
+Hamilton County,Texas,High
+Hansford County,Texas,Low
+Hardeman County,Texas,Low
+Hardin County,Texas,Low
+Harris County,Texas,Medium
+Harrison County,Texas,High
+Hartley County,Texas,Low
+Haskell County,Texas,Medium
+Hays County,Texas,Medium
+Hemphill County,Texas,Low
+Henderson County,Texas,Medium
+Hidalgo County,Texas,Medium
+Hill County,Texas,Low
+Hockley County,Texas,Low
+Hood County,Texas,Low
+Hopkins County,Texas,Low
+Houston County,Texas,Medium
+Howard County,Texas,High
+Hudspeth County,Texas,High
+Hunt County,Texas,High
+Hutchinson County,Texas,Medium
+Irion County,Texas,Low
+Jack County,Texas,Low
+Jackson County,Texas,High
+Jasper County,Texas,Medium
+Jeff Davis County,Texas,Low
+Jefferson County,Texas,High
+Jim Hogg County,Texas,Low
+Jim Wells County,Texas,High
+Johnson County,Texas,Medium
+Jones County,Texas,High
+Karnes County,Texas,Low
+Kaufman County,Texas,Medium
+Kendall County,Texas,Low
+Kenedy County,Texas,Low
+Kent County,Texas,Low
+Kerr County,Texas,High
+Kimble County,Texas,Low
+King County,Texas,Medium
+Kinney County,Texas,Low
+Kleberg County,Texas,Low
+Knox County,Texas,Low
+La Salle County,Texas,Medium
+Lamar County,Texas,High
+Lamb County,Texas,High
+Lampasas County,Texas,Low
+Lavaca County,Texas,High
+Lee County,Texas,High
+Leon County,Texas,High
+Liberty County,Texas,High
+Limestone County,Texas,High
+Lipscomb County,Texas,Low
+Live Oak County,Texas,High
+Llano County,Texas,Low
+Loving County,Texas,Low
+Lubbock County,Texas,Low
+Lynn County,Texas,High
+Madison County,Texas,High
+Marion County,Texas,High
+Martin County,Texas,Low
+Mason County,Texas,Medium
+Matagorda County,Texas,Low
+Maverick County,Texas,High
+Mcculloch County,Texas,Medium
+Mclennan County,Texas,Medium
+Mcmullen County,Texas,Medium
+Medina County,Texas,Medium
+Menard County,Texas,Medium
+Midland County,Texas,Low
+Milam County,Texas,High
+Mills County,Texas,Low
+Mitchell County,Texas,Low
+Montague County,Texas,Medium
+Montgomery County,Texas,Low
+Moore County,Texas,Low
+Morris County,Texas,Medium
+Motley County,Texas,Low
+Nacogdoches County,Texas,High
+Navarro County,Texas,Medium
+Newton County,Texas,Medium
+Nolan County,Texas,High
+Nueces County,Texas,High
+Ochiltree County,Texas,High
+Oldham County,Texas,Low
+Orange County,Texas,High
+Palo Pinto County,Texas,Medium
+Panola County,Texas,High
+Parker County,Texas,Low
+Parmer County,Texas,Low
+Pecos County,Texas,Medium
+Polk County,Texas,High
+Potter County,Texas,Medium
+Presidio County,Texas,High
+Rains County,Texas,High
+Randall County,Texas,Low
+Reagan County,Texas,Low
+Real County,Texas,Low
+Red River County,Texas,High
+Reeves County,Texas,Low
+Refugio County,Texas,Medium
+Roberts County,Texas,Low
+Robertson County,Texas,High
+Rockwall County,Texas,High
+Runnels County,Texas,High
+Rusk County,Texas,High
+Sabine County,Texas,Low
+San Augustine County,Texas,High
+San Jacinto County,Texas,High
+San Patricio County,Texas,Medium
+San Saba County,Texas,Low
+Schleicher County,Texas,Low
+Scurry County,Texas,Low
+Shackelford County,Texas,Low
+Shelby County,Texas,Medium
+Sherman County,Texas,Low
+Smith County,Texas,High
+Somervell County,Texas,Low
+Starr County,Texas,Medium
+Stephens County,Texas,Low
+Sterling County,Texas,Medium
+Stonewall County,Texas,Low
+Sutton County,Texas,Low
+Swisher County,Texas,Low
+Tarrant County,Texas,Medium
+Taylor County,Texas,Low
+Terrell County,Texas,Low
+Terry County,Texas,Low
+Throckmorton County,Texas,Low
+Titus County,Texas,Medium
+Tom Green County,Texas,High
+Travis County,Texas,Low
+Trinity County,Texas,High
+Tyler County,Texas,Low
+Upshur County,Texas,High
+Upton County,Texas,Low
+Uvalde County,Texas,High
+Val Verde County,Texas,Low
+Van Zandt County,Texas,Medium
+Victoria County,Texas,High
+Walker County,Texas,High
+Waller County,Texas,Medium
+Ward County,Texas,High
+Washington County,Texas,High
+Webb County,Texas,Low
+Wharton County,Texas,High
+Wheeler County,Texas,Low
+Wichita County,Texas,High
+Wilbarger County,Texas,High
+Willacy County,Texas,High
+Williamson County,Texas,Medium
+Wilson County,Texas,Medium
+Winkler County,Texas,Medium
+Wise County,Texas,High
+Wood County,Texas,High
+Yoakum County,Texas,Medium
+Young County,Texas,High
+Zapata County,Texas,Low
+Zavala County,Texas,Low
+Beaver County,Utah,Low
+Box Elder County,Utah,Low
+Cache County,Utah,Low
+Carbon County,Utah,Low
+Daggett County,Utah,Medium
+Davis County,Utah,Low
+Duchesne County,Utah,Low
+Emery County,Utah,Low
+Garfield County,Utah,Low
+Grand County,Utah,Low
+Iron County,Utah,Low
+Juab County,Utah,Low
+Kane County,Utah,Low
+Millard County,Utah,Medium
+Morgan County,Utah,Low
+Piute County,Utah,Low
+Rich County,Utah,Medium
+Salt Lake County,Utah,Low
+San Juan County,Utah,Medium
+Sanpete County,Utah,Low
+Sevier County,Utah,Low
+Summit County,Utah,Low
+Tooele County,Utah,High
+Uintah County,Utah,Medium
+Utah County,Utah,Low
+Wasatch County,Utah,Low
+Washington County,Utah,Low
+Wayne County,Utah,Low
+Weber County,Utah,Low
+Addison County,Vermont,Low
+Bennington County,Vermont,Low
+Caledonia County,Vermont,Low
+Chittenden County,Vermont,Low
+Essex County,Vermont,Medium
+Franklin County,Vermont,Medium
+Grand Isle County,Vermont,Low
+Lamoille County,Vermont,Low
+Orange County,Vermont,Low
+Orleans County,Vermont,Low
+Rutland County,Vermont,Medium
+Washington County,Vermont,Low
+Windham County,Vermont,Low
+Windsor County,Vermont,Low
+Accomack County,Virginia,High
+Albemarle County,Virginia,Low
+Alexandria City,Virginia,Low
+Alleghany County,Virginia,High
+Amelia County,Virginia,High
+Amherst County,Virginia,High
+Appomattox County,Virginia,High
+Arlington County,Virginia,Low
+Augusta County,Virginia,High
+Bath County,Virginia,Low
+Bedford City,Virginia,High
+Bedford County,Virginia,High
+Bland County,Virginia,High
+Botetourt County,Virginia,Medium
+Bristol City,Virginia,High
+Brunswick County,Virginia,High
+Buchanan County,Virginia,Low
+Buckingham County,Virginia,High
+Buena Vista City,Virginia,Low
+Campbell County,Virginia,Medium
+Caroline County,Virginia,High
+Carroll County,Virginia,High
+Charles City County,Virginia,High
+Charlotte County,Virginia,Medium
+Charlottesville City,Virginia,Low
+Chesapeake City,Virginia,Medium
+Chesterfield County,Virginia,Medium
+Clarke County,Virginia,Medium
+Colonial Heights City,Virginia,Medium
+Covington City,Virginia,Low
+Craig County,Virginia,Low
+Culpeper County,Virginia,Medium
+Cumberland County,Virginia,High
+Danville City,Virginia,Medium
+Dickenson County,Virginia,Medium
+Dinwiddie County,Virginia,High
+Emporia City,Virginia,Medium
+Essex County,Virginia,High
+Fairfax City,Virginia,Low
+Fairfax County,Virginia,Low
+Falls Church City,Virginia,Low
+Fauquier County,Virginia,Low
+Floyd County,Virginia,Low
+Fluvanna County,Virginia,High
+Franklin City,Virginia,Medium
+Franklin County,Virginia,High
+Frederick County,Virginia,Medium
+Fredericksburg City,Virginia,High
+Galax City,Virginia,Medium
+Giles County,Virginia,High
+Gloucester County,Virginia,Medium
+Goochland County,Virginia,Low
+Grayson County,Virginia,Low
+Greene County,Virginia,Low
+Greensville County,Virginia,High
+Halifax County,Virginia,High
+Hampton City,Virginia,High
+Hanover County,Virginia,Medium
+Harrisonburg City,Virginia,Medium
+Henrico County,Virginia,Medium
+Henry County,Virginia,High
+Highland County,Virginia,Medium
+Hopewell City,Virginia,High
+Isle Of Wight County,Virginia,Medium
+James City County,Virginia,Low
+King And Queen County,Virginia,Medium
+King George County,Virginia,High
+King William County,Virginia,High
+Lancaster County,Virginia,Medium
+Lee County,Virginia,High
+Lexington City,Virginia,Low
+Loudoun County,Virginia,Low
+Louisa County,Virginia,Medium
+Lunenburg County,Virginia,Low
+Lynchburg City,Virginia,Medium
+Madison County,Virginia,Medium
+Manassas City,Virginia,Low
+Manassas Park City,Virginia,High
+Martinsville City,Virginia,High
+Mathews County,Virginia,Low
+Mecklenburg County,Virginia,High
+Middlesex County,Virginia,Low
+Montgomery County,Virginia,Low
+Nelson County,Virginia,Low
+New Kent County,Virginia,Low
+Newport News City,Virginia,High
+Norfolk City,Virginia,High
+Northampton County,Virginia,Medium
+Northumberland County,Virginia,Low
+Norton City,Virginia,Low
+Nottoway County,Virginia,High
+Orange County,Virginia,High
+Page County,Virginia,High
+Patrick County,Virginia,High
+Petersburg City,Virginia,High
+Pittsylvania County,Virginia,Medium
+Poquoson City,Virginia,Low
+Portsmouth City,Virginia,High
+Powhatan County,Virginia,High
+Prince Edward County,Virginia,High
+Prince George County,Virginia,Medium
+Prince William County,Virginia,Medium
+Pulaski County,Virginia,High
+Radford City,Virginia,Medium
+Rappahannock County,Virginia,Low
+Richmond City,Virginia,High
+Richmond County,Virginia,High
+Roanoke City,Virginia,Medium
+Roanoke County,Virginia,Medium
+Rockbridge County,Virginia,Medium
+Rockingham County,Virginia,Medium
+Russell County,Virginia,High
+Salem City,Virginia,Low
+Scott County,Virginia,High
+Shenandoah County,Virginia,High
+Smyth County,Virginia,High
+Southampton County,Virginia,High
+Spotsylvania County,Virginia,Medium
+Stafford County,Virginia,Low
+Staunton City,Virginia,High
+Suffolk City,Virginia,High
+Surry County,Virginia,High
+Sussex County,Virginia,Medium
+Tazewell County,Virginia,High
+Virginia Beach City,Virginia,Medium
+Warren County,Virginia,High
+Washington County,Virginia,High
+Waynesboro City,Virginia,High
+Westmoreland County,Virginia,High
+Williamsburg City,Virginia,Medium
+Winchester City,Virginia,Low
+Wise County,Virginia,High
+Wythe County,Virginia,Medium
+York County,Virginia,Low
+Adams County,Washington,Medium
+Asotin County,Washington,Medium
+Benton County,Washington,Low
+Chelan County,Washington,Low
+Clallam County,Washington,Medium
+Clark County,Washington,Medium
+Columbia County,Washington,Low
+Cowlitz County,Washington,Medium
+Douglas County,Washington,Low
+Ferry County,Washington,Low
+Franklin County,Washington,Medium
+Garfield County,Washington,Medium
+Grant County,Washington,Medium
+Grays Harbor County,Washington,Medium
+Island County,Washington,Low
+Jefferson County,Washington,Low
+King County,Washington,Low
+Kitsap County,Washington,Low
+Kittitas County,Washington,Low
+Klickitat County,Washington,Medium
+Lewis County,Washington,Low
+Lincoln County,Washington,Medium
+Mason County,Washington,Medium
+Okanogan County,Washington,Medium
+Pacific County,Washington,Medium
+Pend Oreille County,Washington,Medium
+Pierce County,Washington,Medium
+San Juan County,Washington,Low
+Skagit County,Washington,Medium
+Skamania County,Washington,Low
+Snohomish County,Washington,Low
+Spokane County,Washington,Medium
+Stevens County,Washington,Low
+Thurston County,Washington,Medium
+Wahkiakum County,Washington,Medium
+Walla Walla County,Washington,Medium
+Whatcom County,Washington,Low
+Whitman County,Washington,Medium
+Yakima County,Washington,Medium
+Barbour County,West Virginia,High
+Berkeley County,West Virginia,High
+Boone County,West Virginia,High
+Braxton County,West Virginia,Medium
+Brooke County,West Virginia,High
+Cabell County,West Virginia,High
+Calhoun County,West Virginia,Low
+Clay County,West Virginia,High
+Doddridge County,West Virginia,High
+Fayette County,West Virginia,High
+Gilmer County,West Virginia,High
+Grant County,West Virginia,High
+Greenbrier County,West Virginia,High
+Hampshire County,West Virginia,Medium
+Hancock County,West Virginia,High
+Hardy County,West Virginia,High
+Harrison County,West Virginia,High
+Jackson County,West Virginia,High
+Jefferson County,West Virginia,Low
+Kanawha County,West Virginia,High
+Lewis County,West Virginia,High
+Lincoln County,West Virginia,High
+Logan County,West Virginia,High
+Marion County,West Virginia,Medium
+Marshall County,West Virginia,High
+Mason County,West Virginia,High
+Mcdowell County,West Virginia,High
+Mercer County,West Virginia,Medium
+Mineral County,West Virginia,Medium
+Mingo County,West Virginia,High
+Monongalia County,West Virginia,Medium
+Monroe County,West Virginia,High
+Morgan County,West Virginia,High
+Nicholas County,West Virginia,Medium
+Ohio County,West Virginia,Medium
+Pendleton County,West Virginia,High
+Pleasants County,West Virginia,High
+Pocahontas County,West Virginia,Medium
+Preston County,West Virginia,High
+Putnam County,West Virginia,Medium
+Raleigh County,West Virginia,High
+Randolph County,West Virginia,Medium
+Ritchie County,West Virginia,Medium
+Roane County,West Virginia,Medium
+Summers County,West Virginia,Low
+Taylor County,West Virginia,Medium
+Tucker County,West Virginia,High
+Tyler County,West Virginia,Low
+Upshur County,West Virginia,High
+Wayne County,West Virginia,High
+Webster County,West Virginia,High
+Wetzel County,West Virginia,High
+Wirt County,West Virginia,High
+Wood County,West Virginia,High
+Wyoming County,West Virginia,High
+Adams County,Wisconsin,High
+Ashland County,Wisconsin,Low
+Barron County,Wisconsin,Medium
+Bayfield County,Wisconsin,Low
+Brown County,Wisconsin,Medium
+Buffalo County,Wisconsin,Low
+Burnett County,Wisconsin,Medium
+Calumet County,Wisconsin,Medium
+Chippewa County,Wisconsin,Low
+Clark County,Wisconsin,Medium
+Columbia County,Wisconsin,Medium
+Crawford County,Wisconsin,High
+Dane County,Wisconsin,Low
+Dodge County,Wisconsin,Medium
+Door County,Wisconsin,Low
+Douglas County,Wisconsin,Low
+Dunn County,Wisconsin,Medium
+Eau Claire County,Wisconsin,Low
+Florence County,Wisconsin,Medium
+Fond Du Lac County,Wisconsin,Low
+Forest County,Wisconsin,Low
+Grant County,Wisconsin,Medium
+Green County,Wisconsin,Low
+Green Lake County,Wisconsin,Medium
+Iowa County,Wisconsin,Medium
+Iron County,Wisconsin,Low
+Jackson County,Wisconsin,Low
+Jefferson County,Wisconsin,Low
+Juneau County,Wisconsin,Low
+Kenosha County,Wisconsin,Low
+Kewaunee County,Wisconsin,Low
+La Crosse County,Wisconsin,Low
+Lafayette County,Wisconsin,Low
+Langlade County,Wisconsin,Medium
+Lincoln County,Wisconsin,Low
+Manitowoc County,Wisconsin,Medium
+Marathon County,Wisconsin,Medium
+Marinette County,Wisconsin,Low
+Marquette County,Wisconsin,High
+Menominee County,Wisconsin,Medium
+Milwaukee County,Wisconsin,Medium
+Monroe County,Wisconsin,High
+Oconto County,Wisconsin,High
+Oneida County,Wisconsin,Low
+Outagamie County,Wisconsin,Medium
+Ozaukee County,Wisconsin,Low
+Pepin County,Wisconsin,High
+Pierce County,Wisconsin,Low
+Polk County,Wisconsin,Low
+Portage County,Wisconsin,Low
+Price County,Wisconsin,Low
+Racine County,Wisconsin,Low
+Richland County,Wisconsin,Low
+Rock County,Wisconsin,Medium
+Rusk County,Wisconsin,Low
+Sauk County,Wisconsin,Low
+Sawyer County,Wisconsin,Low
+Shawano County,Wisconsin,Medium
+Sheboygan County,Wisconsin,Low
+St. Croix County,Wisconsin,Low
+Taylor County,Wisconsin,Low
+Trempealeau County,Wisconsin,Medium
+Vernon County,Wisconsin,Low
+Vilas County,Wisconsin,Medium
+Walworth County,Wisconsin,Low
+Washburn County,Wisconsin,Medium
+Washington County,Wisconsin,Low
+Waukesha County,Wisconsin,Low
+Waupaca County,Wisconsin,Medium
+Waushara County,Wisconsin,Low
+Winnebago County,Wisconsin,Low
+Wood County,Wisconsin,Low
+Albany County,Wyoming,Low
+Big Horn County,Wyoming,Medium
+Campbell County,Wyoming,Low
+Carbon County,Wyoming,Low
+Converse County,Wyoming,Medium
+Crook County,Wyoming,Low
+Fremont County,Wyoming,Medium
+Goshen County,Wyoming,Medium
+Hot Springs County,Wyoming,Medium
+Johnson County,Wyoming,Low
+Laramie County,Wyoming,Medium
+Lincoln County,Wyoming,Low
+Natrona County,Wyoming,Low
+Niobrara County,Wyoming,Low
+Park County,Wyoming,Low
+Platte County,Wyoming,Medium
+Sheridan County,Wyoming,Low
+Sublette County,Wyoming,Low
+Sweetwater County,Wyoming,Medium
+Teton County,Wyoming,Low
+Uinta County,Wyoming,Medium
+Washakie County,Wyoming,Medium
+Weston County,Wyoming,Low

@@ -1,0 +1,1926 @@
+,state_abbrev,county,McDonaldsCount
+0,AK,Anchorage Borough,18
+1,AL,Autauga,3
+2,AL,Baldwin,10
+3,AL,Bullock,1
+4,AL,Chilton,2
+5,AL,Clarke,3
+6,AL,Cullman,4
+7,AL,Dale,2
+8,AL,Elmore,3
+9,AL,Escambia,4
+10,AL,Etowah,7
+11,AL,Franklin,2
+12,AL,Jefferson,29
+13,AL,Lee,7
+14,AL,Macon,2
+15,AL,Madison,15
+16,AL,Marion,2
+17,AL,Marshall,3
+18,AL,Mobile,27
+19,AL,Morgan,6
+20,AL,Shelby,5
+21,AL,Tuscaloosa,10
+22,AR,Benton,15
+23,AR,Bradley,1
+24,AR,Chicot,1
+25,AR,Dallas,1
+26,AR,Faulkner,5
+27,AR,Howard,1
+28,AR,Logan,2
+29,AR,Pulaski,29
+30,AR,Saline,6
+31,AR,Scott,1
+32,AR,Sebastian,9
+33,AR,Sharp,2
+34,AR,Washington,13
+35,AR,White,5
+36,AZ,Coconino,9
+37,AZ,La Paz,2
+38,AZ,Maricopa,177
+39,AZ,Mohave,8
+40,AZ,Pima,43
+41,AZ,Yavapai,12
+42,AZ,Yuma,9
+43,CA,Alameda,49
+44,CA,Butte,8
+45,CA,Contra Costa,30
+46,CA,Kern,43
+47,CA,Kings,8
+48,CA,Los Angeles,350
+49,CA,Madera,5
+50,CA,Merced,14
+51,CA,Monterey,17
+52,CA,Orange,101
+53,CA,Placer,16
+54,CA,Riverside,74
+55,CA,Sacramento,62
+56,CA,San Benito,3
+57,CA,San Bernardino,76
+58,CA,San Diego,108
+59,CA,San Joaquin,32
+60,CA,San Mateo,17
+61,CA,Santa Barbara,16
+62,CA,Santa Clara,64
+63,CA,Solano,24
+64,CA,Sonoma,16
+65,CA,Stanislaus,25
+66,CA,Sutter,4
+67,CA,Tulare,18
+68,CA,Ventura,29
+69,CO,Adams,29
+70,CO,Alamosa,1
+71,CO,Arapahoe,28
+72,CO,Broomfield,3
+73,CO,Denver,28
+74,CO,Douglas,9
+75,CO,El Paso,26
+76,CO,Garfield,3
+77,CO,Grand,2
+78,CO,Jefferson,23
+79,CO,Larimer,11
+80,CO,Mesa,7
+81,CO,Morgan,2
+82,CO,Pueblo,8
+83,CT,Fairfield,29
+84,CT,Hartford,37
+85,CT,Middlesex,7
+86,CT,New Haven,38
+87,CT,New London,15
+88,DE,Kent,8
+89,DE,New Castle,20
+90,DE,Sussex,11
+91,FL,Alachua,11
+92,FL,Baker,1
+93,FL,Bay,13
+94,FL,Brevard,32
+95,FL,Broward,79
+96,FL,Calhoun,1
+97,FL,Charlotte,6
+98,FL,Clay,9
+99,FL,Collier,17
+100,FL,Columbia,3
+101,FL,Dixie,1
+102,FL,Duval,51
+103,FL,Escambia,14
+104,FL,Flagler,6
+105,FL,Gilchrist,1
+106,FL,Hamilton,1
+107,FL,Hendry,2
+108,FL,Hernando,11
+109,FL,Hillsborough,55
+110,FL,Holmes,1
+111,FL,Jackson,4
+112,FL,Lake,16
+113,FL,Lee,32
+114,FL,Leon,15
+115,FL,Manatee,15
+116,FL,Marion,16
+117,FL,Martin,7
+118,FL,Miami-Dade,100
+119,FL,Nassau,4
+120,FL,Okaloosa,13
+121,FL,Orange,63
+122,FL,Osceola,15
+123,FL,Palm Beach,57
+124,FL,Pasco,20
+125,FL,Pinellas,38
+126,FL,Polk,36
+127,FL,Santa Rosa,8
+128,FL,Sarasota,17
+129,FL,Seminole,20
+130,FL,Volusia,24
+131,GA,Appling,1
+132,GA,Bacon,1
+133,GA,Baldwin,3
+134,GA,Barrow,2
+135,GA,Bartow,8
+136,GA,Ben Hill,1
+137,GA,Berrien,1
+138,GA,Bibb,10
+139,GA,Bleckley,1
+140,GA,Bryan,4
+141,GA,Butts,1
+142,GA,Candler,1
+143,GA,Carroll,8
+144,GA,Catoosa,2
+145,GA,Charlton,1
+146,GA,Chatham,18
+147,GA,Cherokee,11
+148,GA,Clarke,5
+149,GA,Clayton,11
+150,GA,Cobb,33
+151,GA,Columbia,7
+152,GA,Cook,1
+153,GA,Coweta,7
+154,GA,Crisp,1
+155,GA,Dade,1
+156,GA,DeKalb,33
+157,GA,Dodge,1
+158,GA,Dougherty,5
+159,GA,Douglas,6
+160,GA,Early,1
+161,GA,Evans,1
+162,GA,Fayette,5
+163,GA,Forsyth,7
+164,GA,Franklin,2
+165,GA,Fulton,40
+166,GA,Gilmer,1
+167,GA,Glynn,6
+168,GA,Grady,1
+169,GA,Greene,1
+170,GA,Gwinnett,35
+171,GA,Habersham,2
+172,GA,Hall,6
+173,GA,Haralson,1
+174,GA,Henry,14
+175,GA,Houston,8
+176,GA,Jackson,4
+177,GA,Jeff Davis,1
+178,GA,Jefferson,2
+179,GA,Jenkins,1
+180,GA,Lamar,1
+181,GA,Lanier,1
+182,GA,Lee,1
+183,GA,Liberty,6
+184,GA,Lowndes,7
+185,GA,Macon,1
+186,GA,McDuffie,1
+187,GA,Morgan,1
+188,GA,Muscogee,13
+189,GA,Newton,6
+190,GA,Oconee,2
+191,GA,Paulding,4
+192,GA,Peach,2
+193,GA,Polk,3
+194,GA,Pulaski,1
+195,GA,Richmond,12
+196,GA,Spalding,4
+197,GA,Stephens,1
+198,GA,Sumter,2
+199,GA,Tattnall,2
+200,GA,Terrell,1
+201,GA,Toombs,3
+202,GA,Turner,1
+203,GA,Upson,1
+204,GA,Walton,2
+205,GA,Whitfield,6
+206,GA,Wilkes,1
+207,HI,Honolulu,50
+208,HI,Maui,12
+209,IA,Black Hawk,8
+210,IA,Clarke,1
+211,IA,Dubuque,5
+212,IA,Polk,25
+213,IA,Scott,11
+214,IA,Story,6
+215,IA,Woodbury,7
+216,ID,Ada,22
+217,ID,Bonneville,6
+218,ID,Gem,1
+219,ID,Gooding,1
+220,ID,Jerome,1
+221,ID,Kootenai,6
+222,ID,Twin Falls,5
+223,ID,Washington,1
+224,IL,Brown,1
+225,IL,Clinton,3
+226,IL,Coles,3
+227,IL,Cook,222
+228,IL,DeKalb,6
+229,IL,Douglas,2
+230,IL,Dupage,53
+231,IL,Effingham,4
+232,IL,Grundy,3
+233,IL,Jo Daviess,2
+234,IL,Kane,24
+235,IL,Kankakee,6
+236,IL,Kendall,6
+237,IL,LaSalle,9
+238,IL,Lake,40
+239,IL,Lawrence,1
+240,IL,Macon,6
+241,IL,Madison,16
+242,IL,Massac,1
+243,IL,McHenry,15
+244,IL,McLean,12
+245,IL,Monroe,2
+246,IL,Perry,2
+247,IL,Randolph,3
+248,IL,Tazewell,8
+249,IL,Whiteside,3
+250,IL,Will,40
+251,IL,Williamson,5
+252,IL,Winnebago,19
+253,IN,Adams,2
+254,IN,Allen,18
+255,IN,Blackford,1
+256,IN,Boone,3
+257,IN,Brown,1
+258,IN,De Kalb,2
+259,IN,Dearborn,4
+260,IN,Decatur,2
+261,IN,Delaware,7
+262,IN,Dubois,3
+263,IN,Elkhart,10
+264,IN,Fayette,1
+265,IN,Floyd,5
+266,IN,Grant,4
+267,IN,Hamilton,14
+268,IN,Hancock,4
+269,IN,Hendricks,8
+270,IN,Howard,6
+271,IN,Jackson,3
+272,IN,Jasper,4
+273,IN,Jefferson,2
+274,IN,Johnson,9
+275,IN,LaPorte,7
+276,IN,Lake,27
+277,IN,Madison,8
+278,IN,Marion,49
+279,IN,Marshall,4
+280,IN,Martin,1
+281,IN,Morgan,2
+282,IN,Noble,3
+283,IN,Porter,9
+284,IN,Putnam,2
+285,IN,Randolph,2
+286,IN,Scott,1
+287,IN,Tippecanoe,9
+288,IN,Whitley,2
+289,KS,Butler,4
+290,KS,Cowley,2
+291,KS,Douglas,5
+292,KS,Finney,2
+293,KS,Geary,2
+294,KS,Grant,1
+295,KS,Johnson,34
+296,KS,Miami,2
+297,KS,Norton,1
+298,KS,Sedgwick,31
+299,KS,Seward,2
+300,KS,Stevens,1
+301,KS,Trego,1
+302,KS,Wyandotte,9
+303,KY,Allen,1
+304,KY,Anderson,1
+305,KY,Barren,2
+306,KY,Boone,8
+307,KY,Bourbon,1
+308,KY,Boyd,6
+309,KY,Bullitt,4
+310,KY,Campbell,4
+311,KY,Carroll,2
+312,KY,Carter,2
+313,KY,Clark,1
+314,KY,Clinton,1
+315,KY,Crittenden,1
+316,KY,Elliott,1
+317,KY,Estill,1
+318,KY,Fayette,17
+319,KY,Fulton,1
+320,KY,Garrard,1
+321,KY,Grant,2
+322,KY,Green,1
+323,KY,Greenup,2
+324,KY,Hardin,8
+325,KY,Hart,2
+326,KY,Jefferson,46
+327,KY,Jessamine,4
+328,KY,Kenton,7
+329,KY,Larue,1
+330,KY,Lincoln,1
+331,KY,Lyon,1
+332,KY,Madison,5
+333,KY,Marshall,3
+334,KY,McCracken,4
+335,KY,Mercer,1
+336,KY,Montgomery,2
+337,KY,Oldham,3
+338,KY,Owen,1
+339,KY,Pendleton,1
+340,KY,Powell,1
+341,KY,Rowan,2
+342,KY,Russell,1
+343,KY,Scott,3
+344,KY,Shelby,3
+345,KY,Simpson,2
+346,KY,Spencer,1
+347,KY,Taylor,1
+348,KY,Trigg,1
+349,KY,Warren,8
+350,KY,Washington,1
+351,KY,Wayne,1
+352,KY,Whitley,4
+353,KY,Woodford,1
+354,LA,Ascension Parish,7
+355,LA,Caldwell Parish,1
+356,LA,East Baton Rouge Parish,28
+357,LA,Jackson Parish,1
+358,LA,Jefferson Parish,28
+359,LA,Lafayette Parish,13
+360,LA,Lafourche Parish,6
+361,LA,Madison Parish,1
+362,LA,Ouachita Parish,8
+363,LA,St Bernard Parish,3
+364,LA,Tangipahoa Parish,6
+365,LA,Terrebonne Parish,7
+366,LA,Washington Parish,2
+367,LA,West Baton Rouge Parish,3
+368,LA,West Carroll Parish,1
+369,MA,Bristol,24
+370,MA,Essex,30
+371,MA,Middlesex,41
+372,MA,Norfolk,17
+373,MA,Suffolk,22
+374,MD,Anne Arundel,28
+375,MD,Baltimore,37
+376,MD,Calvert,5
+377,MD,Carroll,6
+378,MD,Frederick,16
+379,MD,Garrett,3
+380,MD,Harford,12
+381,MD,Howard,19
+382,MD,Montgomery,40
+383,MD,Prince George's,43
+384,MD,Queen Anne's,3
+385,MD,Worcester,6
+386,MI,Alpena,3
+387,MI,Bay,12
+388,MI,Berrien,8
+389,MI,Branch,2
+390,MI,Calhoun,10
+391,MI,Cheboygan,2
+392,MI,Clare,2
+393,MI,Genesee,33
+394,MI,Grand Traverse,5
+395,MI,Ionia,4
+396,MI,Iosco,2
+397,MI,Isabella,5
+398,MI,Jackson,10
+399,MI,Kalamazoo,16
+400,MI,Kent,33
+401,MI,Lapeer,5
+402,MI,Livingston,9
+403,MI,Luce,1
+404,MI,Macomb,43
+405,MI,Montcalm,6
+406,MI,Muskegon,10
+407,MI,Newaygo,2
+408,MI,Oakland,58
+409,MI,Ogemaw,2
+410,MI,Osceola,2
+411,MI,Ottawa,10
+412,MI,Roscommon,3
+413,MI,Saginaw,16
+414,MI,St Joseph,3
+415,MI,Washtenaw,16
+416,MI,Wayne,82
+417,MN,Anoka,16
+418,MN,Dakota,19
+419,MN,Goodhue,3
+420,MN,Hennepin,42
+421,MN,Olmsted,7
+422,MN,Pennington,1
+423,MN,Ramsey,21
+424,MN,Scott,6
+425,MN,Waseca,1
+426,MN,Washington,7
+427,MO,Boone,7
+428,MO,Buchanan,7
+429,MO,Callaway,3
+430,MO,Camden,4
+431,MO,Carter,1
+432,MO,Cass,5
+433,MO,Clay,16
+434,MO,Douglas,1
+435,MO,Greene,22
+436,MO,Grundy,1
+437,MO,Howell,4
+438,MO,Jackson,42
+439,MO,Jefferson,8
+440,MO,Johnson,3
+441,MO,Lafayette,5
+442,MO,Madison,1
+443,MO,Phelps,4
+444,MO,Platte,3
+445,MO,Pulaski,2
+446,MO,St Francois,3
+447,MO,Ste Genevieve,2
+448,MO,Warren,2
+449,MO,Webster,2
+450,MS,Alcorn,2
+451,MS,Clay,1
+452,MS,Covington,1
+453,MS,DeSoto,7
+454,MS,Forrest,4
+455,MS,George,1
+456,MS,Harrison,12
+457,MS,Hinds,13
+458,MS,Itawamba,1
+459,MS,Lamar,4
+460,MS,Leake,1
+461,MS,Madison,6
+462,MS,Marion,1
+463,MS,Monroe,2
+464,MS,Montgomery,1
+465,MS,Noxubee,1
+466,MS,Oktibbeha,2
+467,MS,Panola,3
+468,MS,Rankin,6
+469,MS,Scott,2
+470,MS,Stone,1
+471,MS,Tunica,1
+472,MS,Union,1
+473,MS,Walthall,1
+474,MS,Washington,5
+475,MS,Wayne,1
+476,MT,Custer,1
+477,MT,Deer Lodge,1
+478,MT,Gallatin,5
+479,NC,Alamance,9
+480,NC,Brunswick,5
+481,NC,Buncombe,15
+482,NC,Burke,4
+483,NC,Cabarrus,12
+484,NC,Caldwell,2
+485,NC,Chowan,1
+486,NC,Clay,1
+487,NC,Craven,7
+488,NC,Cumberland,18
+489,NC,Dare,3
+490,NC,Davidson,6
+491,NC,Davie,2
+492,NC,Durham,16
+493,NC,Edgecombe,2
+494,NC,Forsyth,20
+495,NC,Gaston,10
+496,NC,Greene,1
+497,NC,Guilford,29
+498,NC,Halifax,3
+499,NC,Harnett,6
+500,NC,Hertford,2
+501,NC,Hoke,2
+502,NC,Iredell,9
+503,NC,Johnston,7
+504,NC,Lee,3
+505,NC,Lincoln,3
+506,NC,McDowell,3
+507,NC,Mecklenburg,41
+508,NC,Mitchell,1
+509,NC,Moore,4
+510,NC,Nash,5
+511,NC,New Hanover,12
+512,NC,Orange,5
+513,NC,Pasquotank,3
+514,NC,Pender,3
+515,NC,Pitt,11
+516,NC,Randolph,7
+517,NC,Rockingham,4
+518,NC,Surry,6
+519,NC,Union,9
+520,NC,Wake,50
+521,NC,Washington,1
+522,NC,Wayne,6
+523,NC,Yadkin,2
+524,NE,Box Butte,1
+525,NE,Cuming,1
+526,NE,Dawes,1
+527,NE,Dawson,2
+528,NE,Douglas,21
+529,NE,Hall,2
+530,NE,Lancaster,14
+531,NE,Sarpy,7
+532,NE,Scotts Bluff,2
+533,NE,Wayne,1
+534,NH,Hillsborough,14
+535,NJ,Atlantic,11
+536,NJ,Bergen,19
+537,NJ,Burlington,16
+538,NJ,Camden,17
+539,NJ,Cape May,9
+540,NJ,Essex,20
+541,NJ,Gloucester,10
+542,NJ,Hudson,16
+543,NJ,Mercer,12
+544,NJ,Middlesex,25
+545,NJ,Monmouth,22
+546,NJ,Morris,17
+547,NJ,Ocean,20
+548,NJ,Passaic,9
+549,NJ,Salem,4
+550,NJ,Union,18
+551,NM,Bernalillo,38
+552,NM,Chaves,3
+553,NM,Hidalgo,1
+554,NM,Los Alamos,1
+555,NM,Luna,1
+556,NM,Santa Fe,7
+557,NM,Valencia,5
+558,NV,Carson City,3
+559,NV,Clark,114
+560,NV,Douglas,2
+561,NV,Lander,1
+562,NV,Lyon,2
+563,NV,Mineral,1
+564,NV,Pershing,1
+565,NV,Washoe,24
+566,NY,Bronx,40
+567,NY,Broome,11
+568,NY,Dutchess,10
+569,NY,Erie,43
+570,NY,Fulton,2
+571,NY,Herkimer,4
+572,NY,Kings,51
+573,NY,Livingston,5
+574,NY,Monroe,29
+575,NY,Montgomery,4
+576,NY,Nassau,33
+577,NY,Onondaga,21
+578,NY,Ontario,5
+579,NY,Putnam,3
+580,NY,Queens,47
+581,NY,Richmond,8
+582,NY,Rockland,7
+583,NY,Saratoga,11
+584,NY,Schenectady,8
+585,NY,Seneca,2
+586,NY,Suffolk,43
+587,NY,Wayne,5
+588,OH,Adams,3
+589,OH,Allen,9
+590,OH,Ashtabula,8
+591,OH,Auglaize,3
+592,OH,Brown,3
+593,OH,Butler,19
+594,OH,Clark,7
+595,OH,Clermont,10
+596,OH,Columbiana,5
+597,OH,Crawford,3
+598,OH,Cuyahoga,52
+599,OH,Defiance,3
+600,OH,Delaware,9
+601,OH,Erie,8
+602,OH,Fayette,3
+603,OH,Franklin,59
+604,OH,Fulton,2
+605,OH,Gallia,2
+606,OH,Greene,10
+607,OH,Hamilton,33
+608,OH,Hardin,2
+609,OH,Highland,2
+610,OH,Huron,5
+611,OH,Jackson,3
+612,OH,Lake,14
+613,OH,Lawrence,3
+614,OH,Licking,9
+615,OH,Logan,4
+616,OH,Lorain,16
+617,OH,Lucas,25
+618,OH,Madison,3
+619,OH,Mahoning,13
+620,OH,Medina,7
+621,OH,Miami,5
+622,OH,Montgomery,31
+623,OH,Morgan,2
+624,OH,Pickaway,2
+625,OH,Portage,11
+626,OH,Sandusky,4
+627,OH,Stark,30
+628,OH,Summit,32
+629,OH,Trumbull,12
+630,OH,Tuscarawas,7
+631,OH,Warren,9
+632,OH,Wyandot,2
+633,OK,Beckham,3
+634,OK,Canadian,7
+635,OK,Cleveland,13
+636,OK,Cotton,1
+637,OK,Custer,2
+638,OK,Garvin,2
+639,OK,Hughes,2
+640,OK,Kay,2
+641,OK,Latimer,1
+642,OK,Marshall,1
+643,OK,McClain,2
+644,OK,McIntosh,3
+645,OK,Murray,1
+646,OK,Muskogee,6
+647,OK,Oklahoma,49
+648,OK,Okmulgee,2
+649,OK,Osage,3
+650,OK,Pawnee,2
+651,OK,Payne,4
+652,OK,Pottawatomie,4
+653,OK,Tulsa,37
+654,OK,Wagoner,4
+655,OR,Benton,5
+656,OR,Clackamas,19
+657,OR,Clatsop,2
+658,OR,Columbia,2
+659,OR,Crook,1
+660,OR,Deschutes,9
+661,OR,Hood River,2
+662,OR,Jackson,7
+663,OR,Lane,19
+664,OR,Marion,18
+665,OR,Multnomah,26
+666,OR,Polk,3
+667,OR,Umatilla,5
+668,OR,Washington,21
+669,PA,Allegheny,49
+670,PA,Berks,16
+671,PA,Blair,9
+672,PA,Bucks,26
+673,PA,Chester,16
+674,PA,Columbia,5
+675,PA,Cumberland,14
+676,PA,Delaware,21
+677,PA,Erie,15
+678,PA,Lebanon,8
+679,PA,Lehigh,13
+680,PA,Luzerne,17
+681,PA,Montour,1
+682,PA,Northampton,10
+683,PA,Philadelphia,39
+684,PA,Venango,3
+685,PA,York,22
+686,RI,Bristol,1
+687,RI,Kent,6
+688,RI,Providence,19
+689,SC,Anderson,7
+690,SC,Bamberg,1
+691,SC,Beaufort,8
+692,SC,Charleston,18
+693,SC,Cherokee,4
+694,SC,Chester,2
+695,SC,Dorchester,8
+696,SC,Edgefield,2
+697,SC,Florence,11
+698,SC,Georgetown,2
+699,SC,Greenville,24
+700,SC,Greenwood,3
+701,SC,Horry,19
+702,SC,Jasper,2
+703,SC,Kershaw,3
+704,SC,Lancaster,2
+705,SC,Lee,1
+706,SC,Lexington,14
+707,SC,Pickens,3
+708,SC,Richland,18
+709,SC,Saluda,1
+710,SC,Williamsburg,2
+711,SC,York,12
+712,SD,Brule,1
+713,SD,Clay,1
+714,SD,Davison,2
+715,SD,Hughes,1
+716,SD,Pennington,5
+717,TN,Anderson,5
+718,TN,Benton,1
+719,TN,Bledsoe,1
+720,TN,Blount,6
+721,TN,Bradley,6
+722,TN,Campbell,2
+723,TN,Cannon,1
+724,TN,Chester,1
+725,TN,Coffee,2
+726,TN,Davidson,33
+727,TN,De Kalb,1
+728,TN,Dickson,4
+729,TN,Dyer,2
+730,TN,Gibson,4
+731,TN,Hamblen,5
+732,TN,Hamilton,16
+733,TN,Hawkins,3
+734,TN,Haywood,1
+735,TN,Henderson,2
+736,TN,Humphreys,2
+737,TN,Jefferson,4
+738,TN,Knox,25
+739,TN,Lauderdale,1
+740,TN,Lewis,1
+741,TN,Macon,1
+742,TN,Marion,3
+743,TN,Marshall,2
+744,TN,Maury,8
+745,TN,McMinn,2
+746,TN,Montgomery,7
+747,TN,Putnam,4
+748,TN,Roane,3
+749,TN,Robertson,3
+750,TN,Rutherford,16
+751,TN,Sequatchie,1
+752,TN,Shelby,46
+753,TN,Sullivan,10
+754,TN,Sumner,6
+755,TN,Trousdale,1
+756,TN,Unicoi,1
+757,TN,Union,1
+758,TN,Washington,8
+759,TN,Weakley,3
+760,TN,White,1
+761,TN,Williamson,7
+762,TN,Wilson,7
+763,TX,Andrews,1
+764,TX,Angelina,4
+765,TX,Bailey,1
+766,TX,Bastrop,4
+767,TX,Bell,19
+768,TX,Bexar,89
+769,TX,Brazoria,15
+770,TX,Brazos,12
+771,TX,Brooks,2
+772,TX,Burnet,2
+773,TX,Calhoun,1
+774,TX,Callahan,1
+775,TX,Cameron,21
+776,TX,Childress,1
+777,TX,Collin,34
+778,TX,Comal,8
+779,TX,Dallam,1
+780,TX,Dallas,118
+781,TX,Dawson,1
+782,TX,De Witt,2
+783,TX,Deaf Smith,1
+784,TX,Denton,38
+785,TX,Dimmit,1
+786,TX,Ector,7
+787,TX,Ellis,7
+788,TX,Fayette,3
+789,TX,Fort Bend,27
+790,TX,Franklin,1
+791,TX,Frio,1
+792,TX,Galveston,21
+793,TX,Garza,1
+794,TX,Gregg,7
+795,TX,Guadalupe,5
+796,TX,Harris,195
+797,TX,Harrison,4
+798,TX,Hays,8
+799,TX,Hidalgo,33
+800,TX,Hood,3
+801,TX,Hunt,4
+802,TX,Jefferson,14
+803,TX,Johnson,6
+804,TX,Kimble,1
+805,TX,Kleberg,3
+806,TX,La Salle,1
+807,TX,Lampasas,1
+808,TX,Liberty,4
+809,TX,Lubbock,20
+810,TX,Marion,1
+811,TX,Maverick,4
+812,TX,Medina,3
+813,TX,Midland,8
+814,TX,Montgomery,25
+815,TX,Moore,1
+816,TX,Nueces,21
+817,TX,Ochiltree,1
+818,TX,Potter,5
+819,TX,Randall,8
+820,TX,Rockwall,4
+821,TX,San Augustine,1
+822,TX,San Patricio,6
+823,TX,Smith,12
+824,TX,Stephens,1
+825,TX,Tarrant,86
+826,TX,Terry,1
+827,TX,Travis,39
+828,TX,Webb,16
+829,TX,Wharton,5
+830,TX,Wichita,8
+831,TX,Williamson,21
+832,TX,Wood,2
+833,UT,Beaver,1
+834,UT,Davis,14
+835,UT,Grand,1
+836,UT,Salt Lake,49
+837,UT,Utah,18
+838,UT,Wasatch,1
+839,UT,Weber,12
+840,VA,Albemarle,6
+841,VA,Alexandria City,8
+842,VA,Alleghany,2
+843,VA,Amelia,1
+844,VA,Bedford City,1
+845,VA,Bristol City,1
+846,VA,Buckingham,1
+847,VA,Campbell,2
+848,VA,Carroll,2
+849,VA,Chesapeake City,11
+850,VA,Chesterfield,14
+851,VA,Clarke,2
+852,VA,Colonial Heights City,3
+853,VA,Danville City,4
+854,VA,Emporia City,1
+855,VA,Fairfax,48
+856,VA,Franklin City,1
+857,VA,Frederick,6
+858,VA,Galax City,1
+859,VA,Greene,1
+860,VA,Greensville,1
+861,VA,Hampton City,9
+862,VA,Hanover,6
+863,VA,Harrisonburg City,4
+864,VA,Henrico,15
+865,VA,Henry,2
+866,VA,Hopewell City,2
+867,VA,James City,2
+868,VA,King William,1
+869,VA,Loudoun,14
+870,VA,Louisa,2
+871,VA,Manassas City,4
+872,VA,Manassas Park City,2
+873,VA,Martinsville City,2
+874,VA,Newport News City,8
+875,VA,Norfolk City,15
+876,VA,Norton City,1
+877,VA,Orange,2
+878,VA,Page,2
+879,VA,Petersburg City,2
+880,VA,Poquoson City,1
+881,VA,Powhatan,2
+882,VA,Prince William,19
+883,VA,Pulaski,2
+884,VA,Radford City,1
+885,VA,Roanoke,3
+886,VA,Russell,2
+887,VA,Salem City,3
+888,VA,Shenandoah,3
+889,VA,Spotsylvania,4
+890,VA,Stafford,9
+891,VA,Staunton City,2
+892,VA,Suffolk City,4
+893,VA,Tazewell,5
+894,VA,Virginia Beach City,18
+895,VA,Warren,2
+896,VA,Washington,4
+897,VA,Waynesboro City,2
+898,VA,Williamsburg City,4
+899,VA,Winchester City,5
+900,VA,Wise,3
+901,VA,Wythe,3
+902,VA,York,2
+903,WA,Adams,2
+904,WA,Asotin,1
+905,WA,Benton,9
+906,WA,Clark,15
+907,WA,Cowlitz,4
+908,WA,Island,2
+909,WA,King,75
+910,WA,Kitsap,11
+911,WA,Pierce,33
+912,WA,Skagit,5
+913,WA,Snohomish,30
+914,WA,Spokane,25
+915,WA,Thurston,12
+916,WA,Whatcom,7
+917,WA,Yakima,11
+918,WI,Adams,2
+919,WI,Brown,16
+920,WI,Calumet,2
+921,WI,Chippewa,4
+922,WI,Columbia,3
+923,WI,Eau Claire,4
+924,WI,Green,2
+925,WI,Kewaunee,2
+926,WI,La Crosse,4
+927,WI,Lincoln,2
+928,WI,Marathon,9
+929,WI,Milwaukee,47
+930,WI,Outagamie,9
+931,WI,Ozaukee,6
+932,WI,Pepin,1
+933,WI,Polk,3
+934,WI,Racine,10
+935,WI,Rock,12
+936,WI,Sauk,7
+937,WI,Sheboygan,6
+938,WI,St Croix,4
+939,WI,Walworth,5
+940,WI,Waukesha,19
+941,WI,Winnebago,9
+942,WV,Berkeley,4
+943,WV,Hancock,2
+944,WV,Morgan,1
+945,WV,Ohio,4
+946,WV,Pleasants,1
+947,WY,Campbell,2
+948,WY,Converse,1
+949,WY,Johnson,1
+950,WY,Natrona,3
+951,WY,Washakie,1
+952,NE,Butler,0
+953,MT,Sheridan,0
+954,MO,Nodaway,0
+955,AR,Newton,0
+956,ND,Logan,0
+957,MI,Mason,0
+958,KY,Breckinridge,0
+959,MO,Maries,0
+960,CO,Logan,0
+961,NC,Wilkes,0
+962,KS,Pottawatomie,0
+963,FL,Glades,0
+964,PA,Perry,0
+965,IN,Clark,0
+966,KS,Cherokee,0
+967,IN,Ohio,0
+968,TX,Burleson,0
+969,IL,Washington,0
+970,MI,Iron,0
+971,MS,Greene,0
+972,LA,Bossier Parish,0
+973,NM,Lea,0
+974,IN,Crawford,0
+975,NE,Chase,0
+976,TX,Dickens,0
+977,KS,Anderson,0
+978,TX,Coke,0
+979,MS,Pike,0
+980,CO,Prowers,0
+981,IN,Starke,0
+982,MT,McCone,0
+983,PA,Warren,0
+984,ID,Lemhi,0
+985,GA,Marion,0
+986,TX,Armstrong,0
+987,TX,Caldwell,0
+988,MO,Reynolds,0
+989,FL,Putnam,0
+990,KY,Morgan,0
+991,TX,Coleman,0
+992,SD,McPherson,0
+993,LA,Plaquemines Parish,0
+994,SC,Chesterfield,0
+995,AK,Prince of Wales-Outer Ketchikan Borough,0
+996,WI,Burnett,0
+997,IA,Ida,0
+998,MN,Rock,0
+999,OH,Preble,0
+1000,MI,Tuscola,0
+1001,FL,Madison,0
+1002,MN,Hubbard,0
+1003,ND,Burleigh,0
+1004,MN,Morrison,0
+1005,IL,McDonough,0
+1006,LA,East Feliciana Parish,0
+1007,WA,Garfield,0
+1008,KS,Washington,0
+1009,NM,Curry,0
+1010,IN,Daviess,0
+1011,GA,Banks,0
+1012,SD,Jackson,0
+1013,AR,Searcy,0
+1014,FL,Washington,0
+1015,MN,Carver,0
+1016,MI,Presque Isle,0
+1017,MT,Flathead,0
+1018,WA,Stevens,0
+1019,IL,Johnson,0
+1020,TX,Hale,0
+1021,IA,Mitchell,0
+1022,WA,Chelan,0
+1023,CT,Tolland,4
+1024,TX,Walker,0
+1025,NE,Brown,0
+1026,NE,Kearney,0
+1027,TX,Crockett,0
+1028,TX,Robertson,0
+1029,IN,Posey,0
+1030,KY,Hancock,0
+1031,TX,Cherokee,0
+1032,GA,Long,0
+1033,MN,Aitkin,0
+1034,CA,Shasta,0
+1035,MN,Todd,0
+1036,SD,Jerauld,0
+1037,WV,Wood,4
+1038,WY,Albany,0
+1039,TX,Donley,0
+1040,NE,Clay,0
+1041,AR,Ouachita,0
+1042,IL,Mason,0
+1043,KY,Nelson,0
+1044,MO,Shannon,0
+1045,KY,Nicholas,0
+1046,LA,Bienville Parish,0
+1047,TX,Limestone,0
+1048,IA,Page,0
+1049,NC,Montgomery,2
+1051,OK,Comanche,0
+1052,VT,Caledonia,1
+1053,MO,Atchison,0
+1054,CA,Mono,0
+1055,TN,Wayne,0
+1056,CO,Eagle,0
+1057,WV,Lewis,0
+1058,GA,Atkinson,0
+1059,WV,Martin,0
+1060,MI,Marquette,0
+1061,ME,Cumberland,10
+1062,WY,Park,0
+1063,GA,Schley,0
+1064,WA,Ferry,0
+1065,OR,Wallowa,0
+1066,AL,Butler,0
+1067,CO,Conejos,0
+1068,PA,Fulton,1
+1069,AR,Little River,0
+1070,ID,Bannock,0
+1071,AZ,Apache,0
+1072,AL,Walker,0
+1073,KS,Dickinson,0
+1074,CA,Siskiyou,0
+1075,MO,Ripley,0
+1076,CO,Clear Creek,0
+1077,PA,Lawrence,3
+1078,IA,Mills,0
+1079,FL,Union,0
+1080,TX,Borden,0
+1081,OK,Bryan,0
+1082,TX,Kinney,0
+1083,UT,Emery,0
+1084,IA,Marshall,0
+1085,TX,Gray,0
+1086,TX,Houston,0
+1087,NY,Orleans,1
+1088,SD,Buffalo,0
+1089,KY,Butler,0
+1090,IL,Henderson,0
+1091,TX,Lynn,0
+1092,WI,Dodge,0
+1093,PA,Crawford,3
+1094,CA,Modoc,0
+1095,WA,Columbia,0
+1096,KS,Logan,0
+1097,IL,Shelby,0
+1098,MO,Lewis,0
+1099,OH,Perry,0
+1100,PA,Snyder,1
+1101,TX,Nolan,0
+1102,MO,Lawrence,0
+1103,ND,Sioux,0
+1104,SC,Allendale,0
+1105,NE,Saline,0
+1106,CA,Amador,0
+1107,AL,Fayette,0
+1108,TX,Wise,0
+1109,OK,Choctaw,0
+1110,VA,King and Queen,0
+1111,KS,Clay,0
+1112,IL,Knox,0
+1113,ND,Stark,0
+1114,IL,Calhoun,0
+1115,LA,Grant Parish,0
+1116,AR,Lincoln,0
+1117,OH,Champaign,0
+1118,ND,Slope,0
+1119,KS,Greenwood,0
+1120,SD,Hand,0
+1121,MO,Macon,0
+1122,MN,Beltrami,0
+1123,KS,Clark,0
+1124,HI,Kalawao,0
+1125,AK,Hoonah-Angoon Borough,0
+1126,VA,Charlotte,0
+1127,AK,Municipality of Anchorage,0
+1128,ND,Wells,0
+1129,MO,Harrison,0
+1130,MT,Powell,0
+1131,TX,Starr,0
+1132,SD,Custer,0
+1133,NC,Anson,1
+1134,OH,Ashland,0
+1135,AL,Colbert,0
+1136,FL,Gulf,0
+1137,MD,Cecil,5
+1138,AR,Greene,0
+1139,NE,Jefferson,0
+1140,ND,Emmons,0
+1141,MO,Crawford,0
+1142,OK,Alfalfa,0
+1143,KY,Knox,0
+1144,MT,Petroleum,0
+1145,NM,San Miguel,0
+1146,VA,Richmond,0
+1147,MS,Yalobusha,0
+1148,KY,Wolfe,0
+1149,MT,Park,0
+1150,CA,Tehama,0
+1151,TX,Cottle,0
+1152,ND,Morton,0
+1153,MS,Holmes,0
+1154,MN,Renville,0
+1155,MN,Clearwater,0
+1156,TX,Wheeler,0
+1157,MI,Otsego,0
+1158,PA,Pike,2
+1159,NY,Chautauqua,4
+1160,WV,Gilmer,0
+1161,TX,Collingsworth,0
+1162,LA,Iberia Parish,0
+1163,TX,Castro,0
+1164,VA,Amherst,0
+1165,MO,Perry,0
+1166,GA,Ware,0
+1167,WV,Wayne,0
+1168,WA,Whitman,0
+1169,MI,Van Buren,0
+1170,MT,Mineral,0
+1171,GA,Talbot,0
+1172,KY,Laurel,0
+1173,LA,Red River Parish,0
+1174,VA,Grayson,0
+1175,NV,Nye,0
+1176,MO,Cedar,0
+1177,IA,Cass,0
+1178,WV,Barbour,0
+1179,KY,Robertson,0
+1180,KS,Republic,0
+1181,MS,Choctaw,0
+1182,LA,Pointe Coupee Parish,0
+1183,WA,Klickitat,0
+1184,PA,Jefferson,3
+1185,LA,Jefferson Davis Parish,0
+1186,CA,Colusa,0
+1187,MT,Jefferson,0
+1188,KS,Greeley,0
+1189,CA,Humboldt,0
+1190,GA,McIntosh,0
+1191,MD,Somerset,1
+1192,KY,Carlisle,0
+1193,OK,Caddo,0
+1194,SD,Todd,0
+1195,KY,Ballard,0
+1196,LA,Winn Parish,0
+1197,GA,Seminole,0
+1198,SD,Hyde,0
+1199,WA,Mason,0
+1200,IA,Wapello,0
+1201,ND,Bowman,0
+1202,IA,Jones,0
+1203,KS,Edwards,0
+1204,MN,Le Sueur,0
+1205,IA,Davis,0
+1206,WI,Forest,0
+1207,MO,Clark,0
+1208,IA,Floyd,0
+1209,MN,Roseau,0
+1210,IN,Cass,0
+1211,MO,Wright,0
+1212,MD,Caroline,2
+1213,FL,Hardee,0
+1214,IA,Hardin,0
+1215,ID,Oneida,0
+1216,VA,Rappahannock,0
+1217,AR,Independence,0
+1218,AK,Bristol Bay Borough,0
+1219,AL,DeKalb,0
+1220,AK,Petersburg Borough,0
+1221,AL,Sumter,0
+1222,NM,Otero,0
+1223,TN,Hardin,0
+1224,MS,Claiborne,0
+1225,AR,Stone,0
+1226,TX,Waller,0
+1227,ND,Sargent,0
+1228,MI,Ontonagon,0
+1229,OH,Marion,0
+1230,AZ,Santa Cruz,0
+1231,SD,Bon Homme,0
+1232,AL,Tallapoosa,0
+1233,PA,McKean,0
+1234,WI,Monroe,0
+1236,VA,Lancaster,0
+1237,MS,Jones,0
+1238,NY,Franklin,1
+1239,TX,Throckmorton,0
+1240,VT,Windsor,2
+1241,KY,Logan,0
+1242,MD,Charles,9
+1243,NC,Person,1
+1244,CO,Custer,0
+1245,KS,Phillips,0
+1246,TX,Delta,0
+1247,NH,Coos,1
+1248,KS,Harvey,0
+1249,KS,Chautauqua,0
+1250,NE,Merrick,0
+1251,ND,Benson,0
+1252,OR,Harney,0
+1253,AR,Lawrence,0
+1254,ID,Bonner,0
+1255,SD,Haakon,0
+1256,AL,Talladega,0
+1257,MO,Stone,0
+1258,CO,Chaffee,0
+1259,MI,Benzie,0
+1260,KY,Fleming,0
+1261,MS,Sunflower,0
+1262,MO,Vernon,0
+1263,TX,Milam,0
+1264,TX,Glasscock,0
+1265,MN,Koochiching,0
+1266,FL,Sumter,0
+1267,FL,Taylor,0
+1268,OK,Washington,0
+1269,TX,Atascosa,0
+1270,KS,Wichita,0
+1271,OR,Douglas,0
+1272,TN,Meigs,0
+1273,IL,Montgomery,0
+1274,IN,Clay,0
+1275,GA,Dawson,0
+1276,ID,Elmore,0
+1277,GA,Mitchell,0
+1278,AR,Lonoke,0
+1279,OK,Beaver,0
+1280,OH,Noble,0
+1281,SD,Douglas,0
+1282,WV,Logan,1
+1283,ID,Cassia,0
+1284,TX,Aransas,0
+1285,AL,Lauderdale,0
+1286,IN,Greene,0
+1287,TX,Hall,0
+1288,KS,Morris,0
+1289,KS,Ellsworth,0
+1290,NY,Oswego,4
+1291,AR,Madison,0
+1292,MT,Golden Valley,0
+1293,KS,Jefferson,0
+1294,VT,Orleans,0
+1295,WV,Mingo,0
+1296,NE,Madison,0
+1297,TX,Hemphill,0
+1298,TX,Sterling,0
+1299,IA,Cedar,0
+1300,TX,Camp,0
+1301,WI,Grant,0
+1302,VA,Falls Church City,0
+1303,MO,Mercer,0
+1304,SD,Kingsbury,0
+1305,ME,Waldo,1
+1306,KS,Comanche,0
+1307,TX,Young,0
+1308,OR,Wasco,0
+1309,MT,Judith Basin,0
+1310,ME,Franklin,2
+1311,KY,Breathitt,0
+1313,CO,Ouray,0
+1314,MI,Houghton,0
+1315,IN,Vermillion,0
+1316,KS,Lincoln,0
+1317,OK,Pontotoc,0
+1318,AL,Montgomery,0
+1319,MT,Chouteau,0
+1320,NE,Hamilton,0
+1321,IA,Clay,0
+1322,CO,Gilpin,0
+1323,MT,Beaverhead,0
+1324,FL,Wakulla,0
+1325,MO,Audrain,0
+1326,VA,King George,1
+1327,TX,Palo Pinto,0
+1328,IN,Benton,0
+1329,NY,Chemung,3
+1330,ND,Oliver,0
+1331,PA,Wyoming,1
+1332,MN,Kanabec,0
+1333,TX,King,0
+1334,NM,McKinley,0
+1335,KS,Wilson,0
+1336,AK,Aleutians West Census Area,0
+1337,TX,Hartley,0
+1338,TX,Grayson,0
+1339,TN,Stewart,0
+1340,TX,Hardin,0
+1341,WA,Pacific,0
+1342,ME,Lincoln,0
+1343,OR,Curry,0
+1344,VT,Orange,1
+1345,NM,Sandoval,0
+1346,ND,Traill,0
+1347,MT,Sweet Grass,0
+1348,OH,Harrison,0
+1349,AR,Columbia,0
+1350,GA,Twiggs,0
+1351,OH,Carroll,0
+1352,MN,Kittson,0
+1353,KS,Coffey,0
+1354,MO,Putnam,0
+1355,MS,Attala,0
+1356,NC,Alleghany,0
+1357,CO,Delta,0
+1358,MO,Ozark,0
+1359,NC,Polk,0
+1360,NC,Hyde,0
+1361,TX,Val Verde,0
+1362,OH,Darke,0
+1363,VA,Appomattox,0
+1364,WY,Big Horn,0
+1365,GA,White,0
+1366,KS,Wallace,0
+1367,KY,Harlan,0
+1368,GA,Taliaferro,0
+1369,MN,Wilkin,0
+1370,MA,Hampshire,4
+1371,OH,Fairfield,0
+1372,MO,Oregon,0
+1373,NE,Boyd,0
+1374,CO,San Juan,0
+1375,IN,Jay,0
+1376,MT,Hill,0
+1377,NM,Socorro,0
+1378,VA,Goochland,0
+1379,OH,Mercer,0
+1380,KY,Caldwell,0
+1381,MD,Talbot,2
+1382,AK,Yakutat Borough,0
+1383,GA,Miller,0
+1384,WV,Harrison,5
+1385,VA,Surry,0
+1386,ND,McKenzie,0
+1387,NC,Richmond,1
+1388,NM,Mora,0
+1389,IL,Fulton,0
+1390,TX,Somervell,0
+1391,GA,Hart,0
+1392,NE,Keith,0
+1393,IA,Buena Vista,0
+1394,IN,White,0
+1395,TX,Morris,0
+1396,KY,McLean,0
+1397,NE,York,0
+1398,OH,Hocking,0
+1399,IA,Lucas,0
+1400,MS,Jackson,0
+1401,ID,Jefferson,0
+1402,IN,Miami,0
+1403,IL,Henry,0
+1404,MO,Texas,0
+1405,KY,Trimble,0
+1406,WV,Hampshire,0
+1407,NE,Banner,0
+1408,LA,De Soto Parish,0
+1409,SD,Corson,0
+1410,LA,Vermilion Parish,0
+1411,MS,Coahoma,0
+1412,TX,Tyler,0
+1413,VA,Essex,0
+1414,VA,Culpeper,1
+1415,TX,Briscoe,0
+1416,IA,Palo Alto,0
+1417,MN,Lincoln,0
+1418,MN,Houston,0
+1419,IL,Adams,0
+1420,SD,Aurora,0
+1421,KY,Floyd,0
+1422,MN,Lake of the Woods,0
+1423,ID,Teton,0
+1424,UT,San Juan,0
+1425,NY,Schuyler,0
+1426,NM,Torrance,0
+1427,LA,Union Parish,0
+1428,WI,Clark,0
+1429,IA,Hancock,0
+1430,OK,Atoka,0
+1431,MO,Bollinger,0
+1432,ND,Towner,0
+1433,IN,Tipton,0
+1434,AK,Haines Borough,0
+1435,OK,Rogers,0
+1436,IA,Kossuth,0
+1437,IA,Des Moines,0
+1438,IL,Champaign,0
+1439,IL,Franklin,0
+1440,CA,Yolo,0
+1441,KS,Jackson,0
+1442,TX,Kenedy,0
+1443,NE,Deuel,0
+1444,CT,Windham,4
+1445,TX,San Jacinto,0
+1446,UT,Piute,0
+1447,FL,Gadsden,0
+1448,MI,Shiawassee,0
+1449,SC,Union,0
+1450,NY,Wyoming,1
+1451,TX,Knox,0
+1452,GA,Camden,0
+1453,IL,Ford,0
+1454,VA,Rockingham,3
+1455,OK,Logan,0
+1456,AK,City and Borough of Juneau,0
+1457,IL,Edgar,0
+1458,MN,Swift,0
+1459,MS,Tippah,0
+1460,MO,Schuyler,0
+1461,ID,Bear Lake,0
+1462,WI,Green Lake,0
+1463,TX,Lamar,0
+1464,KS,Brown,0
+1465,WI,Trempealeau,0
+1466,TX,Washington,0
+1467,AR,Prairie,0
+1468,ND,Nelson,0
+1469,IN,Fountain,0
+1470,NY,Columbia,1
+1471,MT,Wheatland,0
+1472,NM,Eddy,0
+1473,IN,Clinton,0
+1474,MT,Wibaux,0
+1475,AR,Perry,0
+1476,IA,Buchanan,0
+1477,CO,Costilla,0
+1478,SD,Deuel,0
+1479,NY,Chenango,1
+1480,LA,Cameron Parish,0
+1481,IL,Christian,0
+1482,VT,Lamoille,1
+1483,CA,Imperial,0
+1484,TX,Mills,0
+1485,MI,Leelanau,0
+1486,WI,Sawyer,0
+1487,MN,Nicollet,0
+1488,IN,Bartholomew,0
+1489,PA,Adams,2
+1490,IL,Menard,0
+1491,MO,Washington,0
+1492,TX,Matagorda,0
+1493,AR,Lafayette,0
+1494,ID,Minidoka,0
+1495,MN,Marshall,0
+1496,TX,Shackelford,0
+1497,VA,Northampton,2
+1498,SC,Oconee,0
+1499,IL,Hancock,0
+1500,WV,Brooke,0
+1501,MI,Charlevoix,0
+1502,CA,San Luis Obispo,0
+1503,MN,Becker,0
+1504,NM,Grant,0
+1505,CO,Las Animas,0
+1506,SD,Tripp,0
+1507,ND,Kidder,0
+1508,MS,Issaquena,0
+1509,MO,Osage,0
+1510,MN,Dodge,0
+1511,MN,Nobles,0
+1512,OK,Pittsburg,0
+1513,KS,Lyon,0
+1514,MD,Washington,10
+1515,ND,Foster,0
+1516,MO,Andrew,0
+1517,KY,Ohio,0
+1518,TX,Hansford,0
+1519,TN,McNairy,0
+1520,NE,Thurston,0
+1521,NY,Tioga,1
+1522,CA,Napa,0
+1523,TX,Bandera,0
+1524,CA,Calaveras,0
+1525,MI,Arenac,0
+1526,SC,Mccormick,0
+1527,WV,Marshall,0
+1528,IA,Adams,0
+1529,OK,Woods,0
+1530,NC,Warren,0
+1531,NY,Hamilton,0
+1532,TN,Scott,0
+1533,GA,Harris,0
+1534,MD,Wicomico,4
+1535,IA,Tama,0
+1536,KS,Pratt,0
+1537,KS,Stafford,0
+1538,KY,Henry,0
+1539,AK,Lake and Peninsula Borough,0
+1540,IA,Emmet,0
+1541,ND,Renville,0
+1542,NV,Churchill,0
+1543,AK,Fairbanks North Star Borough,0
+1544,TX,Rains,0
+1545,AL,Dallas,0
+1546,MT,Madison,0
+1547,NE,Harlan,0
+1548,OH,Washington,4
+1549,GA,Union,0
+1550,KS,Doniphan,0
+1551,MN,Norman,0
+1552,WA,Lincoln,0
+1553,MO,Linn,0
+1554,MS,Lafayette,0
+1555,OK,Cimarron,0
+1556,IL,Marion,0
+1557,KS,Kearny,0
+1558,TX,Navarro,0
+1559,WI,Portage,0
+1560,MT,Ravalli,0
+1561,MI,Huron,0
+1562,IA,Audubon,0
+1563,OH,Henry,0
+1564,WA,Pend Oreille,0
+1565,IA,Hamilton,0
+1566,MI,Midland,0
+1567,IA,Plymouth,0
+1568,IA,Winnebago,0
+1569,AL,Houston,0
+1570,OR,Jefferson,0
+1571,WI,Waupaca,0
+1572,TN,Greene,0
+1573,OK,Mayes,0
+1574,KY,Martin,0
+1575,GA,Worth,0
+1576,MT,Glacier,0
+1577,MO,Polk,0
+1578,IL,Clay,0
+1579,MN,Benton,0
+1580,KY,Christian,0
+1581,PA,Bradford,2
+1582,MI,Alcona,0
+1583,OK,Ottawa,0
+1584,ND,Dunn,0
+1585,IN,Lawrence,0
+1586,WY,Sweetwater,0
+1587,MT,Fallon,0
+1588,TX,Lamb,0
+1589,IN,Henry,0
+1590,AK,Northwest Arctic Borough,0
+1591,TX,Live Oak,0
+1592,MI,Oscoda,0
+1593,MS,Carroll,0
+1594,CA,Lake,0
+1595,MS,Neshoba,0
+1596,WA,Grays Harbor,0
+1597,MI,Monroe,0
+1598,LA,St Martin Parish,0
+1599,WV,Putnam,2
+1600,LA,La Salle Parish,0
+1601,VA,Accomack,1
+1602,NV,Storey,0
+1603,WI,Iowa,0
+1604,CA,Santa Cruz,0
+1605,MO,Butler,0
+1606,MS,Humphreys,0
+1607,MN,Jackson,0
+1608,VA,Rockbridge,2
+1609,CO,Crowley,0
+1610,AR,Poinsett,0
+1611,KS,Riley,0
+1612,LA,Natchitoches Parish,0
+1613,CO,Sedgwick,0
+1614,MO,Wayne,0
+1615,KS,Elk,0
+1616,MT,Lincoln,0
+1617,NE,Pawnee,0
+1618,WA,Okanogan,0
+1619,NE,Frontier,0
+1620,NE,Cheyenne,0
+1621,IN,Wabash,0
+1622,TX,Roberts,0
+1623,IA,Delaware,0
+1624,ND,Mountrail,0
+1625,KY,Muhlenberg,0
+1626,NC,Rowan,4
+1627,MN,Murray,0
+1628,VA,Madison,1
+1629,VA,Bath,0
+1630,WV,Jackson,2
+1631,KY,Daviess,0
+1632,VA,Mathews,0
+1633,TX,Hamilton,0
+1634,OH,Ottawa,0
+1635,NE,Loup,0
+1636,AR,Pike,0
+1637,MS,Sharkey,0
+1638,MT,Broadwater,0
+1639,AR,Jefferson,0
+1640,NV,Humboldt,0
+1641,MS,Winston,0
+1642,MS,Lauderdale,0
+1643,GA,Montgomery,0
+1644,KS,Rice,0
+1645,FL,Liberty,0
+1646,IL,Pike,0
+1647,WV,Wyoming,0
+1648,TN,Hancock,0
+1649,IN,Union,0
+1650,NM,Lincoln,0
+1651,AL,Conecuh,0
+1652,CO,Huerfano,0
+1653,MN,Faribault,0
+1654,IN,Washington,0
+1655,WI,Marinette,0
+1656,IA,Union,0
+1657,NC,Lenoir,3
+1658,CA,Mendocino,0
+1659,KY,McCreary,0
+1660,IA,Harrison,0
+1661,OH,Holmes,0
+1662,MO,Morgan,0
+1663,MN,Lac Qui Parle,0
+1664,MA,Dukes,0
+1665,WY,Weston,0
+1666,MO,Shelby,0
+1667,NE,Rock,0
+1668,TN,Carroll,0
+1669,AL,Geneva,0
+1670,ND,Eddy,0
+1671,IL,Livingston,0
+1672,KY,Edmonson,0
+1673,ND,McLean,0
+1674,LA,Franklin Parish,0
+1675,NY,Greene,0
+1676,NE,Burt,0
+1677,LA,Assumption Parish,0
+1678,GA,Jones,0
+1679,MI,Eaton,0
+1680,CO,Dolores,0
+1681,MS,Adams,0
+1682,NH,Carroll,1
+1683,TX,Terrell,0
+1684,WY,Sheridan,0
+1685,IN,Fulton,0
+1686,NC,Vance,3
+1687,GA,Brooks,0
+1688,MN,Mille Lacs,0
+1689,AL,Calhoun,2
+1690,AL,Limestone,1
+1691,AR,Craighead,5
+1692,AR,Garland,4
+1693,AZ,Cochise,6
+1694,AZ,Navajo,5
+1695,AZ,Pinal,14
+1696,CA,El Dorado,5
+1697,CA,Fresno,35
+1698,CA,Marin,5
+1699,CA,Nevada,2
+1700,CA,San Francisco,12
+1701,CA,Yuba,1
+1702,CO,Boulder,7
+1703,CO,Weld,9
+1704,CT,Litchfield,5
+1705,DC,District of Columbia,23
+1706,FL,Citrus,4
+1707,FL,Highlands,4
+1708,FL,Indian River,5
+1709,FL,Monroe,4
+1710,FL,St Johns,4
+1711,FL,St Lucie,10
+1712,FL,Walton,2
+1713,GA,Bulloch,2
+1714,GA,Floyd,3
+1715,GA,Rockdale,4
+1716,GA,Troup,4
+1717,GA,Walker,2
+1718,HI,Hawaii,9
+1719,HI,Kauai,3
+1720,IA,Dallas,4
+1721,IA,Johnson,5
+1722,IA,Linn,9
+1723,IA,Pottawattamie,3
+1724,ID,Canyon,6
+1725,IL,Peoria,8
+1726,IL,Rock Island,7
+1727,IL,Sangamon,12
+1728,IL,St Clair,14
+1729,IL,Vermilion,5
+1730,IN,Kosciusko,4
+1731,IN,Monroe,5
+1732,IN,St Joseph,14
+1733,IN,Vanderburgh,12
+1734,IN,Vigo,5
+1735,IN,Wayne,5
+1736,KS,Leavenworth,1
+1737,KS,Shawnee,9
+1738,LA,Ascension,5
+1739,LA,Bossier,5
+1740,LA,Caddo,12
+1741,LA,Calcasieu,8
+1742,LA,East Baton Rouge,22
+1743,LA,Iberia,4
+1744,LA,Jefferson,21
+1745,LA,Lafayette,12
+1746,LA,Lafourche,3
+1747,LA,Livingston,4
+1748,LA,Orleans,12
+1749,LA,Ouachita,6
+1750,LA,Rapides,6
+1751,LA,St Landry,2
+1752,LA,St Tammany,9
+1753,LA,Tangipahoa,5
+1754,LA,Terrebonne,3
+1755,MA,Barnstable,6
+1756,MA,Berkshire,6
+1757,MA,Franklin,2
+1758,MA,Hampden,21
+1759,MA,Plymouth,15
+1760,MA,Worcester,29
+1761,MD,Allegany,7
+1762,MD,Baltimore City,17
+1763,MD,St Mary's,4
+1764,ME,Androscoggin,2
+1765,ME,Aroostook,5
+1766,ME,Kennebec,5
+1767,ME,Penobscot,5
+1768,ME,York,3
+1769,MI,Allegan,7
+1770,MI,Clinton,2
+1771,MI,Ingham,16
+1772,MI,Lenawee,5
+1773,MI,St Clair,9
+1774,MN,Blue Earth,3
+1775,MN,Rice,2
+1776,MN,Sherburne,4
+1777,MN,St Louis,9
+1778,MN,Stearns,5
+1779,MN,Wright,4
+1780,MO,Cape Girardeau,3
+1781,MO,Christian,2
+1782,MO,Cole,4
+1783,MO,Franklin,4
+1784,MO,Jasper,5
+1785,MO,St Charles,13
+1786,MO,St Louis,34
+1787,MO,St Louis City,3
+1788,MS,Lee,5
+1789,MT,Cascade,2
+1790,MT,Lewis and Clark,2
+1791,MT,Missoula,4
+1792,MT,Yellowstone,5
+1793,NC,Carteret,3
+1794,NC,Catawba,7
+1795,NC,Chatham,2
+1796,NC,Cleveland,4
+1797,NC,Franklin,1
+1798,NC,Henderson,3
+1799,NC,Onslow,8
+1800,NC,Robeson,5
+1801,NC,Rutherford,1
+1802,NC,Wilson,5
+1803,ND,Cass,6
+1804,ND,Grand Forks,3
+1805,ND,Ward,2
+1806,NH,Cheshire,2
+1807,NH,Grafton,3
+1808,NH,Merrimack,5
+1809,NH,Rockingham,10
+1810,NH,Strafford,4
+1811,NJ,Cumberland,6
+1812,NJ,Hunterdon,3
+1813,NJ,Somerset,7
+1814,NJ,Sussex,2
+1815,NJ,Warren,4
+1816,NM,Dona Ana,7
+1817,NM,San Juan,4
+1818,NY,Albany,12
+1819,NY,Cattaraugus,2
+1820,NY,Cayuga,2
+1821,NY,Clinton,2
+1822,NY,Jefferson,3
+1823,NY,Madison,1
+1824,NY,New York,22
+1825,NY,Niagara,5
+1826,NY,Oneida,7
+1827,NY,Orange,11
+1828,NY,Rensselaer,3
+1829,NY,St Lawrence,3
+1830,NY,Steuben,2
+1831,NY,Sullivan,3
+1832,NY,Tompkins,2
+1833,NY,Ulster,4
+1834,NY,Warren,2
+1835,NY,Westchester,16
+1836,OH,Athens,4
+1837,OH,Belmont,5
+1838,OH,Geauga,4
+1839,OH,Hancock,2
+1840,OH,Jefferson,3
+1841,OH,Muskingum,5
+1842,OH,Richland,7
+1843,OH,Ross,2
+1844,OH,Scioto,3
+1845,OH,Wayne,4
+1846,OH,Wood,7
+1847,OK,Creek,1
+1848,OR,Josephine,3
+1849,OR,Klamath,2
+1850,OR,Linn,2
+1851,OR,Yamhill,3
+1852,PA,Armstrong,1
+1853,PA,Beaver,7
+1854,PA,Butler,6
+1855,PA,Cambria,6
+1856,PA,Carbon,1
+1857,PA,Centre,4
+1858,PA,Clearfield,1
+1859,PA,Dauphin,13
+1860,PA,Fayette,6
+1861,PA,Franklin,6
+1862,PA,Indiana,3
+1863,PA,Lackawanna,8
+1864,PA,Lancaster,17
+1865,PA,Lycoming,5
+1866,PA,Mercer,4
+1867,PA,Monroe,3
+1868,PA,Montgomery,24
+1869,PA,Northumberland,3
+1870,PA,Schuylkill,1
+1871,PA,Somerset,3
+1872,PA,Washington,9
+1873,PA,Westmoreland,14
+1874,RI,Newport,2
+1875,RI,Washington,3
+1876,SC,Aiken,6
+1877,SC,Berkeley,4
+1878,SC,Darlington,1
+1879,SC,Laurens,3
+1880,SC,Orangeburg,4
+1881,SC,Spartanburg,15
+1882,SC,Sumter,6
+1883,SD,Minnehaha,8
+1884,TN,Madison,4
+1885,TN,Sevier,7
+1886,TX,Bowie,6
+1887,TX,Coryell,2
+1888,TX,El Paso,23
+1889,TX,Henderson,2
+1890,TX,Kaufman,3
+1891,TX,McLennan,1
+1892,TX,Nacogdoches,3
+1893,TX,Orange,4
+1894,TX,Parker,3
+1895,TX,Taylor,4
+1896,TX,Tom Green,3
+1897,TX,Victoria,4
+1898,UT,Cache,3
+1899,UT,Tooele,2
+1900,UT,Washington,2
+1901,VA,Arlington,7
+1902,VA,Augusta,1
+1903,VA,Bedford,1
+1904,VA,Fauquier,4
+1905,VA,Lynchburg City,7
+1906,VA,Montgomery,3
+1907,VA,Portsmouth City,3
+1908,VA,Richmond City,6
+1909,VA,Roanoke City,5
+1910,VT,Chittenden,4
+1911,WA,Clallam,2
+1912,WA,Franklin,2
+1913,WA,Grant,4
+1914,WA,Lewis,4
+1915,WI,Dane,22
+1916,WI,Fond Du Lac,4
+1917,WI,Jefferson,4
+1918,WI,Kenosha,8
+1919,WI,Manitowoc,4
+1920,WI,Washington,7
+1921,WI,Wood,2
+1922,WV,Cabell,6
+1923,WV,Kanawha,11
+1924,WV,Monongalia,5
+1925,WV,Raleigh,3
+1926,WY,Laramie,5
+1926,AL,St Clair,4

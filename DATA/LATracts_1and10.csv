@@ -1,0 +1,3142 @@
+state_name,county,Sum of LA1and10,Count of CensusTract,LA County Rate,low_access_flag
+Alabama,Bullock,3,3,1,YES
+Alabama,Baldwin,15,31,0.483870968,NO
+Alaska,Aleutians East,1,1,1,YES
+Alabama,Bibb,0,4,0,NO
+Alabama,Blount,2,9,0.222222222,NO
+Alaska,Bethel,3,3,1,YES
+Alabama,Butler,3,9,0.333333333,NO
+Alabama,Calhoun,15,31,0.483870968,NO
+Alabama,Chambers,4,9,0.444444444,NO
+Alabama,Cherokee,1,6,0.166666667,NO
+Alabama,Chilton,1,9,0.111111111,NO
+Alabama,Choctaw,1,4,0.25,NO
+Alaska,Bristol Bay,1,1,1,YES
+Alabama,Clay,0,4,0,NO
+Alabama,Cleburne,0,4,0,NO
+Alabama,Coffee,6,14,0.428571429,NO
+Alabama,Colbert,6,14,0.428571429,NO
+Alaska,Denali,1,1,1,YES
+Alaska,Haines,1,1,1,YES
+Alabama,Covington,6,14,0.428571429,NO
+Alaska,Hoonah-Angoon,1,1,1,YES
+Alabama,Cullman,3,18,0.166666667,NO
+Alabama,Dale,4,14,0.285714286,NO
+Alabama,Dallas,4,15,0.266666667,NO
+Alabama,DeKalb,0,14,0,NO
+Alabama,Elmore,3,15,0.2,NO
+Alabama,Escambia,4,9,0.444444444,NO
+Alabama,Etowah,13,30,0.433333333,NO
+Alabama,Fayette,0,5,0,NO
+Alabama,Franklin,3,9,0.333333333,NO
+Alabama,Geneva,1,6,0.166666667,NO
+Alaska,Lake and Peninsula,1,1,1,YES
+Alabama,Hale,2,6,0.333333333,NO
+Alabama,Henry,2,6,0.333333333,NO
+Alabama,Houston,7,22,0.318181818,NO
+Alabama,Jackson,3,11,0.272727273,NO
+Alaska,North Slope,3,3,1,YES
+Alabama,Lamar,0,3,0,NO
+Alabama,Lauderdale,6,22,0.272727273,NO
+Alabama,Lawrence,2,9,0.222222222,NO
+Alaska,Southeast Fairbanks,2,2,1,YES
+Alabama,Limestone,4,16,0.25,NO
+Alabama,Lowndes,1,4,0.25,NO
+Alaska,Wade Hampton,1,1,1,YES
+Alaska,Yakutat,1,1,1,YES
+Alaska,Yukon-Koyukuk,4,4,1,YES
+Alabama,Marion,1,8,0.125,NO
+Alabama,Marshall,8,18,0.444444444,NO
+Alabama,Mobile,45,114,0.394736842,NO
+Alabama,Monroe,3,7,0.428571429,NO
+Arkansas,Calhoun,2,2,1,YES
+Alabama,Morgan,8,27,0.296296296,NO
+Alabama,Perry,1,3,0.333333333,NO
+Alabama,Pickens,0,5,0,NO
+Alabama,Pike,2,8,0.25,NO
+Arkansas,Dallas,3,3,1,YES
+Alabama,Russell,3,13,0.230769231,NO
+Arkansas,Grant,4,4,1,YES
+Alabama,St. Clair,2,13,0.153846154,NO
+Alabama,Sumter,1,4,0.25,NO
+Alabama,Talladega,7,22,0.318181818,NO
+Alabama,Tallapoosa,1,10,0.1,NO
+Alabama,Tuscaloosa,18,47,0.382978723,NO
+Alabama,Walker,2,18,0.111111111,NO
+Alabama,Washington,1,5,0.2,NO
+Arkansas,Hempstead,5,5,1,YES
+Alabama,Winston,1,7,0.142857143,NO
+Arkansas,Montgomery,3,3,1,YES
+Arkansas,Nevada,3,3,1,YES
+Arkansas,Newton,2,2,1,YES
+Alaska,Anchorage,26,55,0.472727273,NO
+Arkansas,Scott,3,3,1,YES
+California,Alpine,1,1,1,YES
+California,Mono,3,3,1,YES
+California,Sierra,1,1,1,YES
+Alaska,Fairbanks North Star,8,19,0.421052632,NO
+Colorado,Bent,1,1,1,YES
+Colorado,Cheyenne,1,1,1,YES
+Alaska,Juneau,2,6,0.333333333,NO
+Colorado,Costilla,2,2,1,YES
+Alaska,Ketchikan Gateway,0,4,0,NO
+Alaska,Kodiak Island,2,5,0.4,NO
+Colorado,Custer,1,1,1,YES
+Alaska,Matanuska-Susitna,11,24,0.458333333,NO
+Colorado,Dolores,1,1,1,YES
+Colorado,Kiowa,1,1,1,YES
+Colorado,Lake,2,2,1,YES
+Colorado,Moffat,4,4,1,YES
+Alaska,Skagway Municipality,0,1,0,NO
+Colorado,San Juan,1,1,1,YES
+Colorado,Yuma,2,2,1,YES
+Georgia,Baker,2,2,1,YES
+Georgia,Clay,1,1,1,YES
+Georgia,Glascock,1,1,1,YES
+Georgia,Taliaferro,1,1,1,YES
+Idaho,Benewah,2,2,1,YES
+Idaho,Boise,1,1,1,YES
+Idaho,Butte,1,1,1,YES
+Idaho,Camas,1,1,1,YES
+Idaho,Clark,1,1,1,YES
+Arizona,La Paz,4,9,0.444444444,NO
+Arizona,Maricopa,332,916,0.362445415,NO
+Idaho,Custer,1,1,1,YES
+Idaho,Idaho,5,5,1,YES
+Arizona,Pima,104,241,0.43153527,NO
+Idaho,Lincoln,1,1,1,YES
+Idaho,Teton,1,1,1,YES
+Illinois,Edgar,5,5,1,YES
+Arizona,Yuma,20,55,0.363636364,NO
+Illinois,Gallatin,2,2,1,YES
+Illinois,Stark,2,2,1,YES
+Arkansas,Baxter,3,9,0.333333333,NO
+Arkansas,Benton,24,49,0.489795918,NO
+Iowa,Fremont,3,3,1,YES
+Arkansas,Bradley,1,5,0.2,NO
+Iowa,Osceola,2,2,1,YES
+Arkansas,Carroll,2,5,0.4,NO
+Iowa,Van Buren,2,2,1,YES
+Kansas,Chase,1,1,1,YES
+Arkansas,Clay,2,6,0.333333333,NO
+Arkansas,Cleburne,3,7,0.428571429,NO
+Kansas,Chautauqua,1,1,1,YES
+Kansas,Clark,1,1,1,YES
+Kansas,Coffey,3,3,1,YES
+Arkansas,Craighead,7,17,0.411764706,NO
+Kansas,Elk,1,1,1,YES
+Arkansas,Crittenden,8,20,0.4,NO
+Kansas,Ellsworth,2,2,1,YES
+Kansas,Franklin,5,5,1,YES
+Kansas,Greeley,1,1,1,YES
+Kansas,Hamilton,1,1,1,YES
+Arkansas,Faulkner,9,25,0.36,NO
+Arkansas,Franklin,1,3,0.333333333,NO
+Kansas,Haskell,1,1,1,YES
+Kansas,Hodgeman,1,1,1,YES
+Kansas,Kearny,1,1,1,YES
+Kansas,Kingman,3,3,1,YES
+Kansas,Kiowa,1,1,1,YES
+Kansas,Lincoln,1,1,1,YES
+Kansas,Logan,1,1,1,YES
+Arkansas,Independence,2,8,0.25,NO
+Arkansas,Izard,0,4,0,NO
+Kansas,Mitchell,2,2,1,YES
+Arkansas,Jefferson,6,24,0.25,NO
+Kansas,Morton,1,1,1,YES
+Kansas,Norton,1,1,1,YES
+Kansas,Osborne,1,1,1,YES
+Kansas,Ottawa,2,2,1,YES
+Arkansas,Lincoln,1,4,0.25,NO
+Arkansas,Little River,0,4,0,NO
+Kansas,Pawnee,2,2,1,YES
+Arkansas,Lonoke,5,16,0.3125,NO
+Kansas,Pratt,3,3,1,YES
+Kansas,Rawlins,1,1,1,YES
+Kansas,Russell,2,2,1,YES
+Arkansas,Mississippi,5,12,0.416666667,NO
+Kansas,Scott,1,1,1,YES
+Kansas,Sherman,2,2,1,YES
+Kansas,Stafford,2,2,1,YES
+Kansas,Thomas,2,2,1,YES
+Kansas,Wallace,1,1,1,YES
+Arkansas,Perry,1,3,0.333333333,NO
+Kansas,Washington,2,2,1,YES
+Kansas,Wichita,1,1,1,YES
+Arkansas,Poinsett,3,7,0.428571429,NO
+Kentucky,Robertson,1,1,1,YES
+Louisiana,Beauregard,7,7,1,YES
+Arkansas,Prairie,1,3,0.333333333,NO
+Louisiana,East Carroll,3,3,1,YES
+Louisiana,La Salle,3,3,1,YES
+Arkansas,Saline,9,21,0.428571429,NO
+Michigan,Alger,3,3,1,YES
+Michigan,Baraga,2,2,1,YES
+Arkansas,Sebastian,6,26,0.230769231,NO
+Minnesota,Grant,2,2,1,YES
+Minnesota,Kittson,2,2,1,YES
+Minnesota,Koochiching,4,4,1,YES
+Minnesota,Red Lake,2,2,1,YES
+Mississippi,Amite,3,3,1,YES
+Arkansas,Van Buren,2,5,0.4,NO
+Arkansas,Washington,11,32,0.34375,NO
+Arkansas,White,6,13,0.461538462,NO
+Arkansas,Woodruff,0,2,0,NO
+Mississippi,Benton,2,2,1,YES
+California,Alameda,56,360,0.155555556,NO
+Mississippi,Carroll,2,2,1,YES
+California,Amador,0,9,0,NO
+California,Butte,25,51,0.490196078,NO
+California,Calaveras,2,10,0.2,NO
+Mississippi,Franklin,2,2,1,YES
+California,Contra Costa,97,208,0.466346154,NO
+Mississippi,Issaquena,1,1,1,YES
+California,El Dorado,18,43,0.418604651,NO
+California,Fresno,55,199,0.27638191,NO
+Mississippi,Kemper,2,2,1,YES
+California,Humboldt,9,30,0.3,NO
+California,Imperial,13,31,0.419354839,NO
+Mississippi,Leake,5,5,1,YES
+California,Kern,55,151,0.364238411,NO
+California,Kings,12,27,0.444444444,NO
+California,Lake,2,15,0.133333333,NO
+Mississippi,Montgomery,3,3,1,YES
+California,Los Angeles,301,2343,0.128467776,NO
+California,Madera,5,23,0.217391304,NO
+California,Marin,16,55,0.290909091,NO
+California,Mariposa,2,6,0.333333333,NO
+California,Mendocino,8,20,0.4,NO
+California,Merced,20,49,0.408163265,NO
+Mississippi,Stone,3,3,1,YES
+Mississippi,Wilkinson,2,2,1,YES
+California,Monterey,22,93,0.23655914,NO
+California,Napa,7,40,0.175,NO
+Missouri,DeKalb,2,2,1,YES
+California,Orange,98,583,0.168096055,NO
+California,Placer,39,85,0.458823529,NO
+California,Plumas,1,7,0.142857143,NO
+California,Riverside,197,453,0.434878587,NO
+California,Sacramento,96,317,0.302839117,NO
+California,San Benito,5,11,0.454545455,NO
+California,San Bernardino,150,369,0.406504065,NO
+California,San Diego,185,628,0.294585987,NO
+California,San Francisco,3,196,0.015306122,NO
+California,San Joaquin,32,139,0.230215827,NO
+California,San Luis Obispo,23,53,0.433962264,NO
+California,San Mateo,30,158,0.189873418,NO
+California,Santa Barbara,27,90,0.3,NO
+California,Santa Clara,60,372,0.161290323,NO
+California,Santa Cruz,21,52,0.403846154,NO
+California,Shasta,20,48,0.416666667,NO
+Missouri,Douglas,3,3,1,YES
+California,Siskiyou,6,14,0.428571429,NO
+California,Solano,36,96,0.375,NO
+California,Sonoma,31,99,0.313131313,NO
+California,Stanislaus,24,94,0.255319149,NO
+Missouri,Grundy,4,4,1,YES
+Missouri,Holt,3,3,1,YES
+California,Trinity,2,5,0.4,NO
+California,Tulare,26,78,0.333333333,NO
+California,Tuolumne,3,11,0.272727273,NO
+California,Ventura,60,174,0.344827586,NO
+California,Yolo,8,41,0.195121951,NO
+California,Yuba,4,14,0.285714286,NO
+Colorado,Adams,45,97,0.463917526,NO
+Missouri,Laclede,6,6,1,YES
+Colorado,Arapahoe,37,147,0.25170068,NO
+Missouri,Mercer,2,2,1,YES
+Missouri,Nodaway,5,5,1,YES
+Missouri,Oregon,3,3,1,YES
+Colorado,Boulder,21,68,0.308823529,NO
+Missouri,Ozark,2,2,1,YES
+Colorado,Chaffee,1,5,0.2,NO
+Missouri,Schuyler,2,2,1,YES
+Colorado,Clear Creek,1,3,0.333333333,NO
+Colorado,Conejos,0,2,0,NO
+Montana,Carter,1,1,1,YES
+Colorado,Crowley,0,1,0,NO
+Montana,Chouteau,2,2,1,YES
+Colorado,Delta,1,7,0.142857143,NO
+Colorado,Denver,22,144,0.152777778,NO
+Montana,Dawson,3,3,1,YES
+Colorado,Douglas,28,61,0.459016393,NO
+Colorado,Eagle,4,14,0.285714286,NO
+Montana,Fallon,1,1,1,YES
+Montana,Fergus,2,2,1,YES
+Montana,Garfield,1,1,1,YES
+Colorado,Garfield,4,11,0.363636364,NO
+Colorado,Gilpin,0,1,0,NO
+Colorado,Grand,0,3,0,NO
+Colorado,Gunnison,1,4,0.25,NO
+Colorado,Hinsdale,0,1,0,NO
+Montana,Golden Valley,1,1,1,YES
+Colorado,Jackson,0,1,0,NO
+Colorado,Jefferson,50,138,0.362318841,NO
+Montana,Granite,1,1,1,YES
+Colorado,Kit Carson,1,3,0.333333333,NO
+Montana,Judith Basin,1,1,1,YES
+Montana,Liberty,1,1,1,YES
+Colorado,Larimer,31,73,0.424657534,NO
+Montana,McCone,1,1,1,YES
+Montana,Meagher,1,1,1,YES
+Montana,Mineral,2,2,1,YES
+Montana,Petroleum,1,1,1,YES
+Colorado,Mineral,0,1,0,NO
+Montana,Phillips,1,1,1,YES
+Colorado,Montezuma,3,7,0.428571429,NO
+Montana,Powder River,1,1,1,YES
+Colorado,Morgan,2,8,0.25,NO
+Colorado,Otero,3,7,0.428571429,NO
+Colorado,Ouray,0,1,0,NO
+Montana,Prairie,1,1,1,YES
+Colorado,Phillips,0,2,0,NO
+Colorado,Pitkin,1,4,0.25,NO
+Montana,Sweet Grass,1,1,1,YES
+Montana,Treasure,1,1,1,YES
+Colorado,Rio Blanco,0,2,0,NO
+Montana,Wheatland,1,1,1,YES
+Colorado,Routt,3,8,0.375,NO
+Montana,Wibaux,1,1,1,YES
+Nebraska,Arthur,1,1,1,YES
+Colorado,San Miguel,1,4,0.25,NO
+Colorado,Sedgwick,0,1,0,NO
+Colorado,Summit,1,5,0.2,NO
+Colorado,Teller,1,6,0.166666667,NO
+Nebraska,Banner,1,1,1,YES
+Colorado,Weld,28,77,0.363636364,NO
+Nebraska,Blaine,1,1,1,YES
+Connecticut,Fairfield,102,211,0.483412322,NO
+Connecticut,Hartford,97,224,0.433035714,NO
+Connecticut,Litchfield,16,51,0.31372549,NO
+Nebraska,Box Butte,3,3,1,YES
+Nebraska,Boyd,1,1,1,YES
+Nebraska,Chase,1,1,1,YES
+Nebraska,Cherry,2,2,1,YES
+Connecticut,Windham,5,25,0.2,NO
+Delaware,Kent,13,33,0.393939394,NO
+Delaware,New Castle,56,131,0.427480916,NO
+Delaware,Sussex,25,54,0.462962963,NO
+District of Columbia,District of Columbia,9,179,0.05027933,NO
+Florida,Alachua,19,56,0.339285714,NO
+Nebraska,Clay,2,2,1,YES
+Nebraska,Dawes,2,2,1,YES
+Florida,Bradford,0,4,0,NO
+Nebraska,Deuel,1,1,1,YES
+Florida,Broward,76,361,0.210526316,NO
+Nebraska,Dixon,2,2,1,YES
+Nebraska,Dundy,1,1,1,YES
+Nebraska,Frontier,1,1,1,YES
+Nebraska,Furnas,1,1,1,YES
+Nebraska,Garden,1,1,1,YES
+Nebraska,Gosper,1,1,1,YES
+Florida,DeSoto,2,9,0.222222222,NO
+Florida,Dixie,1,3,0.333333333,NO
+Nebraska,Grant,1,1,1,YES
+Nebraska,Greeley,1,1,1,YES
+Nebraska,Hayes,1,1,1,YES
+Florida,Franklin,0,4,0,NO
+Florida,Gadsden,2,9,0.222222222,NO
+Florida,Gilchrist,0,5,0,NO
+Nebraska,Hitchcock,1,1,1,YES
+Florida,Gulf,1,3,0.333333333,NO
+Nebraska,Keya Paha,1,1,1,YES
+Nebraska,Loup,1,1,1,YES
+Florida,Hendry,2,7,0.285714286,NO
+Nebraska,McPherson,1,1,1,YES
+Florida,Highlands,12,27,0.444444444,NO
+Florida,Hillsborough,151,321,0.470404984,NO
+Nebraska,Merrick,3,3,1,YES
+Nebraska,Morrill,1,1,1,YES
+Florida,Jackson,3,11,0.272727273,NO
+Florida,Jefferson,1,3,0.333333333,NO
+Nebraska,Nance,1,1,1,YES
+Nebraska,Pawnee,1,1,1,YES
+Nebraska,Perkins,1,1,1,YES
+Florida,Leon,32,68,0.470588235,NO
+Florida,Levy,3,9,0.333333333,NO
+Nebraska,Pierce,2,2,1,YES
+Florida,Madison,2,5,0.4,NO
+Nebraska,Red Willow,3,3,1,YES
+Florida,Marion,28,63,0.444444444,NO
+Nebraska,Sherman,1,1,1,YES
+Florida,Miami-Dade,76,519,0.146435453,NO
+Florida,Monroe,14,30,0.466666667,NO
+Nebraska,Sioux,1,1,1,YES
+Nebraska,Stanton,2,2,1,YES
+Nebraska,Thomas,1,1,1,YES
+Florida,Orange,89,207,0.429951691,NO
+Nebraska,Thurston,2,2,1,YES
+Florida,Palm Beach,118,337,0.350148368,NO
+Nebraska,Wheeler,1,1,1,YES
+Florida,Pinellas,80,245,0.326530612,NO
+Nevada,Esmeralda,1,1,1,YES
+Florida,Putnam,5,17,0.294117647,NO
+Nevada,Eureka,1,1,1,YES
+Nevada,Lander,1,1,1,YES
+Nevada,Lincoln,2,2,1,YES
+Nevada,Mineral,2,2,1,YES
+Nevada,Pershing,1,1,1,YES
+Florida,Sumter,6,19,0.315789474,NO
+Florida,Suwannee,3,7,0.428571429,NO
+New Mexico,Catron,1,1,1,YES
+New Mexico,Guadalupe,1,1,1,YES
+New Mexico,Harding,1,1,1,YES
+Florida,Wakulla,0,4,0,NO
+Florida,Walton,5,11,0.454545455,NO
+New Mexico,Los Alamos,4,4,1,YES
+New Mexico,Mora,1,1,1,YES
+Georgia,Atkinson,1,3,0.333333333,NO
+Georgia,Bacon,0,3,0,NO
+New Mexico,Quay,3,3,1,YES
+Georgia,Baldwin,4,9,0.444444444,NO
+Georgia,Banks,0,4,0,NO
+New Mexico,Roosevelt,5,5,1,YES
+Georgia,Bartow,6,15,0.4,NO
+Georgia,Ben Hill,2,5,0.4,NO
+Georgia,Berrien,2,6,0.333333333,NO
+New Mexico,Socorro,6,6,1,YES
+Georgia,Bleckley,1,3,0.333333333,NO
+Georgia,Brantley,1,3,0.333333333,NO
+Georgia,Brooks,2,5,0.4,NO
+Georgia,Bryan,2,7,0.285714286,NO
+Georgia,Bulloch,3,12,0.25,NO
+New Mexico,Union,1,1,1,YES
+Georgia,Butts,1,3,0.333333333,NO
+North Dakota,Adams,1,1,1,YES
+North Dakota,Billings,1,1,1,YES
+Georgia,Candler,0,3,0,NO
+North Dakota,Burke,1,1,1,YES
+North Dakota,Divide,1,1,1,YES
+Georgia,Charlton,0,2,0,NO
+Georgia,Chatham,32,72,0.444444444,NO
+North Dakota,Dunn,1,1,1,YES
+North Dakota,Eddy,1,1,1,YES
+North Dakota,Emmons,1,1,1,YES
+North Dakota,Foster,1,1,1,YES
+North Dakota,Golden Valley,1,1,1,YES
+North Dakota,Grant,1,1,1,YES
+Georgia,Clinch,0,2,0,NO
+North Dakota,Griggs,1,1,1,YES
+Georgia,Coffee,2,9,0.222222222,NO
+North Dakota,Hettinger,2,2,1,YES
+North Dakota,Kidder,1,1,1,YES
+Georgia,Cook,0,4,0,NO
+North Dakota,Logan,1,1,1,YES
+Georgia,Crawford,0,3,0,NO
+Georgia,Crisp,1,6,0.166666667,NO
+Georgia,Dade,0,4,0,NO
+Georgia,Dawson,0,3,0,NO
+Georgia,Decatur,3,7,0.428571429,NO
+North Dakota,McHenry,2,2,1,YES
+Georgia,Dodge,0,6,0,NO
+North Dakota,McIntosh,1,1,1,YES
+North Dakota,McLean,2,2,1,YES
+North Dakota,Nelson,1,1,1,YES
+Georgia,Early,0,5,0,NO
+Georgia,Echols,0,2,0,NO
+Georgia,Effingham,3,10,0.3,NO
+Georgia,Elbert,1,5,0.2,NO
+North Dakota,Oliver,1,1,1,YES
+Georgia,Evans,0,3,0,NO
+Georgia,Fannin,0,5,0,NO
+North Dakota,Renville,1,1,1,YES
+North Dakota,Sheridan,1,1,1,YES
+North Dakota,Slope,1,1,1,YES
+Georgia,Franklin,0,5,0,NO
+Georgia,Fulton,100,204,0.490196078,NO
+Georgia,Gilmer,2,5,0.4,NO
+North Dakota,Steele,1,1,1,YES
+North Dakota,Towner,1,1,1,YES
+Georgia,Gordon,4,9,0.444444444,NO
+Georgia,Grady,1,6,0.166666667,NO
+Georgia,Greene,1,7,0.142857143,NO
+Ohio,Vinton,3,3,1,YES
+Georgia,Habersham,2,8,0.25,NO
+Oklahoma,Cotton,2,2,1,YES
+Oklahoma,Custer,5,5,1,YES
+Georgia,Haralson,1,5,0.2,NO
+Georgia,Harris,0,5,0,NO
+Georgia,Hart,0,5,0,NO
+Georgia,Heard,1,3,0.333333333,NO
+Oklahoma,Dewey,3,3,1,YES
+Oklahoma,Ellis,2,2,1,YES
+Georgia,Irwin,0,2,0,NO
+Georgia,Jackson,5,11,0.454545455,NO
+Oklahoma,Grant,2,2,1,YES
+Oklahoma,Roger Mills,1,1,1,YES
+Georgia,Jefferson,0,4,0,NO
+Georgia,Jenkins,0,2,0,NO
+Georgia,Johnson,1,3,0.333333333,NO
+Georgia,Jones,2,6,0.333333333,NO
+Georgia,Lamar,1,3,0.333333333,NO
+Georgia,Lanier,0,2,0,NO
+Georgia,Laurens,5,13,0.384615385,NO
+Georgia,Lee,2,5,0.4,NO
+Oklahoma,Washita,4,4,1,YES
+Georgia,Lincoln,0,2,0,NO
+Georgia,Long,0,3,0,NO
+Georgia,Lowndes,10,25,0.4,NO
+Georgia,Lumpkin,0,4,0,NO
+Georgia,Macon,0,4,0,NO
+Georgia,Madison,1,6,0.166666667,NO
+Georgia,Marion,0,2,0,NO
+Georgia,McDuffie,0,5,0,NO
+Georgia,McIntosh,1,4,0.25,NO
+Georgia,Meriwether,1,4,0.25,NO
+Georgia,Miller,0,3,0,NO
+Georgia,Mitchell,2,5,0.4,NO
+Georgia,Monroe,1,5,0.2,NO
+Georgia,Montgomery,1,3,0.333333333,NO
+Georgia,Morgan,2,5,0.4,NO
+Georgia,Murray,2,8,0.25,NO
+Georgia,Muscogee,24,53,0.452830189,NO
+Oregon,Gilliam,1,1,1,YES
+Georgia,Oconee,1,6,0.166666667,NO
+Georgia,Oglethorpe,0,4,0,NO
+Oregon,Grant,2,2,1,YES
+Georgia,Peach,1,6,0.166666667,NO
+Georgia,Pickens,1,6,0.166666667,NO
+Georgia,Pierce,1,4,0.25,NO
+Georgia,Pike,0,4,0,NO
+Georgia,Polk,2,7,0.285714286,NO
+Georgia,Pulaski,0,3,0,NO
+Georgia,Putnam,1,5,0.2,NO
+Georgia,Quitman,0,1,0,NO
+Georgia,Rabun,0,5,0,NO
+Oregon,Harney,2,2,1,YES
+Oregon,Sherman,1,1,1,YES
+Oregon,Wheeler,1,1,1,YES
+Georgia,Schley,0,2,0,NO
+Georgia,Screven,1,5,0.2,NO
+Georgia,Seminole,1,3,0.333333333,NO
+South Dakota,Aurora,1,1,1,YES
+Georgia,Stephens,2,5,0.4,NO
+South Dakota,Bennett,2,2,1,YES
+Georgia,Sumter,2,8,0.25,NO
+Georgia,Talbot,1,3,0.333333333,NO
+South Dakota,Brookings,6,6,1,YES
+Georgia,Tattnall,1,5,0.2,NO
+Georgia,Taylor,0,3,0,NO
+Georgia,Telfair,1,3,0.333333333,NO
+Georgia,Terrell,1,4,0.25,NO
+South Dakota,Buffalo,1,1,1,YES
+Georgia,Tift,3,9,0.333333333,NO
+Georgia,Toombs,2,6,0.333333333,NO
+Georgia,Towns,0,3,0,NO
+South Dakota,Butte,2,2,1,YES
+Georgia,Troup,3,14,0.214285714,NO
+South Dakota,Campbell,1,1,1,YES
+Georgia,Twiggs,0,2,0,NO
+Georgia,Union,0,6,0,NO
+Georgia,Upson,2,7,0.285714286,NO
+Georgia,Walker,6,13,0.461538462,NO
+Georgia,Walton,7,15,0.466666667,NO
+South Dakota,Clark,1,1,1,YES
+Georgia,Warren,0,2,0,NO
+South Dakota,Corson,2,2,1,YES
+South Dakota,Deuel,2,2,1,YES
+Georgia,Webster,0,2,0,NO
+Georgia,Wheeler,0,2,0,NO
+Georgia,White,0,5,0,NO
+Georgia,Whitfield,6,18,0.333333333,NO
+Georgia,Wilcox,0,4,0,NO
+South Dakota,Dewey,2,2,1,YES
+South Dakota,Douglas,1,1,1,YES
+Georgia,Worth,0,5,0,NO
+Hawaii,Hawaii,16,34,0.470588235,NO
+Hawaii,Honolulu,84,244,0.344262295,NO
+Hawaii,Kalawao,0,1,0,NO
+Hawaii,Kauai,7,16,0.4375,NO
+Hawaii,Maui,17,37,0.459459459,NO
+South Dakota,Edmunds,2,2,1,YES
+Idaho,Adams,0,2,0,NO
+South Dakota,Fall River,2,2,1,YES
+South Dakota,Faulk,1,1,1,YES
+South Dakota,Haakon,1,1,1,YES
+South Dakota,Hamlin,2,2,1,YES
+Idaho,Blaine,1,4,0.25,NO
+South Dakota,Hanson,1,1,1,YES
+Idaho,Bonner,4,9,0.444444444,NO
+South Dakota,Harding,1,1,1,YES
+South Dakota,Hughes,4,4,1,YES
+South Dakota,Hyde,1,1,1,YES
+South Dakota,Jerauld,1,1,1,YES
+Idaho,Canyon,13,29,0.448275862,NO
+South Dakota,Jones,1,1,1,YES
+Idaho,Cassia,2,6,0.333333333,NO
+South Dakota,Kingsbury,2,2,1,YES
+South Dakota,Lyman,2,2,1,YES
+South Dakota,Marshall,1,1,1,YES
+Idaho,Elmore,2,5,0.4,NO
+South Dakota,McCook,2,2,1,YES
+South Dakota,McPherson,1,1,1,YES
+South Dakota,Meade,5,5,1,YES
+Idaho,Gooding,0,2,0,NO
+South Dakota,Mellette,1,1,1,YES
+South Dakota,Miner,1,1,1,YES
+Idaho,Jerome,2,5,0.4,NO
+South Dakota,Moody,2,2,1,YES
+South Dakota,Perkins,1,1,1,YES
+South Dakota,Potter,1,1,1,YES
+South Dakota,Sanborn,1,1,1,YES
+South Dakota,Shannon,3,3,1,YES
+Idaho,Madison,2,6,0.333333333,NO
+South Dakota,Sully,1,1,1,YES
+Idaho,Nez Perce,4,10,0.4,NO
+Idaho,Oneida,0,1,0,NO
+Idaho,Owyhee,1,3,0.333333333,NO
+South Dakota,Todd,2,2,1,YES
+South Dakota,Ziebach,1,1,1,YES
+Idaho,Shoshone,1,3,0.333333333,NO
+Tennessee,Moore,2,2,1,YES
+Idaho,Twin Falls,6,14,0.428571429,NO
+Idaho,Valley,1,3,0.333333333,NO
+Idaho,Washington,1,3,0.333333333,NO
+Illinois,Adams,5,18,0.277777778,NO
+Texas,Armstrong,1,1,1,YES
+Illinois,Bond,1,4,0.25,NO
+Texas,Borden,1,1,1,YES
+Texas,Briscoe,1,1,1,YES
+Texas,Clay,3,3,1,YES
+Texas,Cochran,1,1,1,YES
+Illinois,Carroll,2,6,0.333333333,NO
+Illinois,Cass,1,5,0.2,NO
+Illinois,Champaign,15,43,0.348837209,NO
+Illinois,Christian,1,10,0.1,NO
+Texas,Coke,2,2,1,YES
+Illinois,Clay,1,4,0.25,NO
+Illinois,Clinton,1,8,0.125,NO
+Texas,Coleman,3,3,1,YES
+Illinois,Cook,168,1318,0.127465857,NO
+Illinois,Crawford,2,6,0.333333333,NO
+Illinois,Cumberland,0,3,0,NO
+Illinois,De Witt,0,5,0,NO
+Texas,Concho,1,1,1,YES
+Illinois,Douglas,2,5,0.4,NO
+Illinois,DuPage,96,216,0.444444444,NO
+Texas,Cottle,1,1,1,YES
+Illinois,Edwards,1,3,0.333333333,NO
+Texas,Crane,1,1,1,YES
+Texas,Dallam,2,2,1,YES
+Texas,Deaf Smith,4,4,1,YES
+Illinois,Franklin,4,12,0.333333333,NO
+Illinois,Fulton,3,12,0.25,NO
+Texas,Dimmit,2,2,1,YES
+Illinois,Greene,1,5,0.2,NO
+Texas,Edwards,1,1,1,YES
+Illinois,Hamilton,1,3,0.333333333,NO
+Illinois,Hancock,3,7,0.428571429,NO
+Illinois,Hardin,0,2,0,NO
+Illinois,Henderson,0,3,0,NO
+Texas,Foard,1,1,1,YES
+Illinois,Iroquois,3,9,0.333333333,NO
+Texas,Garza,1,1,1,YES
+Illinois,Jasper,1,3,0.333333333,NO
+Texas,Glasscock,1,1,1,YES
+Illinois,Jersey,2,6,0.333333333,NO
+Texas,Goliad,2,2,1,YES
+Illinois,Johnson,1,4,0.25,NO
+Illinois,Kane,38,82,0.463414634,NO
+Illinois,Kankakee,9,29,0.310344828,NO
+Texas,Hall,1,1,1,YES
+Illinois,Knox,7,16,0.4375,NO
+Illinois,La Salle,13,28,0.464285714,NO
+Texas,Hardeman,1,1,1,YES
+Illinois,Lawrence,1,5,0.2,NO
+Illinois,Lee,2,9,0.222222222,NO
+Illinois,Livingston,4,10,0.4,NO
+Texas,Hartley,1,1,1,YES
+Illinois,Macon,16,34,0.470588235,NO
+Illinois,Macoupin,3,13,0.230769231,NO
+Texas,Haskell,2,2,1,YES
+Texas,Hudspeth,1,1,1,YES
+Illinois,Marshall,0,5,0,NO
+Texas,Irion,1,1,1,YES
+Illinois,Massac,1,4,0.25,NO
+Texas,Jack,3,3,1,YES
+Texas,Jeff Davis,1,1,1,YES
+Illinois,McLean,20,41,0.487804878,NO
+Illinois,Menard,1,3,0.333333333,NO
+Texas,Kenedy,1,1,1,YES
+Texas,Kent,1,1,1,YES
+Illinois,Montgomery,3,8,0.375,NO
+Texas,King,1,1,1,YES
+Illinois,Moultrie,0,4,0,NO
+Illinois,Ogle,3,11,0.272727273,NO
+Illinois,Peoria,17,48,0.354166667,NO
+Illinois,Perry,2,6,0.333333333,NO
+Illinois,Piatt,1,4,0.25,NO
+Texas,Kinney,1,1,1,YES
+Texas,La Salle,1,1,1,YES
+Texas,Lipscomb,2,2,1,YES
+Texas,Loving,1,1,1,YES
+Illinois,Randolph,3,9,0.333333333,NO
+Illinois,Richland,0,5,0,NO
+Illinois,Rock Island,11,40,0.275,NO
+Illinois,Saline,4,9,0.444444444,NO
+Illinois,Sangamon,19,53,0.358490566,NO
+Illinois,Schuyler,1,3,0.333333333,NO
+Illinois,Scott,0,2,0,NO
+Illinois,Shelby,2,6,0.333333333,NO
+Texas,McMullen,1,1,1,YES
+Texas,Oldham,1,1,1,YES
+Illinois,Stephenson,1,13,0.076923077,NO
+Texas,Parmer,2,2,1,YES
+Illinois,Union,1,5,0.2,NO
+Illinois,Vermilion,10,24,0.416666667,NO
+Texas,Real,1,1,1,YES
+Illinois,Warren,1,5,0.2,NO
+Illinois,Washington,1,4,0.25,NO
+Illinois,Wayne,2,5,0.4,NO
+Illinois,White,2,5,0.4,NO
+Illinois,Whiteside,8,18,0.444444444,NO
+Texas,Red River,4,4,1,YES
+Illinois,Williamson,6,15,0.4,NO
+Illinois,Winnebago,29,77,0.376623377,NO
+Illinois,Woodford,3,9,0.333333333,NO
+Indiana,Adams,3,7,0.428571429,NO
+Texas,Roberts,1,1,1,YES
+Texas,Sherman,1,1,1,YES
+Indiana,Benton,0,3,0,NO
+Indiana,Blackford,0,4,0,NO
+Texas,Sterling,1,1,1,YES
+Indiana,Brown,0,4,0,NO
+Indiana,Carroll,0,7,0,NO
+Indiana,Cass,1,11,0.090909091,NO
+Indiana,Clark,11,26,0.423076923,NO
+Indiana,Clay,2,6,0.333333333,NO
+Indiana,Clinton,0,8,0,NO
+Indiana,Crawford,1,3,0.333333333,NO
+Indiana,Daviess,1,7,0.142857143,NO
+Texas,Sutton,1,1,1,YES
+Indiana,Decatur,2,6,0.333333333,NO
+Indiana,DeKalb,4,9,0.444444444,NO
+Indiana,Delaware,11,30,0.366666667,NO
+Indiana,Dubois,2,7,0.285714286,NO
+Texas,Terrell,1,1,1,YES
+Indiana,Fayette,2,7,0.285714286,NO
+Indiana,Floyd,7,20,0.35,NO
+Indiana,Fountain,1,5,0.2,NO
+Indiana,Franklin,1,5,0.2,NO
+Indiana,Fulton,2,6,0.333333333,NO
+Indiana,Gibson,1,7,0.142857143,NO
+Indiana,Grant,7,16,0.4375,NO
+Indiana,Greene,4,9,0.444444444,NO
+Texas,Terry,3,3,1,YES
+Texas,Throckmorton,1,1,1,YES
+Indiana,Harrison,0,6,0,NO
+Texas,Uvalde,5,5,1,YES
+Indiana,Henry,1,13,0.076923077,NO
+Indiana,Howard,8,20,0.4,NO
+Texas,Wilbarger,4,4,1,YES
+Texas,Young,4,4,1,YES
+Indiana,Jasper,2,8,0.25,NO
+Indiana,Jay,3,7,0.428571429,NO
+Indiana,Jefferson,3,7,0.428571429,NO
+Texas,Zapata,3,3,1,YES
+Utah,Daggett,1,1,1,YES
+Indiana,Knox,4,10,0.4,NO
+Indiana,Kosciusko,5,19,0.263157895,NO
+Indiana,LaGrange,1,8,0.125,NO
+Indiana,Lake,57,117,0.487179487,NO
+Utah,Duchesne,3,3,1,YES
+Indiana,Lawrence,3,10,0.3,NO
+Indiana,Madison,16,37,0.432432432,NO
+Indiana,Marion,90,224,0.401785714,NO
+Indiana,Marshall,4,12,0.333333333,NO
+Indiana,Martin,1,3,0.333333333,NO
+Indiana,Miami,4,10,0.4,NO
+Indiana,Monroe,9,31,0.290322581,NO
+Indiana,Montgomery,4,9,0.444444444,NO
+Indiana,Morgan,5,13,0.384615385,NO
+Indiana,Newton,1,4,0.25,NO
+Indiana,Noble,1,10,0.1,NO
+Indiana,Ohio,0,2,0,NO
+Indiana,Orange,0,6,0,NO
+Indiana,Owen,0,5,0,NO
+Utah,Juab,2,2,1,YES
+Utah,Kane,2,2,1,YES
+Indiana,Pike,0,4,0,NO
+Utah,Piute,1,1,1,YES
+Utah,Rich,1,1,1,YES
+Indiana,Pulaski,1,4,0.25,NO
+Indiana,Putnam,3,7,0.428571429,NO
+Indiana,Randolph,3,8,0.375,NO
+Indiana,Ripley,1,6,0.166666667,NO
+Indiana,Rush,0,5,0,NO
+Indiana,Scott,0,5,0,NO
+Indiana,Shelby,4,10,0.4,NO
+Indiana,Spencer,0,5,0,NO
+Indiana,St. Joseph,37,75,0.493333333,NO
+Indiana,Starke,0,7,0,NO
+Indiana,Steuben,3,9,0.333333333,NO
+Indiana,Sullivan,1,5,0.2,NO
+Indiana,Switzerland,0,3,0,NO
+Indiana,Tippecanoe,12,37,0.324324324,NO
+Indiana,Tipton,1,4,0.25,NO
+Indiana,Union,0,2,0,NO
+Indiana,Vanderburgh,15,49,0.306122449,NO
+Indiana,Vermillion,1,5,0.2,NO
+Indiana,Vigo,12,28,0.428571429,NO
+Indiana,Wabash,2,8,0.25,NO
+Indiana,Warren,0,2,0,NO
+Indiana,Warrick,5,11,0.454545455,NO
+Indiana,Washington,1,6,0.166666667,NO
+Indiana,Wayne,7,17,0.411764706,NO
+Utah,San Juan,4,4,1,YES
+Indiana,White,1,8,0.125,NO
+Indiana,Whitley,1,7,0.142857143,NO
+Iowa,Adair,0,3,0,NO
+Iowa,Adams,0,2,0,NO
+Iowa,Allamakee,1,5,0.2,NO
+Iowa,Appanoose,1,5,0.2,NO
+Iowa,Audubon,0,3,0,NO
+Iowa,Benton,3,7,0.428571429,NO
+Utah,Wayne,1,1,1,YES
+Iowa,Boone,1,7,0.142857143,NO
+Iowa,Bremer,2,8,0.25,NO
+Virginia,Amelia,2,2,1,YES
+Iowa,Buena Vista,2,6,0.333333333,NO
+Virginia,Bath,1,1,1,YES
+Iowa,Calhoun,0,4,0,NO
+Iowa,Carroll,2,6,0.333333333,NO
+Virginia,Bedford City,1,1,1,YES
+Iowa,Cedar,2,5,0.4,NO
+Virginia,Buena Vista,1,1,1,YES
+Virginia,Charlotte,3,3,1,YES
+Virginia,Craig,1,1,1,YES
+Iowa,Clarke,0,3,0,NO
+Virginia,Cumberland,2,2,1,YES
+Iowa,Clayton,0,6,0,NO
+Virginia,Floyd,3,3,1,YES
+Virginia,Franklin City,2,2,1,YES
+Iowa,Dallas,4,15,0.266666667,NO
+Iowa,Davis,0,2,0,NO
+Iowa,Decatur,0,3,0,NO
+Iowa,Delaware,1,4,0.25,NO
+Virginia,Highland,1,1,1,YES
+Iowa,Dickinson,0,5,0,NO
+Virginia,Lexington,1,1,1,YES
+Virginia,Manassas Park,2,2,1,YES
+Iowa,Fayette,1,7,0.142857143,NO
+Virginia,Poquoson,3,3,1,YES
+Virginia,Rappahannock,2,2,1,YES
+Virginia,Rockbridge,4,4,1,YES
+Virginia,Salem,5,5,1,YES
+Iowa,Grundy,1,4,0.25,NO
+Virginia,Surry,2,2,1,YES
+Washington,Columbia,1,1,1,YES
+Iowa,Hancock,1,4,0.25,NO
+Washington,Garfield,1,1,1,YES
+Washington,Klickitat,3,3,1,YES
+Washington,Wahkiakum,1,1,1,YES
+West Virginia,Gilmer,2,2,1,YES
+West Virginia,Hardy,3,3,1,YES
+Iowa,Ida,0,3,0,NO
+West Virginia,Pendleton,3,3,1,YES
+West Virginia,Pocahontas,4,4,1,YES
+Wisconsin,Rusk,5,5,1,YES
+Wyoming,Carbon,5,5,1,YES
+Iowa,Johnson,8,24,0.333333333,NO
+Iowa,Jones,2,5,0.4,NO
+Iowa,Keokuk,1,4,0.25,NO
+Wyoming,Crook,2,2,1,YES
+Wyoming,Johnson,2,2,1,YES
+Iowa,Linn,22,45,0.488888889,NO
+Iowa,Louisa,0,3,0,NO
+Iowa,Lucas,1,4,0.25,NO
+Iowa,Lyon,1,3,0.333333333,NO
+Wyoming,Niobrara,1,1,1,YES
+Wyoming,Platte,2,2,1,YES
+Iowa,Marion,3,8,0.375,NO
+Wyoming,Sublette,2,2,1,YES
+Iowa,Mills,2,5,0.4,NO
+Wyoming,Weston,2,2,1,YES
+Iowa,Monona,1,4,0.25,NO
+Iowa,Monroe,1,3,0.333333333,NO
+Rhode Island,Bristol,10,11,0.909090909,YES
+Iowa,Muscatine,3,10,0.3,NO
+Idaho,Latah,6,7,0.857142857,YES
+Kansas,McPherson,6,7,0.857142857,YES
+Iowa,Page,2,6,0.333333333,NO
+Louisiana,Ascension,12,14,0.857142857,YES
+Iowa,Plymouth,1,6,0.166666667,NO
+Iowa,Pocahontas,1,3,0.333333333,NO
+Iowa,Polk,36,98,0.367346939,NO
+Iowa,Pottawattamie,13,30,0.433333333,NO
+Iowa,Poweshiek,2,5,0.4,NO
+Texas,Hockley,6,7,0.857142857,YES
+Texas,Milam,6,7,0.857142857,YES
+Iowa,Scott,12,47,0.255319149,NO
+Iowa,Shelby,1,4,0.25,NO
+Iowa,Sioux,0,7,0,NO
+Wyoming,Campbell,6,7,0.857142857,YES
+Iowa,Tama,2,6,0.333333333,NO
+Iowa,Taylor,0,3,0,NO
+Alabama,Crenshaw,5,6,0.833333333,YES
+Arkansas,Ouachita,5,6,0.833333333,YES
+Iowa,Kossuth,5,6,0.833333333,YES
+Louisiana,Vernon,10,12,0.833333333,YES
+Iowa,Washington,2,5,0.4,NO
+Minnesota,Martin,5,6,0.833333333,YES
+Iowa,Webster,5,12,0.416666667,NO
+Iowa,Winnebago,1,3,0.333333333,NO
+Minnesota,Redwood,5,6,0.833333333,YES
+Mississippi,Copiah,5,6,0.833333333,YES
+Iowa,Worth,0,3,0,NO
+Iowa,Wright,2,5,0.4,NO
+Mississippi,Lincoln,5,6,0.833333333,YES
+Mississippi,Marion,5,6,0.833333333,YES
+Kansas,Atchison,1,4,0.25,NO
+Kansas,Barber,0,2,0,NO
+Mississippi,Yazoo,5,6,0.833333333,YES
+Montana,Hill,5,6,0.833333333,YES
+Kansas,Brown,1,3,0.333333333,NO
+Kansas,Butler,6,13,0.461538462,NO
+New Mexico,Taos,5,6,0.833333333,YES
+North Dakota,Richland,5,6,0.833333333,YES
+Tennessee,Hamblen,10,12,0.833333333,YES
+Kansas,Cheyenne,0,1,0,NO
+Texas,Gonzales,5,6,0.833333333,YES
+Texas,Kleberg,5,6,0.833333333,YES
+Utah,Uintah,5,6,0.833333333,YES
+Wyoming,Sheridan,5,6,0.833333333,YES
+Kansas,Comanche,0,1,0,NO
+Arizona,Apache,13,16,0.8125,YES
+Alabama,Conecuh,4,5,0.8,YES
+Arkansas,Clark,4,5,0.8,YES
+Kansas,Dickinson,2,6,0.333333333,NO
+Arkansas,Columbia,4,5,0.8,YES
+Colorado,Park,4,5,0.8,YES
+Kansas,Edwards,0,2,0,NO
+Georgia,Appling,4,5,0.8,YES
+Georgia,Camden,8,10,0.8,YES
+Georgia,Chattahoochee,4,5,0.8,YES
+Georgia,Forsyth,36,45,0.8,YES
+Georgia,Henry,20,25,0.8,YES
+Illinois,Pike,4,5,0.8,YES
+Iowa,Crawford,4,5,0.8,YES
+Iowa,Harrison,4,5,0.8,YES
+Iowa,Winneshiek,4,5,0.8,YES
+Minnesota,Polk,8,10,0.8,YES
+Minnesota,Roseau,4,5,0.8,YES
+Mississippi,Tate,4,5,0.8,YES
+Mississippi,Winston,4,5,0.8,YES
+Missouri,Pike,4,5,0.8,YES
+Kansas,Harper,1,3,0.333333333,NO
+Kansas,Harvey,2,6,0.333333333,NO
+Montana,Big Horn,4,5,0.8,YES
+Nevada,Nye,8,10,0.8,YES
+New Mexico,Lincoln,4,5,0.8,YES
+Kansas,Jefferson,0,4,0,NO
+Oklahoma,Blaine,4,5,0.8,YES
+Kansas,Johnson,48,130,0.369230769,NO
+Oklahoma,Choctaw,4,5,0.8,YES
+Oklahoma,Texas,4,5,0.8,YES
+Oklahoma,Woodward,4,5,0.8,YES
+Texas,Bastrop,8,10,0.8,YES
+Kansas,Lane,0,1,0,NO
+Texas,Val Verde,8,10,0.8,YES
+West Virginia,Wetzel,4,5,0.8,YES
+Wisconsin,Jackson,4,5,0.8,YES
+Wisconsin,Richland,4,5,0.8,YES
+New York,Putnam,15,19,0.789473684,YES
+Virginia,Chesterfield,56,71,0.788732394,YES
+Georgia,Ware,7,9,0.777777778,YES
+Louisiana,Natchitoches,7,9,0.777777778,YES
+Louisiana,Plaquemines,7,9,0.777777778,YES
+Kansas,Miami,2,8,0.25,NO
+New Mexico,Rio Arriba,7,9,0.777777778,YES
+Kansas,Montgomery,3,13,0.230769231,NO
+Oklahoma,Cherokee,7,9,0.777777778,YES
+Texas,Palo Pinto,7,9,0.777777778,YES
+Virginia,Halifax,7,9,0.777777778,YES
+Kansas,Neosho,1,5,0.2,NO
+Oklahoma,Washington,10,13,0.769230769,YES
+Georgia,Cobb,92,120,0.766666667,YES
+Kansas,Osage,2,5,0.4,NO
+New Mexico,McKinley,13,17,0.764705882,YES
+Tennessee,Carter,13,17,0.764705882,YES
+Wyoming,Laramie,16,21,0.761904762,YES
+Texas,Williamson,67,89,0.752808989,YES
+Kansas,Pottawatomie,1,4,0.25,NO
+Alabama,Autauga,9,12,0.75,YES
+Alabama,Wilcox,3,4,0.75,YES
+Kansas,Reno,8,17,0.470588235,NO
+Arkansas,Chicot,3,4,0.75,YES
+Kansas,Rice,1,3,0.333333333,NO
+Arkansas,Lee,3,4,0.75,YES
+Arkansas,Madison,3,4,0.75,YES
+Arkansas,Randolph,3,4,0.75,YES
+Colorado,Alamosa,3,4,0.75,YES
+Florida,Baker,3,4,0.75,YES
+Florida,Glades,3,4,0.75,YES
+Kansas,Sedgwick,57,124,0.459677419,NO
+Kansas,Seward,1,5,0.2,NO
+Kansas,Shawnee,14,43,0.325581395,NO
+Florida,Taylor,3,4,0.75,YES
+Idaho,Payette,3,4,0.75,YES
+Iowa,Jefferson,3,4,0.75,YES
+Kansas,Cloud,3,4,0.75,YES
+Kansas,Stanton,0,1,0,NO
+Kansas,Geary,6,8,0.75,YES
+Louisiana,Morehouse,6,8,0.75,YES
+Minnesota,Marshall,3,4,0.75,YES
+Kansas,Trego,0,1,0,NO
+Minnesota,Todd,6,8,0.75,YES
+Missouri,Dent,3,4,0.75,YES
+Missouri,Ripley,3,4,0.75,YES
+Missouri,Texas,3,4,0.75,YES
+Missouri,Wayne,3,4,0.75,YES
+Montana,Glacier,3,4,0.75,YES
+Kansas,Wyandotte,29,70,0.414285714,NO
+Kentucky,Adair,1,7,0.142857143,NO
+Kentucky,Allen,1,6,0.166666667,NO
+Kentucky,Anderson,2,5,0.4,NO
+Kentucky,Ballard,0,3,0,NO
+Kentucky,Barren,3,10,0.3,NO
+Kentucky,Bath,0,3,0,NO
+Kentucky,Bell,1,9,0.111111111,NO
+Montana,Richland,3,4,0.75,YES
+Kentucky,Bourbon,1,6,0.166666667,NO
+Kentucky,Boyd,6,13,0.461538462,NO
+Kentucky,Boyle,2,7,0.285714286,NO
+Kentucky,Bracken,0,3,0,NO
+Kentucky,Breathitt,1,7,0.142857143,NO
+Kentucky,Breckinridge,0,6,0,NO
+Nebraska,Custer,3,4,0.75,YES
+Kentucky,Butler,0,5,0,NO
+Kentucky,Caldwell,0,3,0,NO
+Kentucky,Calloway,3,9,0.333333333,NO
+Kentucky,Campbell,12,25,0.48,NO
+Kentucky,Carlisle,0,3,0,NO
+Kentucky,Carroll,0,3,0,NO
+Kentucky,Carter,1,7,0.142857143,NO
+Kentucky,Casey,1,5,0.2,NO
+Kentucky,Christian,7,19,0.368421053,NO
+Kentucky,Clark,3,10,0.3,NO
+Kentucky,Clay,1,6,0.166666667,NO
+Kentucky,Clinton,0,3,0,NO
+Kentucky,Crittenden,1,4,0.25,NO
+Kentucky,Cumberland,0,2,0,NO
+Kentucky,Daviess,6,23,0.260869565,NO
+Kentucky,Edmonson,0,4,0,NO
+Kentucky,Elliott,0,2,0,NO
+Kentucky,Estill,0,4,0,NO
+Kentucky,Fayette,31,82,0.37804878,NO
+Kentucky,Fleming,1,4,0.25,NO
+Kentucky,Floyd,1,10,0.1,NO
+Kentucky,Franklin,5,11,0.454545455,NO
+Kentucky,Fulton,0,2,0,NO
+Kentucky,Gallatin,0,2,0,NO
+Kentucky,Garrard,0,4,0,NO
+Kentucky,Grant,1,4,0.25,NO
+Kentucky,Graves,4,9,0.444444444,NO
+Kentucky,Grayson,3,7,0.428571429,NO
+Kentucky,Green,1,4,0.25,NO
+Kentucky,Greenup,4,9,0.444444444,NO
+Kentucky,Hancock,1,3,0.333333333,NO
+Nebraska,Holt,3,4,0.75,YES
+Kentucky,Harlan,1,11,0.090909091,NO
+Kentucky,Harrison,2,5,0.4,NO
+Kentucky,Hart,1,5,0.2,NO
+Kentucky,Henderson,0,11,0,NO
+Kentucky,Henry,0,5,0,NO
+Kentucky,Hickman,0,1,0,NO
+Kentucky,Hopkins,5,12,0.416666667,NO
+Kentucky,Jackson,0,3,0,NO
+Kentucky,Jefferson,64,191,0.335078534,NO
+Kentucky,Jessamine,4,9,0.444444444,NO
+Kentucky,Johnson,1,6,0.166666667,NO
+Kentucky,Kenton,17,41,0.414634146,NO
+Kentucky,Knott,0,5,0,NO
+Kentucky,Knox,2,8,0.25,NO
+Kentucky,Larue,1,4,0.25,NO
+Kentucky,Laurel,4,13,0.307692308,NO
+Kentucky,Lawrence,1,5,0.2,NO
+Kentucky,Lee,0,3,0,NO
+Kentucky,Leslie,0,3,0,NO
+Kentucky,Letcher,0,7,0,NO
+Kentucky,Lewis,0,4,0,NO
+Kentucky,Lincoln,2,6,0.333333333,NO
+Nebraska,Saline,3,4,0.75,YES
+Kentucky,Logan,2,6,0.333333333,NO
+Kentucky,Lyon,0,3,0,NO
+Kentucky,Madison,9,19,0.473684211,NO
+Kentucky,Magoffin,0,4,0,NO
+Kentucky,Marion,1,6,0.166666667,NO
+Kentucky,Marshall,2,6,0.333333333,NO
+Kentucky,Martin,0,3,0,NO
+Kentucky,Mason,1,5,0.2,NO
+Nebraska,York,3,4,0.75,YES
+Kentucky,McCreary,0,4,0,NO
+Kentucky,McLean,0,3,0,NO
+Kentucky,Meade,3,8,0.375,NO
+Kentucky,Menifee,0,2,0,NO
+Kentucky,Mercer,1,5,0.2,NO
+Kentucky,Metcalfe,0,3,0,NO
+Kentucky,Monroe,0,4,0,NO
+Kentucky,Montgomery,1,6,0.166666667,NO
+Kentucky,Morgan,1,5,0.2,NO
+Kentucky,Muhlenberg,1,9,0.111111111,NO
+Kentucky,Nelson,1,9,0.111111111,NO
+Kentucky,Nicholas,0,2,0,NO
+Kentucky,Ohio,2,7,0.285714286,NO
+Kentucky,Oldham,6,14,0.428571429,NO
+Kentucky,Owen,1,3,0.333333333,NO
+Kentucky,Owsley,0,2,0,NO
+Kentucky,Pendleton,0,3,0,NO
+Kentucky,Perry,0,8,0,NO
+Kentucky,Pike,0,19,0,NO
+Kentucky,Powell,0,2,0,NO
+Kentucky,Pulaski,4,14,0.285714286,NO
+New Mexico,Curry,9,12,0.75,YES
+Kentucky,Rockcastle,0,4,0,NO
+Kentucky,Rowan,0,4,0,NO
+Kentucky,Russell,0,5,0,NO
+Kentucky,Scott,6,14,0.428571429,NO
+Kentucky,Shelby,0,9,0,NO
+Kentucky,Simpson,1,4,0.25,NO
+Kentucky,Spencer,0,4,0,NO
+Kentucky,Taylor,1,5,0.2,NO
+Kentucky,Todd,0,4,0,NO
+New Mexico,Eddy,9,12,0.75,YES
+Kentucky,Trimble,0,2,0,NO
+Kentucky,Union,1,4,0.25,NO
+Kentucky,Warren,10,24,0.416666667,NO
+Kentucky,Washington,1,3,0.333333333,NO
+Kentucky,Wayne,2,5,0.4,NO
+Kentucky,Webster,0,4,0,NO
+Kentucky,Whitley,1,8,0.125,NO
+Kentucky,Wolfe,0,2,0,NO
+New Mexico,Torrance,3,4,0.75,YES
+Louisiana,Acadia,4,12,0.333333333,NO
+North Dakota,Benson,3,4,0.75,YES
+North Dakota,McKenzie,3,4,0.75,YES
+Louisiana,Assumption,1,6,0.166666667,NO
+Louisiana,Avoyelles,4,9,0.444444444,NO
+Oklahoma,Atoka,3,4,0.75,YES
+Oklahoma,Caddo,6,8,0.75,YES
+Louisiana,Bossier,8,22,0.363636364,NO
+Oklahoma,Haskell,3,4,0.75,YES
+Oklahoma,Jackson,6,8,0.75,YES
+Louisiana,Caldwell,1,3,0.333333333,NO
+Oklahoma,Kingfisher,3,4,0.75,YES
+Oklahoma,Logan,6,8,0.75,YES
+Louisiana,Claiborne,2,5,0.4,NO
+South Dakota,Davison,3,4,0.75,YES
+Texas,Dawson,3,4,0.75,YES
+Louisiana,East Baton Rouge,45,92,0.489130435,NO
+Texas,Erath,6,8,0.75,YES
+Louisiana,East Feliciana,0,5,0,NO
+Texas,Karnes,3,4,0.75,YES
+Louisiana,Franklin,2,6,0.333333333,NO
+Texas,Madison,3,4,0.75,YES
+Louisiana,Iberia,3,15,0.2,NO
+Louisiana,Iberville,1,7,0.142857143,NO
+Texas,Newton,3,4,0.75,YES
+Louisiana,Jefferson,29,127,0.228346457,NO
+Louisiana,Jefferson Davis,2,7,0.285714286,NO
+Texas,Zavala,3,4,0.75,YES
+Louisiana,Lafayette,21,43,0.488372093,NO
+Louisiana,Lafourche,10,23,0.434782609,NO
+Utah,Wasatch,3,4,0.75,YES
+Louisiana,Livingston,8,17,0.470588235,NO
+Louisiana,Madison,0,5,0,NO
+Virginia,Bristol,3,4,0.75,YES
+Washington,Douglas,6,8,0.75,YES
+Louisiana,Orleans,35,177,0.197740113,NO
+Washington,Lincoln,3,4,0.75,YES
+West Virginia,Hancock,6,8,0.75,YES
+West Virginia,Roane,3,4,0.75,YES
+Florida,Charlotte,29,39,0.743589744,YES
+Indiana,Hamilton,29,39,0.743589744,YES
+Louisiana,Richland,2,6,0.333333333,NO
+Georgia,Paulding,14,19,0.736842105,YES
+Louisiana,St. Bernard,8,18,0.444444444,NO
+Georgia,Glynn,11,15,0.733333333,YES
+Georgia,Rockdale,11,15,0.733333333,YES
+Georgia,Cherokee,19,26,0.730769231,YES
+Illinois,Jefferson,8,11,0.727272727,YES
+Louisiana,St. Landry,9,19,0.473684211,NO
+Louisiana,St. Martin,3,11,0.272727273,NO
+Iowa,Wapello,8,11,0.727272727,YES
+Kansas,Cowley,8,11,0.727272727,YES
+Louisiana,Webster,8,11,0.727272727,YES
+Texas,Hardin,8,11,0.727272727,YES
+Virginia,Petersburg,8,11,0.727272727,YES
+Minnesota,Washington,36,50,0.72,YES
+Louisiana,Vermilion,3,12,0.25,NO
+Massachusetts,Barnstable,41,57,0.719298246,YES
+Louisiana,Washington,5,11,0.454545455,NO
+Tennessee,Montgomery,28,39,0.717948718,YES
+Louisiana,West Baton Rouge,2,5,0.4,NO
+Louisiana,West Carroll,0,3,0,NO
+Arkansas,Boone,5,7,0.714285714,YES
+Arkansas,Hot Spring,5,7,0.714285714,YES
+Maine,Androscoggin,4,28,0.142857143,NO
+Maine,Aroostook,6,24,0.25,NO
+Maine,Cumberland,22,67,0.328358209,NO
+Maine,Franklin,1,9,0.111111111,NO
+Maine,Hancock,2,17,0.117647059,NO
+Maine,Kennebec,4,31,0.129032258,NO
+Maine,Knox,3,11,0.272727273,NO
+Maine,Lincoln,1,9,0.111111111,NO
+Maine,Oxford,5,17,0.294117647,NO
+Maine,Penobscot,12,46,0.260869565,NO
+Maine,Piscataquis,0,8,0,NO
+Maine,Sagadahoc,3,8,0.375,NO
+Maine,Somerset,5,17,0.294117647,NO
+Maine,Waldo,2,8,0.25,NO
+Maine,Washington,2,14,0.142857143,NO
+Maine,York,14,41,0.341463415,NO
+Maryland,Allegany,10,23,0.434782609,NO
+Colorado,Fremont,10,14,0.714285714,YES
+Maryland,Baltimore,69,214,0.322429907,NO
+Maryland,Baltimore City,8,200,0.04,NO
+Illinois,Fayette,5,7,0.714285714,YES
+Maryland,Caroline,2,9,0.222222222,NO
+Indiana,Posey,5,7,0.714285714,YES
+Maryland,Cecil,8,19,0.421052632,NO
+Kansas,Ford,5,7,0.714285714,YES
+Louisiana,Sabine,5,7,0.714285714,YES
+Maryland,Frederick,21,61,0.344262295,NO
+Maryland,Garrett,1,7,0.142857143,NO
+Maryland,Harford,26,57,0.456140351,NO
+Maryland,Howard,25,55,0.454545455,NO
+Maryland,Kent,0,5,0,NO
+Maryland,Montgomery,79,215,0.36744186,NO
+Maryland,Prince George's,81,218,0.371559633,NO
+Maryland,Queen Anne's,3,12,0.25,NO
+Maryland,Somerset,2,8,0.25,NO
+Maryland,St. Mary's,7,18,0.388888889,NO
+Maryland,Talbot,2,10,0.2,NO
+Louisiana,St. James,5,7,0.714285714,YES
+Michigan,Menominee,5,7,0.714285714,YES
+Maryland,Worcester,8,17,0.470588235,NO
+Minnesota,Carlton,5,7,0.714285714,YES
+Massachusetts,Berkshire,15,39,0.384615385,NO
+Massachusetts,Bristol,50,126,0.396825397,NO
+Mississippi,Hancock,5,7,0.714285714,YES
+Nebraska,Platte,5,7,0.714285714,YES
+Massachusetts,Franklin,5,18,0.277777778,NO
+Massachusetts,Hampden,44,103,0.427184466,NO
+New Mexico,Cibola,5,7,0.714285714,YES
+Massachusetts,Middlesex,128,318,0.402515723,NO
+Massachusetts,Nantucket,1,6,0.166666667,NO
+New Mexico,San Miguel,5,7,0.714285714,YES
+North Carolina,Scotland,5,7,0.714285714,YES
+Massachusetts,Suffolk,5,204,0.024509804,NO
+Massachusetts,Worcester,79,172,0.459302326,NO
+Michigan,Alcona,0,5,0,NO
+South Dakota,Codington,5,7,0.714285714,YES
+Michigan,Allegan,7,25,0.28,NO
+Michigan,Alpena,2,10,0.2,NO
+Michigan,Antrim,0,7,0,NO
+Michigan,Arenac,2,5,0.4,NO
+Texas,Bee,5,7,0.714285714,YES
+Michigan,Barry,0,11,0,NO
+Michigan,Bay,10,26,0.384615385,NO
+Michigan,Benzie,0,5,0,NO
+Michigan,Berrien,19,48,0.395833333,NO
+Michigan,Branch,2,12,0.166666667,NO
+Michigan,Calhoun,18,39,0.461538462,NO
+Michigan,Cass,2,11,0.181818182,NO
+Michigan,Charlevoix,0,13,0,NO
+Michigan,Cheboygan,2,8,0.25,NO
+Michigan,Chippewa,4,14,0.285714286,NO
+Michigan,Clare,0,11,0,NO
+Michigan,Clinton,9,22,0.409090909,NO
+Michigan,Crawford,1,5,0.2,NO
+Michigan,Delta,5,11,0.454545455,NO
+Texas,Houston,5,7,0.714285714,YES
+Michigan,Eaton,13,28,0.464285714,NO
+Texas,Jim Wells,5,7,0.714285714,YES
+Virginia,Prince George,5,7,0.714285714,YES
+Michigan,Gladwin,1,9,0.111111111,NO
+Michigan,Gogebic,1,7,0.142857143,NO
+Michigan,Grand Traverse,5,16,0.3125,NO
+Virginia,York,10,14,0.714285714,YES
+Michigan,Hillsdale,0,12,0,NO
+Michigan,Houghton,3,11,0.272727273,NO
+Michigan,Huron,5,12,0.416666667,NO
+Michigan,Ingham,37,81,0.456790123,NO
+Michigan,Ionia,3,13,0.230769231,NO
+Michigan,Iosco,3,9,0.333333333,NO
+Michigan,Iron,1,5,0.2,NO
+Michigan,Isabella,4,15,0.266666667,NO
+Michigan,Jackson,17,38,0.447368421,NO
+Michigan,Kalamazoo,27,57,0.473684211,NO
+Michigan,Kalkaska,0,5,0,NO
+Michigan,Kent,56,128,0.4375,NO
+West Virginia,Greenbrier,5,7,0.714285714,YES
+Michigan,Lake,1,4,0.25,NO
+Michigan,Lapeer,5,24,0.208333333,NO
+Michigan,Leelanau,0,6,0,NO
+Michigan,Lenawee,9,23,0.391304348,NO
+Michigan,Livingston,25,61,0.409836066,NO
+Georgia,Gwinnett,80,113,0.707964602,YES
+Michigan,Mackinac,2,6,0.333333333,NO
+Michigan,Macomb,75,216,0.347222222,NO
+Michigan,Manistee,1,9,0.111111111,NO
+Michigan,Marquette,7,24,0.291666667,NO
+Michigan,Mason,2,8,0.25,NO
+Michigan,Mecosta,3,11,0.272727273,NO
+West Virginia,Raleigh,12,17,0.705882353,YES
+Michigan,Midland,6,19,0.315789474,NO
+Michigan,Missaukee,1,4,0.25,NO
+Michigan,Monroe,9,39,0.230769231,NO
+Michigan,Montcalm,1,13,0.076923077,NO
+Michigan,Montmorency,0,5,0,NO
+Arkansas,Union,7,10,0.7,YES
+Michigan,Newaygo,1,11,0.090909091,NO
+Michigan,Oakland,167,338,0.49408284,NO
+Michigan,Oceana,2,7,0.285714286,NO
+Michigan,Ogemaw,0,7,0,NO
+Florida,Flagler,14,20,0.7,YES
+Michigan,Osceola,2,6,0.333333333,NO
+Michigan,Oscoda,0,5,0,NO
+Georgia,Douglas,14,20,0.7,YES
+Georgia,Fayette,14,20,0.7,YES
+Illinois,Bureau,7,10,0.7,YES
+Michigan,Roscommon,1,10,0.1,NO
+Michigan,Saginaw,24,56,0.428571429,NO
+Michigan,Sanilac,3,12,0.25,NO
+Illinois,McDonough,7,10,0.7,YES
+Michigan,Shiawassee,8,17,0.470588235,NO
+Michigan,St. Clair,23,49,0.469387755,NO
+Michigan,St. Joseph,5,17,0.294117647,NO
+Michigan,Tuscola,2,13,0.153846154,NO
+Michigan,Van Buren,1,15,0.066666667,NO
+Michigan,Washtenaw,41,100,0.41,NO
+Michigan,Wayne,128,610,0.209836066,NO
+Michigan,Wexford,3,8,0.375,NO
+Illinois,Morgan,7,10,0.7,YES
+Minnesota,Beltrami,7,10,0.7,YES
+Mississippi,Lafayette,7,10,0.7,YES
+Washington,Whitman,7,10,0.7,YES
+Florida,Brevard,79,113,0.699115044,YES
+Georgia,Houston,16,23,0.695652174,YES
+Minnesota,Blue Earth,7,16,0.4375,NO
+Minnesota,Brown,3,8,0.375,NO
+Texas,San Patricio,11,16,0.6875,YES
+Texas,McLennan,35,51,0.68627451,YES
+Minnesota,Cass,3,10,0.3,NO
+Tennessee,Bradley,13,19,0.684210526,YES
+Texas,Coryell,13,19,0.684210526,YES
+Minnesota,Clay,5,13,0.384615385,NO
+Florida,St. Lucie,30,44,0.681818182,YES
+Minnesota,Cook,1,3,0.333333333,NO
+Kentucky,Boone,15,22,0.681818182,YES
+Minnesota,Crow Wing,4,16,0.25,NO
+Georgia,Richmond,32,47,0.680851064,YES
+Minnesota,Dodge,1,5,0.2,NO
+Minnesota,Douglas,4,9,0.444444444,NO
+Minnesota,Faribault,1,6,0.166666667,NO
+Minnesota,Fillmore,0,6,0,NO
+Minnesota,Freeborn,3,10,0.3,NO
+Minnesota,Goodhue,3,10,0.3,NO
+Texas,Tom Green,17,25,0.68,YES
+Minnesota,Hennepin,117,299,0.391304348,NO
+Minnesota,Houston,2,5,0.4,NO
+Florida,Escambia,48,71,0.676056338,YES
+Arizona,Mohave,29,43,0.674418605,YES
+Texas,Fort Bend,51,76,0.671052632,YES
+Minnesota,Jackson,1,4,0.25,NO
+Alabama,Coosa,2,3,0.666666667,YES
+Alabama,Greene,2,3,0.666666667,YES
+Alabama,Marengo,4,6,0.666666667,YES
+Alaska,Valdez-Cordova,2,3,0.666666667,YES
+Minnesota,Lac qui Parle,1,3,0.333333333,NO
+Minnesota,Lake,1,3,0.333333333,NO
+Arizona,Greenlee,2,3,0.666666667,YES
+Minnesota,Le Sueur,1,6,0.166666667,NO
+Minnesota,Lincoln,0,2,0,NO
+Arkansas,Conway,4,6,0.666666667,YES
+Arkansas,Greene,6,9,0.666666667,YES
+Arkansas,Howard,2,3,0.666666667,YES
+Arkansas,Johnson,4,6,0.666666667,YES
+Minnesota,McLeod,3,7,0.428571429,NO
+Arkansas,Lawrence,4,6,0.666666667,YES
+Minnesota,Mille Lacs,1,7,0.142857143,NO
+Arkansas,Monroe,2,3,0.666666667,YES
+Minnesota,Mower,5,11,0.454545455,NO
+Minnesota,Murray,1,3,0.333333333,NO
+Arkansas,Phillips,4,6,0.666666667,YES
+Arkansas,Pike,2,3,0.666666667,YES
+Minnesota,Norman,1,3,0.333333333,NO
+Minnesota,Olmsted,12,33,0.363636364,NO
+Arkansas,Polk,4,6,0.666666667,YES
+Minnesota,Pennington,2,5,0.4,NO
+Arkansas,Searcy,2,3,0.666666667,YES
+Minnesota,Pipestone,2,5,0.4,NO
+Arkansas,Stone,2,3,0.666666667,YES
+Arkansas,Yell,4,6,0.666666667,YES
+Minnesota,Ramsey,47,137,0.343065693,NO
+California,Glenn,4,6,0.666666667,YES
+California,Sutter,14,21,0.666666667,YES
+Colorado,Logan,4,6,0.666666667,YES
+Minnesota,Rice,5,13,0.384615385,NO
+Colorado,Rio Grande,2,3,0.666666667,YES
+Florida,Calhoun,2,3,0.666666667,YES
+Florida,Hamilton,2,3,0.666666667,YES
+Minnesota,Sherburne,3,11,0.272727273,NO
+Minnesota,Sibley,0,4,0,NO
+Minnesota,St. Louis,30,66,0.454545455,NO
+Minnesota,Stearns,12,29,0.413793103,NO
+Minnesota,Steele,3,8,0.375,NO
+Minnesota,Stevens,1,3,0.333333333,NO
+Minnesota,Swift,1,4,0.25,NO
+Florida,Okeechobee,8,12,0.666666667,YES
+Florida,Union,2,3,0.666666667,YES
+Minnesota,Wabasha,2,6,0.333333333,NO
+Minnesota,Wadena,1,3,0.333333333,NO
+Georgia,Dooly,2,3,0.666666667,YES
+Georgia,Jasper,2,3,0.666666667,YES
+Minnesota,Watonwan,0,3,0,NO
+Georgia,Jeff Davis,2,3,0.666666667,YES
+Minnesota,Winona,4,10,0.4,NO
+Minnesota,Wright,8,17,0.470588235,NO
+Georgia,Wayne,4,6,0.666666667,YES
+Georgia,Wilkinson,2,3,0.666666667,YES
+Mississippi,Alcorn,2,7,0.285714286,NO
+Idaho,Fremont,2,3,0.666666667,YES
+Mississippi,Attala,2,6,0.333333333,NO
+Idaho,Gem,2,3,0.666666667,YES
+Idaho,Lemhi,2,3,0.666666667,YES
+Mississippi,Calhoun,0,5,0,NO
+Idaho,Lewis,2,3,0.666666667,YES
+Mississippi,Chickasaw,1,4,0.25,NO
+Mississippi,Choctaw,0,3,0,NO
+Mississippi,Claiborne,1,3,0.333333333,NO
+Indiana,Bartholomew,10,15,0.666666667,YES
+Iowa,Franklin,2,3,0.666666667,YES
+Mississippi,Coahoma,2,7,0.285714286,NO
+Iowa,Guthrie,2,3,0.666666667,YES
+Mississippi,Covington,0,4,0,NO
+Iowa,Hardin,4,6,0.666666667,YES
+Mississippi,Forrest,7,17,0.411764706,NO
+Iowa,Howard,2,3,0.666666667,YES
+Mississippi,George,2,5,0.4,NO
+Iowa,Madison,2,3,0.666666667,YES
+Mississippi,Grenada,2,5,0.4,NO
+Iowa,Mitchell,2,3,0.666666667,YES
+Iowa,Wayne,2,3,0.666666667,YES
+Kansas,Cherokee,4,6,0.666666667,YES
+Kansas,Doniphan,2,3,0.666666667,YES
+Mississippi,Humphreys,1,3,0.333333333,NO
+Kansas,Greenwood,2,3,0.666666667,YES
+Mississippi,Itawamba,2,5,0.4,NO
+Kansas,Jackson,2,3,0.666666667,YES
+Mississippi,Jasper,1,4,0.25,NO
+Kansas,Nemaha,2,3,0.666666667,YES
+Kansas,Phillips,2,3,0.666666667,YES
+Mississippi,Jones,5,14,0.357142857,NO
+Kansas,Republic,2,3,0.666666667,YES
+Kansas,Sumner,4,6,0.666666667,YES
+Kentucky,Bullitt,12,18,0.666666667,YES
+Louisiana,Cameron,2,3,0.666666667,YES
+Louisiana,Catahoula,2,3,0.666666667,YES
+Louisiana,Tensas,2,3,0.666666667,YES
+Mississippi,Lee,7,19,0.368421053,NO
+Louisiana,West Feliciana,2,3,0.666666667,YES
+Michigan,Luce,2,3,0.666666667,YES
+Mississippi,Lowndes,5,14,0.357142857,NO
+Michigan,Schoolcraft,2,3,0.666666667,YES
+Minnesota,Aitkin,4,6,0.666666667,YES
+Minnesota,Big Stone,2,3,0.666666667,YES
+Mississippi,Monroe,4,9,0.444444444,NO
+Minnesota,Clearwater,2,3,0.666666667,YES
+Mississippi,Neshoba,1,7,0.142857143,NO
+Mississippi,Newton,2,5,0.4,NO
+Minnesota,Rock,2,3,0.666666667,YES
+Mississippi,Jefferson Davis,2,3,0.666666667,YES
+Mississippi,Lawrence,2,3,0.666666667,YES
+Mississippi,Pearl River,2,9,0.222222222,NO
+Mississippi,Perry,1,3,0.333333333,NO
+Mississippi,Pike,3,8,0.375,NO
+Mississippi,Noxubee,2,3,0.666666667,YES
+Mississippi,Prentiss,2,5,0.4,NO
+Mississippi,Quitman,1,3,0.333333333,NO
+Mississippi,Rankin,18,27,0.666666667,YES
+Mississippi,Scott,4,6,0.666666667,YES
+Mississippi,Tunica,2,3,0.666666667,YES
+Mississippi,Simpson,2,5,0.4,NO
+Mississippi,Smith,1,3,0.333333333,NO
+Mississippi,Webster,2,3,0.666666667,YES
+Mississippi,Sunflower,3,7,0.428571429,NO
+Mississippi,Yalobusha,2,3,0.666666667,YES
+Missouri,Barton,2,3,0.666666667,YES
+Mississippi,Tippah,1,4,0.25,NO
+Mississippi,Tishomingo,0,4,0,NO
+Missouri,Bollinger,2,3,0.666666667,YES
+Mississippi,Union,2,6,0.333333333,NO
+Mississippi,Walthall,1,3,0.333333333,NO
+Mississippi,Warren,5,12,0.416666667,NO
+Mississippi,Washington,8,19,0.421052632,NO
+Mississippi,Wayne,1,4,0.25,NO
+Missouri,Carroll,2,3,0.666666667,YES
+Missouri,Cedar,2,3,0.666666667,YES
+Missouri,Cole,10,15,0.666666667,YES
+Missouri,Dallas,2,3,0.666666667,YES
+Missouri,Harrison,2,3,0.666666667,YES
+Missouri,Adair,2,7,0.285714286,NO
+Missouri,Henry,4,6,0.666666667,YES
+Missouri,Atchison,0,2,0,NO
+Missouri,Howard,2,3,0.666666667,YES
+Missouri,Barry,2,7,0.285714286,NO
+Missouri,Johnson,6,9,0.666666667,YES
+Missouri,Bates,1,4,0.25,NO
+Missouri,Benton,2,6,0.333333333,NO
+Missouri,Madison,2,3,0.666666667,YES
+Missouri,Pulaski,6,9,0.666666667,YES
+Missouri,Shelby,2,3,0.666666667,YES
+Missouri,Sullivan,2,3,0.666666667,YES
+Missouri,Vernon,4,6,0.666666667,YES
+Montana,Beaverhead,2,3,0.666666667,YES
+Missouri,Camden,4,11,0.363636364,NO
+Missouri,Cape Girardeau,7,16,0.4375,NO
+Montana,Custer,4,6,0.666666667,YES
+Montana,Madison,2,3,0.666666667,YES
+Montana,Roosevelt,2,3,0.666666667,YES
+Montana,Sanders,2,3,0.666666667,YES
+Missouri,Chariton,1,3,0.333333333,NO
+Missouri,Christian,6,14,0.428571429,NO
+Missouri,Clark,1,3,0.333333333,NO
+Montana,Stillwater,2,3,0.666666667,YES
+Missouri,Clinton,1,4,0.25,NO
+Montana,Toole,2,3,0.666666667,YES
+Montana,Valley,2,3,0.666666667,YES
+Missouri,Crawford,2,6,0.333333333,NO
+Nebraska,Cass,4,6,0.666666667,YES
+Nebraska,Colfax,2,3,0.666666667,YES
+Nebraska,Hamilton,2,3,0.666666667,YES
+Nebraska,Keith,2,3,0.666666667,YES
+Nebraska,Madison,6,9,0.666666667,YES
+Nebraska,Phelps,2,3,0.666666667,YES
+Nebraska,Richardson,2,3,0.666666667,YES
+Missouri,Franklin,4,17,0.235294118,NO
+Missouri,Gasconade,0,5,0,NO
+Missouri,Gentry,0,2,0,NO
+Missouri,Greene,23,62,0.370967742,NO
+Nevada,White Pine,2,3,0.666666667,YES
+New Jersey,Gloucester,42,63,0.666666667,YES
+New Mexico,Luna,4,6,0.666666667,YES
+Missouri,Hickory,1,3,0.333333333,NO
+North Carolina,Chowan,2,3,0.666666667,YES
+North Carolina,Washington,2,3,0.666666667,YES
+North Dakota,Bottineau,2,3,0.666666667,YES
+North Dakota,Mercer,2,3,0.666666667,YES
+Missouri,Jackson,76,199,0.381909548,NO
+North Dakota,Ramsey,2,3,0.666666667,YES
+Ohio,Noble,2,3,0.666666667,YES
+Ohio,Warren,22,33,0.666666667,YES
+Oklahoma,Alfalfa,2,3,0.666666667,YES
+Oklahoma,Beaver,2,3,0.666666667,YES
+Missouri,Lafayette,2,7,0.285714286,NO
+Oklahoma,Johnston,2,3,0.666666667,YES
+Oklahoma,Kiowa,2,3,0.666666667,YES
+Missouri,Lincoln,2,7,0.285714286,NO
+Missouri,Linn,1,5,0.2,NO
+Missouri,Livingston,2,5,0.4,NO
+Oklahoma,Latimer,2,3,0.666666667,YES
+Oklahoma,Pushmataha,2,3,0.666666667,YES
+Missouri,Maries,0,3,0,NO
+Missouri,Marion,3,8,0.375,NO
+Missouri,McDonald,1,4,0.25,NO
+Oklahoma,Woods,2,3,0.666666667,YES
+Missouri,Miller,1,5,0.2,NO
+Missouri,Mississippi,0,4,0,NO
+Oregon,Baker,4,6,0.666666667,YES
+Missouri,Monroe,1,3,0.333333333,NO
+Oregon,Umatilla,10,15,0.666666667,YES
+Missouri,Morgan,1,5,0.2,NO
+Missouri,New Madrid,1,6,0.166666667,NO
+Missouri,Newton,5,12,0.416666667,NO
+South Dakota,Clay,2,3,0.666666667,YES
+South Dakota,Day,2,3,0.666666667,YES
+South Dakota,Lake,2,3,0.666666667,YES
+South Dakota,Spink,2,3,0.666666667,YES
+Missouri,Pemiscot,2,6,0.333333333,NO
+Missouri,Perry,1,5,0.2,NO
+Missouri,Pettis,4,11,0.363636364,NO
+Tennessee,Chester,2,3,0.666666667,YES
+Tennessee,Hardin,4,6,0.666666667,YES
+Texas,Archer,2,3,0.666666667,YES
+Missouri,Polk,1,4,0.25,NO
+Texas,Brewster,2,3,0.666666667,YES
+Texas,Brown,8,12,0.666666667,YES
+Missouri,Ralls,1,3,0.333333333,NO
+Texas,Calhoun,4,6,0.666666667,YES
+Texas,Callahan,2,3,0.666666667,YES
+Texas,Frio,2,3,0.666666667,YES
+Texas,Grimes,4,6,0.666666667,YES
+Texas,Hamilton,2,3,0.666666667,YES
+Texas,Hopkins,6,9,0.666666667,YES
+Missouri,Scotland,0,2,0,NO
+Texas,Jackson,2,3,0.666666667,YES
+Texas,Lamar,8,12,0.666666667,YES
+Texas,Leon,2,3,0.666666667,YES
+Texas,Lynn,2,3,0.666666667,YES
+Missouri,St. Clair,0,3,0,NO
+Missouri,St. Francois,5,11,0.454545455,NO
+Texas,McCulloch,2,3,0.666666667,YES
+Missouri,St. Louis City,12,106,0.113207547,NO
+Texas,Stephens,2,3,0.666666667,YES
+Missouri,Stoddard,1,8,0.125,NO
+Missouri,Stone,2,6,0.333333333,NO
+Utah,Davis,36,54,0.666666667,YES
+Utah,Millard,2,3,0.666666667,YES
+Virginia,Essex,2,3,0.666666667,YES
+Virginia,Radford,2,3,0.666666667,YES
+Missouri,Warren,1,5,0.2,NO
+Washington,Ferry,2,3,0.666666667,YES
+West Virginia,Braxton,2,3,0.666666667,YES
+Missouri,Webster,1,8,0.125,NO
+Missouri,Worth,0,1,0,NO
+West Virginia,Clay,2,3,0.666666667,YES
+Wisconsin,Langlade,4,6,0.666666667,YES
+Wisconsin,Ozaukee,12,18,0.666666667,YES
+Montana,Blaine,1,4,0.25,NO
+Wisconsin,Sawyer,4,6,0.666666667,YES
+Wyoming,Big Horn,2,3,0.666666667,YES
+Pennsylvania,Chester,77,116,0.663793103,YES
+Montana,Cascade,10,22,0.454545455,NO
+Maryland,Anne Arundel,69,104,0.663461538,YES
+Florida,Okaloosa,27,41,0.658536585,YES
+Montana,Daniels,0,1,0,NO
+Florida,Osceola,27,41,0.658536585,YES
+Montana,Deer Lodge,0,3,0,NO
+Tennessee,Hamilton,54,82,0.658536585,YES
+Missouri,St. Charles,52,79,0.658227848,YES
+Montana,Flathead,5,19,0.263157895,NO
+Montana,Gallatin,8,22,0.363636364,NO
+South Carolina,Greenville,73,111,0.657657658,YES
+Arizona,Cochise,21,32,0.65625,YES
+Illinois,McHenry,34,52,0.653846154,YES
+Georgia,Coweta,13,20,0.65,YES
+Missouri,Cass,13,20,0.65,YES
+Montana,Jefferson,1,3,0.333333333,NO
+Ohio,Clermont,26,40,0.65,YES
+Montana,Lake,1,8,0.125,NO
+Tennessee,Williamson,24,37,0.648648649,YES
+Georgia,Carroll,11,17,0.647058824,YES
+Washington,Grays Harbor,11,17,0.647058824,YES
+Texas,Bell,42,65,0.646153846,YES
+North Carolina,Forsyth,60,93,0.64516129,YES
+Arizona,Yavapai,27,42,0.642857143,YES
+Georgia,Liberty,9,14,0.642857143,YES
+Montana,Missoula,9,20,0.45,NO
+Illinois,Jackson,9,14,0.642857143,YES
+Montana,Park,2,6,0.333333333,NO
+Kansas,Riley,9,14,0.642857143,YES
+Michigan,Muskegon,27,42,0.642857143,YES
+Nebraska,Hall,9,14,0.642857143,YES
+New Mexico,Sandoval,18,28,0.642857143,YES
+Florida,Santa Rosa,16,25,0.64,YES
+Georgia,Clayton,32,50,0.64,YES
+Montana,Ravalli,1,10,0.1,NO
+Arkansas,Pope,7,11,0.636363636,YES
+Georgia,Thomas,7,11,0.636363636,YES
+Idaho,Bannock,14,22,0.636363636,YES
+Kansas,Crawford,7,11,0.636363636,YES
+Kentucky,Hardin,14,22,0.636363636,YES
+Montana,Silver Bow,3,8,0.375,NO
+Louisiana,St. John the Baptist,7,11,0.636363636,YES
+Mississippi,DeSoto,21,33,0.636363636,YES
+Montana,Teton,1,3,0.333333333,NO
+New Mexico,San Juan,21,33,0.636363636,YES
+Oklahoma,Kay,7,11,0.636363636,YES
+Oklahoma,Osage,7,11,0.636363636,YES
+Oklahoma,Stephens,7,11,0.636363636,YES
+Texas,Anderson,7,11,0.636363636,YES
+Texas,Rockwall,7,11,0.636363636,YES
+Virginia,James City,7,11,0.636363636,YES
+Nebraska,Antelope,1,3,0.333333333,NO
+New Jersey,Ocean,80,126,0.634920635,YES
+Florida,Indian River,19,30,0.633333333,YES
+Illinois,Tazewell,19,30,0.633333333,YES
+Ohio,Richland,19,30,0.633333333,YES
+Minnesota,Carver,12,19,0.631578947,YES
+Mississippi,Harrison,29,46,0.630434783,YES
+Nebraska,Brown,0,1,0,NO
+New Jersey,Morris,63,100,0.63,YES
+Nebraska,Burt,0,3,0,NO
+Nebraska,Butler,1,3,0.333333333,NO
+Alabama,Lee,17,27,0.62962963,YES
+Florida,Martin,22,35,0.628571429,YES
+Florida,Volusia,71,113,0.628318584,YES
+Wisconsin,Waukesha,54,86,0.627906977,YES
+Nebraska,Cheyenne,1,3,0.333333333,NO
+Arizona,Pinal,47,75,0.626666667,YES
+Arizona,Gila,10,16,0.625,YES
+Nebraska,Cuming,0,3,0,NO
+Arkansas,Arkansas,5,8,0.625,YES
+Florida,Lake,35,56,0.625,YES
+Idaho,Bingham,5,8,0.625,YES
+Minnesota,Morrison,5,8,0.625,YES
+Mississippi,Bolivar,5,8,0.625,YES
+Mississippi,Lamar,5,8,0.625,YES
+Nebraska,Dodge,4,9,0.444444444,NO
+Nebraska,Douglas,40,156,0.256410256,NO
+Mississippi,Leflore,5,8,0.625,YES
+Mississippi,Oktibbeha,5,8,0.625,YES
+Missouri,Callaway,5,8,0.625,YES
+New York,Schoharie,5,8,0.625,YES
+Ohio,Butler,50,80,0.625,YES
+Oregon,Union,5,8,0.625,YES
+South Dakota,Brown,5,8,0.625,YES
+Nebraska,Garfield,0,1,0,NO
+Tennessee,Knox,70,112,0.625,YES
+Texas,Atascosa,5,8,0.625,YES
+Texas,Caldwell,5,8,0.625,YES
+Washington,Grant,10,16,0.625,YES
+Washington,Kittitas,5,8,0.625,YES
+Nebraska,Harlan,0,1,0,NO
+Illinois,Lake,95,153,0.620915033,YES
+Massachusetts,Plymouth,62,100,0.62,YES
+Texas,Hidalgo,70,113,0.619469027,YES
+Nebraska,Hooker,0,1,0,NO
+Utah,Washington,13,21,0.619047619,YES
+Nebraska,Jefferson,1,3,0.333333333,NO
+Alaska,Kenai Peninsula,8,13,0.615384615,YES
+Georgia,Newton,8,13,0.615384615,YES
+Louisiana,St. Charles,8,13,0.615384615,YES
+North Dakota,Ward,8,13,0.615384615,YES
+Nebraska,Kimball,0,1,0,NO
+Nebraska,Knox,0,3,0,NO
+Nebraska,Lancaster,26,74,0.351351351,NO
+Nebraska,Lincoln,3,8,0.375,NO
+Nebraska,Logan,0,1,0,NO
+Oklahoma,Pittsburg,8,13,0.615384615,YES
+Washington,Franklin,8,13,0.615384615,YES
+Arizona,Navajo,19,31,0.612903226,YES
+Indiana,Elkhart,22,36,0.611111111,YES
+New Mexico,Valencia,11,18,0.611111111,YES
+Oregon,Benton,11,18,0.611111111,YES
+Nebraska,Nemaha,0,2,0,NO
+North Carolina,Union,25,41,0.609756098,YES
+Nebraska,Otoe,2,5,0.4,NO
+Massachusetts,Norfolk,79,130,0.607692308,YES
+Arizona,Coconino,17,28,0.607142857,YES
+Mississippi,Jackson,17,28,0.607142857,YES
+Florida,Lee,100,166,0.602409639,YES
+Arizona,Santa Cruz,6,10,0.6,YES
+Nebraska,Polk,0,2,0,NO
+Arkansas,Desha,3,5,0.6,YES
+Arkansas,Drew,3,5,0.6,YES
+Nebraska,Rock,0,1,0,NO
+Arkansas,Jackson,3,5,0.6,YES
+California,Colusa,3,5,0.6,YES
+Colorado,La Plata,6,10,0.6,YES
+Nebraska,Scotts Bluff,3,11,0.272727273,NO
+Nebraska,Seward,1,4,0.25,NO
+Colorado,Prowers,3,5,0.6,YES
+Colorado,Pueblo,33,55,0.6,YES
+Florida,St. Johns,24,40,0.6,YES
+Georgia,Clarke,18,30,0.6,YES
+Nebraska,Thayer,0,2,0,NO
+Georgia,Colquitt,6,10,0.6,YES
+Georgia,Washington,3,5,0.6,YES
+Idaho,Minidoka,3,5,0.6,YES
+Nebraska,Washington,2,5,0.4,NO
+Illinois,Ford,3,5,0.6,YES
+Illinois,Kendall,6,10,0.6,YES
+Indiana,Jackson,6,10,0.6,YES
+Indiana,Perry,3,5,0.6,YES
+Iowa,Butler,3,5,0.6,YES
+Nevada,Churchill,2,7,0.285714286,NO
+Nevada,Clark,145,487,0.297741273,NO
+Nevada,Douglas,7,17,0.411764706,NO
+Nevada,Elko,6,14,0.428571429,NO
+Iowa,Cass,3,5,0.6,YES
+Iowa,Floyd,3,5,0.6,YES
+Iowa,Hamilton,3,5,0.6,YES
+Iowa,Henry,3,5,0.6,YES
+Kansas,Allen,3,5,0.6,YES
+Kansas,Bourbon,3,5,0.6,YES
+Kentucky,Trigg,3,5,0.6,YES
+Louisiana,Allen,3,5,0.6,YES
+Louisiana,Bienville,3,5,0.6,YES
+Nevada,Storey,0,1,0,NO
+Nevada,Washoe,47,112,0.419642857,NO
+Louisiana,Concordia,3,5,0.6,YES
+New Hampshire,Belknap,3,15,0.2,NO
+New Hampshire,Carroll,1,11,0.090909091,NO
+New Hampshire,Cheshire,6,16,0.375,NO
+New Hampshire,Coos,3,11,0.272727273,NO
+New Hampshire,Grafton,3,19,0.157894737,NO
+Louisiana,Grant,3,5,0.6,YES
+New Hampshire,Merrimack,9,36,0.25,NO
+Louisiana,Jackson,3,5,0.6,YES
+New Hampshire,Strafford,10,25,0.4,NO
+Louisiana,Lincoln,6,10,0.6,YES
+New Jersey,Atlantic,29,69,0.420289855,NO
+New Jersey,Bergen,42,179,0.234636872,NO
+Louisiana,Tangipahoa,12,20,0.6,YES
+New Jersey,Camden,45,127,0.354330709,NO
+Minnesota,Becker,6,10,0.6,YES
+New Jersey,Cumberland,13,35,0.371428571,NO
+New Jersey,Essex,24,210,0.114285714,NO
+Minnesota,Dakota,57,95,0.6,YES
+New Jersey,Hudson,3,166,0.018072289,NO
+New Jersey,Hunterdon,8,26,0.307692308,NO
+New Jersey,Mercer,36,77,0.467532468,NO
+New Jersey,Middlesex,72,175,0.411428571,NO
+Minnesota,Waseca,3,5,0.6,YES
+Mississippi,Clay,3,5,0.6,YES
+Mississippi,Holmes,3,5,0.6,YES
+New Jersey,Passaic,27,100,0.27,NO
+New Jersey,Salem,5,24,0.208333333,NO
+Missouri,Butler,6,10,0.6,YES
+New Jersey,Sussex,20,41,0.487804878,NO
+New Jersey,Union,24,108,0.222222222,NO
+New Jersey,Warren,11,23,0.47826087,NO
+New Mexico,Bernalillo,56,153,0.366013072,NO
+Missouri,Cooper,3,5,0.6,YES
+Missouri,Macon,3,5,0.6,YES
+Missouri,Scott,6,10,0.6,YES
+New Mexico,Colfax,1,3,0.333333333,NO
+Missouri,Taney,6,10,0.6,YES
+New Mexico,De Baca,0,1,0,NO
+Missouri,Washington,3,5,0.6,YES
+Montana,Carbon,3,5,0.6,YES
+Montana,Lincoln,3,5,0.6,YES
+Nebraska,Saunders,3,5,0.6,YES
+North Carolina,New Hanover,27,45,0.6,YES
+North Dakota,Morton,3,5,0.6,YES
+New Mexico,Lea,7,18,0.388888889,NO
+North Dakota,Pembina,3,5,0.6,YES
+Ohio,Delaware,21,35,0.6,YES
+Oklahoma,Pontotoc,6,10,0.6,YES
+Oklahoma,Tillman,3,5,0.6,YES
+South Carolina,Colleton,6,10,0.6,YES
+South Carolina,Dorchester,15,25,0.6,YES
+South Carolina,Fairfield,3,5,0.6,YES
+South Carolina,Kershaw,9,15,0.6,YES
+South Dakota,Lawrence,3,5,0.6,YES
+South Dakota,Yankton,3,5,0.6,YES
+Texas,Bandera,3,5,0.6,YES
+Texas,Colorado,3,5,0.6,YES
+New Mexico,Santa Fe,22,50,0.44,NO
+Texas,Eastland,3,5,0.6,YES
+Texas,Howard,6,10,0.6,YES
+Texas,Reeves,3,5,0.6,YES
+Texas,Robertson,3,5,0.6,YES
+Texas,Tyler,3,5,0.6,YES
+Texas,Van Zandt,6,10,0.6,YES
+New York,Albany,31,75,0.413333333,NO
+New York,Allegany,0,13,0,NO
+New York,Bronx,2,339,0.005899705,NO
+New York,Broome,10,55,0.181818182,NO
+New York,Cattaraugus,2,21,0.095238095,NO
+New York,Cayuga,2,20,0.1,NO
+New York,Chautauqua,9,35,0.257142857,NO
+New York,Chemung,7,22,0.318181818,NO
+New York,Chenango,1,12,0.083333333,NO
+New York,Clinton,7,19,0.368421053,NO
+New York,Columbia,5,21,0.238095238,NO
+New York,Cortland,4,12,0.333333333,NO
+New York,Delaware,3,14,0.214285714,NO
+New York,Dutchess,37,79,0.46835443,NO
+New York,Erie,79,237,0.333333333,NO
+New York,Essex,1,13,0.076923077,NO
+New York,Franklin,6,14,0.428571429,NO
+New York,Fulton,2,15,0.133333333,NO
+New York,Genesee,1,15,0.066666667,NO
+New York,Greene,2,15,0.133333333,NO
+Virginia,Brunswick,3,5,0.6,YES
+New York,Herkimer,6,19,0.315789474,NO
+New York,Jefferson,6,26,0.230769231,NO
+New York,Kings,0,760,0,NO
+Virginia,Martinsville,3,5,0.6,YES
+New York,Livingston,5,15,0.333333333,NO
+New York,Madison,5,16,0.3125,NO
+New York,Monroe,81,192,0.421875,NO
+New York,Montgomery,3,16,0.1875,NO
+New York,Nassau,39,280,0.139285714,NO
+New York,New York,1,288,0.003472222,NO
+New York,Niagara,17,61,0.278688525,NO
+New York,Oneida,19,74,0.256756757,NO
+New York,Onondaga,46,140,0.328571429,NO
+New York,Ontario,5,25,0.2,NO
+New York,Orange,38,79,0.481012658,NO
+New York,Orleans,2,11,0.181818182,NO
+New York,Oswego,6,29,0.206896552,NO
+Virginia,Orange,3,5,0.6,YES
+Virginia,Prince Edward,3,5,0.6,YES
+New York,Queens,5,669,0.007473842,NO
+New York,Rensselaer,15,42,0.357142857,NO
+New York,Richmond,3,109,0.027522936,NO
+New York,Rockland,32,65,0.492307692,NO
+New York,Saratoga,17,50,0.34,NO
+New York,Schenectady,20,43,0.465116279,NO
+Virginia,Southampton,3,5,0.6,YES
+New York,Schuyler,0,5,0,NO
+New York,Seneca,3,10,0.3,NO
+New York,St. Lawrence,12,28,0.428571429,NO
+New York,Steuben,6,30,0.2,NO
+Virginia,Sussex,3,5,0.6,YES
+New York,Sullivan,2,24,0.083333333,NO
+New York,Tioga,2,10,0.2,NO
+New York,Tompkins,8,23,0.347826087,NO
+New York,Ulster,19,47,0.404255319,NO
+New York,Warren,6,19,0.315789474,NO
+New York,Washington,2,17,0.117647059,NO
+New York,Wayne,4,23,0.173913043,NO
+New York,Westchester,57,223,0.255605381,NO
+New York,Wyoming,4,11,0.363636364,NO
+New York,Yates,0,5,0,NO
+Wisconsin,Eau Claire,12,20,0.6,YES
+North Carolina,Alexander,2,7,0.285714286,NO
+North Carolina,Alleghany,0,3,0,NO
+North Carolina,Anson,1,6,0.166666667,NO
+North Carolina,Ashe,2,6,0.333333333,NO
+North Carolina,Avery,0,5,0,NO
+North Carolina,Beaufort,3,11,0.272727273,NO
+Wyoming,Park,3,5,0.6,YES
+Alabama,Jefferson,97,163,0.595092025,YES
+North Carolina,Brunswick,14,33,0.424242424,NO
+North Carolina,Buncombe,25,56,0.446428571,NO
+North Carolina,Burke,8,18,0.444444444,NO
+South Carolina,Spartanburg,41,69,0.594202899,YES
+Indiana,Porter,19,32,0.59375,YES
+North Carolina,Camden,0,2,0,NO
+North Carolina,Carteret,16,38,0.421052632,NO
+North Carolina,Caswell,2,6,0.333333333,NO
+Georgia,Dougherty,16,27,0.592592593,YES
+North Carolina,Chatham,5,13,0.384615385,NO
+North Carolina,Cherokee,2,7,0.285714286,NO
+Wisconsin,Racine,26,44,0.590909091,YES
+North Carolina,Clay,0,2,0,NO
+North Carolina,Cleveland,10,22,0.454545455,NO
+North Carolina,Columbus,2,13,0.153846154,NO
+North Carolina,Craven,10,21,0.476190476,NO
+Minnesota,Anoka,49,83,0.590361446,YES
+North Carolina,Currituck,3,8,0.375,NO
+New York,Otsego,10,17,0.588235294,YES
+North Carolina,Davidson,15,34,0.441176471,NO
+North Carolina,Davie,3,7,0.428571429,NO
+North Carolina,Duplin,3,11,0.272727273,NO
+Wisconsin,Wood,10,17,0.588235294,YES
+North Carolina,Edgecombe,6,14,0.428571429,NO
+New Jersey,Burlington,67,114,0.587719298,YES
+North Carolina,Franklin,2,12,0.166666667,NO
+North Carolina,Gaston,30,65,0.461538462,NO
+North Carolina,Gates,0,3,0,NO
+North Carolina,Graham,0,3,0,NO
+North Carolina,Granville,5,13,0.384615385,NO
+North Carolina,Greene,0,4,0,NO
+South Carolina,York,27,46,0.586956522,YES
+North Carolina,Halifax,4,12,0.333333333,NO
+North Carolina,Harnett,8,27,0.296296296,NO
+North Carolina,Haywood,5,16,0.3125,NO
+North Carolina,Henderson,11,27,0.407407407,NO
+North Carolina,Hertford,2,5,0.4,NO
+North Carolina,Hoke,2,9,0.222222222,NO
+Colorado,Mesa,17,29,0.586206897,YES
+North Carolina,Iredell,19,44,0.431818182,NO
+North Carolina,Jackson,2,9,0.222222222,NO
+North Carolina,Johnston,4,25,0.16,NO
+North Carolina,Jones,0,3,0,NO
+North Carolina,Lee,5,13,0.384615385,NO
+North Carolina,Lenoir,7,15,0.466666667,NO
+North Carolina,Lincoln,8,18,0.444444444,NO
+North Carolina,Macon,2,9,0.222222222,NO
+North Carolina,Madison,1,6,0.166666667,NO
+North Carolina,Martin,1,6,0.166666667,NO
+North Carolina,McDowell,1,10,0.1,NO
+North Carolina,Mecklenburg,101,233,0.433476395,NO
+North Carolina,Mitchell,0,4,0,NO
+North Carolina,Montgomery,1,6,0.166666667,NO
+North Carolina,Moore,8,18,0.444444444,NO
+North Carolina,Nash,8,18,0.444444444,NO
+Rhode Island,Washington,17,29,0.586206897,YES
+North Carolina,Northampton,2,5,0.4,NO
+Texas,Guadalupe,17,29,0.586206897,YES
+North Carolina,Orange,11,28,0.392857143,NO
+North Carolina,Pamlico,1,4,0.25,NO
+South Carolina,Beaufort,24,41,0.585365854,YES
+North Carolina,Pender,3,16,0.1875,NO
+North Carolina,Perquimans,0,3,0,NO
+Virginia,Chesapeake City,24,41,0.585365854,YES
+North Carolina,Pitt,15,32,0.46875,NO
+North Carolina,Polk,1,7,0.142857143,NO
+North Carolina,Randolph,9,28,0.321428571,NO
+North Carolina,Richmond,5,11,0.454545455,NO
+North Carolina,Robeson,6,31,0.193548387,NO
+North Carolina,Rockingham,7,21,0.333333333,NO
+North Carolina,Rowan,11,30,0.366666667,NO
+North Carolina,Rutherford,3,13,0.230769231,NO
+North Carolina,Sampson,2,11,0.181818182,NO
+Michigan,Ottawa,31,53,0.58490566,YES
+North Carolina,Stanly,3,13,0.230769231,NO
+North Carolina,Stokes,4,9,0.444444444,NO
+North Carolina,Surry,4,22,0.181818182,NO
+North Carolina,Swain,0,5,0,NO
+North Carolina,Transylvania,2,7,0.285714286,NO
+North Carolina,Tyrrell,0,1,0,NO
+Alabama,Macon,7,12,0.583333333,YES
+North Carolina,Vance,3,10,0.3,NO
+North Carolina,Wake,91,187,0.486631016,NO
+North Carolina,Warren,1,6,0.166666667,NO
+Connecticut,Middlesex,21,36,0.583333333,YES
+North Carolina,Watauga,2,13,0.153846154,NO
+North Carolina,Wayne,12,26,0.461538462,NO
+North Carolina,Wilkes,2,14,0.142857143,NO
+North Carolina,Wilson,3,19,0.157894737,NO
+North Carolina,Yadkin,1,7,0.142857143,NO
+North Carolina,Yancey,0,5,0,NO
+Florida,Nassau,7,12,0.583333333,YES
+Illinois,Coles,7,12,0.583333333,YES
+Illinois,Marion,7,12,0.583333333,YES
+Iowa,Clinton,7,12,0.583333333,YES
+Massachusetts,Hampshire,21,36,0.583333333,YES
+Oregon,Polk,7,12,0.583333333,YES
+Texas,Cherokee,7,12,0.583333333,YES
+North Dakota,Burleigh,9,19,0.473684211,NO
+North Dakota,Cass,13,33,0.393939394,NO
+Washington,Stevens,7,12,0.583333333,YES
+North Dakota,Dickey,1,3,0.333333333,NO
+Wisconsin,Douglas,7,12,0.583333333,YES
+Wisconsin,Grant,7,12,0.583333333,YES
+Florida,Seminole,50,86,0.581395349,YES
+Virginia,Lynchburg City,11,19,0.578947368,YES
+Florida,Hernando,26,45,0.577777778,YES
+Iowa,Woodbury,15,26,0.576923077,YES
+North Dakota,Grand Forks,7,18,0.388888889,NO
+Connecticut,New London,38,66,0.575757576,YES
+New Hampshire,Rockingham,38,66,0.575757576,YES
+Illinois,Madison,35,61,0.573770492,YES
+Alaska,0,4,7,0.571428571,YES
+Arkansas,Ashley,4,7,0.571428571,YES
+California,Del Norte,4,7,0.571428571,YES
+Colorado,Elbert,4,7,0.571428571,YES
+Florida,Washington,4,7,0.571428571,YES
+Idaho,Bonneville,12,21,0.571428571,YES
+Illinois,Boone,4,7,0.571428571,YES
+Illinois,DeKalb,12,21,0.571428571,YES
+Indiana,Wells,4,7,0.571428571,YES
+North Dakota,Mountrail,1,3,0.333333333,NO
+Iowa,Mahaska,4,7,0.571428571,YES
+Louisiana,De Soto,4,7,0.571428571,YES
+Louisiana,Terrebonne,12,21,0.571428571,YES
+North Dakota,Pierce,0,2,0,NO
+Michigan,Dickinson,4,7,0.571428571,YES
+North Dakota,Ransom,0,3,0,NO
+Minnesota,Hubbard,4,7,0.571428571,YES
+Minnesota,Lyon,4,7,0.571428571,YES
+North Dakota,Rolette,1,4,0.25,NO
+Minnesota,Nicollet,4,7,0.571428571,YES
+Minnesota,Scott,12,21,0.571428571,YES
+Mississippi,Madison,12,21,0.571428571,YES
+Missouri,Audrain,4,7,0.571428571,YES
+Missouri,Lawrence,4,7,0.571428571,YES
+Nebraska,Dawson,4,7,0.571428571,YES
+Nebraska,Gage,4,7,0.571428571,YES
+New York,Lewis,4,7,0.571428571,YES
+North Dakota,Traill,1,4,0.25,NO
+North Dakota,Walsh,2,6,0.333333333,NO
+North Carolina,Person,4,7,0.571428571,YES
+North Dakota,Williams,4,7,0.571428571,YES
+Pennsylvania,Lawrence,16,28,0.571428571,YES
+South Carolina,Pickens,16,28,0.571428571,YES
+Ohio,Allen,10,33,0.303030303,NO
+Ohio,Ashland,3,11,0.272727273,NO
+Ohio,Ashtabula,11,25,0.44,NO
+Ohio,Athens,4,15,0.266666667,NO
+Ohio,Auglaize,4,11,0.363636364,NO
+Ohio,Belmont,6,20,0.3,NO
+Ohio,Brown,1,9,0.111111111,NO
+Tennessee,Wilson,12,21,0.571428571,YES
+Ohio,Carroll,1,7,0.142857143,NO
+Ohio,Champaign,1,10,0.1,NO
+Ohio,Clark,21,44,0.477272727,NO
+Texas,Freestone,4,7,0.571428571,YES
+Texas,Gray,4,7,0.571428571,YES
+Ohio,Columbiana,10,24,0.416666667,NO
+Ohio,Coshocton,3,10,0.3,NO
+Ohio,Crawford,6,13,0.461538462,NO
+Ohio,Cuyahoga,128,447,0.286353468,NO
+Ohio,Darke,3,12,0.25,NO
+Ohio,Defiance,4,9,0.444444444,NO
+Virginia,Hopewell,4,7,0.571428571,YES
+Ohio,Erie,8,19,0.421052632,NO
+Ohio,Fairfield,10,28,0.357142857,NO
+Ohio,Fayette,2,7,0.285714286,NO
+Ohio,Franklin,120,284,0.422535211,NO
+Ohio,Fulton,3,9,0.333333333,NO
+Ohio,Gallia,3,7,0.428571429,NO
+Ohio,Geauga,7,21,0.333333333,NO
+Ohio,Greene,17,35,0.485714286,NO
+Ohio,Guernsey,4,10,0.4,NO
+Ohio,Hamilton,109,222,0.490990991,NO
+Ohio,Hancock,5,13,0.384615385,NO
+Ohio,Hardin,2,7,0.285714286,NO
+Ohio,Harrison,1,5,0.2,NO
+Ohio,Henry,2,7,0.285714286,NO
+Ohio,Highland,3,9,0.333333333,NO
+Ohio,Hocking,1,7,0.142857143,NO
+Ohio,Holmes,1,8,0.125,NO
+Ohio,Huron,5,13,0.384615385,NO
+Ohio,Jackson,2,7,0.285714286,NO
+Ohio,Jefferson,8,23,0.347826087,NO
+Washington,Jefferson,4,7,0.571428571,YES
+Wisconsin,Ashland,4,7,0.571428571,YES
+Ohio,Lawrence,5,16,0.3125,NO
+Wisconsin,Juneau,4,7,0.571428571,YES
+Ohio,Logan,2,11,0.181818182,NO
+Wisconsin,Vernon,4,7,0.571428571,YES
+Ohio,Lucas,38,127,0.299212598,NO
+Ohio,Madison,5,12,0.416666667,NO
+Ohio,Mahoning,34,70,0.485714286,NO
+Ohio,Marion,8,18,0.444444444,NO
+Missouri,Clay,25,44,0.568181818,YES
+North Carolina,Cabarrus,21,37,0.567567568,YES
+Ohio,Mercer,3,9,0.333333333,NO
+Ohio,Miami,9,21,0.428571429,NO
+Ohio,Monroe,0,4,0,NO
+Ohio,Montgomery,74,153,0.483660131,NO
+Florida,Clay,17,30,0.566666667,YES
+Ohio,Morrow,0,6,0,NO
+Ohio,Muskingum,9,19,0.473684211,NO
+Washington,Kitsap,31,55,0.563636364,YES
+Ohio,Ottawa,6,13,0.461538462,NO
+Ohio,Paulding,2,5,0.4,NO
+Ohio,Perry,1,6,0.166666667,NO
+Ohio,Pickaway,3,13,0.230769231,NO
+Kansas,Leavenworth,9,16,0.5625,YES
+Louisiana,St. Mary,9,16,0.5625,YES
+Ohio,Preble,2,12,0.166666667,NO
+Ohio,Putnam,2,7,0.285714286,NO
+New Mexico,Chaves,9,16,0.5625,YES
+Ohio,Ross,6,17,0.352941176,NO
+Ohio,Sandusky,3,15,0.2,NO
+Ohio,Scioto,5,20,0.25,NO
+Ohio,Seneca,4,14,0.285714286,NO
+Ohio,Shelby,4,10,0.4,NO
+Ohio,Stark,38,86,0.441860465,NO
+New Mexico,Otero,9,16,0.5625,YES
+Ohio,Trumbull,21,55,0.381818182,NO
+Ohio,Tuscarawas,5,21,0.238095238,NO
+North Carolina,Onslow,18,32,0.5625,YES
+Ohio,Van Wert,2,9,0.222222222,NO
+Virginia,Montgomery,9,16,0.5625,YES
+Florida,Collier,41,73,0.561643836,YES
+Ohio,Washington,4,16,0.25,NO
+Ohio,Wayne,7,32,0.21875,NO
+Ohio,Williams,4,9,0.444444444,NO
+Ohio,Wood,10,28,0.357142857,NO
+Ohio,Wyandot,1,6,0.166666667,NO
+Oklahoma,Adair,1,5,0.2,NO
+Ohio,Lorain,41,73,0.561643836,YES
+Texas,Bexar,205,366,0.56010929,YES
+Missouri,Buchanan,14,25,0.56,YES
+Texas,Montgomery,33,59,0.559322034,YES
+Washington,Pierce,96,172,0.558139535,YES
+Oklahoma,Bryan,5,11,0.454545455,NO
+Alabama,Barbour,5,9,0.555555556,YES
+Oklahoma,Canadian,13,29,0.448275862,NO
+Oklahoma,Carter,5,11,0.454545455,NO
+Alabama,Clarke,5,9,0.555555556,YES
+Arizona,Graham,5,9,0.555555556,YES
+California,Lassen,5,9,0.555555556,YES
+Oklahoma,Cleveland,30,62,0.483870968,NO
+Colorado,Broomfield,10,18,0.555555556,YES
+Oklahoma,Comanche,13,32,0.40625,NO
+Georgia,Barrow,10,18,0.555555556,YES
+Oklahoma,Craig,2,5,0.4,NO
+Oklahoma,Creek,5,21,0.238095238,NO
+Indiana,Huntington,5,9,0.555555556,YES
+Oklahoma,Delaware,3,9,0.333333333,NO
+Iowa,Jasper,5,9,0.555555556,YES
+Minnesota,Benton,5,9,0.555555556,YES
+Mississippi,Adams,5,9,0.555555556,YES
+Oklahoma,Garvin,2,9,0.222222222,NO
+Nebraska,Adams,5,9,0.555555556,YES
+Ohio,Clinton,5,9,0.555555556,YES
+Texas,Fannin,5,9,0.555555556,YES
+Oklahoma,Harmon,0,1,0,NO
+Texas,Maverick,5,9,0.555555556,YES
+Wisconsin,Monroe,5,9,0.555555556,YES
+Oklahoma,Hughes,2,5,0.4,NO
+Texas,Galveston,37,67,0.552238806,YES
+Oklahoma,Jefferson,1,3,0.333333333,NO
+Missouri,Boone,16,29,0.551724138,YES
+Arkansas,Garland,11,20,0.55,YES
+Georgia,Columbia,11,20,0.55,YES
+Illinois,St. Clair,33,60,0.55,YES
+Iowa,Story,11,20,0.55,YES
+Missouri,Platte,11,20,0.55,YES
+Oklahoma,Lincoln,2,7,0.285714286,NO
+Oregon,Klamath,11,20,0.55,YES
+Oklahoma,Love,1,3,0.333333333,NO
+Oklahoma,Major,1,3,0.333333333,NO
+Wisconsin,Fond du Lac,11,20,0.55,YES
+Oklahoma,Mayes,3,9,0.333333333,NO
+Pennsylvania,Beaver,28,51,0.549019608,YES
+New Jersey,Monmouth,79,144,0.548611111,YES
+Texas,Brazos,23,42,0.547619048,YES
+Oklahoma,Murray,1,3,0.333333333,NO
+Oklahoma,Muskogee,7,16,0.4375,NO
+Colorado,El Paso,71,130,0.546153846,YES
+Arkansas,Crawford,6,11,0.545454545,YES
+California,Tehama,6,11,0.545454545,YES
+Oklahoma,Oklahoma,76,241,0.315352697,NO
+Florida,Bay,24,44,0.545454545,YES
+Florida,Polk,84,154,0.545454545,YES
+Oklahoma,Ottawa,3,9,0.333333333,NO
+Oklahoma,Pawnee,1,5,0.2,NO
+Oklahoma,Payne,7,17,0.411764706,NO
+Georgia,Catoosa,6,11,0.545454545,YES
+Iowa,Cerro Gordo,6,11,0.545454545,YES
+Oklahoma,Pottawatomie,6,16,0.375,NO
+Iowa,Des Moines,6,11,0.545454545,YES
+Iowa,Lee,6,11,0.545454545,YES
+Oklahoma,Rogers,7,28,0.25,NO
+Oklahoma,Seminole,3,9,0.333333333,NO
+Oklahoma,Sequoyah,4,9,0.444444444,NO
+Louisiana,Rapides,18,33,0.545454545,YES
+Minnesota,Itasca,6,11,0.545454545,YES
+Missouri,Jasper,12,22,0.545454545,YES
+Oklahoma,Tulsa,74,175,0.422857143,NO
+Nebraska,Buffalo,6,11,0.545454545,YES
+North Carolina,Dare,6,11,0.545454545,YES
+Oregon,Douglas,12,22,0.545454545,YES
+Utah,Box Elder,6,11,0.545454545,YES
+Utah,Tooele,6,11,0.545454545,YES
+Washington,Clallam,12,22,0.545454545,YES
+Wisconsin,Calumet,6,11,0.545454545,YES
+Oregon,Clackamas,28,80,0.35,NO
+Oregon,Clatsop,2,12,0.166666667,NO
+Oregon,Columbia,3,10,0.3,NO
+Oregon,Coos,4,13,0.307692308,NO
+New Jersey,Somerset,37,68,0.544117647,YES
+Oregon,Curry,2,6,0.333333333,NO
+Oregon,Deschutes,11,24,0.458333333,NO
+North Carolina,Cumberland,37,68,0.544117647,YES
+Florida,Duval,94,173,0.543352601,YES
+Ohio,Medina,20,37,0.540540541,YES
+Alabama,Montgomery,35,65,0.538461538,YES
+Oregon,Hood River,1,4,0.25,NO
+Oregon,Jackson,20,41,0.487804878,NO
+Florida,Manatee,42,78,0.538461538,YES
+Oregon,Josephine,5,16,0.3125,NO
+Illinois,Henry,7,13,0.538461538,YES
+Rhode Island,Kent,21,39,0.538461538,YES
+Oregon,Lane,32,86,0.372093023,NO
+Oregon,Lincoln,5,18,0.277777778,NO
+South Carolina,Anderson,21,39,0.538461538,YES
+Oregon,Malheur,2,8,0.25,NO
+Oregon,Marion,20,58,0.344827586,NO
+Oregon,Morrow,0,2,0,NO
+Oregon,Multnomah,33,171,0.192982456,NO
+Utah,Summit,7,13,0.538461538,YES
+Florida,Pasco,72,134,0.537313433,YES
+Oregon,Tillamook,0,8,0,NO
+Wisconsin,Washington,15,28,0.535714286,YES
+Alabama,Madison,39,73,0.534246575,YES
+Oregon,Wallowa,1,3,0.333333333,NO
+Oregon,Wasco,3,8,0.375,NO
+Oregon,Washington,30,104,0.288461538,NO
+South Carolina,Georgetown,8,15,0.533333333,YES
+Oregon,Yamhill,8,17,0.470588235,NO
+Pennsylvania,Adams,3,23,0.130434783,NO
+Pennsylvania,Allegheny,148,402,0.368159204,NO
+Pennsylvania,Armstrong,1,19,0.052631579,NO
+Tennessee,Putnam,8,15,0.533333333,YES
+Pennsylvania,Bedford,3,11,0.272727273,NO
+Pennsylvania,Berks,25,90,0.277777778,NO
+Pennsylvania,Blair,11,34,0.323529412,NO
+Pennsylvania,Bradford,4,14,0.285714286,NO
+Pennsylvania,Bucks,69,143,0.482517483,NO
+Pennsylvania,Butler,15,44,0.340909091,NO
+Pennsylvania,Cambria,16,42,0.380952381,NO
+Pennsylvania,Cameron,0,2,0,NO
+Pennsylvania,Carbon,3,12,0.25,NO
+Pennsylvania,Centre,9,31,0.290322581,NO
+Texas,Starr,8,15,0.533333333,YES
+Pennsylvania,Clarion,2,10,0.2,NO
+Pennsylvania,Clearfield,9,20,0.45,NO
+Pennsylvania,Clinton,2,9,0.222222222,NO
+Pennsylvania,Columbia,2,15,0.133333333,NO
+Pennsylvania,Crawford,6,23,0.260869565,NO
+Pennsylvania,Cumberland,24,49,0.489795918,NO
+Virginia,Spotsylvania,16,30,0.533333333,YES
+Pennsylvania,Delaware,40,144,0.277777778,NO
+Pennsylvania,Elk,2,9,0.222222222,NO
+Pennsylvania,Erie,30,72,0.416666667,NO
+Pennsylvania,Fayette,14,36,0.388888889,NO
+Pennsylvania,Forest,0,3,0,NO
+Pennsylvania,Franklin,10,27,0.37037037,NO
+Pennsylvania,Fulton,1,3,0.333333333,NO
+Pennsylvania,Greene,2,9,0.222222222,NO
+Pennsylvania,Huntingdon,0,12,0,NO
+Pennsylvania,Indiana,7,23,0.304347826,NO
+Pennsylvania,Jefferson,1,13,0.076923077,NO
+Pennsylvania,Juniata,1,5,0.2,NO
+Pennsylvania,Lackawanna,15,59,0.254237288,NO
+Pennsylvania,Lancaster,36,98,0.367346939,NO
+Illinois,Will,81,152,0.532894737,YES
+Pennsylvania,Lebanon,9,31,0.290322581,NO
+Pennsylvania,Lehigh,30,76,0.394736842,NO
+Pennsylvania,Luzerne,31,104,0.298076923,NO
+Pennsylvania,Lycoming,8,29,0.275862069,NO
+Pennsylvania,McKean,1,12,0.083333333,NO
+Pennsylvania,Mercer,8,30,0.266666667,NO
+Pennsylvania,Mifflin,2,12,0.166666667,NO
+Pennsylvania,Monroe,8,33,0.242424242,NO
+Florida,Sarasota,50,94,0.531914894,YES
+Pennsylvania,Montour,1,4,0.25,NO
+Pennsylvania,Northampton,32,68,0.470588235,NO
+Pennsylvania,Northumberland,3,24,0.125,NO
+Pennsylvania,Perry,1,10,0.1,NO
+Pennsylvania,Philadelphia,16,384,0.041666667,NO
+Pennsylvania,Pike,3,18,0.166666667,NO
+Pennsylvania,Potter,2,5,0.4,NO
+Pennsylvania,Schuylkill,7,40,0.175,NO
+Pennsylvania,Snyder,1,8,0.125,NO
+Pennsylvania,Somerset,5,21,0.238095238,NO
+Louisiana,Caddo,34,64,0.53125,YES
+Pennsylvania,Susquehanna,4,11,0.363636364,NO
+Pennsylvania,Tioga,2,10,0.2,NO
+Maryland,Washington,17,32,0.53125,YES
+Pennsylvania,Venango,2,16,0.125,NO
+Pennsylvania,Warren,3,13,0.230769231,NO
+Pennsylvania,Washington,23,59,0.389830508,NO
+Pennsylvania,Wayne,1,14,0.071428571,NO
+Pennsylvania,Westmoreland,45,100,0.45,NO
+Pennsylvania,Wyoming,0,7,0,NO
+Pennsylvania,York,39,90,0.433333333,NO
+New Jersey,Cape May,17,32,0.53125,YES
+Ohio,Licking,17,32,0.53125,YES
+Virginia,Prince William,44,83,0.530120482,YES
+Rhode Island,Providence,39,141,0.276595745,NO
+Kentucky,McCracken,9,17,0.529411765,YES
+South Carolina,Abbeville,1,6,0.166666667,NO
+South Carolina,Aiken,14,33,0.424242424,NO
+South Carolina,Allendale,0,3,0,NO
+Minnesota,Otter Tail,9,17,0.529411765,YES
+South Carolina,Bamberg,1,4,0.25,NO
+South Carolina,Barnwell,0,6,0,NO
+North Carolina,Caldwell,9,17,0.529411765,YES
+Texas,Tarrant,188,357,0.526610644,YES
+South Carolina,Calhoun,0,3,0,NO
+South Carolina,Charleston,32,86,0.372093023,NO
+South Carolina,Cherokee,4,13,0.307692308,NO
+South Carolina,Chester,3,11,0.272727273,NO
+South Carolina,Chesterfield,3,10,0.3,NO
+South Carolina,Clarendon,2,12,0.166666667,NO
+Arkansas,Pulaski,50,95,0.526315789,YES
+South Carolina,Darlington,4,16,0.25,NO
+South Carolina,Dillon,1,6,0.166666667,NO
+Iowa,Black Hawk,20,38,0.526315789,YES
+South Carolina,Edgefield,2,6,0.333333333,NO
+Maryland,Wicomico,10,19,0.526315789,YES
+South Carolina,Florence,11,33,0.333333333,NO
+Mississippi,Lauderdale,10,19,0.526315789,YES
+Texas,Parker,10,19,0.526315789,YES
+South Carolina,Greenwood,4,14,0.285714286,NO
+South Carolina,Hampton,1,5,0.2,NO
+South Carolina,Horry,24,72,0.333333333,NO
+South Carolina,Jasper,1,5,0.2,NO
+Idaho,Ada,31,59,0.525423729,YES
+Louisiana,Ouachita,21,40,0.525,YES
+South Carolina,Laurens,4,17,0.235294118,NO
+South Carolina,Lee,1,7,0.142857143,NO
+South Carolina,Lexington,34,74,0.459459459,NO
+South Carolina,Marion,0,8,0,NO
+South Carolina,Marlboro,2,7,0.285714286,NO
+South Carolina,McCormick,0,3,0,NO
+Indiana,Hendricks,11,21,0.523809524,YES
+South Carolina,Oconee,4,15,0.266666667,NO
+South Carolina,Orangeburg,7,20,0.35,NO
+Missouri,Jefferson,22,42,0.523809524,YES
+Oregon,Linn,11,21,0.523809524,YES
+South Carolina,Saluda,0,5,0,NO
+Texas,Orange,11,21,0.523809524,YES
+South Carolina,Sumter,8,23,0.347826087,NO
+South Carolina,Union,2,9,0.222222222,NO
+South Carolina,Williamsburg,2,11,0.181818182,NO
+Louisiana,Calcasieu,23,44,0.522727273,YES
+Missouri,St. Louis,104,199,0.522613065,YES
+Tennessee,Washington,12,23,0.52173913,YES
+Virginia,Roanoke City,12,23,0.52173913,YES
+Idaho,Kootenai,13,25,0.52,YES
+Texas,Gregg,13,25,0.52,YES
+Michigan,Genesee,68,131,0.519083969,YES
+Florida,Citrus,14,27,0.518518519,YES
+Tennessee,Madison,14,27,0.518518519,YES
+Virginia,Stafford,14,27,0.518518519,YES
+Connecticut,Tolland,15,29,0.517241379,YES
+South Dakota,Charles Mix,1,3,0.333333333,NO
+North Carolina,Catawba,16,31,0.516129032,YES
+Mississippi,Hinds,33,64,0.515625,YES
+Ohio,Portage,18,35,0.514285714,YES
+North Carolina,Guilford,61,119,0.512605042,YES
+New Mexico,Dona Ana,21,41,0.512195122,YES
+Louisiana,St. Tammany,22,43,0.511627907,YES
+Nebraska,Sarpy,22,43,0.511627907,YES
+New Hampshire,Hillsborough,44,86,0.511627907,YES
+Ohio,Summit,69,135,0.511111111,YES
+South Carolina,Berkeley,23,45,0.511111111,YES
+Connecticut,New Haven,97,190,0.510526316,YES
+Georgia,DeKalb,74,145,0.510344828,YES
+Tennessee,Rutherford,25,49,0.510204082,YES
+New York,Suffolk,164,322,0.50931677,YES
+Massachusetts,Essex,83,163,0.509202454,YES
+Ohio,Lake,30,59,0.508474576,YES
+Pennsylvania,Dauphin,33,65,0.507692308,YES
+Pennsylvania,Montgomery,107,211,0.507109005,YES
+South Carolina,Richland,45,89,0.505617978,YES
+Alabama,Randolph,3,6,0.5,YES
+Alabama,Shelby,24,48,0.5,YES
+South Dakota,Hutchinson,0,3,0,NO
+Alaska,Aleutians West,1,2,0.5,YES
+Alaska,Dillingham,1,2,0.5,YES
+Alaska,Nome,1,2,0.5,YES
+Alaska,Northwest Arctic,1,2,0.5,YES
+Alaska,Sitka,1,2,0.5,YES
+Arkansas,Cleveland,1,2,0.5,YES
+Arkansas,Cross,3,6,0.5,YES
+South Dakota,Lincoln,5,11,0.454545455,NO
+Arkansas,Fulton,1,2,0.5,YES
+Arkansas,Lafayette,1,2,0.5,YES
+Arkansas,Logan,3,6,0.5,YES
+Arkansas,Marion,2,4,0.5,YES
+Arkansas,Miller,6,12,0.5,YES
+Arkansas,Sevier,2,4,0.5,YES
+Arkansas,Sharp,2,4,0.5,YES
+South Dakota,Minnehaha,17,42,0.404761905,NO
+Arkansas,St. Francis,3,6,0.5,YES
+South Dakota,Pennington,10,23,0.434782609,NO
+California,Inyo,3,6,0.5,YES
+California,Modoc,2,4,0.5,YES
+California,Nevada,10,20,0.5,YES
+Colorado,Archuleta,2,4,0.5,YES
+Colorado,Baca,1,2,0.5,YES
+Colorado,Huerfano,1,2,0.5,YES
+South Dakota,Stanley,0,1,0,NO
+Colorado,Las Animas,3,6,0.5,YES
+Colorado,Lincoln,1,2,0.5,YES
+Colorado,Montrose,5,10,0.5,YES
+South Dakota,Turner,0,2,0,NO
+South Dakota,Union,0,3,0,NO
+Colorado,Saguache,1,2,0.5,YES
+Colorado,Washington,1,2,0.5,YES
+Florida,Columbia,6,12,0.5,YES
+Tennessee,Anderson,7,18,0.388888889,NO
+Tennessee,Bedford,4,9,0.444444444,NO
+Tennessee,Benton,2,5,0.4,NO
+Tennessee,Bledsoe,0,3,0,NO
+Tennessee,Blount,11,28,0.392857143,NO
+Florida,Hardee,3,6,0.5,YES
+Tennessee,Campbell,1,11,0.090909091,NO
+Tennessee,Cannon,0,3,0,NO
+Tennessee,Carroll,2,8,0.25,NO
+Florida,Holmes,2,4,0.5,YES
+Tennessee,Cheatham,2,9,0.222222222,NO
+Florida,Lafayette,1,2,0.5,YES
+Tennessee,Claiborne,1,9,0.111111111,NO
+Tennessee,Clay,0,2,0,NO
+Tennessee,Cocke,4,9,0.444444444,NO
+Tennessee,Coffee,5,12,0.416666667,NO
+Tennessee,Crockett,1,5,0.2,NO
+Florida,Liberty,1,2,0.5,YES
+Tennessee,Davidson,68,161,0.422360248,NO
+Tennessee,Decatur,0,4,0,NO
+Tennessee,DeKalb,1,4,0.25,NO
+Tennessee,Dickson,3,10,0.3,NO
+Tennessee,Dyer,3,8,0.375,NO
+Tennessee,Fayette,2,11,0.181818182,NO
+Tennessee,Fentress,0,4,0,NO
+Tennessee,Franklin,3,9,0.333333333,NO
+Tennessee,Gibson,5,14,0.357142857,NO
+Tennessee,Giles,2,8,0.25,NO
+Tennessee,Grainger,0,5,0,NO
+Tennessee,Greene,7,15,0.466666667,NO
+Tennessee,Grundy,0,4,0,NO
+Georgia,Bibb,22,44,0.5,YES
+Georgia,Burke,3,6,0.5,YES
+Tennessee,Hancock,0,2,0,NO
+Tennessee,Hardeman,2,6,0.333333333,NO
+Georgia,Calhoun,1,2,0.5,YES
+Tennessee,Hawkins,4,13,0.307692308,NO
+Georgia,Chattooga,3,6,0.5,YES
+Tennessee,Henderson,2,6,0.333333333,NO
+Tennessee,Henry,4,9,0.444444444,NO
+Tennessee,Hickman,2,6,0.333333333,NO
+Tennessee,Houston,0,3,0,NO
+Tennessee,Humphreys,2,5,0.4,NO
+Tennessee,Jackson,0,4,0,NO
+Tennessee,Jefferson,2,9,0.222222222,NO
+Tennessee,Johnson,2,5,0.4,NO
+Georgia,Emanuel,3,6,0.5,YES
+Tennessee,Lake,0,2,0,NO
+Tennessee,Lauderdale,1,9,0.111111111,NO
+Tennessee,Lawrence,1,11,0.090909091,NO
+Georgia,Floyd,10,20,0.5,YES
+Tennessee,Lincoln,3,9,0.333333333,NO
+Tennessee,Loudon,3,10,0.3,NO
+Tennessee,Macon,1,4,0.25,NO
+Georgia,Hall,18,36,0.5,YES
+Tennessee,Marion,1,6,0.166666667,NO
+Georgia,Hancock,1,2,0.5,YES
+Tennessee,Maury,7,17,0.411764706,NO
+Tennessee,McMinn,4,10,0.4,NO
+Tennessee,McNairy,1,7,0.142857143,NO
+Tennessee,Meigs,0,3,0,NO
+Tennessee,Monroe,1,7,0.142857143,NO
+Georgia,Randolph,1,2,0.5,YES
+Georgia,Spalding,6,12,0.5,YES
+Tennessee,Morgan,2,5,0.4,NO
+Tennessee,Obion,1,10,0.1,NO
+Tennessee,Overton,0,7,0,NO
+Georgia,Stewart,1,2,0.5,YES
+Tennessee,Pickett,0,1,0,NO
+Tennessee,Polk,0,5,0,NO
+Georgia,Treutlen,1,2,0.5,YES
+Tennessee,Rhea,2,6,0.333333333,NO
+Tennessee,Roane,3,11,0.272727273,NO
+Tennessee,Robertson,2,14,0.142857143,NO
+Georgia,Turner,1,2,0.5,YES
+Tennessee,Scott,1,5,0.2,NO
+Tennessee,Sequatchie,1,3,0.333333333,NO
+Tennessee,Sevier,6,18,0.333333333,NO
+Tennessee,Shelby,107,221,0.484162896,NO
+Tennessee,Smith,1,5,0.2,NO
+Tennessee,Stewart,0,5,0,NO
+Tennessee,Sullivan,17,39,0.435897436,NO
+Tennessee,Sumner,19,42,0.452380952,NO
+Tennessee,Tipton,1,13,0.076923077,NO
+Tennessee,Trousdale,0,2,0,NO
+Tennessee,Unicoi,1,4,0.25,NO
+Tennessee,Union,0,4,0,NO
+Tennessee,Van Buren,0,2,0,NO
+Tennessee,Warren,3,9,0.333333333,NO
+Georgia,Wilkes,2,4,0.5,YES
+Tennessee,Wayne,1,4,0.25,NO
+Tennessee,Weakley,5,11,0.454545455,NO
+Tennessee,White,2,6,0.333333333,NO
+Idaho,Bear Lake,1,2,0.5,YES
+Idaho,Boundary,1,2,0.5,YES
+Idaho,Caribou,1,2,0.5,YES
+Idaho,Clearwater,1,2,0.5,YES
+Texas,Angelina,8,17,0.470588235,NO
+Texas,Aransas,2,5,0.4,NO
+Idaho,Franklin,1,2,0.5,YES
+Idaho,Jefferson,2,4,0.5,YES
+Idaho,Power,1,2,0.5,YES
+Texas,Austin,1,6,0.166666667,NO
+Texas,Bailey,0,1,0,NO
+Illinois,Alexander,2,4,0.5,YES
+Illinois,Brown,1,2,0.5,YES
+Texas,Baylor,0,1,0,NO
+Illinois,Calhoun,1,2,0.5,YES
+Illinois,Clark,2,4,0.5,YES
+Illinois,Effingham,4,8,0.5,YES
+Texas,Blanco,0,2,0,NO
+Illinois,Grundy,5,10,0.5,YES
+Texas,Bosque,2,7,0.285714286,NO
+Texas,Bowie,8,18,0.444444444,NO
+Texas,Brazoria,22,51,0.431372549,NO
+Illinois,Jo Daviess,3,6,0.5,YES
+Illinois,Logan,4,8,0.5,YES
+Illinois,Mason,3,6,0.5,YES
+Illinois,Mercer,2,4,0.5,YES
+Illinois,Monroe,3,6,0.5,YES
+Texas,Burleson,2,5,0.4,NO
+Illinois,Pope,1,2,0.5,YES
+Illinois,Pulaski,1,2,0.5,YES
+Illinois,Putnam,1,2,0.5,YES
+Illinois,Wabash,2,4,0.5,YES
+Texas,Cameron,36,86,0.418604651,NO
+Texas,Camp,1,3,0.333333333,NO
+Indiana,Allen,48,96,0.5,YES
+Texas,Cass,3,7,0.428571429,NO
+Texas,Castro,1,3,0.333333333,NO
+Texas,Chambers,1,6,0.166666667,NO
+Indiana,Boone,5,10,0.5,YES
+Indiana,Dearborn,5,10,0.5,YES
+Indiana,Hancock,5,10,0.5,YES
+Indiana,Jennings,3,6,0.5,YES
+Indiana,Johnson,11,22,0.5,YES
+Indiana,LaPorte,14,28,0.5,YES
+Texas,Collin,66,152,0.434210526,NO
+Texas,Collingsworth,0,1,0,NO
+Indiana,Parke,2,4,0.5,YES
+Texas,Comal,7,24,0.291666667,NO
+Iowa,Buchanan,3,6,0.5,YES
+Iowa,Cherokee,2,4,0.5,YES
+Texas,Cooke,3,8,0.375,NO
+Iowa,Chickasaw,2,4,0.5,YES
+Iowa,Clay,2,4,0.5,YES
+Iowa,Dubuque,13,26,0.5,YES
+Texas,Crockett,0,1,0,NO
+Texas,Crosby,0,3,0,NO
+Texas,Culberson,0,1,0,NO
+Iowa,Emmet,2,4,0.5,YES
+Texas,Dallas,170,529,0.321361059,NO
+Iowa,Greene,2,4,0.5,YES
+Iowa,Humboldt,2,4,0.5,YES
+Texas,Delta,0,2,0,NO
+Texas,Denton,64,137,0.467153285,NO
+Texas,DeWitt,0,5,0,NO
+Texas,Dickens,0,1,0,NO
+Iowa,Iowa,2,4,0.5,YES
+Iowa,Jackson,3,6,0.5,YES
+Texas,Duval,1,3,0.333333333,NO
+Iowa,Marshall,5,10,0.5,YES
+Texas,Ector,11,28,0.392857143,NO
+Iowa,Montgomery,2,4,0.5,YES
+Texas,El Paso,67,161,0.416149068,NO
+Texas,Ellis,13,31,0.419354839,NO
+Iowa,O'Brien,2,4,0.5,YES
+Texas,Falls,2,6,0.333333333,NO
+Iowa,Palo Alto,2,4,0.5,YES
+Texas,Fayette,3,7,0.428571429,NO
+Iowa,Ringgold,1,2,0.5,YES
+Iowa,Sac,2,4,0.5,YES
+Iowa,Union,2,4,0.5,YES
+Iowa,Warren,6,12,0.5,YES
+Texas,Franklin,1,3,0.333333333,NO
+Kansas,Anderson,1,2,0.5,YES
+Kansas,Barton,4,8,0.5,YES
+Texas,Gaines,0,3,0,NO
+Kansas,Clay,1,2,0.5,YES
+Kansas,Decatur,1,2,0.5,YES
+Texas,Gillespie,2,5,0.4,NO
+Kansas,Douglas,11,22,0.5,YES
+Kansas,Ellis,3,6,0.5,YES
+Kansas,Finney,6,12,0.5,YES
+Kansas,Gove,1,2,0.5,YES
+Texas,Grayson,12,26,0.461538462,NO
+Kansas,Graham,1,2,0.5,YES
+Kansas,Grant,1,2,0.5,YES
+Kansas,Gray,1,2,0.5,YES
+Texas,Hale,3,9,0.333333333,NO
+Kansas,Jewell,1,2,0.5,YES
+Kansas,Labette,4,8,0.5,YES
+Kansas,Linn,1,2,0.5,YES
+Kansas,Lyon,4,8,0.5,YES
+Kansas,Marion,2,4,0.5,YES
+Texas,Harris,291,786,0.370229008,NO
+Texas,Harrison,5,14,0.357142857,NO
+Kansas,Marshall,2,4,0.5,YES
+Kansas,Meade,1,2,0.5,YES
+Texas,Hays,4,25,0.16,NO
+Texas,Hemphill,0,1,0,NO
+Texas,Henderson,6,17,0.352941176,NO
+Kansas,Morris,1,2,0.5,YES
+Texas,Hill,0,11,0,NO
+Kansas,Ness,1,2,0.5,YES
+Kansas,Rooks,1,2,0.5,YES
+Kansas,Rush,1,2,0.5,YES
+Kansas,Saline,6,12,0.5,YES
+Kansas,Sheridan,1,2,0.5,YES
+Kansas,Smith,1,2,0.5,YES
+Texas,Hunt,5,19,0.263157895,NO
+Texas,Hutchinson,2,7,0.285714286,NO
+Kansas,Stevens,1,2,0.5,YES
+Kansas,Wabaunsee,1,2,0.5,YES
+Kansas,Wilson,2,4,0.5,YES
+Texas,Jasper,2,8,0.25,NO
+Kansas,Woodson,1,2,0.5,YES
+Texas,Jefferson,33,72,0.458333333,NO
+Kentucky,Livingston,1,2,0.5,YES
+Kentucky,Woodford,4,8,0.5,YES
+Texas,Johnson,9,28,0.321428571,NO
+Texas,Jones,2,6,0.333333333,NO
+Louisiana,Evangeline,4,8,0.5,YES
+Texas,Kaufman,5,18,0.277777778,NO
+Texas,Kendall,2,6,0.333333333,NO
+Louisiana,Pointe Coupee,3,6,0.5,YES
+Louisiana,Red River,1,2,0.5,YES
+Texas,Kerr,4,10,0.4,NO
+Louisiana,St. Helena,1,2,0.5,YES
+Louisiana,Union,3,6,0.5,YES
+Louisiana,Winn,2,4,0.5,YES
+Maryland,Calvert,9,18,0.5,YES
+Maryland,Carroll,19,38,0.5,YES
+Maryland,Charles,15,30,0.5,YES
+Maryland,Dorchester,5,10,0.5,YES
+Texas,Lamb,0,5,0,NO
+Texas,Lampasas,2,5,0.4,NO
+Massachusetts,Dukes,2,4,0.5,YES
+Michigan,Emmet,4,8,0.5,YES
+Michigan,Gratiot,5,10,0.5,YES
+Michigan,Keweenaw,1,2,0.5,YES
+Michigan,Ontonagon,2,4,0.5,YES
+Michigan,Otsego,3,6,0.5,YES
+Texas,Live Oak,0,4,0,NO
+Michigan,Presque Isle,3,6,0.5,YES
+Minnesota,Chippewa,2,4,0.5,YES
+Texas,Lubbock,25,68,0.367647059,NO
+Minnesota,Chisago,5,10,0.5,YES
+Minnesota,Cottonwood,2,4,0.5,YES
+Texas,Marion,1,4,0.25,NO
+Minnesota,Isanti,4,8,0.5,YES
+Minnesota,Kanabec,2,4,0.5,YES
+Texas,Matagorda,4,10,0.4,NO
+Minnesota,Kandiyohi,6,12,0.5,YES
+Minnesota,Lake of the Woods,1,2,0.5,YES
+Minnesota,Mahnomen,1,2,0.5,YES
+Minnesota,Meeker,3,6,0.5,YES
+Minnesota,Nobles,3,6,0.5,YES
+Texas,Menard,0,1,0,NO
+Texas,Midland,12,27,0.444444444,NO
+Minnesota,Pine,4,8,0.5,YES
+Minnesota,Pope,2,4,0.5,YES
+Minnesota,Renville,3,6,0.5,YES
+Texas,Montague,2,6,0.333333333,NO
+Minnesota,Traverse,1,2,0.5,YES
+Minnesota,Wilkin,1,2,0.5,YES
+Texas,Morris,0,3,0,NO
+Texas,Motley,0,1,0,NO
+Texas,Nacogdoches,6,13,0.461538462,NO
+Minnesota,Yellow Medicine,2,4,0.5,YES
+Mississippi,Clarke,2,4,0.5,YES
+Texas,Nolan,2,5,0.4,NO
+Texas,Nueces,40,81,0.49382716,NO
+Texas,Ochiltree,1,3,0.333333333,NO
+Mississippi,Greene,1,2,0.5,YES
+Mississippi,Jefferson,1,2,0.5,YES
+Mississippi,Marshall,3,6,0.5,YES
+Mississippi,Panola,3,6,0.5,YES
+Mississippi,Pontotoc,3,6,0.5,YES
+Mississippi,Sharkey,1,2,0.5,YES
+Mississippi,Tallahatchie,2,4,0.5,YES
+Texas,Polk,2,10,0.2,NO
+Texas,Potter,10,34,0.294117647,NO
+Missouri,Andrew,2,4,0.5,YES
+Texas,Rains,0,2,0,NO
+Texas,Randall,9,29,0.310344828,NO
+Texas,Reagan,0,1,0,NO
+Missouri,Caldwell,1,2,0.5,YES
+Missouri,Carter,1,2,0.5,YES
+Missouri,Dade,1,2,0.5,YES
+Missouri,Daviess,1,2,0.5,YES
+Missouri,Dunklin,5,10,0.5,YES
+Missouri,Howell,4,8,0.5,YES
+Missouri,Iron,2,4,0.5,YES
+Missouri,Knox,1,2,0.5,YES
+Texas,Rusk,6,13,0.461538462,NO
+Texas,Sabine,1,3,0.333333333,NO
+Texas,San Augustine,0,3,0,NO
+Texas,San Jacinto,1,4,0.25,NO
+Missouri,Lewis,2,4,0.5,YES
+Missouri,Moniteau,2,4,0.5,YES
+Texas,Schleicher,0,1,0,NO
+Texas,Scurry,1,4,0.25,NO
+Texas,Shackelford,0,1,0,NO
+Missouri,Montgomery,2,4,0.5,YES
+Missouri,Osage,2,4,0.5,YES
+Texas,Smith,15,41,0.365853659,NO
+Texas,Somervell,0,2,0,NO
+Missouri,Phelps,5,10,0.5,YES
+Missouri,Putnam,1,2,0.5,YES
+Missouri,Randolph,3,6,0.5,YES
+Texas,Stonewall,0,1,0,NO
+Missouri,Ray,2,4,0.5,YES
+Texas,Swisher,1,3,0.333333333,NO
+Missouri,Reynolds,1,2,0.5,YES
+Texas,Taylor,16,38,0.421052632,NO
+Missouri,Saline,4,8,0.5,YES
+Missouri,Shannon,1,2,0.5,YES
+Missouri,Ste. Genevieve,2,4,0.5,YES
+Missouri,Wright,2,4,0.5,YES
+Montana,Broadwater,1,2,0.5,YES
+Texas,Travis,93,218,0.426605505,NO
+Texas,Trinity,1,5,0.2,NO
+Montana,Lewis and Clark,7,14,0.5,YES
+Texas,Upshur,3,7,0.428571429,NO
+Montana,Musselshell,1,2,0.5,YES
+Montana,Pondera,1,2,0.5,YES
+Montana,Powell,1,2,0.5,YES
+Montana,Rosebud,2,4,0.5,YES
+Texas,Victoria,11,23,0.47826087,NO
+Montana,Sheridan,1,2,0.5,YES
+Texas,Waller,2,6,0.333333333,NO
+Texas,Ward,1,3,0.333333333,NO
+Montana,Yellowstone,16,32,0.5,YES
+Texas,Webb,24,61,0.393442623,NO
+Texas,Wharton,3,11,0.272727273,NO
+Nebraska,Boone,1,2,0.5,YES
+Texas,Wichita,18,37,0.486486486,NO
+Nebraska,Cedar,1,2,0.5,YES
+Nebraska,Dakota,2,4,0.5,YES
+Nebraska,Fillmore,1,2,0.5,YES
+Texas,Wilson,2,11,0.181818182,NO
+Texas,Winkler,0,3,0,NO
+Texas,Wise,4,11,0.363636364,NO
+Nebraska,Franklin,1,2,0.5,YES
+Nebraska,Howard,1,2,0.5,YES
+Nebraska,Johnson,1,2,0.5,YES
+Nebraska,Kearney,1,2,0.5,YES
+Nebraska,Nuckolls,1,2,0.5,YES
+Nebraska,Sheridan,1,2,0.5,YES
+Nebraska,Valley,1,2,0.5,YES
+Utah,Cache,12,26,0.461538462,NO
+Utah,Carbon,2,5,0.4,NO
+Nebraska,Wayne,1,2,0.5,YES
+Nebraska,Webster,1,2,0.5,YES
+Nevada,Carson City,7,14,0.5,YES
+Utah,Emery,1,3,0.333333333,NO
+Nevada,Humboldt,2,4,0.5,YES
+Nevada,Lyon,5,10,0.5,YES
+New Hampshire,Sullivan,5,10,0.5,YES
+New Mexico,Grant,4,8,0.5,YES
+New Mexico,Hidalgo,1,2,0.5,YES
+New Mexico,Sierra,2,4,0.5,YES
+Utah,Morgan,0,2,0,NO
+New York,Hamilton,2,4,0.5,YES
+North Carolina,Alamance,18,36,0.5,YES
+Utah,Salt Lake,61,212,0.287735849,NO
+North Carolina,Bertie,2,4,0.5,YES
+Utah,Sanpete,2,5,0.4,NO
+Utah,Sevier,0,5,0,NO
+North Carolina,Bladen,3,6,0.5,YES
+North Carolina,Durham,30,60,0.5,YES
+North Carolina,Hyde,1,2,0.5,YES
+North Carolina,Pasquotank,5,10,0.5,YES
+North Dakota,Barnes,2,4,0.5,YES
+North Dakota,Bowman,1,2,0.5,YES
+North Dakota,Cavalier,1,2,0.5,YES
+Utah,Weber,21,50,0.42,NO
+Vermont,Addison,2,10,0.2,NO
+Vermont,Bennington,1,12,0.083333333,NO
+Vermont,Caledonia,1,10,0.1,NO
+Vermont,Chittenden,10,35,0.285714286,NO
+Vermont,Essex,1,3,0.333333333,NO
+Vermont,Franklin,2,10,0.2,NO
+Vermont,Grand Isle,0,2,0,NO
+Vermont,Lamoille,0,7,0,NO
+Vermont,Orange,2,10,0.2,NO
+Vermont,Orleans,2,10,0.2,NO
+Vermont,Rutland,7,20,0.35,NO
+Vermont,Washington,7,19,0.368421053,NO
+Vermont,Windham,2,18,0.111111111,NO
+Vermont,Windsor,2,18,0.111111111,NO
+Virginia,Accomack,1,11,0.090909091,NO
+Virginia,Albemarle,4,22,0.181818182,NO
+Virginia,Alexandria City,0,38,0,NO
+Virginia,Alleghany,0,6,0,NO
+North Dakota,LaMoure,1,2,0.5,YES
+Virginia,Amherst,4,9,0.444444444,NO
+Virginia,Appomattox,0,3,0,NO
+Virginia,Arlington,3,59,0.050847458,NO
+Virginia,Augusta,5,13,0.384615385,NO
+North Dakota,Sargent,1,2,0.5,YES
+Virginia,Bedford,3,16,0.1875,NO
+North Dakota,Sioux,1,2,0.5,YES
+North Dakota,Stark,4,8,0.5,YES
+North Dakota,Stutsman,3,6,0.5,YES
+North Dakota,Wells,1,2,0.5,YES
+Ohio,Adams,3,6,0.5,YES
+Virginia,Buchanan,0,7,0,NO
+Ohio,Knox,6,12,0.5,YES
+Ohio,Meigs,3,6,0.5,YES
+Virginia,Campbell,4,12,0.333333333,NO
+Virginia,Caroline,2,7,0.285714286,NO
+Virginia,Carroll,1,7,0.142857143,NO
+Virginia,Charles City,0,3,0,NO
+Ohio,Morgan,2,4,0.5,YES
+Virginia,Charlottesville,3,12,0.25,NO
+Ohio,Pike,3,6,0.5,YES
+Ohio,Union,5,10,0.5,YES
+Virginia,Clarke,0,3,0,NO
+Virginia,Colonial Heights,1,5,0.2,NO
+Oklahoma,Beckham,2,4,0.5,YES
+Oklahoma,Cimarron,1,2,0.5,YES
+Oklahoma,Coal,1,2,0.5,YES
+Oklahoma,Garfield,6,12,0.5,YES
+Virginia,Danville,5,16,0.3125,NO
+Virginia,Dickenson,0,4,0,NO
+Virginia,Dinwiddie,2,7,0.285714286,NO
+Virginia,Emporia,0,2,0,NO
+Oklahoma,Grady,5,10,0.5,YES
+Virginia,Fairfax,93,258,0.360465116,NO
+Virginia,Fairfax City,1,5,0.2,NO
+Virginia,Falls Church,0,3,0,NO
+Virginia,Fauquier,3,17,0.176470588,NO
+Oklahoma,Greer,1,2,0.5,YES
+Virginia,Fluvanna,1,4,0.25,NO
+Virginia,Franklin,4,10,0.4,NO
+Oklahoma,Harper,1,2,0.5,YES
+Oklahoma,Le Flore,6,12,0.5,YES
+Virginia,Fredericksburg,2,6,0.333333333,NO
+Virginia,Galax,0,2,0,NO
+Virginia,Giles,0,4,0,NO
+Virginia,Gloucester,1,8,0.125,NO
+Virginia,Goochland,1,5,0.2,NO
+Virginia,Grayson,2,5,0.4,NO
+Virginia,Greene,1,3,0.333333333,NO
+Virginia,Greensville,0,3,0,NO
+Oklahoma,Marshall,2,4,0.5,YES
+Oklahoma,McClain,3,6,0.5,YES
+Virginia,Hanover,11,23,0.47826087,NO
+Virginia,Harrisonburg,2,11,0.181818182,NO
+Virginia,Henrico,25,64,0.390625,NO
+Virginia,Henry,6,14,0.428571429,NO
+Oklahoma,McCurtain,4,8,0.5,YES
+Oklahoma,McIntosh,3,6,0.5,YES
+Virginia,Isle of Wight,3,8,0.375,NO
+Oklahoma,Noble,2,4,0.5,YES
+Oklahoma,Nowata,2,4,0.5,YES
+Virginia,King George,1,5,0.2,NO
+Virginia,King William,1,4,0.25,NO
+Virginia,Lancaster,0,3,0,NO
+Virginia,Lee,0,6,0,NO
+Oklahoma,Okfuskee,2,4,0.5,YES
+Virginia,Loudoun,28,65,0.430769231,NO
+Virginia,Louisa,1,6,0.166666667,NO
+Virginia,Lunenburg,0,3,0,NO
+Oklahoma,Okmulgee,5,10,0.5,YES
+Virginia,Madison,0,2,0,NO
+Virginia,Manassas,2,7,0.285714286,NO
+Oklahoma,Wagoner,11,22,0.5,YES
+Oregon,Crook,2,4,0.5,YES
+Virginia,Mathews,0,2,0,NO
+Virginia,Mecklenburg,4,9,0.444444444,NO
+Virginia,Middlesex,0,4,0,NO
+Oregon,Jefferson,3,6,0.5,YES
+Virginia,Nelson,1,3,0.333333333,NO
+Virginia,New Kent,0,3,0,NO
+Virginia,Newport News City,18,44,0.409090909,NO
+Virginia,Norfolk City,27,81,0.333333333,NO
+Virginia,Northampton,0,4,0,NO
+Virginia,Northumberland,1,3,0.333333333,NO
+Virginia,Norton,0,1,0,NO
+Oregon,Lake,1,2,0.5,YES
+Pennsylvania,Sullivan,1,2,0.5,YES
+Virginia,Page,0,5,0,NO
+Pennsylvania,Union,5,10,0.5,YES
+Rhode Island,Newport,11,22,0.5,YES
+Virginia,Pittsylvania,6,16,0.375,NO
+South Carolina,Lancaster,7,14,0.5,YES
+Virginia,Portsmouth City,7,31,0.225806452,NO
+Virginia,Powhatan,1,5,0.2,NO
+South Carolina,Newberry,4,8,0.5,YES
+South Dakota,Beadle,3,6,0.5,YES
+South Dakota,Bon Homme,1,2,0.5,YES
+Virginia,Pulaski,0,10,0,NO
+South Dakota,Brule,1,2,0.5,YES
+South Dakota,Custer,1,2,0.5,YES
+Virginia,Richmond,0,2,0,NO
+Virginia,Richmond City,25,66,0.378787879,NO
+Virginia,Roanoke,8,18,0.444444444,NO
+South Dakota,Grant,1,2,0.5,YES
+South Dakota,Gregory,1,2,0.5,YES
+Virginia,Rockingham,4,19,0.210526316,NO
+Virginia,Russell,0,7,0,NO
+South Dakota,Hand,1,2,0.5,YES
+Virginia,Scott,2,6,0.333333333,NO
+Virginia,Shenandoah,1,9,0.111111111,NO
+Virginia,Smyth,1,9,0.111111111,NO
+South Dakota,Jackson,1,2,0.5,YES
+South Dakota,Roberts,2,4,0.5,YES
+South Dakota,Tripp,1,2,0.5,YES
+Virginia,Staunton,0,6,0,NO
+Virginia,Suffolk City,13,28,0.464285714,NO
+South Dakota,Walworth,1,2,0.5,YES
+Tennessee,Cumberland,7,14,0.5,YES
+Virginia,Tazewell,3,11,0.272727273,NO
+Virginia,Virginia Beach City,34,100,0.34,NO
+Virginia,Warren,3,8,0.375,NO
+Virginia,Washington,3,13,0.230769231,NO
+Virginia,Waynesboro,2,5,0.4,NO
+Virginia,Westmoreland,0,4,0,NO
+Virginia,Williamsburg,1,3,0.333333333,NO
+Virginia,Winchester,2,5,0.4,NO
+Virginia,Wise,3,11,0.272727273,NO
+Virginia,Wythe,1,6,0.166666667,NO
+Tennessee,Haywood,3,6,0.5,YES
+Washington,Adams,2,5,0.4,NO
+Washington,Asotin,2,6,0.333333333,NO
+Washington,Benton,17,37,0.459459459,NO
+Washington,Chelan,6,14,0.428571429,NO
+Tennessee,Lewis,1,2,0.5,YES
+Washington,Clark,39,104,0.375,NO
+Tennessee,Marshall,3,6,0.5,YES
+Washington,Cowlitz,8,24,0.333333333,NO
+Tennessee,Perry,1,2,0.5,YES
+Texas,Andrews,2,4,0.5,YES
+Texas,Brooks,1,2,0.5,YES
+Texas,Burnet,4,8,0.5,YES
+Texas,Carson,1,2,0.5,YES
+Texas,Childress,1,2,0.5,YES
+Washington,Island,3,22,0.136363636,NO
+Texas,Comanche,2,4,0.5,YES
+Washington,King,139,397,0.350125945,NO
+Texas,Donley,1,2,0.5,YES
+Texas,Fisher,1,2,0.5,YES
+Texas,Floyd,1,2,0.5,YES
+Texas,Hansford,1,2,0.5,YES
+Texas,Hood,5,10,0.5,YES
+Washington,Mason,5,14,0.357142857,NO
+Washington,Okanogan,4,10,0.4,NO
+Washington,Pacific,2,8,0.25,NO
+Washington,Pend Oreille,2,5,0.4,NO
+Texas,Jim Hogg,1,2,0.5,YES
+Washington,San Juan,0,5,0,NO
+Washington,Skagit,13,30,0.433333333,NO
+Washington,Skamania,1,5,0.2,NO
+Washington,Snohomish,65,151,0.430463576,NO
+Washington,Spokane,35,105,0.333333333,NO
+Texas,Kimble,1,2,0.5,YES
+Washington,Thurston,23,49,0.469387755,NO
+Texas,Knox,1,2,0.5,YES
+Texas,Lavaca,3,6,0.5,YES
+Washington,Whatcom,15,34,0.441176471,NO
+Texas,Lee,2,4,0.5,YES
+Washington,Yakima,12,45,0.266666667,NO
+West Virginia,Barbour,1,4,0.25,NO
+West Virginia,Berkeley,6,14,0.428571429,NO
+West Virginia,Boone,1,8,0.125,NO
+Texas,Liberty,7,14,0.5,YES
+West Virginia,Brooke,2,6,0.333333333,NO
+West Virginia,Cabell,7,29,0.24137931,NO
+Texas,Limestone,4,8,0.5,YES
+Texas,Llano,3,6,0.5,YES
+West Virginia,Doddridge,0,2,0,NO
+West Virginia,Fayette,3,12,0.25,NO
+Texas,Martin,1,2,0.5,YES
+West Virginia,Grant,1,3,0.333333333,NO
+Texas,Mason,1,2,0.5,YES
+West Virginia,Hampshire,2,5,0.4,NO
+Texas,Medina,4,8,0.5,YES
+Texas,Mills,1,2,0.5,YES
+West Virginia,Harrison,6,22,0.272727273,NO
+Texas,Mitchell,1,2,0.5,YES
+West Virginia,Jefferson,4,15,0.266666667,NO
+West Virginia,Kanawha,23,53,0.433962264,NO
+West Virginia,Lewis,2,5,0.4,NO
+West Virginia,Lincoln,0,5,0,NO
+West Virginia,Logan,1,9,0.111111111,NO
+West Virginia,Marion,5,18,0.277777778,NO
+West Virginia,Marshall,3,9,0.333333333,NO
+Texas,Moore,2,4,0.5,YES
+West Virginia,McDowell,0,8,0,NO
+West Virginia,Mercer,7,16,0.4375,NO
+West Virginia,Mineral,2,7,0.285714286,NO
+West Virginia,Mingo,2,7,0.285714286,NO
+West Virginia,Monongalia,8,24,0.333333333,NO
+West Virginia,Monroe,1,3,0.333333333,NO
+Texas,Navarro,5,10,0.5,YES
+West Virginia,Nicholas,2,7,0.285714286,NO
+West Virginia,Ohio,7,18,0.388888889,NO
+Texas,Panola,3,6,0.5,YES
+West Virginia,Pleasants,0,2,0,NO
+Texas,Pecos,2,4,0.5,YES
+Texas,Presidio,1,2,0.5,YES
+West Virginia,Putnam,4,10,0.4,NO
+Texas,Refugio,1,2,0.5,YES
+West Virginia,Randolph,2,7,0.285714286,NO
+West Virginia,Ritchie,1,3,0.333333333,NO
+Texas,Runnels,2,4,0.5,YES
+West Virginia,Summers,1,4,0.25,NO
+West Virginia,Taylor,0,4,0,NO
+West Virginia,Tucker,0,3,0,NO
+West Virginia,Tyler,0,3,0,NO
+West Virginia,Upshur,1,6,0.166666667,NO
+West Virginia,Wayne,2,11,0.181818182,NO
+West Virginia,Webster,0,3,0,NO
+Texas,San Saba,1,2,0.5,YES
+West Virginia,Wirt,0,2,0,NO
+West Virginia,Wood,8,26,0.307692308,NO
+West Virginia,Wyoming,0,6,0,NO
+Wisconsin,Adams,2,7,0.285714286,NO
+Texas,Shelby,3,6,0.5,YES
+Wisconsin,Barron,4,10,0.4,NO
+Wisconsin,Bayfield,2,5,0.4,NO
+Wisconsin,Brown,23,54,0.425925926,NO
+Wisconsin,Buffalo,2,5,0.4,NO
+Wisconsin,Burnett,1,6,0.166666667,NO
+Texas,Titus,4,8,0.5,YES
+Wisconsin,Chippewa,5,11,0.454545455,NO
+Wisconsin,Clark,1,8,0.125,NO
+Wisconsin,Columbia,3,12,0.25,NO
+Wisconsin,Crawford,1,6,0.166666667,NO
+Wisconsin,Dane,52,107,0.485981308,NO
+Wisconsin,Dodge,5,20,0.25,NO
+Wisconsin,Door,3,9,0.333333333,NO
+Texas,Upton,1,2,0.5,YES
+Texas,Walker,5,10,0.5,YES
+Texas,Washington,3,6,0.5,YES
+Wisconsin,Florence,0,2,0,NO
+Texas,Wheeler,1,2,0.5,YES
+Texas,Willacy,3,6,0.5,YES
+Texas,Wood,5,10,0.5,YES
+Texas,Yoakum,1,2,0.5,YES
+Wisconsin,Green Lake,2,6,0.333333333,NO
+Utah,Beaver,1,2,0.5,YES
+Wisconsin,Iron,0,3,0,NO
+Utah,Garfield,1,2,0.5,YES
+Wisconsin,Jefferson,6,20,0.3,NO
+Utah,Grand,1,2,0.5,YES
+Wisconsin,Kenosha,14,35,0.4,NO
+Wisconsin,Kewaunee,0,4,0,NO
+Wisconsin,La Crosse,10,25,0.4,NO
+Wisconsin,Lafayette,1,5,0.2,NO
+Utah,Iron,4,8,0.5,YES
+Wisconsin,Lincoln,3,10,0.3,NO
+Wisconsin,Manitowoc,7,19,0.368421053,NO
+Wisconsin,Marathon,12,27,0.444444444,NO
+Utah,Utah,64,128,0.5,YES
+Wisconsin,Marquette,0,5,0,NO
+Virginia,Bland,1,2,0.5,YES
+Wisconsin,Milwaukee,40,297,0.134680135,NO
+Virginia,Botetourt,4,8,0.5,YES
+Wisconsin,Oconto,2,10,0.2,NO
+Wisconsin,Oneida,3,14,0.214285714,NO
+Wisconsin,Outagamie,14,40,0.35,NO
+Virginia,Buckingham,2,4,0.5,YES
+Wisconsin,Pepin,0,2,0,NO
+Wisconsin,Pierce,3,8,0.375,NO
+Wisconsin,Polk,1,10,0.1,NO
+Wisconsin,Portage,5,14,0.357142857,NO
+Wisconsin,Price,1,6,0.166666667,NO
+Virginia,Covington,1,2,0.5,YES
+Virginia,Culpeper,4,8,0.5,YES
+Virginia,Frederick,7,14,0.5,YES
+Virginia,Hampton City,17,34,0.5,YES
+Wisconsin,Sauk,3,13,0.230769231,NO
+Virginia,King and Queen,1,2,0.5,YES
+Wisconsin,Shawano,4,11,0.363636364,NO
+Wisconsin,Sheboygan,7,26,0.269230769,NO
+Wisconsin,St. Croix,5,14,0.357142857,NO
+Virginia,Nottoway,2,4,0.5,YES
+Wisconsin,Trempealeau,1,8,0.125,NO
+Virginia,Patrick,2,4,0.5,YES
+Wisconsin,Vilas,1,5,0.2,NO
+Washington,Lewis,10,20,0.5,YES
+Wisconsin,Washburn,2,5,0.4,NO
+Washington,Walla Walla,6,12,0.5,YES
+West Virginia,Calhoun,1,2,0.5,YES
+Wisconsin,Waupaca,3,12,0.25,NO
+Wisconsin,Waushara,1,7,0.142857143,NO
+Wisconsin,Winnebago,17,41,0.414634146,NO
+West Virginia,Jackson,3,6,0.5,YES
+Wyoming,Albany,4,10,0.4,NO
+West Virginia,Mason,3,6,0.5,YES
+West Virginia,Morgan,2,4,0.5,YES
+West Virginia,Preston,4,8,0.5,YES
+Wisconsin,Dunn,4,8,0.5,YES
+Wisconsin,Forest,2,4,0.5,YES
+Wyoming,Fremont,4,10,0.4,NO
+Wisconsin,Green,4,8,0.5,YES
+Wyoming,Hot Springs,0,2,0,NO
+Wisconsin,Iowa,3,6,0.5,YES
+Wisconsin,Marinette,6,12,0.5,YES
+Wisconsin,Menominee,1,2,0.5,YES
+Wisconsin,Rock,19,38,0.5,YES
+Wisconsin,Taylor,3,6,0.5,YES
+Wisconsin,Walworth,11,22,0.5,YES
+Wyoming,Converse,2,4,0.5,YES
+Wyoming,Goshen,2,4,0.5,YES
+Wyoming,Lincoln,2,4,0.5,YES
+Wyoming,Sweetwater,5,12,0.416666667,NO
+Wyoming,Natrona,9,18,0.5,YES
+Wyoming,Uinta,0,3,0,NO
+Wyoming,Washakie,1,3,0.333333333,NO
+Wyoming,Teton,2,4,0.5,YES
