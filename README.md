@@ -27,7 +27,11 @@ This is the main jupyter notebook. Below are the sections within the notebook:
       1. Data Load
       2. Data Engineering
       2. Exploratory Data Analysis
-      3. Machine Learning classification algorithms: Random Forests, SVM, K-NN, AdaBoost and Gradient Boosting classifiers
+      3. Machine Learning classification algorithms: 
+            - Random Forests 
+            - SVM 
+            - K-NN 
+            - AdaBoost and Gradient Boosting classifiers
       4. Results summary 
 
 #### MLDiabetes_WebScraping.ipynb
@@ -50,7 +54,10 @@ Data files are stored on this folder. The data was obtained from multiple source
 ML_classifDiabetes.ipynb has an explanation of the data source, data dowload method 
 
 
-## Repository Files:
+### Shapefile_USA
+This folder has the shapefiles  to plot data in the US map. 
+
+
 
 
 
