@@ -46,7 +46,7 @@ For the McDonald's restaurant count, the web scrapping data quality was checked 
 
 
 
-### DATA
+#### Folder: DATA
 Folder with files dowloaded from data sources. This folder is called from the **ML_classifDiabetes.ipynb**, therefore you need to make sure to have this folder and all its files saved to the directory were you run your jupyter notebook. 
 
 Data files are stored on this folder. The data was obtained from multiple sources using Web scrapping, connecting to APIs, and downloading it directly from websites. 
@@ -54,7 +54,7 @@ Data files are stored on this folder. The data was obtained from multiple source
 ML_classifDiabetes.ipynb has an explanation of the data source, data dowload method 
 
 
-### Shapefile_USA
+#### Folder: Shapefile_USA
 This folder has the shapefiles  to plot data in the US map. 
 
 
