@@ -1,4 +1,4 @@
-# ML_classif_diabetes
+# Machine Learning Classification System
 Machine Learning classification system to determine the level of diabetes in the population of US counties.
 
 ### ABOUT THE DATASET
