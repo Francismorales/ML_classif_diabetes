@@ -18,13 +18,18 @@ List of data sources with links:
 6. National Centers for Environmental Information: https://www.ncdc.noaa.gov/
 7. Wikipedia: https://en.wikipedia.org/wiki/User:Michael_J/County_table
 
+
+The ML classification model selected for the classification problem was a SVM. I wrote a blog post explaining the evaluation process I followed to select my model: 
+**Multi class ML Model Evaluation**: https://medium.com/analytics-vidhya/multi-class-ml-models-evaluation-103c9fdadb41
+
+
 ## FILES & FOLDERS
 
 #### ML_classifDiabetes.ipynb
 
 This is the main jupyter notebook. Below are the sections within the notebook: 
 
-      1. Data Load
+      1. Libraries & Functions
       2. Data Engineering
       2. Exploratory Data Analysis
       3. Machine Learning classification algorithms: 
@@ -32,7 +37,7 @@ This is the main jupyter notebook. Below are the sections within the notebook:
             - SVM 
             - K-NN 
             - AdaBoost and Gradient Boosting classifiers
-      4. Results summary 
+      4. Conclusion 
 
 #### MLDiabetes_WebScraping.ipynb
 
