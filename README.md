@@ -1,6 +1,11 @@
 # Machine Learning Classification System
 Machine Learning classification system to determine the level of diabetes in the population of US counties.
 
+
+The ML classification model selected for the classification problem was a SVM. I wrote a blog post explaining the evaluation process I followed to select my model: 
+**Multi class ML Model Evaluation**: https://medium.com/analytics-vidhya/multi-class-ml-models-evaluation-103c9fdadb41
+
+
 ### ABOUT THE DATASET
 A total of **820 samples** of data with **50 variables** containing US counties economic features, demographics, geographic coordinates, weather components & food access were used for the study. Labels were defined as High/Medium/Low based on the percentages of diabetes of each county.
 
@@ -17,11 +22,6 @@ List of data sources with links:
 5. Menuism: https://www.menuism.com/
 6. National Centers for Environmental Information: https://www.ncdc.noaa.gov/
 7. Wikipedia: https://en.wikipedia.org/wiki/User:Michael_J/County_table
-
-
-The ML classification model selected for the classification problem was a SVM. I wrote a blog post explaining the evaluation process I followed to select my model: 
-**Multi class ML Model Evaluation**: https://medium.com/analytics-vidhya/multi-class-ml-models-evaluation-103c9fdadb41
-
 
 ## FILES & FOLDERS
 
