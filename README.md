@@ -60,7 +60,7 @@ Data files are stored on this folder. The data was obtained from multiple source
 ML_classifDiabetes.ipynb has an explanation of the data source, data dowload method 
 
 
-#### Folder: Shapefile_USA
+## Folder: Shapefile_USA
 This folder has the shapefiles  to plot data in the US map. 
 
 
